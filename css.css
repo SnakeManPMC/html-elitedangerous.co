@@ -1,0 +1,15 @@
+
+/* every page? */
+body
+{
+	background: black;
+	color: white;
+	
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px;
+}
+
+/* header h1 */
+h1
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 30px;
+}
