@@ -27,6 +27,8 @@ paypal here
 <tr>
 <td>
 
+<p>Our <a href="system-map.php">System Map Guide</a> gives you nice overview of interesting astronomical objects.</p>
+
 <p>Exploration technique:<br>
 Arrive at new system, ship automatically discovers the star where you hyperjumped. System map shows that star as unexplored, but the info panel still gives basic info like age etc. No other bodies are shown in system map.
 <br><br>
@@ -39,6 +41,30 @@ Once you use advanced discovery scanner you detect all bodies which show up in l
 no weapons, class 2 rating D power plant, class 4 rating D thursters, class 5 rating A FSD, class 4 rating D life support, class 1 rating D power distributor, class 5 rating D sensors, class 6 rating C fuel scoop, no cargo racks and naturally advanced discovery and detailed surface scanners.
 </p>
 
+<p>Best exploration ship is ASP Explorer which can be outfitted to 34.86Ly jump range, with one tank you can jump 7 times fastest route and class 6 rating A fuel scoop scoops 878kg/s. Anaconda can be outfitted to 39.35Ly jump range, it can jump with one tank 4 times and class 7 rating A fuel scoop scoops 1245kg/s. 1000Ly route for ASP is 31 jumps while for anaconda it is 26 jumps. However Anaconda with the needed thrusters is awfully slow to pitch, therefore ASP Explorer is without a doubt the best explorer ship available in v1.2.06</p>
+
+<h1>Exploration Tips</h1>
+<p>You sould go away at least 5,000Ly from Sol so you not run constantly into discovered by other player objects. If running into other player discovered objects is no problem to you, then you dont need to go very far to find unknown (to you) systems which you can explore.</p>
+
+<p>Less than 10,000Ly from galactic core the route planner (in v1.2.06) starts to become very sluggish, it takes several minutes to calculate route. It doesnt appear to matter if you plot 2 jump or 30 jump route, its still sluggish. There are so much star systems in the center of the galaxy, that's why its sluggish. The route planning works though, it has never failed yet... its just so terribly slow. Also it really changes how long it takes, sometimes 1000Ly route is under a minute, other times youre lucky if its done under 10min :(</p>
+
+<p>When approaching Sagittarius A* from "left" it was impossible to plot route about 750Ly out.</p>
+
+<p>Route planning tip: try to plot increments of your ships jump range. Like if your jump range is 30Ly then try to plot just less than 60Ly route, or 120, 240, etc. For some strange reason it might work better, MIGHT being the keyword here :)</p>
+
+<p>Getting from Sol to galaxy center is 25,000Ly and that journey will take you days even on 34Ly capable ASP Explorer (why would you choose any other ship). Don't think its easy to travel there that you just decide to hop there today and come back the same evening, it's not going to happen. If you jump constantly 12.5hrs without breaks (and that is impossible because toilet, eating etc) you can theoretically get from Sol to galaxy center in one day (1000Ly in half an hour). However, jumping like that is not fun, trust me. Try to enjoy the exploration, don't make it painful tedius "work" type of thing.</p>
+
+<p>Visiting the galactic core center region is also difficult because the route planner problems, if you dont desperately need to visit Sagittarius A* supermassive black hole, then you can do much more enjoyable exploring outside the about 10,000Ly bubble from galactic center.</p>
+
+<p>Most serious threat while exploring is to run out of fuel, so make sure you fill up and the route plotted ahead doesnt have several un-scoopable stars. Another threat but extremely rare is to jump into binary star system where you drop out of hyperspace into a star or very very close to it so you cannot escape its heat until you get destroyed. However binary threat is extremely rare and basically one of those things you realistically cannot avoid, if it happens it happens, don't be afraid of living your (exploration) life because of it.</p>
+
+<p>The longer you explore the greater number of exploration data you possess, however if you get destroyed before you sell this data, it is lost (there is no savegame, no insurance, no nothing to save you from this). You have to evaluate the risks each day as you gather more and more exploration data. Imagine being out for week or more and then just accidentally crash your ship on docking or that some evil player comes and kills you just before you dock, that would really suck and deserve ragequit if anything.</p>
+
+<p>Profitable exploring is to go after neutron stars, black holes, water worlds and earth like worlds. You can skip detail surface scanning icy rocks and asteroid belts etc, only concentrate to the water/earth like looking planets on system map and on galaxy map level filter for the non sequence stars (neutron stars etc).</p>
+
+<p>Good location to find neutron stars and black holes too is near the galactic core but 1,000Ly up/down in the galactic plane, there are just sectors full of them. For example Myriesly and Zunuae sectors are filled with them, but there are many others too of course.</p>
+
+<p>Lore type exploring is to explore "all beautiful" looking planets in system map. However you might not get more than mere 500cr on some of these high metal content etc planets, no matter how nice they look in system map.</p>
 
 </tr>
 </table>

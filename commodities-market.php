@@ -27,7 +27,23 @@ paypal here
 <tr>
 <td>
 
-<p>You should use the <a href="http://www.elitetradingtool.co.uk/">Elite Trading Tool</a> to help you trade more successfully. This is NOT a cheat, don't let anyone tell you otherwise, this is just the same as 1984 when we used piece of paper and pen.</p>
+<h1>Trading Tips</h1>
+
+<p>Use EliteOCR to grab market data then export it to EDDN. Every station you visit, once a day (when you hammer a trade route, there is really no point of updating one station except once maybe twice a day). Register to http://eddb.io and fill in stations that are missing for landing pad size and distance to star data. Finally use TradeDangerous as trading tool to search for profitable trade routes. Ignore other sites/tools, they are waste of time.</p>
+
+<p><b>1000cr budget for commanders who just bought the game:</b></p>
+
+<p>Uh dunno, do some bulletin board missions where you get nice credits (without credits and with starter ship) and then upgrade your sidewinder to Hauler, then Cobra and then Lakon Type-6 to get good sized cargo hold, them move to the 10 million budget princible. There really is no point in trading with sidewinder, even with hauler its wasted time. Cobra start to have somewhat decent (for small budget) cargo capacity but the first real trading ship is Lakon Type-6.</p>
+
+<p><b>10,000,000cr budget for veteran commanders:</b></p>
+
+<p>Do not ever trade anything below 1000cr profit per ton.</p>
+
+<p>Time is credits, your time is valuable, trading comes to time... there is no point of making 1700cr profit per ton if you spend 30 minutes traveling. Trade route needs to be max 2 jumps and the distance to star Ls for stations need to be absolutely less than 1000Ls, preferably less than 250Ls.</p>
+
+<h1>Old tips part hehe</h1>
+
+<p>You should use the <a href="tradedangerous.php">TradeDangerous Tool</a> to help you trade more successfully. This is NOT a cheat, don't let anyone tell you otherwise, this is just the same as 1984 when we used piece of paper and pen.</p>
 
 <p>Any other tool that this one is not worth your time, this is the only one which gives your good results easily. However if you must use local program to get trading info, use <a href="https://github.com/Theo20185/EliteDangerousTradingAssistant">Theo20185's Elite Dangerous Trading Assistant</a>, which works ok with the only drawback that you have to manually input ALL the data.</p>
 

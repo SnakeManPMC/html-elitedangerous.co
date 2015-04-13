@@ -44,8 +44,10 @@ paypal here
 <a href="tradedangerous.php">TradeDangerous</a> by kfsone<br><br>
 <a href="news.php">News or some snippets</a> <br><br>
 <a href="bounty-hunting.php">Bounty Hunting</a> <br><br>
-<a href="exploration.php">Exploration</a> <br><br>
+<a href="exploration.php">Exploration</a> and <a href="system-map.php">System Map Guide</a> <br><br>
 <a href="mining.php">Mining</a> <br><br>
+<a href="cmdr-snake-man-my-path-to-a-triple-elite.php">Cmdr Snake Man, my path to a Triple Elite</a> <br><br>
+<a href="pmc-galaxy-loop.php">PMC Galaxy Loop</a> <br><br>
 </p>
 
 </tr>
