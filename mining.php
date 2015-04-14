@@ -49,17 +49,7 @@ Metal Rich will give you things like Coltan and Aites, but Metallic Rich will gi
 </table>
 
 <center>
-<p>
-  <a href="http://validator.w3.org/check?uri=referer"><img
-      src="http://www.w3.org/Icons/valid-html401"
-      alt="Valid HTML 4.01 Transitional" height="31" width="88"></a>
-
-    <a href="http://jigsaw.w3.org/css-validator/check/referer">
-        <img style="border:0;width:88px;height:31px"
-            src="http://jigsaw.w3.org/css-validator/images/vcss"
-            alt="Valid CSS!">
-    </a>
-</p>
+<?php include("../include/w3-validator-logo.php"); ?>
 </center>
 
 </body>

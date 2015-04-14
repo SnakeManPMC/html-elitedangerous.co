@@ -29,6 +29,7 @@ paypal here
 
 
 <p>
+Friday. Apr 10th, 2015. v1.2.07<br>
 Wednesday. Mar 25th, 2015. v1.2.06<br>
 Wednesday. Mar 18th, 2015. v1.2.05<br>
 Friday. Mar 13th, 2015. v1.2.04<br>
@@ -114,6 +115,10 @@ Friday. Dec 20th, 2013. Alpha Phase One
 </p>
 <p>
 <h2>Detailed major release times (UTC + 2hrs):</h2>
+v1.2.07<br>
+1334hrs Servers down<br>
+1353hrs Release
+<br><br>
 v1.2.06<br>
 1630hrs Server broadcast 30mins servers go down<br>
 1700hrs Servers down<br>
@@ -306,17 +311,7 @@ Oct 29th, 2014.<br>
 </table>
 
 <center>
-<p>
-  <a href="http://validator.w3.org/check?uri=referer"><img
-      src="http://www.w3.org/Icons/valid-html401"
-      alt="Valid HTML 4.01 Transitional" height="31" width="88"></a>
-
-    <a href="http://jigsaw.w3.org/css-validator/check/referer">
-        <img style="border:0;width:88px;height:31px"
-            src="http://jigsaw.w3.org/css-validator/images/vcss"
-            alt="Valid CSS!">
-    </a>
-</p>
+<?php include("../include/w3-validator-logo.php"); ?>
 </center>
 
 </body>

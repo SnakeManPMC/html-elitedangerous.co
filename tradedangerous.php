@@ -92,6 +92,31 @@ python3 trade.py run --cr 2934671 --cap 532 --ly 12.02 -vvv --pad l --avoid alio
 <br><br>
 </p>
 
+<p>trade.py uses requests module for CSV downloads but older method for .prices files.</p>
+
+<p>Script to leech and rename system/station csv files:<br>
+<br>
+cd tradedangerous/data<br>
+rm System.csv<br>
+wget http://www.davek.com.au/td/System.csv<br>
+wget http://www.davek.com.au/td/station.asp<br>
+rm Station.csv<br>
+mv station.asp Station.csv<br>
+cd ..<br>
+python3.4 trade.py import --plug=maddavo -O usefull<br>
+</p>
+
+<p>trade.py import --plug=maddavo -O csvs<br>
+trade.py import --plug=maddavo -O csvs,csvonly<br>
+trade.py import --plug=maddavo -O usefull<br>
+trade.py import --plug=maddavo -O use2d<br>
+trade.py import --plug=maddavo -O use3h</p>
+
+<p>- Added "--stock" option to set minimum stock level required. CAVEAT: It will ignore any stations that have "?" as their listed quantity.</p>
+
+</p>trade.py local Ross209 --ly 20 --stations -vv<br>
+trade.py local Ross209 --ly 20 --stations -vv --pad ?</p>
+
 <h2>Uploading</h2>
 <p>Maddavo's site
 <br><br>
@@ -136,17 +161,7 @@ So basically if we all measure a station's ls_from_star value by various means a
 </table>
 
 <center>
-<p>
-  <a href="http://validator.w3.org/check?uri=referer"><img
-      src="http://www.w3.org/Icons/valid-html401"
-      alt="Valid HTML 4.01 Transitional" height="31" width="88"></a>
-
-    <a href="http://jigsaw.w3.org/css-validator/check/referer">
-        <img style="border:0;width:88px;height:31px"
-            src="http://jigsaw.w3.org/css-validator/images/vcss"
-            alt="Valid CSS!">
-    </a>
-</p>
+<?php include("../include/w3-validator-logo.php"); ?>
 </center>
 
 </body>
