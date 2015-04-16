@@ -42,10 +42,15 @@ paypal here
 <img src="images/Candidate_for_Terraforming-008.png" alt="High Metal Content Planet 8">
 <img src="images/Candidate_for_Terraforming-009.png" alt="High Metal Content Planet 9">
 
+<p><b>Metal-Rich Planets</b></p>
+
+<img src="images/Metal-Rich-Planet-001.png" alt="Metal-Rich Planet">
+
 <p><b>Ammonia Worlds</b>. These are rare and valuable.</p>
 
 <img src="images/Ammonia_World-001.png" alt="Ammonia World 1">
 <img src="images/Ammonia_World-002.png" alt="Ammonia World 2">
+<img src="images/Ammonia_World-003.png" alt="Ammonia World 3">
 
 <p><b>Water Worlds</b>, very odd looking...</p>
 
@@ -73,13 +78,17 @@ paypal here
 
 <img src="images/Cockpit-Hologram-02.png" alt="Cockpit Hologram 2, Asteroid Belts">
 
-<p>Water Worlds, Earth Like Worlds, High Metal Content Planets, Rocky Planets, Ammonia Worlds, Gas Giant Class I</p>
+<p>Water Worlds, Earth Like Worlds, High Metal Content Planets, Rocky Planets, Rocky Ice Planets, Ammonia Worlds, Gas Giant Class I</p>
 
 <img src="images/Cockpit-Hologram-01.png" alt="Cockpit Hologram 1, Water Worlds, Earth Like Worlds, High Metal Content Planets">
 
 <p>High Metal Content Planets, Rocky Planets</p>
 
 <img src="images/Cockpit-Hologram-04.png" alt="Cockpit Hologram 4">
+
+<p>Metal-Rich Planet</p>
+
+<img src="images/Cockpit-Hologram-09.png" alt="Cockpit Hologram 9, Metal-Rich Planet">
 
 <p>Rocky Planets</p>
 
@@ -91,7 +100,7 @@ paypal here
 
 <p>Gas Giants</p>
 
-<img src="images/Cockpit-Hologram-07.png" alt="Cockpit Hologram 6, Gas Giants">
+<img src="images/Cockpit-Hologram-07.png" alt="Cockpit Hologram 7, Gas Giants">
 
 <p>Stars</p>
 
@@ -99,7 +108,11 @@ paypal here
 
 <p>Star System (destination system or nothing selected)</p>
 
-<img src="images/Cockpit-Hologram-08.png" alt="Cockpit Hologram 6, Star System (destination system or nothing selected)">
+<img src="images/Cockpit-Hologram-08.png" alt="Cockpit Hologram 8, Star System (destination system or nothing selected)">
+
+<p>Black Holes</p>
+
+<img src="images/Cockpit-Hologram-10.png" alt="Cockpit Hologram 10, Black Holes">
 
 </tr>
 </table>

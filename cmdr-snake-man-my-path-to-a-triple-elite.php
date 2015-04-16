@@ -114,6 +114,12 @@ Soon after noticed my Saitek X55 HOTAS K1 button is broken, decided to call into
 2015-04-10T04:21:01Z: did final check with Thrustmaster Warthog but its so stiff and cant get the buttons to configure like in X55 so I decided to continue playing with keyboard and mouse until X55 comes back from repairs.<br>
 2015-04-10T04:47:52Z: call it quits for now, I just cant get the feeling and touch back by using keyboard. I'm constantly struggling to control my ship and scared shitless that slightest mistake causes my ship to get destroyed.</p>
 
+<p>2015-04-14T10:21:50Z: Had a weekend off as my Saitek X55 was under warranty repair, today I got brand new in un-opened box delivered to me! :)<br>
+I cant tell you how happy I was when I get to play elite again with proper HOTAS. I continued my journey from Byua Euq EW-E c14-0 system.<br>
+2015-04-16T07:28:15Z: arrived at Bleae Aescs TS-A d1-140 system which is located in nice dense neutron star field. Now starts one week of surface scanning neutron stars and water/earth like worlds :)</p>
+
+<p>04-23-15, Thursday; youre done with neutron stars, head back to populated space! :-)</p>
+
 <p>Exploring systems in one day, record 497, but very good day is above 400. You're lazy is its below 150. Basically 31 jumps is 1,000Ly.</p>
 
 </tr>
