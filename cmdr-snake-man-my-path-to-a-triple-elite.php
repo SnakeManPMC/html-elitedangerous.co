@@ -116,7 +116,9 @@ Soon after noticed my Saitek X55 HOTAS K1 button is broken, decided to call into
 
 <p>2015-04-14T10:21:50Z: Had a weekend off as my Saitek X55 was under warranty repair, today I got brand new in un-opened box delivered to me! :)<br>
 I cant tell you how happy I was when I get to play elite again with proper HOTAS. I continued my journey from Byua Euq EW-E c14-0 system.<br>
-2015-04-16T07:28:15Z: arrived at Bleae Aescs TS-A d1-140 system which is located in nice dense neutron star field. Now starts one week of surface scanning neutron stars and water/earth like worlds :)</p>
+2015-04-16T07:28:15Z: arrived at Bleae Aescs TS-A d1-140 system which is located in nice dense neutron star field. Now starts one week of surface scanning neutron stars and water/earth like worlds :)<br>
+2015-04-17T15:50:01Z: decided to head one or two thousand light years further towards the core as I felt like running light on neutron stars at my current location. Deeper into galaxy we go!</p>
+
 
 <p>04-23-15, Thursday; youre done with neutron stars, head back to populated space! :-)</p>
 

@@ -33,7 +33,11 @@ paypal here
 
 <h1>Multi Cannon</h1>
 
-<p>Gimbaled weapons means that they turn slightly to follow your target, they are not turrets but they do help with aiming very nicely.</p>
+<p><b>Fixed</b> weapons obviously are the most accurate, they hit where you aim (its up to you to aim for enemy ships heh).</p>
+
+<p><b>Gimbaled</b> weapons means that they turn slightly to follow your target, they are not turrets but they do help with aiming very nicely.</p>
+
+<p><b>Turreted</b> weapons aim and fire on very wide arc on targets according to your specification in right hand side panel.</p>
 
 <p>Not all hardpoints support all weapons.</p>
 

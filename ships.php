@@ -33,9 +33,11 @@ paypal here
 
 <p><i>The Panther Clipper is coming. It is a big trading ship - a bit like the Lakon Type 9's big brother.</i> -David Braben</p>
 
-<p>Remove weapons / gear from your ship if you intend only to trade as it requires long hyper space jumps. Your ship can do longer hyperspace jumps with stripped down hull.</p>
+<p>Remove weapons / Shields from your ship if you intend only to trade as it requires long hyper space jumps and you'll save valuable cargo space by removing shields. Your ship can do longer hyperspace jumps with stripped down hull.</p>
 
 <p>You sell your ship of 90% value. Equipment is sold for 100% value. So when you have a ship filled with class 5 rating A items, you can generally gain a few million by stripping it before buying a new ship.</p>
+
+<p>You can try out different configurations for your ships in <a href="http://www.edshipyard.com/">Elite Shipyard</a> site.</p>
 
 <h1>Sidewinder</h1>
 
@@ -77,7 +79,7 @@ paypal here
 
 <p>Price 6,661,153cr. Jump range 13.12Ly unladen, default. cargo 70t default, 160t pimped.</p>
 
-<p>ASP class 5 rating E frame shift drive gives jump range of 25.8Ly unladen and 19Ly laden.</p>
+<p>ASP class 5 rating E frame shift drive gives jump range of 25.8Ly unladen and 19Ly laden. With class 5 rating A FSD its 34.86Ly. As the name says ASP is the best exploration ship without a doubt.</p>
 
 <h1>Federal Dropship</h1>
 
@@ -107,7 +109,19 @@ paypal here
 
 <p>Anaconda. Price 146.9 million cr. 228x cargo hold. ? weapon mounts.</p>
 
-<p>Anacond max jump about 26LY empty</p>
+<p>Anacond max jump range is 39.35Ly unladen.</p>
+
+<h1>Vulture</h1>
+
+<p>Vulture</p>
+
+<h1>Fer Der Lance</h1>
+
+<p>Fer Der Lance</p>
+
+<h1>Diamondback</h1>
+
+<p>Diamondback</p>
 
 <h2>Ship trade-in values (beta era info)</h2>
 

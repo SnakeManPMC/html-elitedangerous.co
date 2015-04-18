@@ -35,13 +35,23 @@ paypal here
 
 <p>Orbis is the two ring living habitat space station from Frontier games. It's said to be 8km in diameter.</p>
 
-<h2>Docking in Space Station</h2>
+<h1>Ocellus</h1>
 
-<p>When you dock and depart from Space Station, do it by lights; Fly through from the GREEN light side, not the red one.</p>
+<p>Ocellus</p>
 
-<p>How to dock into space station. Check the Coriolis rotation, you need to get into the side which rotates counter clockwise. When you get closer than 7500m, request landing permission from the station, do this by 1 key to bring up the display, choose Contacts tab, station and then permission to land.</p>
+<h1>Outpost</h1>
+
+<p>Outpost is a small station (outpost, doh!) which only handles small and medium landing pad size traffic.</p>
+
+<h2>Docking to Space Station</h2>
+
+<p>Approaching stations is easy, when youre in super cruise try to get between the planet and station as this way you are better positioned when you drop out of super cruise and face often times directly the station docking corridor side. Also there is fear from the big orbis and occellus type stations that you hit their back end when dropping out of super cruise. For outposts it doesnt matter which direction your approach them, just go straight at them.</p>
+
+<p>With Coriolis station check it's rotation, you need to get into the side which rotates counter clockwise. When you get closer than 7500m, request landing permission from the station, do this by 1 key to bring up the display, choose Contacts tab, station and then permission to land.</p>
 
 <p>If you forget to ask docking permission or you run out of time and are labeled to be in violation, exit the station, then wait out the 'timeout' at 1-2km distance.</p>
+
+<p>When you dock and depart from Space Station, do it by lights; Fly through from the GREEN light side, not the red one.</p>
 
 </tr>
 </table>

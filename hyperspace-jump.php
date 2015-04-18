@@ -32,7 +32,7 @@ paypal here
 <br><br>
 However not all jump reachable star systems are listed in the Navigation panel even though your ship has capability to jump there. So you have to go to the Galaxy map, then choose star system you want to go by clicking it, then just line up your ship with the target lock and hit the hyperspace jump key.</p>
 
-<p>(obsolete, this was removed in beta 1). You can cut throttle during hyper space jump and you should do that because at the destination system your are dropped dangerously close to the system's sun. For example in Lakon Type-9 Heavy, unless you cut your throttle and immediately turn away from the sun, you'll hit the too close proximity alarm and are forced out of super cruise.</p>
+<p>You need to cut throttle after FSD has charged and the countdown begins because at the destination system your are dropped dangerously close to the system's star. For example in Lakon Type-9 Heavy, unless you cut your throttle and immediately turn away from the star, you'll hit the too close proximity alarm and are forced out of super cruise.</p>
 
 <p>On Beta 3.05 Lakon ASP with 27.2Ly jump range; 306Ly distance with one (slow) fuel scoop stop took 35min (dont remember how many jumps). So you could roughly say that in one hour you can travel about 600Ly distance.</p>
 
