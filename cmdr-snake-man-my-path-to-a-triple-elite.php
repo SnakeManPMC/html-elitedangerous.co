@@ -119,10 +119,42 @@ I cant tell you how happy I was when I get to play elite again with proper HOTAS
 2015-04-16T07:28:15Z: arrived at Bleae Aescs TS-A d1-140 system which is located in nice dense neutron star field. Now starts one week of surface scanning neutron stars and water/earth like worlds :)<br>
 2015-04-17T15:50:01Z: decided to head one or two thousand light years further towards the core as I felt like running light on neutron stars at my current location. Deeper into galaxy we go!</p>
 
-
 <p>04-23-15, Thursday; youre done with neutron stars, head back to populated space! :-)</p>
 
-<p>Exploring systems in one day, record 497, but very good day is above 400. You're lazy is its below 150. Basically 31 jumps is 1,000Ly.</p>
+<p>2015-04-23T14:43:23Z: my voyage to home started. I was 15,942Ly away from Sol. Decided to travel by doing hop 1000Ly and then to stop to surface scan 5 systems, then continue with next 1000Ly hop looping like this until reach populated space. It was a good decision because on first hop (stop?) I found two water worlds and one earth like world :)<br>
+Looking at this exploration diary, just realized I was out two weeks to explore, wow nice.<br>
+2015-04-24T04:35:14Z: arrived to Snake Sector NN-T c3-13<br>
+2015-04-24T05:07:36Z: arrived to Woriosolis system (alliance) and was immediately interdicted, yikes! But I escaped. Then I proceedd and docked at Bugrov Freeport. Then off to sell exploration data.</p>
+
+<p>Credits before selling exploration data: 37,791,676 and after 113,102,226 so made total of 75,310,550 credits.</p>
+
+<p>04-24-15 status:<br>
+Exploring<br>
+131,7 million</p>
+
+<p>When selling the exploration data I got 75 million, which was not enough for exploration Elite status, I was super devastated. I felt like I just absolutely cannot explore anytime soon after this exhaustive set I did now... and it wasnt fucking enough :(</p>
+
+<p>As conclusion for this April 8th - 24th exploration journey, I must say it was really exhaustive, scanning those neutron stars was tedious as was the traveling of 1000Ly hops, the constant jumping and advanced discovery scan pinging. I played on most days all day with just eating breaks. It gets to your head, into your mental health when you hammer this kind of hardcore playing.</p>
+
+<p>2015-04-25T00:37:37Z: decided to just go fly around in populated space in my Python, do some combat, maybe explore those stations with missing landing pad and distance to star info, etc. I just cannot continue exploring right now after that massive two week set.</p>
+
+<p>Did couple of days just chilling with exploring stations on populated space, doing some RES and nav beacon combat. I didnt explore for profit, but still got little bit credits.</p>
+
+<p>04-27-15 status:<br>
+Exploring<br>
+133,1 million</p>
+
+<p>2015-04-27T01:50:19Z: left Founders World in my Anaconda as I decided to go "down and right" from Sol to do some explore. Just couple of thousand light years away.</p>
+
+<p>04-27-15 status:<br>
+Exploring<br>
+134,3 million</p>
+
+<p>Shinrarta Dezhra, 2015-04-27T06:14:15Z: picked up ASP and headed towards Snake Sector, time to explore this fully :)</p>
+
+<p>2015-04-27T07:00:38Z: arrived to Snake Sector FB-X c1-22.</p>
+
+<p>Exploring systems in one day, record 567, but very good day is above 400. You're lazy is its below 150. Basically 31 jumps is 1,000Ly.</p>
 
 </tr>
 </table>

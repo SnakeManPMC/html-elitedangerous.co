@@ -32,10 +32,34 @@ paypal here
 <p>Exploration technique:<br>
 Arrive at new system, ship automatically discovers the star where you hyperjumped. System map shows that star as unexplored, but the info panel still gives basic info like age etc. No other bodies are shown in system map.
 <br><br>
-WHen you scan the star you get its name, nothing more basically.
+WHen you surface scan the star you get its name, nothing more basically.
 <br><br>
 Once you use advanced discovery scanner you detect all bodies which show up in left ui navigation panel and in system map. On system map they are with unexplored text but their full graphical icon is shown so you can tell for example if its earth like planet or gas giant etc, it is total spoiler.
 </p>
+
+<p>Detailed Surface Scanner is required to get the juicy information out of planets and other objects. Distance to scanned object usually helps the scan to be quicker, for example when you surface scan neutron star at 0.22Ls distance its very quick, but even scanning it from 3-4Ls out, its slow as your usual surface scans.</p>
+
+<p>v1.2.06 Exploration profits confirmed from cartographics:<br>
+56318cr - Earth Like World<br>
+56171cr - Water World Candidate for Terraforming<br>
+14365 - 40479cr - High Metal Content Planet Candidate for Terraforming<br>
+36158 - 37024cr - Neutron Star<br>
+33531cr - Ammonia World<br>
+24796 - 28225cr - Water World<br>
+22600 - 22686cr - White Dwarf<br>
+4802 - 6542cr - High Metal Content Planet<br>
+2826cr - Gas giant class I (rings or not hehe)<br>
+2420cr - Orange Giant Star<br>
+2186cr - Gas giant class I (rings)<br>
+1528cr - Gas giant with water-based life (no rings)<br>
+747 - 781cr - Rocky Planet<br>
+500cr - Gas giant (unexplored)<br>
+500cr - Icy Rock (unexplored)<br>
+405cr - Stars (unexplored G, K, F and L dwarf stars)<br>
+?cr - Black Hole<br>
+?cr - Metal Rich Planet</p>
+
+<p>Funny thing is I got 6713cr from UNEXPLORED planet which looked much like icy rock or something except it was greyish, it looked like shit, worthless so I skipped it yet it was more valuable than SCANNED high metal content planets (5500cr) which looked great, haha!? :)</p>
 
 <p>ASP exploration 34.91Ly setup:<br>
 no weapons, class 2 rating D power plant, class 4 rating D thursters, class 5 rating A FSD, class 4 rating D life support, class 1 rating D power distributor, class 5 rating D sensors, class 6 rating C fuel scoop, no cargo racks and naturally advanced discovery and detailed surface scanners.

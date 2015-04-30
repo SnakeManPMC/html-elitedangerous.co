@@ -146,6 +146,41 @@ So basically if we all measure a station's ls_from_star value by various means a
 <br><br>
 </p>
 
+
+<h1>April 2015</h1>
+
+</p>--loop-int<br>
+--shorten</p>
+
+<p>I've just landed 1.8.2 which adds "--loop-int", this lets you specify that you don't want to go back to the same station in less than X hops, e.g.<br>
+trade.py run synteini/lager --pad L --hops 6 --sum --ls-max 4000 --stock 10000 --ly=42 -li=2</p>
+
+<p>will find routes that requires at least 2 hops between returns to a given station</p>
+
+<p>A->B->A->B <- not allowed<br>
+A->B->C->A <- allowed</p>
+
+<p>--shorten requires "--to"; it does the same thing that "--to" does, but it will allow routes that reach the destination in less than --hops jumps to be considered and at the end of the route calculations it will compare routes based on their average Gain Per Ton (gpt).</p>
+
+<p>This will get stuck on loops if there's a really good loop between you and your destination (I just had this happen on the way to Shinrarta, someone had input a really bad price for Gold that produced >3000cr/ton profits, I shoulda used --max-gpt, duh).</p>
+
+<p>Another useful thing to do - occasionally - "--limit". If you've got 500 cargo capacity, try using "--limit 450" sometimes and let TD suggest some extra stuff to help you stir up sales a bit.</p>
+
+<p>Why some stations have some old prices?</p>
+
+<p>It comes down to this: The OCR tools provide incomplete data, so we had to break the import model to support them. Along with people who contribute by submitting individual line-item updates, the data set as a whole acquires certain properties. The data we have for most stations is "gossip", we have a particular snapshot value from a point in time and no way to tell what the lack of updates means.</p>
+
+<p>This results in spreads of prices at stations, and TD's still a little inconsistent about how it represents this. In particular, sometimes a station will wind up with a single line item that's ancient because the only people who have visited the station in a while are using an OCR tool, and the OCR tools don't know whether the item is gone or you didn't take a screenshot of them, so the OCR tools only send updates, not deletes...</p>
+
+<p>The station then gets a bad rep for having "old" data, and people avoid it, missing out on great prices.</p>
+
+<p>rebuild database?:<br>
+trade.py build -f</p>
+
+<p>Maddavo Market Share guide</p>
+
+<p>Delete station by adding -1 as its distance from star and upload the .csv (or use editstation.asp page)</p>
+
 </tr>
 </table>
 </center>

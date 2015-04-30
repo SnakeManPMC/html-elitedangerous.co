@@ -33,6 +33,14 @@ paypal here
 
 <p>On Elite v1.3 there will be low and high intensity sites, on lower intensity sites there are more authority vessels and (therefore) less pirates, but also the extractable minerals are fewer. On high intensity sites the extractable resources are high but there are fewer authority vessels and more pirates which makes this a high risk high reward situation.</p>
 
+<h1>How do I find Resource Extraction Sites (RES)?</h1>
+
+<p>Filter your map to systems with extraction economies. Find one that has a planet with rocky, metal rich or metallic rings. There ought to be bunch of RES there. You have to be within 1000Ls before RES shows up on your navigation panel.</p>
+
+<p>Look in system map, you are looking for gas giants with rings. But not any rings, have to be rock rings. Ice won't work, since there is nothing to extract.</p>
+
+<p>If you intend to do mining then I would advise looking for metallic rings first, metal rich rings second, and rocky rings third. And don't do it at a RES.</p>
+
 </tr>
 </table>
 </center>
