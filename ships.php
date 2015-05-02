@@ -269,6 +269,55 @@ FSD cooldown start delay 4sec (total 37-40sec)<br>
 FSD cooldown 4sec (<b>total 41-44sec</b>)
 </p>
 
+<h1>Founders World ship prices</h1>
+<p>Viper 128,638<br>
+Cobra 341,747<br>
+Sidewinder 28,800<br>
+Eagle 40,320<br>
+ASP 5,995,038<br>
+ORCA 43,685,899<br>
+Python 51,280,362<br>
+Hauler 47,448<br>
+Vulture 4,433,054<br>
+Lakon Type-6 941,351<br>
+Lakon Type-7 15,725,027<br>
+Lakon Type-9 68,900,258<br>
+Adder 79,028<br>
+Fer-De-Lance 46,410,336<br>
+Anaconda 132,272,506<br>
+Imperial Clipper 20,066,274<br>
+Federal Dropship 17,832,785</p>
+
+<h1>Founders World outfitting prices</h1>
+
+<p><b>Python:</b><br>
+Beam laser gimballed, Class 3, rating C, 2.1 million<br>
+Beam laser turreted, Class 3, rating D, 17.4 million<br>
+Multicannon fixed, Class 2, rating E, 34,200<br>
+Multicannon gimballed, Class 2, rating F, 51,300<br>
+Multicannon turreted, Class 1, rating G, 73,440<br>
+Thrusters, Class 6, rating A, 14,5 million<br>
+Thrusters, Class 6, rating D, 539,318<br>
+Power plant, Class 7, rating A, 46.1 million<br>
+Power Plant, Class 7, rating D, 1.7 million<br>
+Power Plant, Class 6, rating D, 539,318<br>
+Life support, Class 4, rating D, 25,536<br>
+Sensors, Class 6, rating D, 200,200<br>
+Fuel scoop, Class 6, rating A, 25.8 million<br>
+Fuel scoop, Class 6, rating D, 404,488<br>
+Fuel scoop, Class 5, rating A, 8.1 million<br>
+Fuel scoop, Class 4, rating A, 2.5 million<br>
+Shield cell bank, Class 6, rating A, 3.1 million<br>
+Shield cell bank, Class 5, rating A, 1.1 million<br>
+Shield cell bank, Class 4, rating A, 398,996<br>
+Shield generator, Class 6, rating A, 14.5 million<br>
+Shield generator, Class 5, rating A, 4.5 million<br>
+Shield generator, Class 4, rating A, 1.4 million<br><br>
+
+<b>Lakon Type-9:</b><br>
+Cannon turreted, Class 2, rating E, 3.6 million<br>
+Multicannon turreted, Class 2, rating F, 1.1 million</p>
+
 </tr>
 </table>
 </center>
