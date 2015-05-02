@@ -72,6 +72,7 @@ paypal here
 <a href="space-stations.php">Space Stations</a> <br><br>
 <a href="star-systems.php">Star Systems</a> <br><br>
 <a href="super-cruise.php">Super Cruise</a> <br><br>
+<a href="my-path-to-anaconda.php">My path to Anaconda</a> <br><br>
 </div>
 
 </tr>
