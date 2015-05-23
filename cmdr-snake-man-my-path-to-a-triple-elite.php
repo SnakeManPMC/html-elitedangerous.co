@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite Dangerous, Cmdr Snake Man My Path To A Triple Elite">
 <META name="keywords" content="PMC, Elite Dangerous, Triple, Cmdr">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous, Cmdr Snake Man my path to a Triple Elite</b></h1>
-<p>This is my story of how I reached Triple Elite status as pilot.</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>This is my story of how I reached Triple Elite status as pilot.</h1>
 
 <p>
 04-03-15 status:<br>
@@ -152,27 +152,23 @@ Exploring<br>
 
 <p>Shinrarta Dezhra, 2015-04-27T06:14:15Z: picked up ASP and headed towards Snake Sector, time to explore this fully :)</p>
 
-<p>2015-04-27T07:00:38Z: arrived to Snake Sector FB-X c1-22.</p>
+<p>2015-04-27T07:00:38Z: arrived to Snake Sector FB-X c1-22. I explored few days but then just absolutely burnt out. Took several days break, just doing other stuff. I just could not play Elite...</p>
+
+<p>2015-05-08T18:47:56Z: Back in Elite, exploration continues, not sure how actively though...</p>
+
+<p>2015-05-21T01:40:14Z: was bored out of my mind so decided to head to populated space for some trading, yes I know, I'm a fucking sell out... but what can you do, I'll slit my wrists rather than being exploring snake sector anymore :(</p>
+
+<p>credits before selling: 18,315,731 after selling: 25,874,145 so made total of: 7,558,414 credits.<br>
+exploration profits before: 134,301,056 after: 141,859,470</p>
 
 <p>Exploring systems in one day, record 567, but very good day is above 400. You're lazy is its below 150. Basically 31 jumps is 1,000Ly.</p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>
