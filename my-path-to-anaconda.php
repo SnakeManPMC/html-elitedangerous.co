@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite Dangerous - My path to Anaconda">
 <META name="keywords" content="PMC, Elite Dangerous, path, anaconda">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - My path to Anaconda</b></h1>
-<p>Story of how did I save up to Anaconda purchase.</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>Story of how did I save up to Anaconda purchase.</h1>
 
 <p>My path to Anaconda Mar 2015</p>
 
@@ -51,24 +51,13 @@ Insurance (lakon type-9) 3.9 million<br>
 03-23-15 2036hrs 137.9</p>
 
 <p>As summary the lowest earning day was ? and highest ? million credis earned. Its kind of difficult to state those as my gaming time was too irregular.</p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

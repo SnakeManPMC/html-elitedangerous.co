@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite, Dangerous, News">
 <META name="keywords" content="PMC, Elite, Dangerous, News">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - News</b></h1>
-<p>Misc news, unsorted, raw, etc</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>Misc news, unsorted, raw, etc</h1>
 
 <h1>Misc news snippets</h1>
 
@@ -39,25 +39,13 @@ The lights are orientation lights so you can align your ship to the station in a
 <br><br>
 <i>Development will continue past the December release. Currently the plan is to continue indefinitely - a game like this is never 'finished' - there is always something we can add or improve, but this date is a reasonable measure of what we think will be a great game.</i> -David Braben
 </p>
+</section>
 
-
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

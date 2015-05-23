@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite Dangerous, Gamma">
 <META name="keywords" content="PMC, Elite Dangerous, Gamma">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - Gamma</b></h1>
-<p>Gamma information portal</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>Gamma information portal</h1>
 
 <p>
 News<br>
@@ -36,24 +36,13 @@ Gamma or pre-release "Preview" build on November 22nd, 2014.<br>
 - full wipe<br>
 - http://i.imgur.com/ZHQkHKb.jpg<br>
 </p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

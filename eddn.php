@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite Dangerous, Elite Dangerous Data Network">
 <META name="keywords" content="PMC, Elite Dangerous, EDDN, Data Network">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,35 +20,23 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous, Elite Dangerous Data Network (EDDN)</b></h1>
-<p>Elite Dangerous Data Network</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>Elite Dangerous Data Network</h1>
 
 <p>It is a relay for market data stream coming from <a href="eliteocr.php">EliteOCR</a>, RegulatedNoise and Maddavo's market share.</p>
 
 <p>It is following the footsteps of Andreas Market Scraper and EDMN.</p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite, Dangerous, Super Cruise">
 <META name="keywords" content="PMC, Elite, Dangerous, Super Cruise">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,11 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - Super Cruise</b></h1>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<section>
 <h1>Super Cruise</h1>
 
 <p>How to super cruise; full throttle at first (except perhaps when you are very very close), then watch the ETA clock, when it reaches about 10sec get ready to throttle down to middle of the blue zone in throttle indicator, thats about 75% throttle.</p>
@@ -43,24 +42,13 @@ Blue Zone<br><img src="images/Throttle-Indicator-Blue-Zone.png" alt="Cockpit Thr
 <p>In general terms, keep super cruise speed value 10% of the distance to the destination.</p>
 
 <p>If you drop out of super cruise et last minute (using no throttle, 30km/s speeds to get as close to the station as possible), you risk the chance of appearing inside the space station walls therefore killing you instantly, or in best case scenario get wanted status for yourself to enter the station without docking permission.</p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

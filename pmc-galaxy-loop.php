@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite Dangerous, PMC Galaxy Loop">
 <META name="keywords" content="PMC, Elite Dangerous, Galaxy, Loop, Exploration">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous, PMC Galaxy Loop</b></h1>
-<p>Epic journey to exploration through the milky way galaxy!</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>Epic journey to exploration through the milky way galaxy!</h1>
 
 <p><b>PMC Exploration Galaxy Loop</b></p>
 
@@ -42,24 +42,13 @@ paypal here
 - Important elite upgrades like panther clipper might fuck up your exploration focus, how to handle?</p>
 
 <p>In-game chat Athanasius said that its roughly 2 * 25500 * 3.14 == 160,140Ly journey ;)</p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

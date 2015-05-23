@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite, Dangerous, Weapons">
 <META name="keywords" content="PMC, Elite, Dangerous, Weapons">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - Weapons</b></h1>
-<p>List of all the weapons available. You can equip your ship with weapons and gear from the starport Outfitting menu.</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>List of all the weapons available. You can equip your ship with weapons and gear from the starport Outfitting menu.</h1>
 
 <h1>Pulse Laser</h1>
 
@@ -42,24 +42,13 @@ paypal here
 <p>Not all hardpoints support all weapons.</p>
 
 <p>I Bootis system, Chango Dock is the place where you find advanced weaponry to your ship. If you dont find what you are looking for, like for example the turreted weapons for Anaconda, then you must go out of the outfitting menu (possibly even exit whole game!) and come back, as the weapon availability is randomized every time.</p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

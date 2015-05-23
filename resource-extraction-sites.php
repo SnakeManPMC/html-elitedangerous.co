@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite Dangerous, Resource Extraction Sites">
 <META name="keywords" content="PMC, Elite Dangerous, Resource, Extraction, Sites, RES">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous, Resource Extraction Sites (RES)</b></h1>
-<p>Resource Extraction Sites</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>Resource Extraction Sites</h1>
 
 <p>Resource Extraction Sites or simply RES, are locations in planetary rings where miners go extract resources, pirates go pirate the miners and bounty hunters go hunt the pirates. All in one big happy harmony :)</p>
 
@@ -40,24 +40,13 @@ paypal here
 <p>Look in system map, you are looking for gas giants with rings. But not any rings, have to be rock rings. Ice won't work, since there is nothing to extract.</p>
 
 <p>If you intend to do mining then I would advise looking for metallic rings first, metal rich rings second, and rocky rings third. And don't do it at a RES.</p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

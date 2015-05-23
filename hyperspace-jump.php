@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite, Dangerous, Hyperspace Jump">
 <META name="keywords" content="PMC, Elite, Dangerous, Hyperspace Jump">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,11 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - Hyperspace Jump</b></h1>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<section>
 <h1>Hyperspace Jump</h1>
 
 <p>To choose your destination there is two methods. Easiest is to look to your left in cockpit, choose Navigation panel, then scroll to the star system name you want to jump and Lock the system. Then just line up your ship with the target lock and hit the hyperspace jump key.
@@ -35,24 +34,13 @@ However not all jump reachable star systems are listed in the Navigation panel e
 <p>You need to cut throttle after FSD has charged and the countdown begins because at the destination system your are dropped dangerously close to the system's star. For example in Lakon Type-9 Heavy, unless you cut your throttle and immediately turn away from the star, you'll hit the too close proximity alarm and are forced out of super cruise.</p>
 
 <p>On Beta 3.05 Lakon ASP with 27.2Ly jump range; 306Ly distance with one (slow) fuel scoop stop took 35min (dont remember how many jumps). So you could roughly say that in one hour you can travel about 600Ly distance.</p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

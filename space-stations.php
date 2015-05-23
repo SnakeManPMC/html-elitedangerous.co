@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite, Dangerous, Space Stations">
 <META name="keywords" content="PMC, Elite, Dangerous, Space Stations">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - Space Stations</b></h1>
-<p>List of all the Space Stations available.</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>List of all the Space Stations available.</h1>
 
 <h1>Coriolis</h1>
 
@@ -52,24 +52,13 @@ paypal here
 <p>If you forget to ask docking permission or you run out of time and are labeled to be in violation, exit the station, then wait out the 'timeout' at 1-2km distance.</p>
 
 <p>When you dock and depart from Space Station, do it by lights; Fly through from the GREEN light side, not the red one.</p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

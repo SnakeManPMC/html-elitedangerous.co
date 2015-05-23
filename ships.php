@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite, Dangerous, Ships">
 <META name="keywords" content="PMC, Elite, Dangerous, Ships">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - Ships</b></h1>
-<p>List of all the ships available.</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>All the ships available.</h1>
 
 <p>You can purchase most ships from High Tech and Industrial systems with high population.</p>
 
@@ -317,24 +317,13 @@ Shield generator, Class 4, rating A, 1.4 million<br><br>
 <b>Lakon Type-9:</b><br>
 Cannon turreted, Class 2, rating E, 3.6 million<br>
 Multicannon turreted, Class 2, rating F, 1.1 million</p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite Dangerous, Conflict Zones">
 <META name="keywords" content="PMC, Elite Dangerous, Conflict, Zones">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,33 +20,21 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous, Conflict Zones</b></h1>
-<p>Conflict Zones</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>Conflict Zones</h1>
 
 <p>These are the locations where factions are at war. Here you can find capital ships and intense combat with many ships in the fight. Combat Bonds (bounties sort of) are not that high as in <a href="resource-extraction-sites.php">RES</a> but conflict zones have little bit more action for sure.</p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

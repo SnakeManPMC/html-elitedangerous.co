@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite Dangerous">
 <META name="keywords" content="PMC, Elite Dangerous">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -18,14 +19,13 @@ google analytics here
 google ads here
 paypal here
 -->
-
-<center>
+<header>
 <h1><b>PMC Elite Dangerous</b></h1>
+</header>
+
 <p>Welcome to PMC Tactical's Elite Dangerous pages. We are the old school PMC Space Monkey's from 1984 :)</p>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
 
 <div>
 <h1>Combat</h1>
@@ -75,21 +75,12 @@ paypal here
 <a href="my-path-to-anaconda.php">My path to Anaconda</a> <br><br>
 </div>
 
-</tr>
-</table>
-</center>
+</section>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

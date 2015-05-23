@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite Dangerous, Beta 2">
 <META name="keywords" content="PMC, Elite Dangerous, Beta 2">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - Beta 2</b></h1>
-<p>Beta 2 information portal</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>Beta 2 information portal</h1>
 
 <p>
 Exploit places:<br>
@@ -46,23 +46,13 @@ Exploit money hammering for Beta 3:<br>
 10-28-14: purchased sidewinder and now have 76.3 million credits
 </p>
 
-</tr>
-</table>
-</center>
+</section>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

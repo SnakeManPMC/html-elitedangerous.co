@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite, Dangerous, Star Systems">
 <META name="keywords" content="PMC, Elite, Dangerous, Star Systems">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,11 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - Star Systems</b></h1>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<section>
 <h1>Star Systems</h1>
 
 <p>Elite Dangerous has 400 billion (400,000,000,000) star systems. That is a star <b>systems</b> not planets or star ports. In each of the 400 billion star systems you can have many stars, planets, moons, asteroid fields etc and star port of course. However its not necessarily so, there are some systems that has no intelligent life, no star ports. Some have only a single star! There are so many different kinds of systems that we cant even comprehend.</p>
@@ -124,24 +123,13 @@ Wyrd - Vonarburg Co-Operative
 LHS 2884 - Abnett Platform <- not markedscraped yet
 
 -->
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

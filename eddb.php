@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite Dangerous, EDDB">
 <META name="keywords" content="PMC, Elite Dangerous, EDDB">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,33 +20,21 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous, EDDB</b></h1>
-<p>Elite Dangerous Data Base</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>Elite Dangerous Data Base</h1>
 
 <p>EDDB is created by themroc and you can find it here; <a href="http://eddb.io">EDDB Homepage</a>.</p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

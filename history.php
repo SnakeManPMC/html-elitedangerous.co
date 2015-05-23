@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite Dangerous, History">
 <META name="keywords" content="PMC, Elite Dangerous, History">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,14 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - History</b></h1>
-<p>History of Elite Dangerous</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<section>
+<h1>History of Elite Dangerous</h1>
 
 <p>
 Friday. Apr 10th, 2015. v1.2.07<br>
@@ -295,24 +294,13 @@ Beta 3<br>
 Oct 29th, 2014.<br>
 0009hrs Release.
 </p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

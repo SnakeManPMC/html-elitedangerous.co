@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite Dangerous, Exploration">
 <META name="keywords" content="PMC, Elite Dangerous, Exploration">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - Exploration</b></h1>
-<p>Exploration</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>Exploration</h1>
 
 <p>Our <a href="system-map.php">System Map Guide</a> gives you nice overview of interesting astronomical objects.</p>
 
@@ -98,24 +98,13 @@ basic jumps without surface scans are the clean traveling method but kind of use
 1 jump with advanced discovery scanning + system map check (explore) = 45sec<br>
 500Ly jumps (16) with explore = 14min 24sec<br>
 1000Ly jumps (31) with explore = 29min 43sec</p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

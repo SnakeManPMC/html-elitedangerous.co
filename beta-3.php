@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite Dangerous, Beta 3">
 <META name="keywords" content="PMC, Elite Dangerous, Beta 3">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - Beta 3</b></h1>
-<p>Beta 3 information portal</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>Beta 3 information portal</h1>
 
 <p>
 Beta 3 on October 28th, 2014.<br>
@@ -69,24 +69,13 @@ Beta 3.9 News:<br>
 - Ship outfitting and Galaxy map have both had major overhauls<br>
 - open-mic voice communications between up to 6 players in a group has been added
 </p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

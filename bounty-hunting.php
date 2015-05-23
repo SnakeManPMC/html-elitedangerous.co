@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite Dangerous, Bounty Hunting">
 <META name="keywords" content="PMC, Elite Dangerous, Bounty Hunting">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - Bounty Hunting</b></h1>
-<p>Bounty Hunting</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>Bounty Hunting</h1>
 
 <h2>How to bounty hunt</h2>
 
@@ -64,24 +64,13 @@ Only shoot <b>WANTED</b> ships on policed systems, only system where you can sum
 2 Cmdr ECNIRP, collided with me intentionally using his ASP, did not reply to comms. damages 745,000cr to my lakon type-9.</p>
 
 <p><b>Cmdr John Charger</b> - 2015-04-26T23:24:05Z, Synteini: I was with wing in Majkl who was interdicted in his Lakon Type-9, player killer was in python. I dropped into the same interdiction as I was following Majkl's lead. Player killer destroyed me first very very quickly. Afterwards I heard Majkl managed to get into super cruise, but was interdicted again so he combat logged after seeing what happened to me.</p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

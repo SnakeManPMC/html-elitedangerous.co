@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite, Dangerous, TradeDangerous">
 <META name="keywords" content="PMC, Elite, Dangerous, TradeDangerous">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,17 +20,16 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - TradeDangerous</b></h1>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<section>
 <h1>TradeDangerous</h1>
 
 <h2>Usage</h2>
-<p>python3 trade.py import --plug=maddavo --opt=syscsv --opt=stncsv -v<br>
+<p>
+python3 trade.py import --plug=maddavo --opt=syscsv --opt=stncsv -v<br>
 python3 trade.py run --cr 10000000 --cap 532 --ly 12.02 -vvv --pad l --ls-max 1500 --avoid alioth<br>
 python3 trade.py import import.prices<br>
 python3 trade.py update -T --editor=nano<br>
@@ -180,24 +180,13 @@ trade.py build -f</p>
 <p>Maddavo Market Share guide</p>
 
 <p>Delete station by adding -1 as its distance from star and upload the .csv (or use editstation.asp page)</p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

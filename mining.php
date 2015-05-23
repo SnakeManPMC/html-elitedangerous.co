@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite Dangerous, Mining">
 <META name="keywords" content="PMC, Elite Dangerous, Mining">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - Mining</b></h1>
-<p>Mining</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>Mining</h1>
 
 <h2>How to mine astroid fields and rings</h2>
 
@@ -33,24 +33,13 @@ paypal here
 Metal Rich will give you things like Coltan and Aites, but Metallic Rich will give you Palladium, Gold, Silver, etc.
 <br><br>
 </p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

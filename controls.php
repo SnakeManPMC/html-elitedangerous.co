@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite, Dangerous, Controls">
 <META name="keywords" content="PMC, Elite, Dangerous, Controls">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,15 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - Controls</b></h1>
-<p>Info about Controls like Keyboard of Joystick HOTAS etc.</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
-<p></p>
+<section>
+<h1>Info about Controls like Keyboard of Joystick HOTAS etc.</h1>
 
 <h1>Keyboard Layouts</h1>
 
@@ -63,31 +61,22 @@ C:\Users\USERNAME\AppData\Local\Frontier_Developments\Products\FORC-FDEV-D-1001\
 
 <p>Please access your AppConfig.xml which can be found in your game directory and open this in Notepad. You'll see a block near the bottom named "Network". Please insert the following lines somewhere in that block -
 <br><br>
+<code>
 ReportSentLetters="1"<br>
 ReportReceivedLetters="1"<br>
 VerboseLogging="1"
+</code>
 <br><br>
 This will produce a more detailed NetLog for us. If you could, please save your AppConfig file with these lines and then load the game again.
 <br><br>
 Game now supports borderless window. Using ALT-Enter to switch to windowed and fullscreen will stop you being in borderless window mode</p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

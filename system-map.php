@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite Dangerous, System Map">
 <META name="keywords" content="PMC, Elite Dangerous, System Map, Exploration">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,14 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - System Map</b></h1>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
-<p>On system map distance measurements 1 AU is 500Ls</p>
+<section>
+<h1>On system map distance measurements 1 AU is 500Ls</h1>
 
 <h1>Planets</h1>
 
@@ -113,24 +112,13 @@ paypal here
 <p>Black Holes</p>
 
 <img src="images/Cockpit-Hologram-10.png" alt="Cockpit Hologram 10, Black Holes">
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

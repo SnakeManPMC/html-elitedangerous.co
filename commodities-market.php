@@ -6,6 +6,7 @@
 <META name="description" content="PMC, Elite, Dangerous, Commodities, Market">
 <META name="keywords" content="PMC, Elite, Dangerous, Commodities, Market">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
 google analytics here
@@ -19,13 +20,12 @@ google ads here
 paypal here
 -->
 
-<center>
+<header>
 <h1><b>PMC Elite Dangerous - Commodities Market</b></h1>
-<p>List of all the items available in Commodities Market.</p>
+</header>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
+<section>
+<h1>List of all the items available in Commodities Market.</h1>
 
 <h1>Trading Tips</h1>
 
@@ -348,24 +348,13 @@ Conclusion: earned 77.8 million, expenses 10.3 million, total balance 88.7 milli
 <br><br>
 Conclusion: it wen well except on day 5 when I took ASP and went to look for better trading routes, that took way way too long time, almost all day. I did trade few runs but then went to the gym and after that was too tired to play. Day 6 wasn't that great either, but with the previous days earnings (which I didn't document hehe) it came to planned ten million. Day 7 was purely bad because got bored and tired so I went to relax mode and watched some tv rest of the night. Day 8 was nice then with great enthusiasm as I found new trade route, but didn't really do that much trading for example if compared to first day. Overall nice trading week, perhaps bit too long (extra day btw so over week) so boredom is real factor, but nice experiment as well. Now at least I have nice budget to buy Python :)
 </p>
+</section>
 
-</tr>
-</table>
-</center>
-
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-</tr>
-</table>
-
-<center>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>
