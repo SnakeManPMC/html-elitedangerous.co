@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>PMC Elite Dangerous - TradeDangerous</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite, Dangerous, TradeDangerous">
 <META name="keywords" content="PMC, Elite, Dangerous, TradeDangerous">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
@@ -25,7 +25,7 @@ paypal here
 </header>
 
 <section>
-<h1>TradeDangerous</h1>
+<h2>TradeDangerous</h2>
 
 <h2>Usage</h2>
 <p>
@@ -114,7 +114,7 @@ trade.py import --plug=maddavo -O use3h</p>
 
 <p>- Added "--stock" option to set minimum stock level required. CAVEAT: It will ignore any stations that have "?" as their listed quantity.</p>
 
-</p>trade.py local Ross209 --ly 20 --stations -vv<br>
+<p>trade.py local Ross209 --ly 20 --stations -vv<br>
 trade.py local Ross209 --ly 20 --stations -vv --pad ?</p>
 
 <h2>Uploading</h2>
@@ -132,7 +132,7 @@ Station Distance - ls_from_star values. Some points about station distance:
 <br><br>
 The ls_from_star value changes. The game is real-time and orbiting objects in a system move. Although they move slowly, they DO move. If you have a station orbiting a planet then the ls_from_star will oscillate around an average value (the planet's orbital distance). If you have a station orbiting a moon orbiting a planet, then the ls_from_star will oscillate around the moon's oscillation around an average value (also the planet's orbital distance). Things get even more complicated when binary or n-ary planets or stars are involved.
 <br>
-It IS very possible to have stations in a system with the same ls_from_star values. If they are orbiting the same body, then their average ls_from_star will be the same. But also if they are orbiting a moon or planet that is orbiting another body (eg: <star> B, C or D) then their average ls_from_star will also be the same. eg: in SOL: Abraham Lincoln, M.Gorbechev, Li Qing Jao all orbit Earth so they have the same ls_from_star value. Earth's orbit is 1AU so their ls_from_value is 499 (or close to it). Galileo orbits the moon, the moon orbits earth, so Galileo's ls_from_star value is also 499. In our Station.csv the values are 505-506, fair enough.
+It IS very possible to have stations in a system with the same ls_from_star values. If they are orbiting the same body, then their average ls_from_star will be the same. But also if they are orbiting a moon or planet that is orbiting another body (eg: &lt;star&gt; B, C or D) then their average ls_from_star will also be the same. eg: in SOL: Abraham Lincoln, M.Gorbechev, Li Qing Jao all orbit Earth so they have the same ls_from_star value. Earth's orbit is 1AU so their ls_from_value is 499 (or close to it). Galileo orbits the moon, the moon orbits earth, so Galileo's ls_from_star value is also 499. In our Station.csv the values are 505-506, fair enough.
 <br>
 The System View can be used to get the distance in many cases. eg: If there is a station orbiting a planet orbiting an A star then select the planet and look at the orbit semi-major axis value. The elliptical orbit is generally close to a circle and this can be used. The value is in AU (Astronomical Units). 1 AU = 499Ls . So multiply this value by 499 and you have the ls_from_star. If there are binary (or n-ary) stars in the system and the station is orbiting B or above, then you can't use the System View. You have to know the distance of the n star from the A star which isn't shown in the System View - you have to visit the system. So once you visit the system, you may as well just get the distance of the station from the nav panel.
 <br>
@@ -147,9 +147,9 @@ So basically if we all measure a station's ls_from_star value by various means a
 </p>
 
 
-<h1>April 2015</h1>
+<h2>April 2015</h2>
 
-</p>--loop-int<br>
+<p>--loop-int<br>
 --shorten</p>
 
 <p>I've just landed 1.8.2 which adds "--loop-int", this lets you specify that you don't want to go back to the same station in less than X hops, e.g.<br>
@@ -157,8 +157,8 @@ trade.py run synteini/lager --pad L --hops 6 --sum --ls-max 4000 --stock 10000 -
 
 <p>will find routes that requires at least 2 hops between returns to a given station</p>
 
-<p>A->B->A->B <- not allowed<br>
-A->B->C->A <- allowed</p>
+<p>A-&gt;B-&gt;A-&gt;B &lt;- not allowed<br>
+A-&gt;B-&gt;C-&gt;A &lt;- allowed</p>
 
 <p>--shorten requires "--to"; it does the same thing that "--to" does, but it will allow routes that reach the destination in less than --hops jumps to be considered and at the end of the route calculations it will compare routes based on their average Gain Per Ton (gpt).</p>
 

@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>PMC Elite Dangerous - Commodities Market</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite, Dangerous, Commodities, Market">
 <META name="keywords" content="PMC, Elite, Dangerous, Commodities, Market">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
@@ -25,9 +25,9 @@ paypal here
 </header>
 
 <section>
-<h1>List of all the items available in Commodities Market.</h1>
+<h2>List of all the items available in Commodities Market.</h2>
 
-<h1>Trading Tips</h1>
+<h2>Trading Tips</h2>
 
 <p>Use EliteOCR to grab market data then export it to EDDN. Every station you visit, once a day (when you hammer a trade route, there is really no point of updating one station except once maybe twice a day). Register to http://eddb.io and fill in stations that are missing for landing pad size and distance to star data. Finally use TradeDangerous as trading tool to search for profitable trade routes. Ignore other sites/tools, they are waste of time.</p>
 
@@ -41,13 +41,13 @@ paypal here
 
 <p>Time is credits, your time is valuable, trading comes to time... there is no point of making 1700cr profit per ton if you spend 30 minutes traveling. Trade route needs to be max 2 jumps and the distance to star Ls for stations need to be absolutely less than 1000Ls, preferably less than 250Ls.</p>
 
-<h1>Old tips part hehe</h1>
+<h2>Old tips part hehe</h2>
 
 <p>You should use the <a href="tradedangerous.php">TradeDangerous Tool</a> to help you trade more successfully. This is NOT a cheat, don't let anyone tell you otherwise, this is just the same as 1984 when we used piece of paper and pen.</p>
 
 <p>Any other tool that this one is not worth your time, this is the only one which gives your good results easily. However if you must use local program to get trading info, use <a href="https://github.com/Theo20185/EliteDangerousTradingAssistant">Theo20185's Elite Dangerous Trading Assistant</a>, which works ok with the only drawback that you have to manually input ALL the data.</p>
 
-<h1>Beginner's Trading Guide</h1>
+<h2>Beginner's Trading Guide</h2>
 
 <p>Beginner's trading starter kit.
 <br><br>
@@ -55,7 +55,7 @@ Agri-Medicines from Aulin -> Eranin (hyperjump to ibootis, then eranin), (buy 65
 Fruit and Vegetables from Eranin -> Ibootis (buy 178, sell 305, four unit profit 508cr)<br>
 Fish from Ibootis -> Aulin (buy 389, sell 769, four unit profit 1520cr)</p>
 
-<h1>Generic Trading Info</h1>
+<h2>Generic Trading Info</h2>
 
 <p>Here is some generic good trade runs, usually just one hyperspace jump distance to keep it simple.
 <br><br>
@@ -221,7 +221,7 @@ Gain/Hop:    735,490<br>
 Final CR: 11,470,980<br>
 <br><br>
 Load from BD-02 4304/Durrance Station (8.2Kls/star, No/bm, Lrg/pad):<br>
-532 x Palladium                 12,585cr each,  6,695,220cr total,  data from <1 hr vs 3 hrs<br>
+532 x Palladium                 12,585cr each,  6,695,220cr total,  data from &lt;1 hr vs 3 hrs<br>
 Jump BD-02 4304 -> ELEU -> SANTJALAN<br>
 Unload at SANTJALAN/Cantor Terminal (452ls/star, No/bm, Lrg/pad) => Gain 903,336cr (1,698cr/ton)<br>
 Load from SANTJALAN/Cantor Terminal (452ls/star, No/bm, Lrg/pad):<br>
@@ -233,7 +233,7 @@ Load from SUESSETANI/Gutierrez Orbital (8.22ls/star, Yes/bm, Lrg/pad):<br>
 Jump SUESSETANI -> NOATINE -> SANTJALAN<br>
 Unload at SANTJALAN/Cantor Terminal (452ls/star, No/bm, Lrg/pad) => Gain 460,180cr (865cr/ton)<br>
 Load from SANTJALAN/Cantor Terminal (452ls/star, No/bm, Lrg/pad):<br>
-532 x Reactive Armour      1,894cr each,  1,007,608cr total,  data from 3 hrs vs <1 hr<br>
+532 x Reactive Armour      1,894cr each,  1,007,608cr total,  data from 3 hrs vs &lt;1 hr<br>
 Jump SANTJALAN -> ELEU -> BD-02 4304<br>
 Unload at BD-02 4304/Durrance Station (8.2Kls/star, No/bm, Lrg/pad) => Gain 304,836cr (573cr/ton)
 <br><br>
@@ -341,7 +341,7 @@ Start with 21.2 million
 01-16-15 earned 11.2 million, expenses 1.1 million, total balance 62.3 million<br>
 01-17-15 none :( searched for like 3-4hrs for a new traderoute, traded few runs, then went to gym, ran out of time to play elite :(<br>
 01-18-15 earned 10.5 million, expenses 1.9 million, total balance 70.9 million (traded only few hours, the most)<br>
-01-19-15 earned 7.0 million, expenses 0.7 million, total balance 77.2 million <- evening was cut short ufc event watching/boredom/tired ;)<br>
+01-19-15 earned 7.0 million, expenses 0.7 million, total balance 77.2 million &lt;- evening was cut short ufc event watching/boredom/tired ;)<br>
 01-20-15 earned 12.9 million, expenses 1.4 million, total balance 88.7 million
 <br><br>
 Conclusion: earned 77.8 million, expenses 10.3 million, total balance 88.7 million.

@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>PMC Elite Dangerous - Star Systems</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite, Dangerous, Star Systems">
 <META name="keywords" content="PMC, Elite, Dangerous, Star Systems">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
@@ -25,13 +25,13 @@ paypal here
 </header>
 
 <section>
-<h1>Star Systems</h1>
+<h2>Star Systems</h2>
 
 <p>Elite Dangerous has 400 billion (400,000,000,000) star systems. That is a star <b>systems</b> not planets or star ports. In each of the 400 billion star systems you can have many stars, planets, moons, asteroid fields etc and star port of course. However its not necessarily so, there are some systems that has no intelligent life, no star ports. Some have only a single star! There are so many different kinds of systems that we cant even comprehend.</p>
 
 <p>At the end of Premium Beta we had total of 8 star systems. With Beta we had 55 star systems.</p>
 
-<h1>Cataloged Star Systems In Beta 1</h1>
+<h2>Cataloged Star Systems In Beta 1</h2>
 
 <p>Here is a list of Elite Dangerous Beta 1 Star Systems with their star ports.
 <br><br>

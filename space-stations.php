@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>PMC Elite Dangerous - Space Stations</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite, Dangerous, Space Stations">
 <META name="keywords" content="PMC, Elite, Dangerous, Space Stations">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
@@ -25,21 +25,21 @@ paypal here
 </header>
 
 <section>
-<h1>List of all the Space Stations available.</h1>
+<h2>List of all the Space Stations available.</h2>
 
-<h1>Coriolis</h1>
+<h2>Coriolis</h2>
 
 <p>Coriolis is the legendary box with corners cut off space station we know from original Elite.</p>
 
-<h1>Orbis</h1>
+<h2>Orbis</h2>
 
 <p>Orbis is the two ring living habitat space station from Frontier games. It's said to be 8km in diameter.</p>
 
-<h1>Ocellus</h1>
+<h2>Ocellus</h2>
 
 <p>Ocellus</p>
 
-<h1>Outpost</h1>
+<h2>Outpost</h2>
 
 <p>Outpost is a small station (outpost, doh!) which only handles small and medium landing pad size traffic.</p>
 

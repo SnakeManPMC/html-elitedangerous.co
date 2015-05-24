@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>PMC Elite Dangerous - History</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite Dangerous, History">
 <META name="keywords" content="PMC, Elite Dangerous, History">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
@@ -25,7 +25,7 @@ paypal here
 </header>
 
 <section>
-<h1>History of Elite Dangerous</h1>
+<h2>History of Elite Dangerous</h2>
 
 <p>
 Friday. Apr 10th, 2015. v1.2.07<br>
@@ -49,7 +49,7 @@ Tuesday. Feb 10th, 2015. v1.1.01<br>
 Tuesday. Feb 10th, 2015. v1.1 Release<br>
 Friday. Feb 6th, 2015. v1.1 Beta 3<br>
 Thursday. Feb 5th, 2015. v1.1 Beta 2<br>
-Tuesday. Feb 3rd, 2015. v1.1 Beta <- for alpha/beta backers only<br>
+Tuesday. Feb 3rd, 2015. v1.1 Beta &lt;- for alpha/beta backers only<br>
 Wednesday. Jan 28th, 2015. v1.07<br>
 Thursday. Jan 22nd, 2015. v1.06<br>
 Thursday. Jan 15th, 2015. v1.05<br>
@@ -112,8 +112,8 @@ Wednesday. Feb 5th, 2014. Alpha 2.00 - Multiplayer<br>
 Wednesday. Jan 22nd, 2014. Multiplayer Combat<br>
 Friday. Dec 20th, 2013. Alpha Phase One
 </p>
-<p>
 <h2>Detailed major release times (UTC + 2hrs):</h2>
+<p>
 v1.2.07<br>
 1334hrs Servers down<br>
 1353hrs Release

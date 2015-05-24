@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>PMC Elite Dangerous - Super Cruise</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite, Dangerous, Super Cruise">
 <META name="keywords" content="PMC, Elite, Dangerous, Super Cruise">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
@@ -25,7 +25,7 @@ paypal here
 </header>
 
 <section>
-<h1>Super Cruise</h1>
+<h2>Super Cruise</h2>
 
 <p>How to super cruise; full throttle at first (except perhaps when you are very very close), then watch the ETA clock, when it reaches about 10sec get ready to throttle down to middle of the blue zone in throttle indicator, thats about 75% throttle.</p>
 

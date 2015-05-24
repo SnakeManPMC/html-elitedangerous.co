@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>PMC Elite Dangerous - Beta 2</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite Dangerous, Beta 2">
 <META name="keywords" content="PMC, Elite Dangerous, Beta 2">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
@@ -25,17 +25,17 @@ paypal here
 </header>
 
 <section>
-<h1>Beta 2 information portal</h1>
+<h2>Beta 2 information portal</h2>
 
 <p>
 Exploit places:<br>
-BD+63 1764 - Van Scyoc Landing, wiener's claim, huge cargo missions inside system! <- small landing pads (elite trading tool) :(<br>
-BD+64 1452 - Khayyam Outpost <- medium landing pads (elite trading tool) :(<br>
-LHS 3080 - Malyshev Depot <- small landing pads (elite trading tool) :(<br>
+BD+63 1764 - Van Scyoc Landing, wiener's claim, huge cargo missions inside system! &lt;- small landing pads (elite trading tool) :(<br>
+BD+64 1452 - Khayyam Outpost &lt;- medium landing pads (elite trading tool) :(<br>
+LHS 3080 - Malyshev Depot &lt;- small landing pads (elite trading tool) :(<br>
 <br>
 Exploit places Lakon Type-9 Compatible:<br>
 Aulin - Aulin Enterprise (felt very poor exploit place?)<br>
-LP 64-194 - Longyear Survey (bertrandite 21x, gallium 24x, etc good stuff) <- by far the most best exploit place!<br>
+LP 64-194 - Longyear Survey (bertrandite 21x, gallium 24x, etc good stuff) &lt;- by far the most best exploit place!<br>
 <br>
 Exploit money hammering for Beta 3:<br>
 10-23-14: Asp + 28,1 million credits (when I started I had like 22 million)<br>

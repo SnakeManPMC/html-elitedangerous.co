@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>PMC Elite Dangerous - Mining</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite Dangerous, Mining">
 <META name="keywords" content="PMC, Elite Dangerous, Mining">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
@@ -25,7 +25,7 @@ paypal here
 </header>
 
 <section>
-<h1>Mining</h1>
+<h2>Mining</h2>
 
 <h2>How to mine astroid fields and rings</h2>
 

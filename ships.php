@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>PMC Elite Dangerous - Ships</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite, Dangerous, Ships">
 <META name="keywords" content="PMC, Elite, Dangerous, Ships">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
@@ -25,7 +25,7 @@ paypal here
 </header>
 
 <section>
-<h1>All the ships available.</h1>
+<h2>All the ships available.</h2>
 
 <p>You can purchase most ships from High Tech and Industrial systems with high population.</p>
 
@@ -39,53 +39,53 @@ paypal here
 
 <p>You can try out different configurations for your ships in <a href="http://www.edshipyard.com/">Elite Shipyard</a> site.</p>
 
-<h1>Sidewinder</h1>
+<h2>Sidewinder</h2>
 
 <p>Sidewinder. Price free ship on game start but normal cost 32,000cr. 4x cargo hold. ? weapons mounts. max speed ?, engine boost ?, jump range 8.26Ly fully fueled (no weapons).</p>
 
-<h1>Eagle</h1>
+<h2>Eagle</h2>
 
 <p>Eagle. Price 44,800cr. 4x cargo hold. max speed 240, engine boost 330.</p>
 
-<h1>Viper</h1>
+<h2>Viper</h2>
 
 <p>Price 142,931cr</p>
 
-<h1>Adder</h1>
+<h2>Adder</h2>
 
 <p>Adder</p>
 
-<h1>Hauler</h1>
+<h2>Hauler</h2>
 
 <p>Hauler. 52,720cr. 16x cargo hold. ? weapons mounts. max speed ?, engine boost ?, jump range 10.46Ly unladen, unarmed. 8.46Ly laden.</p>
 
 <p>Hauler can be pimped to 35Ly jump capability.</p>
 
-<h1>Cobra Mk III</h1>
+<h2>Cobra Mk III</h2>
 
 <p>Cobra Mk III. Price 279,718cr. 36x cargo hold. ? weapons mounts. max speed ?, engine boost ?.</p>
 
-<h1>Lakon Type-6</h1>
+<h2>Lakon Type-6</h2>
 
 <p>Lakon Type-6. Price 1,045,945cr. 100x cargo hold. 2 x Class 2 weapon mounts, 3x utility mounts, 1 support mount. Max speed 220, engine boost 350.</p>
 
 <p>type-6 max jump 26.5LY (my test 25.7LY) empty and 15.64LY full (about 75% fuel).</p>
 
-<h1>Lakon Type-7</h1>
+<h2>Lakon Type-7</h2>
 
 <p>Lakon Type-7 price about 17 million.</p>
 
-<h1>Asp (explorer)</h1>
+<h2>Asp (explorer)</h2>
 
 <p>Price 6,661,153cr. Jump range 13.12Ly unladen, default. cargo 70t default, 160t pimped.</p>
 
 <p>ASP class 5 rating E frame shift drive gives jump range of 25.8Ly unladen and 19Ly laden. With class 5 rating A FSD its 34.86Ly. As the name says ASP is the best exploration ship without a doubt.</p>
 
-<h1>Federal Dropship</h1>
+<h2>Federal Dropship</h2>
 
 <p>Federal Dropship. 37.8 million.</p>
 
-<h1>Lakon Type-9 Heavy</h1>
+<h2>Lakon Type-9 Heavy</h2>
 
 <p>Lakon Type-9 Heavy. Price 76.5 million cr. 532x cargo hold. ? weapons mounts. max speed 130, engine boost 190.</p>
 
@@ -93,33 +93,33 @@ paypal here
 
 <p>Purchase tips: 6.53Ly jump capability when stripped of weapons/shields/d-scanner Cargo racks 256 capacity 3.8 million. FSD class 6 rating A 16.1 million.</p>
 
-<h1>Orca</h1>
+<h2>Orca</h2>
 
 <p>Orca is kind of like passanger ship, very cool and sleek looking white ship.</p>
 
-<h1>Python</h1>
+<h2>Python</h2>
 
 <p>Python is general purpose ship, it can fight and trade.</p>
 
-<h1>Imperial Clipper</h1>
+<h2>Imperial Clipper</h2>
 
 <p>Imperial Clipper</p>
 
-<h1>Anaconda</h1>
+<h2>Anaconda</h2>
 
 <p>Anaconda. Price 146.9 million cr. 228x cargo hold. ? weapon mounts.</p>
 
 <p>Anacond max jump range is 39.35Ly unladen.</p>
 
-<h1>Vulture</h1>
+<h2>Vulture</h2>
 
 <p>Vulture</p>
 
-<h1>Fer Der Lance</h1>
+<h2>Fer Der Lance</h2>
 
 <p>Fer Der Lance</p>
 
-<h1>Diamondback</h1>
+<h2>Diamondback</h2>
 
 <p>Diamondback</p>
 
@@ -227,7 +227,7 @@ Python;<br>
 power plant class 7 rating B: 17 million, rating A: 51.2 million<br>
 thrusters class 6 rating A: 16.1 million
 <br><br>
-Unfonfirmed reports say <bQ1 Eridani</b> sells lot of outfitting modules...
+Unfonfirmed reports say <b>Q1 Eridani</b> sells lot of outfitting modules...
 </p>
 
 <h2>Ships Sorted by Cargo Capacity</h2>
@@ -253,7 +253,7 @@ Lakon Type-9 532
 1) do missions until buy hauler (do not sell sidewinder, its free after all)<br>
 2) hauler -> cobra (42t cargo stripped): difficult if do trading with such small cargo capacity, tedious grind :(<br>
 3) buy lakon type-6 (50t default, 112t cargo) and sell cobra to save money<br>
-4) buy asp (128t cargo) and sell lakon type-6 to save money <- or maybe not, check cargo capacities first<br>
+4) buy asp (128t cargo) and sell lakon type-6 to save money &lt;- or maybe not, check cargo capacities first<br>
 5) buy lakon type-9 and sell lakon type-6 to save money<br>
 6) upgrade lakon type-9 to the max cargo carrying setup<br>
 7) after 4.7 million credits (full gold cargo load), you can start to purchase other ships or anything you want! yeah!
@@ -269,7 +269,7 @@ FSD cooldown start delay 4sec (total 37-40sec)<br>
 FSD cooldown 4sec (<b>total 41-44sec</b>)
 </p>
 
-<h1>Founders World ship prices</h1>
+<h2>Founders World ship prices</h2>
 <p>Viper 128,638<br>
 Cobra 341,747<br>
 Sidewinder 28,800<br>
@@ -288,7 +288,7 @@ Anaconda 132,272,506<br>
 Imperial Clipper 20,066,274<br>
 Federal Dropship 17,832,785</p>
 
-<h1>Founders World outfitting prices</h1>
+<h2>Founders World outfitting prices</h2>
 
 <p><b>Python:</b><br>
 Beam laser gimballed, Class 3, rating C, 2.1 million<br>

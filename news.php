@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>PMC Elite Dangerous - News</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite, Dangerous, News">
 <META name="keywords" content="PMC, Elite, Dangerous, News">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
@@ -25,9 +25,9 @@ paypal here
 </header>
 
 <section>
-<h1>Misc news, unsorted, raw, etc</h1>
+<h2>Misc news, unsorted, raw, etc</h2>
 
-<h1>Misc news snippets</h1>
+<h2>Misc news snippets</h2>
 
 <p>The first planned significant update will be 1.1 and will enter beta in the first week of February. We?ll be talking next week about how 1.1 will introduce a new way to collaborate with other players in the galaxy in preparation for 1.2?s major Wings update. We have some some good news for planners of long journeys - V1.1 will also have a significant increase in the maximum distance for the route planner. We?re currently looking at extending this to 1,000 light years!
 <br><br>

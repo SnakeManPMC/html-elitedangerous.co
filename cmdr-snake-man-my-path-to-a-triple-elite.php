@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>PMC Elite Dangerous - Cmdr Snake Man, my path to a Triple Elite</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite Dangerous, Cmdr Snake Man My Path To A Triple Elite">
 <META name="keywords" content="PMC, Elite Dangerous, Triple, Cmdr">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
@@ -25,7 +25,7 @@ paypal here
 </header>
 
 <section>
-<h1>This is my story of how I reached Triple Elite status as pilot.</h1>
+<h2>This is my story of how I reached Triple Elite status as pilot.</h2>
 
 <p>
 04-03-15 status:<br>

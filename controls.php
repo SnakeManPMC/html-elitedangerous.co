@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>PMC Elite Dangerous - Controls</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite, Dangerous, Controls">
 <META name="keywords" content="PMC, Elite, Dangerous, Controls">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
@@ -25,9 +25,9 @@ paypal here
 </header>
 
 <section>
-<h1>Info about Controls like Keyboard of Joystick HOTAS etc.</h1>
+<h2>Info about Controls like Keyboard of Joystick HOTAS etc.</h2>
 
-<h1>Keyboard Layouts</h1>
+<h2>Keyboard Layouts</h2>
 
 <p>Keyboard Layouts are saved to:<br>
 C:\Users\USERNAME\AppData\Local\Frontier Developments\Elite Dangerous\Options\Bindings<br>

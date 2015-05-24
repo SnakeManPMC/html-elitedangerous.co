@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>PMC Elite Dangerous - Weapons</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite, Dangerous, Weapons">
 <META name="keywords" content="PMC, Elite, Dangerous, Weapons">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
@@ -25,13 +25,13 @@ paypal here
 </header>
 
 <section>
-<h1>List of all the weapons available. You can equip your ship with weapons and gear from the starport Outfitting menu.</h1>
+<h2>List of all the weapons available. You can equip your ship with weapons and gear from the starport Outfitting menu.</h2>
 
-<h1>Pulse Laser</h1>
+<h2>Pulse Laser</h2>
 
-<h1>Beam Laser</h1>
+<h2>Beam Laser</h2>
 
-<h1>Multi Cannon</h1>
+<h2>Multi Cannon</h2>
 
 <p><b>Fixed</b> weapons obviously are the most accurate, they hit where you aim (its up to you to aim for enemy ships heh).</p>
 

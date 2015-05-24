@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>PMC Elite Dangerous - System Map</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite Dangerous, System Map">
 <META name="keywords" content="PMC, Elite Dangerous, System Map, Exploration">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
@@ -25,9 +25,9 @@ paypal here
 </header>
 
 <section>
-<h1>On system map distance measurements 1 AU is 500Ls</h1>
+<h2>On system map distance measurements 1 AU is 500Ls</h2>
 
-<h1>Planets</h1>
+<h2>Planets</h2>
 
 <p><b>High Metal Content Planets, candidates for terraforming</b>. These are more valuable planets than normal high metal content ones.</p>
 
@@ -69,7 +69,7 @@ paypal here
 
 <img src="images/Earth-Like-World-001.png" alt="Earth Like World">
 
-<h1>Cockpit Hologram Images</h1>
+<h2>Cockpit Hologram Images</h2>
 
 <p>These are the cockpit hologram images you get when you select planet etc as target.</p>
 

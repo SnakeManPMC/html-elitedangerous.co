@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>PMC Elite Dangerous - Hyperspace Jump</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite, Dangerous, Hyperspace Jump">
 <META name="keywords" content="PMC, Elite, Dangerous, Hyperspace Jump">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!--
@@ -25,7 +25,7 @@ paypal here
 </header>
 
 <section>
-<h1>Hyperspace Jump</h1>
+<h2>Hyperspace Jump</h2>
 
 <p>To choose your destination there is two methods. Easiest is to look to your left in cockpit, choose Navigation panel, then scroll to the star system name you want to jump and Lock the system. Then just line up your ship with the target lock and hit the hyperspace jump key.
 <br><br>
