@@ -28,7 +28,7 @@ paypal here
 
 <p>Welcome to PMC Tactical's Elite Dangerous pages. We are the old school PMC Space Monkey's from 1984 :)</p>
 
-<div id="icat">
+<div class="icat">
 <h2>Combat</h2>
 <a href="bounty-hunting.php">Bounty Hunting</a><br><br>
 <a href="conflict-zones.php">Conflict Zones</a><br><br>
@@ -36,7 +36,7 @@ paypal here
 <a href="weapons.php">Weapons</a>
 </div>
 
-<div id="icat">
+<div class="icat">
 <h2>Trading</h2>
 <a href="commodities-market.php">Commodities Market</a><br><br>
 <a href="eddb.php">EDDB</a><br><br>
@@ -46,7 +46,7 @@ paypal here
 <a href="landing-pad-size-distance-from-star-tutorial.php">Landing pad size and distance from star tutorial</a>
 </div>
 
-<div id="icat">
+<div class="icat">
 <h2>Exploration</h2>
 <a href="exploration.php">Exploration</a><br><br>
 <a href="system-map.php">System Map Guide</a><br><br>
@@ -55,9 +55,8 @@ paypal here
 <a href="star-systems.php">Star Systems</a>
 </div>
 
-<div id="icat">
+<div class="icat">
 <h2>Game Releases</h2>
-<a href="beta-2.php">Beta 2 notes</a><br><br>
 <a href="beta-3.php">Beta 3 notes</a><br><br>
 <a href="final-release.php">Final Release</a><br><br>
 <a href="gamma.php">Gamma (Release Candidate)</a><br><br>
@@ -65,7 +64,7 @@ paypal here
 <a href="news.php">News or some snippets</a>
 </div>
 
-<div id="icat">
+<div class="icat">
 <h2>Miscellaneous</h2>
 <a href="controls.php">Controls (keyboard etc)</a><br><br>
 <a href="mining.php">Mining</a><br><br>
@@ -73,7 +72,7 @@ paypal here
 <a href="space-stations.php">Space Stations</a>
 </div>
 
-<div id="icat">
+<div class="icat">
 <h2>PMC Cmdr's Log</h2>
 <a href="my-path-to-anaconda.php">My path to Anaconda</a><br><br>
 <a href="pmc-most-wanted.php">PMC Most Wanted</a>
