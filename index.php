@@ -75,9 +75,8 @@ paypal here
 
 <div id="icat">
 <h2>PMC Cmdr's Log</h2>
-<a href="cmdr-snake-man-my-path-to-a-triple-elite.php">Cmdr Snake Man, my path to a Triple Elite</a><br><br>
-<a href="pmc-galaxy-loop.php">PMC Galaxy Loop</a><br><br>
-<a href="my-path-to-anaconda.php">My path to Anaconda</a>
+<a href="my-path-to-anaconda.php">My path to Anaconda</a><br><br>
+<a href="pmc-most-wanted.php">PMC Most Wanted</a>
 </div>
 
 </section>

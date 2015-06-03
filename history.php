@@ -28,6 +28,9 @@ paypal here
 <h2>History of Elite Dangerous</h2>
 
 <p>
+Wednesday. Jun 3rd, 2015. v1.3 beta 7<br>
+Tuesday. Jun 2nd, 2015. v1.3 beta 6<br>
+Monday. Jun 1st, 2015. v1.3 beta 5 ?<br>
 Friday. May 29th, 2015. v1.3 beta 4<br>
 Thursday. May 28th, 2015. v1.3 beta 3<br>
 ?. May ?th, 2015. v1.3 beta 2<br>
