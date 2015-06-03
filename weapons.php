@@ -8,19 +8,14 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!--
-google analytics here
--->
+<?php include("../include/google-analytics.php"); ?>
 
 </head>
 <body>
 
-<!--
-google ads here
-paypal here
--->
-
 <header>
+<?php include("../include/google-ads.php"); ?>
+<?php include("../include/paypal.php"); ?>
 <h1><b>PMC Elite Dangerous - Weapons</b></h1>
 </header>
 
@@ -28,11 +23,11 @@ paypal here
 <h2>List of all the weapons available. You can equip your ship with weapons and gear from the starport Outfitting menu.</h2>
 
 <h2>Pulse Laser</h2>
-
+PMCTODO
 <h2>Beam Laser</h2>
-
+PMCTODO
 <h2>Multi Cannon</h2>
-
+PMCTODO
 <p><b>Fixed</b> weapons obviously are the most accurate, they hit where you aim (its up to you to aim for enemy ships heh).</p>
 
 <p><b>Gimbaled</b> weapons means that they turn slightly to follow your target, they are not turrets but they do help with aiming very nicely.</p>
@@ -46,6 +41,8 @@ paypal here
 
 <footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
+<?php include("../include/paypal.php"); ?>
+<br><br>
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
 </footer>

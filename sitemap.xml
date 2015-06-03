@@ -6,9 +6,84 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>http://www.TEMPLATE.com/</loc>
+  <loc>http://tactical.nekromantix.com/elite/beta-3.php</loc>
 </url>
 <url>
-  <loc>http://www.TEMPLATE.com/index.php</loc>
+  <loc>http://tactical.nekromantix.com/elite/bounty-hunting.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/commodities-market.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/conflict-zones.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/controls.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/eddb.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/eddn.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/eliteocr.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/exploration.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/final-release.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/gamma.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/history.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/hyperspace-jump.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/index.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/landing-pad-size-distance-from-star-tutorial.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/mining.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/my-path-to-anaconda.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/news.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/pmc-most-wanted.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/resource-extraction-sites.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/ships.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/space-stations.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/star-systems.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/super-cruise.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/system-map.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/tradedangerous.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/weapons.php</loc>
 </url>
 </urlset>

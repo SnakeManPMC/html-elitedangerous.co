@@ -8,25 +8,21 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!--
-google analytics here
--->
+<?php include("../include/google-analytics.php"); ?>
 
 </head>
 <body>
 
-<!--
-google ads here
-paypal here
--->
-
 <header>
+<?php include("../include/google-ads.php"); ?>
+<?php include("../include/paypal.php"); ?>
 <h1><b>PMC Elite Dangerous</b></h1>
 </header>
 
 <section>
 
 <p>Welcome to PMC Tactical's Elite Dangerous pages. We are the old school PMC Space Monkey's from 1984 :)</p>
+<p>These pages are just <b>Cmdr Snake Man's personal notes</b>, written since start of Premium Beta testing, these are not meant to be mainstream web site stuff. If some of the pages are out of context, odd, incomplete or off color whatever, now you know why.</p>
 
 <div class="icat">
 <h2>Combat</h2>
@@ -81,6 +77,8 @@ paypal here
 </section>
 
 <footer>
+<?php include("../include/paypal.php"); ?>
+<br><br>
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
 </footer>
