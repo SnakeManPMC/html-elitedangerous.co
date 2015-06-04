@@ -64,7 +64,7 @@ Aulin -> Azeban; terrainenrichmentsystems unit profit 714cr<br>
 Dahan -> Ibootis (chango); titanium (buy 663, sell 1082, unit profit 419cr)<br>
 Ibootis (chango) -> Aulin; fish (buy 389, sell 769, unit profit 380cr)
 <br><br>
-10-25-14 elite trading tool check:<br>
+10-25-14 elite trading check:<br>
 1250cr - LFT 1421 (Volkov Plant) -> Bolg (Moxon's Mojo): Indium<br>
 1245cr - LFT 1421 (Volkov Plant) -> CR Draco (Bruce Terminal): Indium<br>
 1242cr - LFT 1421 (Volkov Plant) -> Ovid (Bradfield Orbital): Indium<br>
@@ -185,24 +185,7 @@ Silver,0,0<br>
 
 <h2>Top Trades</h2>
 
-<p>elitetradingtool routes:<br>
-shortest/compact 47Ly (about 1200cr profit per way):<br>
-Anlave (Hogg City) 1075ls Progenitor Cells ? LHS 6309 (Noether City) 1075ls<br>
-Buy: 6198 (2h 22m ago)<br>
-Sell: 7508 (15h 29m ago)<br>
-LHS 6309 (Noether City) 1075ls Superconductors ? Anlave (Hogg City) 1075ls<br>
-Buy: 6171 (15h 29m ago)<br>
-Sell: 7474 (2h 22m ago)
-<br><br>
-best 79Ly (way too long trip):<br>
-Chimba (Hurley Port) 9781ls Gold ? Alrai (Bounds Hub) 9781ls<br>
-Buy: 8804 (3h 40m ago)<br>
-Sell: 10307 (6h 13m ago)<br>
-Alrai (Bounds Hub) 9781ls Progenitor Cells ? Chimba (Hurley Port) 9781ls<br>
-Buy: 6189 (6h 13m ago)<br>
-Sell: 7510 (3h 40m ago)
-<br><br>
-URCIA/Mikulin Dock -> LOMBI/Xin Hub: Gold 1412<br>
+<p>URCIA/Mikulin Dock -> LOMBI/Xin Hub: Gold 1412<br>
 Duamta (Polyakov Station) -> Groombridge 1618 (Gernsback Terminal); beryllium 1398<br>
 -> power generators: 233
 <br><br>
