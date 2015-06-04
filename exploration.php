@@ -93,6 +93,9 @@ basic jumps without surface scans are the clean traveling method but kind of use
 1 jump with advanced discovery scanning + system map check (explore) = 45sec<br>
 500Ly jumps (16) with explore = 14min 24sec<br>
 1000Ly jumps (31) with explore = 29min 43sec</p>
+
+<p><b>You can select a nav target in the system map, but it will still jump to the primary star</b>. This is excellent feature for all explorers, no more flying back and forth in a system trying to find that specific earth like planet youre drooling over from system map.</p>
+
 </section>
 
 <footer>
