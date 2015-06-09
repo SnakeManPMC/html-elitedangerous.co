@@ -23,6 +23,7 @@
 <h2>History of Elite Dangerous</h2>
 
 <p>
+Monday. Jun 8th, 2015. v1.3 Server side update<br>
 Friday. Jun 5th, 2015. v1.3<br>
 Thursday. Jun 4th, 2015. v1.3 beta 8<br>
 Wednesday. Jun 3rd, 2015. v1.3 beta 7<br>
