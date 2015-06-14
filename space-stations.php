@@ -24,17 +24,25 @@
 
 <h2>Coriolis</h2>
 
-<p>Coriolis is the legendary box with corners cut off space station we know from original Elite.</p>
+<img src="images/system-map-coriolis-station.jpg" alt="System Map Coriolis Station" height="auto" width="auto">
+
+<p>Coriolis is the legendary box with corners cut off space station we know from original Elite. This station has large landing pads (as well as medium and small).</p>
 
 <h2>Orbis</h2>
 
-<p>Orbis is the two ring living habitat space station from Frontier games. It's said to be 8km in diameter.</p>
+<img src="images/system-map-orbis-station.jpg" alt="System Map Orbis Station" height="auto" width="auto">
+
+<p>Orbis is the two ring living habitat space station from Frontier games. It's said to be 8km in diameter. This station has large landing pads (as well as medium and small).</p>
 
 <h2>Ocellus</h2>
 
-<p>Ocellus</p>
+<img src="images/system-map-ocellus-station.jpg" alt="System Map Ocellus Station" height="auto" width="auto">
+
+<p>Ocellus is kind of ball looking station almost getting the feeling like its wings cut off as it has no habitat ring. This station has large landing pads (as well as medium and small).</p>
 
 <h2>Outpost</h2>
+
+<img src="images/system-map-outpost-station.jpg" alt="System Map Outpost Station" height="auto" width="auto">
 
 <p>Outpost is a small station (outpost, doh!) which only handles small and medium landing pad size traffic.</p>
 

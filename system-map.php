@@ -64,6 +64,26 @@
 
 <img src="images/Earth-Like-World-001.png" alt="Earth Like World">
 
+<h2>Station Images</h2>
+
+<p><b>Coriolis</b></p>
+
+<img src="images/system-map-coriolis-station.jpg" alt="System Map Coriolis Station" height="auto" width="auto">
+
+<p><b>Orbis</b></p>
+
+<img src="images/system-map-orbis-station.jpg" alt="System Map Orbis Station" height="auto" width="auto">
+
+<p><b>Ocellus</b></p>
+
+<img src="images/system-map-ocellus-station.jpg" alt="System Map Ocellus Station" height="auto" width="auto">
+
+<p><b>Outpost</b></p>
+
+<img src="images/system-map-outpost-station.jpg" alt="System Map Outpost Station" height="auto" width="auto">
+
+<p>For more space station info see <a href="space-stations.php">Space Stations</a> page.</p>
+
 <h2>Cockpit Hologram Images</h2>
 
 <p>These are the cockpit hologram images you get when you select planet etc as target.</p>
