@@ -118,6 +118,10 @@ Wyrd - Vonarburg Co-Operative
 LHS 2884 - Abnett Platform <- not markedscraped yet
 
 -->
+<p>Q: how do you get exact coordinates for systems? (to be included in community databases)<br>
+A: Use this page to enter new systems <a href="http://robert.astronet.se/Elite/ed-systems/entry.html">Elite New System (Astronet)</a>.
+</p>
+
 </section>
 
 <footer>
