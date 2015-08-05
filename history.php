@@ -23,6 +23,7 @@
 <h2>History of Elite Dangerous</h2>
 
 <p>
+Wednesday. Aug 5th, 2015. v1.3.08<br>
 Thursday. Jul 7th, 2015. v1.3.07<br>
 Friday. Jun 26th, 2015. v1.3.06 Server side update<br>
 Thursday. Jun 25th, 2015. v1.3.06<br>
@@ -129,6 +130,9 @@ Friday. Dec 20th, 2013. Alpha Phase One
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
+v1.3.08<br>
+1336hrs Release
+<br><br>
 v1.3.06<br>
 1201hrs Servers down<br>
 1230hrs Release
