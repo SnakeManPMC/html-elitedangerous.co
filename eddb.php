@@ -23,6 +23,8 @@
 <h2>Elite Dangerous Data Base</h2>
 
 <p>EDDB is created by themroc and you can find it here; <a href="http://eddb.io">EDDB Homepage</a>.</p>
+
+<p>Star system coordinates; <a href="http://starchart.club">Starchart</a> coords overrule EDDB coords.</p>
 </section>
 
 <footer>
