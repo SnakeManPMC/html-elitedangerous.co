@@ -23,6 +23,17 @@
 <h2>Conflict Zones</h2>
 
 <p>These are the locations where factions are at war. Here you can find capital ships and intense combat with many ships in the fight. Combat Bonds (bounties sort of) are not that high as in <a href="resource-extraction-sites.php">RES</a> but conflict zones have little bit more action for sure.</p>
+
+<p>Combat income does not affect your rank. It is based on how tough enemies you kill, e.g. if youre novice and destroy a dangerous enemy, you'll get a big rank increase, but no increase at all the other way around.
+<br><br>
+To progress your combat rank you basically have to destroy ships of your rank or higher. It does not matter how much they're worth or what ships they are.
+<br><br>
+Conflict Zones are very good for that, as they are guaranteed to endlessly spawn high rank AI ships.
+<br><br>
+This wiki page seems to be up to date with conflict zone kill rewards: http://elite-dangerous.wikia.com/wiki/Combat_Bond_Voucher
+<br><br>
+Also, bounties and combat bonds are given a slight passive boost in systems controlled or exploited by Arissa Lavigny-Duval. Pledging is not required.</p>
+
 </section>
 
 <footer>
