@@ -128,6 +128,7 @@ Friday. Jun 26th, 2015. v1.3.06 Server side update<br>
 Thursday. Jul 7th, 2015. v1.3.07<br>
 Wednesday. Aug 5th, 2015. v1.3.08<br>
 Monday. Sep 1st, 2015. v1.4 beta<br>
+Tuesday. Oct 6th, 2015. v1.4<br>
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -336,8 +337,13 @@ v1.3.05<br>
 v1.3.06<br>
 1201hrs Servers down<br>
 1230hrs Release
+<br><br>
 v1.3.08<br>
 1336hrs Release
+<br><br>
+v1.4<br>
+1015hrs Servers down<br>
+1422hrs Release
 </p>
 </section>
 
