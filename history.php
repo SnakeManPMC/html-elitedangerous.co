@@ -343,7 +343,8 @@ v1.3.08<br>
 <br><br>
 v1.4<br>
 1015hrs Servers down<br>
-1422hrs Release
+1422hrs Release<br>
+1939hrs servers back online (that you got to actually play). Launcher server status is updating, not sure how frequently though.
 </p>
 </section>
 
