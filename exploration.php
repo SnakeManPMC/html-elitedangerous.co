@@ -86,9 +86,9 @@ no weapons, class 2 rating D power plant, class 4 rating D thursters, class 5 ra
 <p>Lore type exploring is to explore "all beautiful" looking planets in system map. However you might not get more than mere 500cr on some of these high metal content etc planets, no matter how nice they look in system map.</p>
 
 <p><b>Exploration timing on ASP with 34.86Ly range (full tank 7 jumps):</b><br>
-explore means you jump + advanced discovery scan and do next jump.<br>
+Explore means you jump + advanced discovery scan and do next jump.<br>
 Surface means explore AND if there is interesting objects, you surface scan (this varies greatly).<br>
-basic jumps without surface scans are the clean traveling method but kind of useless for explorers.<br>
+Basic jumps without surface scans are the clean traveling method but kind of useless for explorers.<br>
 1 jump = 41-44 seconds<br>
 1 jump with advanced discovery scanning + system map check (explore) = 45sec<br>
 500Ly jumps (16) with explore = 14min 24sec<br>
