@@ -349,7 +349,7 @@ v1.4<br>
 <br><br>
 v1.4.01<br>
 1230hrs Servers down<br>
-1315hrs Release
+1515hrs Release
 </p>
 </section>
 
