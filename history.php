@@ -129,6 +129,7 @@ Thursday. Jul 7th, 2015. v1.3.07<br>
 Wednesday. Aug 5th, 2015. v1.3.08<br>
 Monday. Sep 1st, 2015. v1.4 beta<br>
 Tuesday. Oct 6th, 2015. v1.4<br>
+Wednesday. Oct 21st, 2015. v1.4.01
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -345,6 +346,10 @@ v1.4<br>
 1015hrs Servers down<br>
 1422hrs Release<br>
 1939hrs servers back online (that you got to actually play). Launcher server status is updating, not sure how frequently though.
+<br><br>
+v1.4.01<br>
+1230hrs Servers down<br>
+1315hrs Release
 </p>
 </section>
 
