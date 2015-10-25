@@ -25,6 +25,8 @@
 <p>EDDB is created by themroc and you can find it here; <a href="http://eddb.io">EDDB Homepage</a>.</p>
 
 <p>Star system coordinates; <a href="http://starchart.club">Starchart</a> coords overrule EDDB coords.</p>
+
+<p>EDDB now includes shipyard ships for sale and modules outfitting search database.</p>
 </section>
 
 <footer>

@@ -24,7 +24,7 @@
 
 <p>Bounty hunting tips:
 <br><br>
-- find a system with an asteroid belt for mining (RES)<br>
+- find a system with an asteroid belt for mining (<a href="resource-extraction-sites.php">Resource Extraction Sites</a>)<br>
 - buy viper<br>
 - fit your Viper with laser weapons and a Kill Warrant Scanner<br>
 - fly down into the asteroid belt and scan all the ships around you to check if they're wanted

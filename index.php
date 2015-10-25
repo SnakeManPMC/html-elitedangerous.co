@@ -35,11 +35,11 @@
 <div class="icat">
 <h2>Trading</h2>
 <a href="commodities-market.php">Commodities Market</a><br><br>
-<a href="eddb.php">EDDB</a><br><br>
-<a href="eddn.php">EDDN</a><br><br>
-<a href="eliteocr.php">EliteOCR</a><br><br>
+<a href="eddb.php">EDDB</a>, <a href="eddn.php">EDDN</a>, <a href="edsm.php">EDSM</a>, <a href="edmc.php">EDMC</a><br><br>
+<a href="eliteocr.php">EliteOCR</a> by seeebek<br><br>
 <a href="tradedangerous.php">TradeDangerous</a> by kfsone<br><br>
-<a href="landing-pad-size-distance-from-star-tutorial.php">Landing pad size and distance from star tutorial</a>
+<a href="landing-pad-size-distance-from-star-tutorial.php">Landing pad size and distance from star tutorial</a><br><br>
+<a href="thrudds.php">Thrudds Obsolete elite trading tool</a>
 </div>
 
 <div class="icat">
@@ -65,13 +65,16 @@
 <a href="controls.php">Controls (keyboard etc)</a><br><br>
 <a href="mining.php">Mining</a><br><br>
 <a href="ships.php">Ships</a><br><br>
-<a href="space-stations.php">Space Stations</a>
+<a href="space-stations.php">Space Stations</a><br><br>
+<a href="crime.php">Crime (and punishment)</a><br><br>
+<a href="edshipyard.php">edshipyard</a>
 </div>
 
 <div class="icat">
 <h2>PMC Cmdr's Log</h2>
 <a href="my-path-to-anaconda.php">My path to Anaconda</a><br><br>
-<a href="pmc-most-wanted.php">PMC Most Wanted</a>
+<a href="pmc-most-wanted.php">PMC Most Wanted</a><br><br>
+<a href="https://www.youtube.com/user/pmcsince1984">PMC Elite Dangerous Youtube videos</a>
 </div>
 
 </section>
