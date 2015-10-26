@@ -21,10 +21,22 @@
   <loc>http://tactical.nekromantix.com/elite/controls.php</loc>
 </url>
 <url>
+  <loc>http://tactical.nekromantix.com/elite/crime.php</loc>
+</url>
+<url>
   <loc>http://tactical.nekromantix.com/elite/eddb.php</loc>
 </url>
 <url>
   <loc>http://tactical.nekromantix.com/elite/eddn.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/edmc.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/edshipyard.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/edsm.php</loc>
 </url>
 <url>
   <loc>http://tactical.nekromantix.com/elite/eliteocr.php</loc>
@@ -79,6 +91,9 @@
 </url>
 <url>
   <loc>http://tactical.nekromantix.com/elite/system-map.php</loc>
+</url>
+<url>
+  <loc>http://tactical.nekromantix.com/elite/thrudds.php</loc>
 </url>
 <url>
   <loc>http://tactical.nekromantix.com/elite/tradedangerous.php</loc>
