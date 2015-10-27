@@ -129,7 +129,8 @@ Thursday. Jul 7th, 2015. v1.3.07<br>
 Wednesday. Aug 5th, 2015. v1.3.08<br>
 Monday. Sep 1st, 2015. v1.4 beta<br>
 Tuesday. Oct 6th, 2015. v1.4<br>
-Wednesday. Oct 21st, 2015. v1.4.01
+Wednesday. Oct 21st, 2015. v1.4.01<br>
+Tuesday. Oct 27th, 2015. v1.4.01 Server side update
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
