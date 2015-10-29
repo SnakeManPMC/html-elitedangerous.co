@@ -65,19 +65,20 @@ LTT 2667, Stephenson Hub 414ls; high/low res 1ls, low CZ 38ls, LTT 2667 5: haz r
 
 <p>Outsiders list of RES:<br>
 BD+75 58<br>
-HIP 18527<br>
-Nerthus<br>
 Cayutormi<br>
 Giryampi<br>
+HIP 18527<br>
+Nerthus<br>
 TZ Arietis
 <br><br>
 Hazardous RES:<br>
-Ling Deti<br>
-LHS 215<br>
-UBV 15076<br>
+Akandi<br>
 LFT 133<br>
 LHS 20<br>
-Akandi
+LHS 215<br>
+Ling Deti<br>
+UBV 15076<br>
+Wolf 1241
 </p>
 
 <p>In piece of shit powerplay you get some bonuses for bounty hunting even if you dont pledge to that crap. In empire that bitch lavigny duval something has passive 20% bonus for bounty hunting credits. You just have to be in that powers control system to do the bounty hunting. For example in system LTT 2667.
