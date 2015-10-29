@@ -29,7 +29,8 @@
 <a href="bounty-hunting.php">Bounty Hunting</a><br><br>
 <a href="conflict-zones.php">Conflict Zones</a><br><br>
 <a href="resource-extraction-sites.php">Resource Extraction Sites (RES)</a><br><br>
-<a href="weapons.php">Weapons</a>
+<a href="weapons.php">Weapons</a><br><br>
+<a href="combat-analysis.php">Combat Analysis</a> with difference ships
 </div>
 
 <div class="icat">
@@ -39,7 +40,8 @@
 <a href="eliteocr.php">EliteOCR</a> by seeebek<br><br>
 <a href="tradedangerous.php">TradeDangerous</a> by kfsone<br><br>
 <a href="landing-pad-size-distance-from-star-tutorial.php">Landing pad size and distance from star tutorial</a><br><br>
-<a href="thrudds.php">Thrudds Obsolete elite trading tool</a>
+<a href="thrudds.php">Thrudds Obsolete elite trading tool</a><br><br>
+<a href="trading.php">Trading Basic Info</a>
 </div>
 
 <div class="icat">

@@ -54,6 +54,38 @@
 
 <p>If you intend to do mining then I would advise looking for metallic rings first, metal rich rings second, and rocky rings third. And don't do it at a RES.</p>
 
+<h2>Snakes RES List</h2>
+<p>Dvorsi, Fowler Orbital: conflict zone 10ls, high/low RES 890ls<br>
+Delkar, Invergary: high/low/haz RES 3170ls<br>
+Pemoeri, Al-din Landing: high/low RES 3ls (very colorful RES), normal RES 43ls, also collect bountys from both Empire and Federation!<br>
+Asegezites, Zewail Gateway, haz res 500ls<br>
+Timbalderis, Roberts Enterprise (outpost) 1250ls: low/2xhaz RES 1ls (v1.4.01 has stutter on haz 0ls)<br>
+LTT 2667, Stephenson Hub 414ls; high/low res 1ls, low CZ 38ls, LTT 2667 5: haz res 1100ls
+</p>
+
+<p>Outsiders list of RES:<br>
+BD+75 58<br>
+HIP 18527<br>
+Nerthus<br>
+Cayutormi<br>
+Giryampi<br>
+TZ Arietis
+<br><br>
+Hazardous RES:<br>
+Ling Deti<br>
+LHS 215<br>
+UBV 15076<br>
+LFT 133<br>
+LHS 20<br>
+Akandi
+</p>
+
+<p>In piece of shit powerplay you get some bonuses for bounty hunting even if you dont pledge to that crap. In empire that bitch lavigny duval something has passive 20% bonus for bounty hunting credits. You just have to be in that powers control system to do the bounty hunting. For example in system LTT 2667.
+</p>
+
+<p>This passive bonus works so that once you scan wanted ship, check contacts panel and then destroy this ship you see the value in the contacts and upper right side of the cockpit HUD, however in transactions you have received the credits with 20% bonus.
+</p>
+
 </section>
 
 <footer>
