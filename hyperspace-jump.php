@@ -29,6 +29,18 @@ However not all jump reachable star systems are listed in the Navigation panel e
 <p>You need to cut throttle after FSD has charged and the countdown begins because at the destination system your are dropped dangerously close to the system's star. For example in Lakon Type-9 Heavy, unless you cut your throttle and immediately turn away from the star, you'll hit the too close proximity alarm and are forced out of super cruise.</p>
 
 <p>On Beta 3.05 Lakon ASP with 27.2Ly jump range; 306Ly distance with one (slow) fuel scoop stop took 35min (dont remember how many jumps). So you could roughly say that in one hour you can travel about 600Ly distance.</p>
+
+<h2>Frame Shift Drive Charge Time</h2>
+
+<p>Why does my Frame Shift Drive (FSD) charge time sometimes take a really long time? It's because you are engaging super cruise FSD and are mass-locked not by station or astroid field (in <a href="resource-extraction-sites.php">RES</a>), but by other (larger) ships.
+</p>
+
+<p>You will always charge FSD at normal speed when you are hyper jumping, but when you are entering super cruise, FSD charge time can be slowed down by the other ships around you.
+</p>
+
+<p>For such slow FSD charge times you can use trick to quickly select star system from left hand side navigation panel and hyper jump there as hyper jump FSD charge time is not limited by nearby ships.
+</p>
+
 </section>
 
 <footer>
