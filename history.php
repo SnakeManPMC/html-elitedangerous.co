@@ -133,7 +133,8 @@ Wednesday. Oct 21st, 2015. v1.4.01<br>
 Tuesday. Oct 27th, 2015. v1.4.01 Server side update<br>
 Thursday. Nov 5th, 2015. v1.4.01 Server side update<br>
 Friday. Nov 13th, 2015. v1.5 Beta<br>
-Saturday. Nov 14th, 2015. v1.5 Beta 2
+Saturday. Nov 14th, 2015. v1.5 Beta 2<br>
+Tuesday. Nov 17th, 2015. v1.5 Beta 3<br>
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -360,6 +361,9 @@ v1.5 Beta<br>
 <br><br>
 v1.5 Beta 2<br>
 1636hrs Release
+<br><br>
+v1.5 Beta 3<br>
+1330hrs Release
 </p>
 </section>
 
