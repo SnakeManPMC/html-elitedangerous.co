@@ -45,6 +45,48 @@ Only shoot <b>WANTED</b> ships on policed systems, only system where you can sum
 <b>Nav Beacons</b> are pretty decent place to find wanted ships, again remember to KWS scan them and make sure not to shoot clean ships.
 </p>
 
+<h2>A Lavigny-Duval Bounty Hunting 20% Passive Bonus</h2>
+
+<p>This power gives 20% passive bonus (no need to pledge to power) for bounties.
+</p>
+
+<p>How to find it?<br>
+Open galaxy map, select powerplay -> a lavigny-duval -> control (systems). Now you can see all the systems where you get 20% increase to all bounty hunting kills.
+</p>
+
+<p><b>List of A Lavigny-Duval systems with RES:</b>
+</p>
+
+<p>Cerni; pristine reserves. cerni 1, metal rich, res + low intensity res. cerni 3, rocky, 4 x haz-res + res + low intensity res. cerni 2, 4 and 5 has nothing.
+</p>
+
+<p>CD-49 3617; major reserves. CD-49 3617 1, rocky, res + haz-res. CD-49 3617 3, rocky, low intensity res + haz-res, conflict zone. CD-49 3617 2 and 4 has nothing.
+</p>
+
+<p>Jura; pristine reserves. Jura 7, metallic, res.
+</p>
+
+<p>HIP 16607; pristine reserves. HIP 16607 2, rocky, low/high intensity res, low/high conflict zones. HIP 16607 1, metallic, haz-res + res + high intensity res + low intensity conflict zone.
+</p>
+
+<p><b>General Pristine Reserves Info</b>
+</p>
+
+<p>CD-49 3617 3 major reserves rocky haz-res was very poor with combat ranking ships, I never saw elite ranked wanted ship and rarely even deadly ranks.
+</p>
+
+<p>Jura 7 pristine reserves same ranked ships but bounties were like doubled compared to major reserves RES.
+</p>
+
+<p>HIP 16607 pristine metallic same ranked ships but bounties were like doubled compared to major reserves RES.
+</p>
+
+<p>Zeta Horologii has high/low RES, RES and HAZ-RES. May Port is also a high tech station so they have most types of equipment for sale.
+</p>
+
+<p>A Lavigny-Duval system pristine reserves, did not detail scan yet so dont know what types, medium pads only: Tiburnat
+</p>
+
 </section>
 
 <footer>
