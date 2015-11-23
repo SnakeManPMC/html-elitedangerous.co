@@ -54,9 +54,15 @@ ASP A5 thrusters, A6 shields, A4 power distributor, with 6x gimballed pulse lase
 <p>A rated Anaconda is like a fortress but not really in the good way, its incredibly strong with shields but its firepower lack of what A rated python has for example.
 </p>
 
+<p>Anaconda with 4 x 3D turreted beam lasers, full pips to weapons and heating stays at 91% level. Kills eagles and diamondbacks with one buzz. Would have plenty of room for cannons etc.
+</p>
+
 <h2>Combat Tactics</h2>
 
 <p>When you have wing of wanted ships, two, three or even five, attack the weakest ship first and move up the ranks (not literally combat ranks but ship capabilities) towards the largest ship. This way you eliminate many weapons firing at you while you battle the largest most powerful ship.
+</p>
+
+<p>Left hand side panel Contacts tab lists all the contacts in your scanner, this is sorted that largest contact (ship) is top of the list. This usually (usually!) is your most dangerous enemy/target/contact.
 </p>
 
 <h2>Combat with a CMDR in a Wing</h2>
