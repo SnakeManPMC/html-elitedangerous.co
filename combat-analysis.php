@@ -30,7 +30,7 @@ Gimballed or turret weapons cannot hit shit, useless.
 ASP with gimballed pulse lasers, hit rate is very nice. No problem against interdicting smaller AI ships (eagle, sidewinder and one vulture too).
 </p>
 
-<p>v1.4 beta 3</p>
+<p>v1.4 beta 3<br>
 Eagle has hardpoints below and above cockpit which looks odd. pulse lasers are pulse lasers, what can you say. turn rate is decent I think, still had lot of endless turn fights.
 <br><br>
 Python turn rate is horribly slow even with best thrusters. Constant of endless turn fights. Beam lasers are drained quite fast.

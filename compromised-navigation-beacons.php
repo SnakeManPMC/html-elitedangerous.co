@@ -78,7 +78,7 @@ Ross 773, 2015-11-23T04:19:35Z
 
 <p><b>A Lavigny-Duval Control Systems</b> search for compromised navigation beacons, these systems have been searched 2015-11-23 and no beacon has been found:
 <br><br>
-*FACECE <- no permit :)<br>
+*FACECE no permit :)<br>
 AB Pictoris<br>
 Amenta<br>
 Anum<br>
