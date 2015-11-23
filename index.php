@@ -29,6 +29,7 @@
 <a href="bounty-hunting.php">Bounty Hunting</a><br><br>
 <a href="conflict-zones.php">Conflict Zones</a><br><br>
 <a href="resource-extraction-sites.php">Resource Extraction Sites (RES)</a><br><br>
+<a href="compromised-navigation-beacons.php">Compromised Navigation Beacons</a><br><br>
 <a href="weapons.php">Weapons</a><br><br>
 <a href="combat-analysis.php">Combat Analysis</a> with difference ships
 </div>
