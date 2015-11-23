@@ -48,6 +48,9 @@
 
 <h2>How do I find Resource Extraction Sites (RES)?</h2>
 
+<p>Here is our list of <a href="pristine-reserves-metallic-rings.php">Pristine Reserves Metallic Rings</a> which are the best RES types available.
+</p>
+
 <p>Filter your map to systems with extraction economies. Find one that has a planet with rocky, metal rich or metallic rings. There ought to be bunch of RES there. You have to be within 1000Ls before RES shows up on your navigation panel.</p>
 
 <p>Look in system map, you are looking for gas giants with rings. But not any rings, have to be rock rings. Ice won't work, since there is nothing to extract.</p>

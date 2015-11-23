@@ -33,7 +33,7 @@
 <p>If you cant find good minerals you are probably just outside the inner ring (it's quite thin). Theres a rocky outer ring and a small metallic inner ring.
 </p>
 
-<p>Pristine Metallic mining sites: <a href="http://imgur.com/a/vEqgv">imgur: Elite Dangerous Pristine Metallic Mining Sites</a>
+<p>Pristine Reserves Metallic ring systems: <a href="pristine-reserves-metallic-rings.php">Pristine Reserves Metallic Rings</a>, or image link <a href="http://imgur.com/a/vEqgv">imgur: Elite Dangerous Pristine Metallic Mining Sites</a>
 </p>
 
 <p>If you go to a <a href="resource-extraction-sites.php">Resource Extration Site (RES)</a>, you might want to move further than 30km from the navigation marker so the AI ships stop spawning around you and therefore possibly attacking you. You can also pick ANY spot from the rings to drop out of supercruise and start mining without AI presence. In v1.4 however it seems to spawn one set of AI ships when you drop out of supercruise but that is all, if you evade/destroy those ships you're left alone.

@@ -66,6 +66,7 @@
 <h2>Miscellaneous</h2>
 <a href="controls.php">Controls (keyboard etc)</a><br><br>
 <a href="mining.php">Mining</a><br><br>
+<a href="pristine-reserves-metallic-rings.php">Pristine Reserves Metallic Rings</a><br><br>
 <a href="ships.php">Ships</a><br><br>
 <a href="space-stations.php">Space Stations</a><br><br>
 <a href="crime.php">Crime (and punishment)</a><br><br>
