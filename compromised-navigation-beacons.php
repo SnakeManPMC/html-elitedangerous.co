@@ -3,7 +3,7 @@
 <head>
 <title>PMC Elite Dangerous - Compromised Navigation Beacons</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC, Elite Dangerous, Compromised Navigation Beacons">
+<META name="description" content="Compromised Navigation Beacons Locations List at PMC Elite Dangerous">
 <META name="keywords" content="PMC, Elite Dangerous, Compromised, Navigation, Beacons">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -20,7 +20,7 @@
 </header>
 
 <section>
-<h2>Compromised Navigation Beacons</h2>
+<h2>Compromised Navigation Beacons Locations List</h2>
 
 <p>These are full of deadly/elite ships!
 </p>
