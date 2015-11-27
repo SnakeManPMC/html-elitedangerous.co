@@ -42,6 +42,7 @@ Coringha, 2015-11-23T02:35:30Z. security low, no conflicts. (actually two factio
 CU Cancri, 2015-11-23T05:59:44Z. security low, two factions at state of war.<br>
 Gliese 9152, 2015-11-23T02:42:10Z. security low, two factions at state of war.<br>
 Gubiakum, 2015-11-23T03:28:52Z. security low, two factions at state of civil war.<br>
+Hecate, 2015-11-25T07:54:12Z. security low, no conflicts.<br>
 HIP 11131, 2015-11-23T02:55:31Z. security medium, no conflicts.<br>
 HIP 11182, 2015-11-23T03:08:51Z. security low, two factions at state of civil war.<br>
 HIP 4291, 2015-11-23T06:28:45Z. security low, two factions at state of war.<br>
