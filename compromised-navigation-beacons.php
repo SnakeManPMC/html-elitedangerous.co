@@ -22,13 +22,13 @@
 <section>
 <h2>Compromised Navigation Beacons Locations List</h2>
 
-<p>These are full of deadly/elite ships!
+<p>These are full of deadly/elite ships! If you are looking for juicy bounties or progress your combat rank, this is the best place to find Elite ranked ships (hazardous resource extraction site feels like kindergarden compared to this, heh).
 </p>
 
-<p>They are definitely not exclusive to anarchy systems. These beacons seem to not allow a distress call to authority ships, making them ideal for pirates and smugglers. Based on that, it's a good assumption that this occurs when a criminal/pirate faction has gained a lot of influence in a system, but is not in control (in the case where the system is not anarchy). The civil war status (when one of the warring factions is pirate/criminal) may have to do with this as well. All of this needs verification.
+<p>There are no police presence here and these beacons do not allow a distress call to authority ships, making them ideal for pirates, much like hazardous resource extraction sites.
 </p>
 
-<p>Special interest objects (nav beacon in this case) do not show up in navigation panel if you are docked in station, only after you depart it will show up. These objects do not show up until you get closer than 1000Ls distance.
+<p>Special interest objects (nav beacon in this case) do not show up in navigation panel if you are docked in station, only after you depart it will appear. These objects do not show up until you get closer than 1000Ls distance.
 </p>
 
 <p><b>Snake Confirmed Compromised Navigation Beacons:</b>
