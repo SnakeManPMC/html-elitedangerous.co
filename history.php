@@ -135,6 +135,7 @@ Thursday. Nov 5th, 2015. v1.4.01 Server side update<br>
 Friday. Nov 13th, 2015. v1.5 Beta<br>
 Saturday. Nov 14th, 2015. v1.5 Beta 2<br>
 Tuesday. Nov 17th, 2015. v1.5 Beta 3<br>
+Monday. Nov 30th, 2015. Horizons Beta
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -364,6 +365,11 @@ v1.5 Beta 2<br>
 <br><br>
 v1.5 Beta 3<br>
 1330hrs Release
+<br><br>
+Elite 2.0 Horizons Beta 1<br>
+2019hrs patch notes<br>
+2130hrs release for ships v1.5 beta 64bit<br>
+2206hrs release for horizons beta in our IRC channel when we figured how to activate horizons beta :)
 </p>
 </section>
 
