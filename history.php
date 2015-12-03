@@ -137,6 +137,7 @@ Saturday. Nov 14th, 2015. v1.5 Beta 2<br>
 Tuesday. Nov 17th, 2015. v1.5 Beta 3<br>
 Monday. Nov 30th, 2015. v2.0 Horizons Beta 1<br>
 Tuesday. Dec 1st, 2015. v2.0 Horizons Beta 2<br>
+Wednesday. Dec 3rd, 2015. v2.0 Horizons Beta 3
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -374,6 +375,9 @@ v2.0 Horizons Beta 1<br>
 <br><br>
 v2.0 Horizons Beta 2<br>
 2030hrs Release
+<br><br>
+v2.0 Horizons Beta 3<br>
+1700hrs Release
 </p>
 </section>
 
