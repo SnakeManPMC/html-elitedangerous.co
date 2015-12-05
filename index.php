@@ -51,7 +51,8 @@
 <a href="system-map.php">System Map Guide</a><br><br>
 <a href="hyperspace-jump.php">Hyperspace Jump</a><br><br>
 <a href="super-cruise.php">Super Cruise</a><br><br>
-<a href="star-systems.php">Star Systems</a>
+<a href="star-systems.php">Star Systems</a><br><br>
+<a href="planetary-landings-guide.php">Planetary Landings</a>
 </div>
 
 <div class="icat">
