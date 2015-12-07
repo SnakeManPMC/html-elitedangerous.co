@@ -22,7 +22,8 @@
 <section>
 <h2>Exploration</h2>
 
-<p>Our <a href="system-map.php">System Map Guide</a> gives you nice overview of interesting astronomical objects.</p>
+<p>Our <a href="system-map.php">System Map Guide</a> gives you nice overview of interesting astronomical objects. Also check <a href="exploration-special-planets.php">Exploration Special Planets</a> for list of cool planets.
+</p>
 
 <p>Exploration technique:<br>
 Arrive at new system, ship automatically discovers the star where you hyperjumped. System map shows that star as unexplored, but the info panel still gives basic info like age etc. No other bodies are shown in system map.
