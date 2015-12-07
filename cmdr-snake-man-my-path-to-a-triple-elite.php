@@ -22,7 +22,7 @@
 <section>
 <h2>This is my story of how I reached Triple Elite status</h2>
 
-<p>Beginning statistics as reference. Also rough estimate how long time it takes to reach this goal, however as you can read below this estimate went so belly up its not even funny. This below status and estimate was written in 2015-04-03.
+<p>Beginning statistics as reference. Also rough estimate how long time it takes to reach this goal, however as you can read below this estimate went so belly up its not even funny. This below status and estimate was written in 2015-04-03 and while I could have easily deleted whole thing I really wanted to leave it here as reminder of what my expectactions were when starting this. Also hopefully this helps anyone who thinks about same kind of plan to reach this goal.
 </p>
 <p>
 Combat<br>
@@ -226,7 +226,8 @@ exploration profits before: 142,135,626 after: 152,883,744</p>
 <p>credits before selling: 34,963,742 after selling: 40,344,085 so made total of: 5,380,343 credits.<br>
 exploration profits before: 152,883,744 after: 158,264,087</p>
 
-<p>You can watch <a href="">My path to a Exploration Elite</a> video on youtube.
+<p>You can watch <a href="https://www.youtube.com/watch?v=dBQ-zKxdnzI">My path to a Exploration Elite Part 1 (1080p)</a> and 
+<a href="https://www.youtube.com/watch?v=VccS-OxaJpU">My path to a Exploration Elite Part 2 (2160p)</a> videos on youtube.
 </p>
 
 <h2>Trading Elite</h2>
@@ -379,7 +380,7 @@ My trade rank is Tycoon with 24 percentage.</p>
 
 <img src="images/trade-elite.jpg" alt="CMDR Snake Man Trade Elite Rank">
 
-<p>You can watch <a href="">My path to a Trading Elite</a> video on youtube.
+<p>You can watch <a href="https://www.youtube.com/watch?v=SE97Sa3v2EM">My path to a Trading Elite</a> video on youtube.
 </p>
 
 <p>2015-10-18T04:30:00Z: finished smuggling for today, last mission completed, uuh exhausted.
@@ -577,7 +578,7 @@ Too bad I didn't yet find any such beacons in A Lavigny-Duval control systems wh
 
 <img src="images/cmdr-snake-man-triple-elite-nov-29th-3301.jpg" alt="CMDR Snake Man Triple Elite! Nov 29th, 3301">
 
-<p>You can watch <a href="">My path to a Combat Elite</a> video on youtube.
+<p>You can watch <a href="https://www.youtube.com/watch?v=2M3hd7njFqE">My path to a Combat Elite</a> video on youtube.
 </p>
 
 <h2>Triple Elite Thoughts</h2>
