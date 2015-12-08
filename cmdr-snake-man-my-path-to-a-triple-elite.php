@@ -332,7 +332,7 @@ Hyper jumped 246 times during this 60 hop trading route (not sure how many actua
 
 <p>2015-09-22T11:46:01Z: at Shinrarta Dezhra, Jameson Memorial. Outfitted my Anaconda with trading setup as so many CMDR's out there think it is the best trading ship, hah. Now I've got it on 468t cargo capacity which means no shields. Also I didn't add any weapons as the point of using anaconda... is the longer jump range. At least that's what I think the fools are after, dunno.</p>
 
-<p>2015-09-22T13:28:54Z: returned to Shinrarta Dezhra, Jameson Memorial. Sold cargo racks from anaconda, it is not better trading ship than Lakon Type-9. Those idiots who trade with anaconda thinking its better... haha, its so sad.</p>
+<p>2015-09-22T13:28:54Z: returned to Shinrarta Dezhra, Jameson Memorial. Sold cargo racks from anaconda, it is not better trading ship than Lakon Type-9. Those idiots who trade with anaconda thinking its better... haha, its so sad. BTW you might think this is bit harsh so let me clear something up; I dont hate anaconda and I dont hate CMDR's who trade with anaconda... I do hate the idiots who boast against common sense that its best trade ship. You can trade with eagle for all I care :)</p>
 
 <p>Picked up my station exploration ASP and went back to get market price data for those large pad stations within 1000ls that do not have it.</p>
 
