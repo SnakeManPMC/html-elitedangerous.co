@@ -66,7 +66,8 @@ Tjupany, 2015-11-23T06:22:45Z. security low, two factions at state of civil war.
 V857 Centauri, 2015-11-23T05:39:23Z. security low, no conflicts.<br>
 Vucub Huan, 2015-11-23T05:54:33Z. security low, no conflicts.<br>
 Wolf 1509, 2015-11-23T04:15:35Z. security medium, two factions at state of war.<br>
-Yarram, 2015-11-23T06:25:25Z. security low, two factions at state of civil war.
+Yarram, 2015-11-23T06:25:25Z. security low, two factions at state of civil war.<br>
+Maca
 </p>
 
 <p><b>Snake Confirmed NO Beacon:</b>
