@@ -34,6 +34,10 @@ The lights are orientation lights so you can align your ship to the station in a
 <br><br>
 <i>Development will continue past the December release. Currently the plan is to continue indefinitely - a game like this is never 'finished' - there is always something we can add or improve, but this date is a reasonable measure of what we think will be a great game.</i> -David Braben
 </p>
+
+<h2>Elite Dangerous v2.0 Horizons Release Date Announced</h2>
+<p>On Wednesday. Dec 9th, 2015. David Braben announced the Tuesday Dec 15th release date for v2.0 which will be considered as "early access".
+</p>
 </section>
 
 <footer>
