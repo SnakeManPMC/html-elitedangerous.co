@@ -31,6 +31,9 @@
 <p>Special interest objects (nav beacon in this case) do not show up in navigation panel if you are docked in station, only after you depart it will appear. These objects do not show up until you get closer than 1000Ls distance.
 </p>
 
+<p>It is random generated stuff same as <a href="resource-extraction-sites.php">RES</a>, if you don't get Elite ranked ships just relog open -> private -> solo, to reset it.
+</p>
+
 <p><b>Snake Confirmed Compromised Navigation Beacons:</b>
 <br><br>
 Alnair, 2015-11-23T02:10:58Z. security low, no conflicts.<br>

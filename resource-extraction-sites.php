@@ -57,6 +57,9 @@
 
 <p>If you intend to do mining then I would advise looking for metallic rings first, metal rich rings second, and rocky rings third. And don't do it at a RES.</p>
 
+<p>It is random generated stuff same as <a href="compromised-navigation-beacons.php">Compromised Navigation Beacons</a>, if you don't get high ranked ships just relog open -> private -> solo, to reset it.
+</p>
+
 <h2>Snakes RES List</h2>
 <p>Dvorsi, Fowler Orbital: conflict zone 10ls, high/low RES 890ls<br>
 Delkar, Invergary: high/low/haz RES 3170ls<br>
