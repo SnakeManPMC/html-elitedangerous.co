@@ -34,21 +34,61 @@
 
 <p>You can try out different configurations for your ships in <a href="http://www.edshipyard.com/">Elite Shipyard</a> site.</p>
 
-<h2>Sidewinder</h2>
+<h2>Adder</h2>
 
-<p>Sidewinder. Price free ship on game start but normal cost 32,000cr. 4x cargo hold. ? weapons mounts. max speed ?, engine boost ?, jump range 8.26Ly fully fueled (no weapons).</p>
+<p>Adder</p>
+
+<h2>Anaconda</h2>
+
+<p>Anaconda. Price 146.9 million cr. 228x cargo hold. ? weapon mounts.</p>
+
+<p>Anacond max jump range is 39.35Ly unladen.</p>
+
+<h2>Asp Explorer</h2>
+
+<p>Price 6,661,153cr. Jump range 13.12Ly unladen, default. cargo 70t default, 160t pimped.</p>
+
+<p>Asp class 5 rating E frame shift drive gives jump range of 25.8Ly unladen and 19Ly laden. With class 5 rating A FSD its 34.86Ly. As the name says Asp Explorer is the best exploration ship without a doubt.</p>
+
+<h2>ASP Scout</h2>
+
+<p>ASP Scout</p>
+
+<h2>Cobra Mk III</h2>
+
+<p>Cobra Mk III. Price 279,718cr. 36x cargo hold. ? weapons mounts. max speed ?, engine boost ?.</p>
+
+<h2>Diamondback Explorer</h2>
+
+<p>Diamondback Explorer</p>
+
+<h2>Diamondback Scout</h2>
+
+<p>Diamondback Scout</p>
 
 <h2>Eagle</h2>
 
 <p>Eagle. Price 44,800cr. 4x cargo hold. max speed 240, engine boost 330.</p>
 
-<h2>Viper</h2>
+<h2>Federal Assault Ship</h2>
 
-<p>Price 142,931cr</p>
+<p>Federal Assault Ship</p>
 
-<h2>Adder</h2>
+<h2>Federal Corvette</h2>
 
-<p>Adder</p>
+<p>Federal Corvette</p>
+
+<h2>Federal Dropship</h2>
+
+<p>Federal Dropship. 14,3 million.</p>
+
+<h2>Federal Gunship</h2>
+
+<p>Federal Gunship. 35,8 million.</p>
+
+<h2>Fer-de-Lance</h2>
+
+<p>Fer-de-Lance</p>
 
 <h2>Hauler</h2>
 
@@ -56,37 +96,25 @@
 
 <p>Hauler can be pimped to 35Ly jump capability.</p>
 
-<h2>Cobra Mk III</h2>
+<h2>Imperial Clipper</h2>
 
-<p>Cobra Mk III. Price 279,718cr. 36x cargo hold. ? weapons mounts. max speed ?, engine boost ?.</p>
+<p>Imperial Clipper</p>
 
-<h2>Lakon Type-6</h2>
+<h2>Imperial Courier</h2>
 
-<p>Lakon Type-6. Price 1,045,945cr. 100x cargo hold. 2 x Class 2 weapon mounts, 3x utility mounts, 1 support mount. Max speed 220, engine boost 350.</p>
+<p>Imperial Courier</p>
 
-<p>type-6 max jump 26.5LY (my test 25.7LY) empty and 15.64LY full (about 75% fuel).</p>
+<h2>Imperial Cutter</h2>
 
-<h2>Lakon Type-7</h2>
+<p>Imperial Cutter requires rank of Duke.</p>
 
-<p>Lakon Type-7 price about 17 million.</p>
+<h2>Imperial Eagle</h2>
 
-<h2>Asp (explorer)</h2>
+<p>Imperial Eagle</p>
 
-<p>Price 6,661,153cr. Jump range 13.12Ly unladen, default. cargo 70t default, 160t pimped.</p>
+<h2>Keelback</h2>
 
-<p>ASP class 5 rating E frame shift drive gives jump range of 25.8Ly unladen and 19Ly laden. With class 5 rating A FSD its 34.86Ly. As the name says ASP is the best exploration ship without a doubt.</p>
-
-<h2>Federal Dropship</h2>
-
-<p>Federal Dropship. 37.8 million.</p>
-
-<h2>Lakon Type-9 Heavy</h2>
-
-<p>Lakon Type-9 Heavy. Price 76.5 million cr. 532x cargo hold. ? weapons mounts. max speed 130, engine boost 190.</p>
-
-<p>jump range 7.?Ly unladen, default. Cargp 220t default. Lakon Type-9 FSD class 6, rating F: 1.8 million cr. class 6, rating E - 5.3 million. class 6, rating D - 16.1 million.</p>
-
-<p>Purchase tips: 6.53Ly jump capability when stripped of weapons/shields/d-scanner Cargo racks 256 capacity 3.8 million. FSD class 6 rating A 16.1 million.</p>
+<p>Keelback</p>
 
 <h2>Orca</h2>
 
@@ -96,29 +124,45 @@
 
 <p>Python is general purpose ship, it can fight and trade.</p>
 
-<h2>Imperial Clipper</h2>
+<h2>Sidewinder</h2>
 
-<p>Imperial Clipper</p>
+<p>Sidewinder. Price free ship on game start but normal cost 32,000cr. 4x cargo hold. ? weapons mounts. max speed ?, engine boost ?, jump range 8.26Ly fully fueled (no weapons).</p>
 
-<h2>Anaconda</h2>
+<h2>Lakon Type-6</h2>
 
-<p>Anaconda. Price 146.9 million cr. 228x cargo hold. ? weapon mounts.</p>
+<p>Lakon Type-6. Price 1,045,945cr. 100x cargo hold. 2 x Class 2 weapon mounts, 3x utility mounts, 1 support mount. Max speed 220, engine boost 350.</p>
 
-<p>Anacond max jump range is 39.35Ly unladen.</p>
+<p>type-6 max jump 26.5LY (my test 25.7LY) empty and 15.64LY full (about 75% fuel).</p>
+
+<h2>Lakon Type-7</h2>
+
+<p>Lakon Type-7 price 17,4 million.</p>
+
+<h2>Lakon Type-9 Heavy</h2>
+
+<p>Lakon Type-9 Heavy. Price 76,5 million cr. 532x cargo hold. ? weapons mounts. max speed 130, engine boost 190.</p>
+
+<p>jump range 7.?Ly unladen, default. Cargp 220t default. Lakon Type-9 FSD class 6, rating F: 1.8 million cr. class 6, rating E - 5.3 million. class 6, rating D - 16.1 million.</p>
+
+<p>Purchase tips: 6.53Ly jump capability when stripped of weapons/shields/d-scanner Cargo racks 256 capacity 3.8 million. FSD class 6 rating A 16.1 million.</p>
+
+<h2>Viper</h2>
+
+<p>Price 142,931cr</p>
+
+<h2>Viper Mk IV</h2>
+
+<p>Price 437,930 cr</p>
 
 <h2>Vulture</h2>
 
 <p>Vulture</p>
 
-<h2>Fer Der Lance</h2>
+<h2>Cobra Mk IV</h2>
 
-<p>Fer Der Lance</p>
+<p>Cobra Mk IV is only available CMDR's who own both Elite v1.4.01 and v2.0 Horizons, ie both season 1 and 2.</p>
 
-<h2>Diamondback</h2>
-
-<p>Diamondback</p>
-
-<h2>Ship trade-in values (beta era info)</h2>
+<h2>Ship trade-in values (premium beta era info)</h2>
 
 <p>For the purposes of testing the Eagle had no guns or modules fitted and was at 100% hull.</p>
 
