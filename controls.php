@@ -32,8 +32,8 @@ If that doesn't work try "\Products\FORC-FDEV-D-1000\ControlSchemes"</p>
 <b>Comms menu:</b><br>
 /r - reply to comms directed at you<br>
 /local chat to local comms<br>
-/wing chat to wing comms<br><br>
-
+/wing chat to wing comms
+<br><br>
 Use [TAB] to cycle through valid message recipients<br>
 Use [/r] to respond to the last ship that you received comms from<br>
 Use [/t] to send comms directly to targeted ship<br>
@@ -44,17 +44,24 @@ Use [/w] to send comms to all wingmen
 
 <p>To enable mouse cursor on your cockpit HUD, use Options -> Controls -> Show Mouse Widget.</p>
 
-<p>
-Screen resolutions mode settings are put on:<br>
+<p>Screen resolutions mode settings are put on:<br>
 C:\Users\USERNAME\AppData\Local\Frontier Developments\Elite Dangerous\Options\Graphics\DisplaySettings.xml<br>
 However if you try to make like 50% of your 1080p fullscreen ie 960x540, it doesnt work, Elite wont recognize that resolution. You just need to choose resolution from the UI -> Graphics setup.
+</p>
+
+<p>Game now supports borderless window. Using ALT-ENTER to switch to windowed and fullscreen will stop you being in borderless window mode
 </p>
 
 <p>Log file(s):<br>
 C:\Users\USERNAME\AppData\Local\Frontier_Developments\Products\FORC-FDEV-D-1001\Logs
 </p>
 
-<p>Please access your AppConfig.xml which can be found in your game directory and open this in Notepad. You'll see a block near the bottom named "Network". Please insert the following lines somewhere in that block -
+<p><b>AppConfigLocal.xml</b>
+<br><br>
+This file is for your AppConfig.xml overrides and should be edited, not the actual AppConfig.xml file.
+</p>
+
+<p>Please access your AppConfig.xml which can be found in your game directory and open this in proper text editor. You'll see a block near the bottom named "Network". Please insert the following lines somewhere in that block -
 <br><br>
 <code>
 ReportSentLetters="1"<br>
@@ -62,9 +69,17 @@ ReportReceivedLetters="1"<br>
 VerboseLogging="1"
 </code>
 <br><br>
-This will produce a more detailed NetLog for us. If you could, please save your AppConfig file with these lines and then load the game again.
+This will produce a more detailed NetLog. Copy your AppConfig.xml to AppConfigLocal.xml file name, add these lines and then restart the game for these edits to take effect.
+</p>
+
+<p><b>GraphicsConfigurationOveride.xml</b>
 <br><br>
-Game now supports borderless window. Using ALT-Enter to switch to windowed and fullscreen will stop you being in borderless window mode</p>
+Put this file in following directory:<br>
+<code>
+C:\Users\%username%\AppData\Local\Frontier Developments\Elite Dangerous\Options\Graphics\
+</code>
+</p>
+
 </section>
 
 <footer>
