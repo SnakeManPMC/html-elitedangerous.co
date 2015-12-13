@@ -30,6 +30,7 @@
 <p><b>Smallest:</b><br>
 170km, Pleione 3 A<br>
 190km, Nu Tauri 1 A<br>
+374km, Kuk B 1<br>
 384km, Shakal A 1<br>
 412km, Oresqu A 1 A<br>
 421km, Q Centauri 4 A<br>
