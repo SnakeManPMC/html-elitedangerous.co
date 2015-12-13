@@ -76,7 +76,7 @@
 
 <h2>Federal Corvette</h2>
 
-<p>Federal Corvette</p>
+<p>Federal Corvette. To purchase federal corvette you need rank of rear admiral.</p>
 
 <h2>Federal Dropship</h2>
 
