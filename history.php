@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>PMC Elite Dangerous - History</title>
+<title>PMC Elite Dangerous - History of Releases</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC, Elite Dangerous, History">
-<META name="keywords" content="PMC, Elite Dangerous, History">
+<META name="description" content="PMC Elite Dangerous, History of Releases">
+<META name="keywords" content="PMC, Elite Dangerous, History, Releases">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,11 +16,11 @@
 <header>
 <?php include("../include/google-ads.php"); ?>
 <?php include("../include/paypal.php"); ?>
-<h1><b>PMC Elite Dangerous - History</b></h1>
+<h1><b>PMC Elite Dangerous - History of Releases</b></h1>
 </header>
 
 <section>
-<h2>History of Elite Dangerous</h2>
+<h2>History of Elite Dangerous Releases</h2>
 
 <p>
 Friday. Dec 20th, 2013. Alpha Phase One<br>
@@ -87,7 +87,7 @@ Wednesday. Jan 28th, 2015. v1.07<br>
 Tuesday. Feb 3rd, 2015. v1.1 Beta &lt;- for alpha/beta backers only<br>
 Thursday. Feb 5th, 2015. v1.1 Beta 2<br>
 Friday. Feb 6th, 2015. v1.1 Beta 3<br>
-Tuesday. Feb 10th, 2015. v1.1 Release<br>
+Tuesday. Feb 10th, 2015. v1.1<br>
 Tuesday. Feb 10th, 2015. v1.1.01<br>
 Wednesday. Feb 11th, 2015. v1.1.02<br>
 Thursday. Feb 12th, 2015. v1.1.03<br>
@@ -140,7 +140,8 @@ Tuesday. Dec 1st, 2015. v2.0 Horizons Beta 2<br>
 Wednesday. Dec 3rd, 2015. v2.0 Horizons Beta 3<br>
 Tuesday. Dec 8th, 2015. v2.0 Horizons Beta 4<br>
 Thursday. Dec 10th, 2015. v2.0 Horizons Beta 5<br>
-Monday. Dec 14th, 2015. v2.0 Horizons Beta 6
+Monday. Dec 14th, 2015. v2.0 Horizons Beta 6<br>
+<b>Tuesday. Dec 15th, 2015. v2.0 Horizons!</b>
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -157,7 +158,7 @@ Nov 21st, 2014.<br>
 Beta 3.9<br>
 2249hrs and 2251hrs game servers went down.<br>
 2259hrs In-game message for server shutdown in 10 minutes.<br>
-2329hrs game servers went down (for real).<br>
+2329hrs game servers went down (for real).
 <br><br>
 Gamma 1.0<br>
 1409hrs In-game message for server shutdown in 10 minutes.<br>
@@ -392,6 +393,11 @@ v2.0 Horizons Beta 5<br>
 <br><br>
 v2.0 Horizons Beta 6<br>
 1327hrs Release
+<br><br>
+v2.0<br>
+1002hrs server go down<br>
+1425hrs patch notes<br>
+2007hrs release
 </p>
 </section>
 
