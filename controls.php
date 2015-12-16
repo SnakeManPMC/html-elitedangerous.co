@@ -25,8 +25,9 @@
 <h2>Keyboard Layouts</h2>
 
 <p>Keyboard Layouts are saved to:<br>
-C:\Users\USERNAME\AppData\Local\Frontier Developments\Elite Dangerous\Options\Bindings<br>
-If that doesn't work try "\Products\FORC-FDEV-D-1000\ControlSchemes"</p>
+Bindings are saved in %LOCALAPPDATA%\Frontier Developments\Elite Dangerous\Options\Bindings<br>
+If that doesn't work try "\Products\FORC-FDEV-D-1000\ControlSchemes"<br>
+</p>
 
 <p>CTRL-ALT-SPACE - Flyable debug camera with limited range<br>
 <b>Comms menu:</b><br>
@@ -77,7 +78,12 @@ This will produce a more detailed NetLog. Copy your AppConfig.xml to AppConfigLo
 Put this file in following directory:<br>
 <code>
 C:\Users\%username%\AppData\Local\Frontier Developments\Elite Dangerous\Options\Graphics\
-</code>
+</code><br>
+Here you can setup custom Field of View (FOV) beyond what the in-game controls graphics slider allows. For example:<br>
+<code>
+70.000000
+</code><br>
+Would make it to 70.
 </p>
 
 </section>
