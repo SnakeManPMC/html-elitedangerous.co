@@ -80,9 +80,8 @@ Put this file in following directory:<br>
 C:\Users\%username%\AppData\Local\Frontier Developments\Elite Dangerous\Options\Graphics\
 </code><br>
 Here you can setup custom Field of View (FOV) beyond what the in-game controls graphics slider allows. For example:<br>
-<code>
 70.000000
-</code><br>
+<br>
 Would make it to 70.
 </p>
 
