@@ -75,7 +75,8 @@
 <a href="ships.php">Ships</a><br><br>
 <a href="space-stations.php">Space Stations</a><br><br>
 <a href="crime.php">Crime (and punishment)</a><br><br>
-<a href="edshipyard.php">edshipyard</a>
+<a href="edshipyard.php">edshipyard</a><br><br>
+<a href="frame-rates-4k-resolution.php">Frame rates 4k resolution</a>
 </div>
 
 <div class="icat">
