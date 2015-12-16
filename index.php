@@ -63,7 +63,8 @@
 <a href="gamma.php">Gamma (Release Candidate)</a><br><br>
 <a href="history.php">History</a><br><br>
 <a href="news.php">News or some snippets</a><br><br>
-<a href="price-history.php">Price history</a>
+<a href="price-history.php">Price history</a><br><br>
+<a href="expansion-seasons.php">Expansion Seasons</a>
 </div>
 
 <div class="icat">
