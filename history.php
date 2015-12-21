@@ -142,7 +142,8 @@ Tuesday. Dec 8th, 2015. v2.0 Horizons Beta 4<br>
 Thursday. Dec 10th, 2015. v2.0 Horizons Beta 5<br>
 Monday. Dec 14th, 2015. v2.0 Horizons Beta 6<br>
 <b>Tuesday. Dec 15th, 2015. v2.0 Horizons!</b><br>
-Wednesday. Dec 16th, 2015. v2.0.01
+Wednesday. Dec 16th, 2015. v2.0.01<br>
+Monday. Dec 21st, 2015. v2.0.02
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -404,6 +405,10 @@ v2.0.01<br>
 1605hrs Server broadcast 55mins servers go down<br>
 1700hrs Servers go down<br>
 1710hrs Release
+<br><br>
+v2.0.02<br>
+1232hrs Servers go down<br>
+1243hrs Release
 </p>
 </section>
 
