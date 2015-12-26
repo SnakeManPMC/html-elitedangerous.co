@@ -34,6 +34,9 @@ Thrudds elite trading tool is obsolete website and should not be used. Okay fine
 <b>The best Elite Dangerous trading tool is without question <a href="tradedangerous.php">TradeDangerous</a></b>, if you cannot run Python in your computer then second best is web solution which is <a href="eddb.php">EDDB</a>.
 </p>
 
+<p><b>Update 12-26-15</b>: thrudd has finally, after a full YEAR, added EDDN to his web site. I wonder what changed his mind after all this time, I mean it makes no sense... he didnt like EDDN for a year and now all of the sudden he added that. Crazy. Either stick with your principles or lose any credibility you might ever had. Anyways, now his site has EDDN feed so he will have the same data as other proper trading tools. It remains to be seen if he still is not interested of displaying highest profit trades there.
+</p>
+
 </section>
 
 <footer>
