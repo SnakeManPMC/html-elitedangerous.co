@@ -28,7 +28,7 @@
 <p>Exploration technique:<br>
 Arrive at new system, ship automatically discovers the star where you hyperjumped. System map shows that star as unexplored, but the info panel still gives basic info like age etc. No other bodies are shown in system map.
 <br><br>
-WHen you surface scan the star you get its name, nothing more basically.
+When you surface scan the star you get its name, nothing more basically.
 <br><br>
 Once you use advanced discovery scanner you detect all bodies which show up in left ui navigation panel and in system map. On system map they are with unexplored text but their full graphical icon is shown so you can tell for example if its earth like planet or gas giant etc, it is total spoiler.
 </p>
@@ -71,6 +71,24 @@ no weapons, class 2 rating D power plant, class 4 rating D thursters, class 5 ra
 <p>When approaching Sagittarius A* from "left" it was impossible to plot route about 750Ly out.</p>
 
 <p>Route planning tip: try to plot increments of your ships jump range. Like if your jump range is 30Ly then try to plot just less than 60Ly route, or 120, 240, etc. For some strange reason it might work better, MIGHT being the keyword here :)</p>
+
+<p>What is the magic number to normally plot routes near the core?
+</p>
+
+<p>It depends on your ship's range and how far you are from Sagittarius A* (core). Round your ships jump range down, do a multiple of that.
+</p>
+
+<p>So with asp 34.xxLy jump range, I should plot ... as close as possible to 986ly mark or is it even more precise than that?
+</p>
+
+<p>Might need to be a bit more specific about the XX since if it's 99 that adds 25Ly or so to the number.
+</p>
+
+<p>If you're right near Sagittarius A* then i'd basically take (jump range * large number) and subtract 10 or so. The 10 to subtract will go up the further you are from A* though. The important thing to remember is: if you don't have a route within 10 seconds or so, switch to Economical and back to Fastest (that cancels the plot) and try again
+</p>
+
+<p>Here is more detailed explanation of this: https://forums.frontier.co.uk/showthread.php?t=151389
+</p>
 
 <p>Getting from Sol to galaxy center is 25,000Ly and that journey will take you days even on 34Ly capable ASP Explorer (why would you choose any other ship). Don't think its easy to travel there that you just decide to hop there today and come back the same evening, it's not going to happen. If you jump constantly 12.5hrs without breaks (and that is impossible because toilet, eating etc) you can theoretically get from Sol to galaxy center in one day (1000Ly in half an hour). However, jumping like that is not fun, trust me. Try to enjoy the exploration, don't make it painful tedius "work" type of thing.</p>
 
