@@ -78,6 +78,10 @@ Station depart normal: 55sec, 2 x 58sec, 2 x 1min 1sec
 <p>The results are that cheating method is about 30 seconds quicker on ideal conditions (no traffic in docking corridor), however its extremely lame and gamey cheating method and in big picture <b>its not worth the time saved</b>.
 </p>
 
+<h2>Black Market Smuggling Tips</h2>
+<p>Buy imperial slaves at a discount in Torvals Space. Take them about 2 or 3 jumps into Delaines space where black markets have a buff and sell them. Easily 3900 - 4100 credit per ton profit.
+</p>
+
 </section>
 
 <footer>
