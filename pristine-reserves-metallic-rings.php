@@ -109,6 +109,14 @@ Hip 77818<br>
 Hip 35246
 </p>
 
+<p><b>Unconfirmed:</b>
+<br><br>
+HIP 13257 BC 3 A Ring<br>
+Phra Narai A Belt<br>
+FEHU<br>
+Bhaga 7 A ring
+</p>
+
 </section>
 
 <footer>
