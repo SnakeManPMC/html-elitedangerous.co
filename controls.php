@@ -53,9 +53,14 @@ However if you try to make like 50% of your 1080p fullscreen ie 960x540, it does
 <p>Game now supports borderless window. Using ALT-ENTER to switch to windowed and fullscreen will stop you being in borderless window mode
 </p>
 
-<p>Log file(s):<br>
+<h2>Log file(s)</h2>
+<p>For older Elite versions Log files could be found from:<br>
 C:\Users\USERNAME\AppData\Local\Frontier_Developments\Products\FORC-FDEV-D-1001\Logs
+<br><br>
+However its just easier to search them at v2.0 release from edlauncher\Products\elite-dangerous-64\Logs directory.
 </p>
+
+<h2>Configuration Files</h2>
 
 <p><b>AppConfigLocal.xml</b>
 <br><br>
@@ -83,6 +88,12 @@ Here you can setup custom Field of View (FOV) beyond what the in-game controls g
 70.000000
 <br>
 Would make it to 70.
+</p>
+
+<h2>Install Directory</h2>
+<p>Elite v2.0 Horizons Beta install directory. You could rename the 1001 to 1010 to skip re-installing v1.4.01 when horizon beta was about to go live.
+<br><br>
+Elite v2.0 Horizons installs to edlauncher\Products\elite-dangerous-64\ directory. It obviously depends where you have installed Elite Launcher in the first place. For Steam version you need to check your steam library directories for Elite dir.
 </p>
 
 </section>
