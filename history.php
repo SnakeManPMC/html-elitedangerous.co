@@ -420,7 +420,7 @@ v2.0.03<br>
 v2.0.04<br>
 1151hrs patch notes<br>
 1300hrs Servers go down<br>
-?hrs Release
+1428hrs Release
 </p>
 </section>
 
