@@ -45,7 +45,26 @@
 <p>Landing on planets, driving surface recon vehicle (SRV) on the planets surface terrain, collecting materials, synthesis, planetary surface settlements and ports.
 </p>
 
-<p><b>v2.1: Loot & Crafting</b><br>
+<p><b>v2.1: The Engineers</b><br>
+Coming Spring 2016
+<br><br>
+Everything changes. Introducing an expanded mission system and game-changing loot. Craft exotic weapons and modules for your spacecraft and build a ship unlike any other.
+</p>
+
+<p><b>v2.2: Guardians</b><br>
+Coming Summer 2016
+<br><br>
+Take what comes and strike back with double. Bring a second ship to every combat encounter with Ship-Launched Fighters and defend your passengers against the deadliest threats in the galaxy.
+</p>
+
+<p><b>v2.3: The Commanders</b><br>
+Coming Fall 2016
+<br><br>
+Team up and stand together. Forge your own identity with the new Commander Creator, then share your bridge with Multi-Crew and fly with friends.
+</p>
+
+<p><b>2.4: ????</b><br>
+A secret to be revealed in Elite Dangerous: Horizons final expansion!
 </p>
 
 <h2>2016, Season 3 - ?</h2>
