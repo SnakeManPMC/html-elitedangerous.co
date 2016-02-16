@@ -145,7 +145,9 @@ Monday. Dec 14th, 2015. v2.0 Horizons Beta 6<br>
 Wednesday. Dec 16th, 2015. v2.0.01<br>
 Monday. Dec 21st, 2015. v2.0.02<br>
 Wednesday. Jan 6th, 2016. v2.0.03<br>
-Tuesday. Jan 26th, 2016. v2.0.04
+Tuesday. Jan 26th, 2016. v2.0.04<br>
+Monday. Feb 1st, 2016. v2.0.05<br>
+Tuesday. Feb 16th, 2016. v2.0.06
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -421,6 +423,14 @@ v2.0.04<br>
 1151hrs patch notes<br>
 1300hrs Servers go down<br>
 1428hrs Release
+<br><br>
+v2.0.05<br>
+1636hrs patch notes<br>
+1736hrs Release
+<br><br>
+v2.0.06<br>
+1211hrs patch notes<br>
+1300hrs Release
 </p>
 </section>
 
