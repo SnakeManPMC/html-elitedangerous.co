@@ -147,7 +147,8 @@ Monday. Dec 21st, 2015. v2.0.02<br>
 Wednesday. Jan 6th, 2016. v2.0.03<br>
 Tuesday. Jan 26th, 2016. v2.0.04<br>
 Monday. Feb 1st, 2016. v2.0.05<br>
-Tuesday. Feb 16th, 2016. v2.0.06
+Tuesday. Feb 16th, 2016. v2.0.06<br>
+Friday. Mar 4th, 2016. v2.0.06 Server side update
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -431,6 +432,9 @@ v2.0.05<br>
 v2.0.06<br>
 1211hrs patch notes<br>
 1300hrs Release
+<br><br>
+v2.0.06 Server side update<br>
+?hrs Release
 </p>
 </section>
 
