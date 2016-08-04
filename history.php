@@ -150,7 +150,19 @@ Monday. Feb 1st, 2016. v2.0.05<br>
 Tuesday. Feb 16th, 2016. v2.0.06<br>
 Friday. Mar 4th, 2016. v2.0.06 Server side update<br>
 Thursday. Mar 24th, 2016. v2.0.07<br>
-Thursday. Mar 31st, 2016. v2.0.08
+Thursday. Mar 31st, 2016. v2.0.08<br>
+Thursday. May 5th, 2016. Elite v1.6 and Horizons - The Engineers v2.1 Beta<br>
+Thursday. May 5th, 2016. Elite v1.6 and Horizons - The Engineers v2.1 Beta 2<br>
+Tuesday. May 10th, 2016. Elite v1.6 and Horizons - The Engineers v2.1 Beta 3<br>
+Thursday. May 12th, 2016. Horizons - The Engineers v2.1 Beta 4<br>
+Tuesday. May 17th, 2016. Horizons - The Engineers v2.1 Beta 5<br>
+Thursday. May 19th, 2016. Horizons - The Engineers v2.1 Beta 6<br>
+<b>Thursday. May 26th, 2016. Elite v1.6 and Horizons - The Engineers v2.1</b><br>
+Friday. Jun 3rd, 2016. Horizons - The Engineers v2.1.02 (including 2.1.01)<br>
+Wednesday. Jun 15th, 2016. Horizons - The Engineers Server Side Update<br>
+Wednesday. Jun 22nd, 2016. Horizons - The Engineers v2.1.03<br>
+Friday. Jul 1st, 2016. Horizons - The Engineers v2.1.04<br>
+Thursday. Jul 28th, 2016. Horizons - The Engineers v2.1.05
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -444,6 +456,54 @@ v2.0.07<br>
 <br><br>
 v2.0.08<br>
 1123hrs patch notes<br>
+?hrs Release
+<br><br>
+The Engineers v2.1 Beta<br>
+?hrs patch notes<br>
+?hrs Release
+<br><br>
+The Engineers v2.1 Beta 2<br>
+?hrs patch notes<br>
+?hrs Release
+<br><br>
+The Engineers v2.1 Beta 3<br>
+?hrs patch notes<br>
+?hrs Release
+<br><br>
+The Engineers v2.1 Beta 4<br>
+?hrs patch notes<br>
+?hrs Release
+<br><br>
+The Engineers v2.1 Beta 5<br>
+?hrs patch notes<br>
+?hrs Release
+<br><br>
+The Engineers v2.1 Beta 6<br>
+?hrs patch notes<br>
+?hrs Release
+<br><br>
+The Engineers v2.1<br>
+?hrs patch notes<br>
+?hrs Release
+<br><br>
+The Engineers v2.1.02 (including 2.1.01)<br>
+?hrs patch notes<br>
+?hrs Release
+<br><br>
+The Engineers Server Side Update<br>
+?hrs patch notes<br>
+?hrs Release
+<br><br>
+The Engineers v2.1.03<br>
+?hrs patch notes<br>
+?hrs Release
+<br><br>
+The Engineers v2.1.04<br>
+?hrs patch notes<br>
+?hrs Release
+<br><br>
+The Engineers v2.1.05<br>
+?hrs patch notes<br>
 ?hrs Release
 </p>
 </section>
