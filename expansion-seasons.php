@@ -45,16 +45,49 @@
 <p>Landing on planets, driving surface recon vehicle (SRV) on the planets surface terrain, collecting materials, synthesis, planetary surface settlements and ports.
 </p>
 
-<p><b>v2.1: The Engineers</b><br>
-Coming Spring 2016
-<br><br>
+<p><b>v2.1: The Engineers</b><br><br>
 Everything changes. Introducing an expanded mission system and game-changing loot. Craft exotic weapons and modules for your spacecraft and build a ship unlike any other.
 </p>
 
-<p><b>v2.2: Guardians</b><br>
-Coming Summer 2016
-<br><br>
-Take what comes and strike back with double. Bring a second ship to every combat encounter with Ship-Launched Fighters and defend your passengers against the deadliest threats in the galaxy.
+<p>- brings new missions<br>
+- galaxy / system map bookmarks<br>
+- community goal icons on galaxy / system map<br>
+- srv leaves tracks on planet surface<br>
+- Huge Beam Laser<br>
+- Huge Pulse Laser<br>
+- Huge Multi-Cannon<br>
+- Large Multi-Cannon<br>
+- performance enhanced size 2 and 3 drives (smaller ships)<br>
+- galaxy map state (war/famine etc) filter<br>
+- new types of terrain surface point of interests<br>
+- major re-vamp of Unidentified Signal Sources (USSs), seek specific locations using the discovery scanner<br>
+- scanning the nav beacon which gives exploration data for the system<br>
+- pilots federation ships sensors allows USSs to be scanned while in supercruise<br>
+- enhanced AI ships<br>
+- ice mining<br>
+- starport traffic controller
+</p>
+
+<p><b>v2.2: Guardians</b><br><br>
+(Mid October 2016) Take what comes and strike back with double. Bring a second ship to every combat encounter with Ship-Launched Fighters and defend your passengers against the deadliest threats in the galaxy.
+</p>
+
+<p>- passanger ships beluga <a href="https://www.youtube.com/watch?v=NXs6pojh3OU">video</a><br>
+- passenger missions bulk <a href="http://www.youtube.com/watch?v=sJnKzvOoDFw">video</a><br>
+- passenger missions VIP <a href="http://www.youtube.com/watch?v=Oa3Wnqfpqaw">video</a><br>
+- route plotter, apply filter to route <a href="https://www.youtube.com/watch?v=PPkF-hKXSd8">video</a><br>
+- ship launched fighters, 6 or 8 per bay, manufacture new from materials, paint jobs<br>
+- variations to starport interiors<br>
+- planets surfaces upgrade, geology<br>
+- port variant refinery <a href="http://www.youtube.com/watch?v=OgPymfKEmUo">video</a><br>
+- port variant tourism <a href="http://www.youtube.com/watch?v=v5QCdABC0lA">video</a><br>
+- david braben interview 1 <a href="http://www.youtube.com/watch?v=wQaK-j1n8co">video</a><br>
+- ship launched fighters basic <a href="http://www.youtube.com/watch?v=Imgjx7kfagc">video</a><br>
+- ship launched fighters combat <a href="http://www.youtube.com/watch?v=TLvVqRPVSWI">video</a><br>
+- passenger missions tourist spot <a href="http://www.youtube.com/watch?v=7v_N-RnUmX8">video</a><br>
+- taipan paint job <a href="http://www.youtube.com/watch?v=UWu_rvu0H6k">video</a><br>
+- federal fighter paint job <a href="http://www.youtube.com/watch?v=YJ6Bq0RGDeU">video</a><br>
+- empire fighter paint job <a href="http://www.youtube.com/watch?v=BTxgeZH14Xk">video</a>
 </p>
 
 <p><b>v2.3: The Commanders</b><br>
