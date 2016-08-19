@@ -90,7 +90,8 @@ Everything changes. Introducing an expanded mission system and game-changing loo
 - empire fighter paint job <a href="http://www.youtube.com/watch?v=BTxgeZH14Xk">video</a><br>
 - port variant agriculture <a href="http://www.youtube.com/watch?v=r7z1rB7PBSk">video</a><br>
 - port variant tech <a href="http://www.youtube.com/watch?v=vp4Hxe19qCQ">video</a><br>
-- hiring an AI crew for ship launched fighters
+- hiring an AI crew for ship launched fighters<br>
+- AI crew and crew fighter <a href="http://www.youtube.com/watch?v=bcTZNO7v3_c">video</a>
 </p>
 
 <p><b>v2.3: The Commanders</b><br>
