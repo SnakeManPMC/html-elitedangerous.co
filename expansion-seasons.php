@@ -87,7 +87,10 @@ Everything changes. Introducing an expanded mission system and game-changing loo
 - passenger missions tourist spot <a href="http://www.youtube.com/watch?v=7v_N-RnUmX8">video</a><br>
 - taipan paint job <a href="http://www.youtube.com/watch?v=UWu_rvu0H6k">video</a><br>
 - federal fighter paint job <a href="http://www.youtube.com/watch?v=YJ6Bq0RGDeU">video</a><br>
-- empire fighter paint job <a href="http://www.youtube.com/watch?v=BTxgeZH14Xk">video</a>
+- empire fighter paint job <a href="http://www.youtube.com/watch?v=BTxgeZH14Xk">video</a><br>
+- port variant agriculture <a href="http://www.youtube.com/watch?v=r7z1rB7PBSk">video</a><br>
+- port variant tech <a href="http://www.youtube.com/watch?v=vp4Hxe19qCQ">video</a><br>
+- hiring an AI crew for ship launched fighters
 </p>
 
 <p><b>v2.3: The Commanders</b><br>
