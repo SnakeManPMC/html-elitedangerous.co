@@ -94,7 +94,7 @@ Everything changes. Introducing an expanded mission system and game-changing loo
 - AI crew and crew fighter <a href="http://www.youtube.com/watch?v=bcTZNO7v3_c">video</a><br>
 - david braben interview 2 <a href="http://www.youtube.com/watch?v=-YGlW4WB90Y">video</a><br>
 - CQC architecture buildings<br>
-- brand new capital ship docks (not landable)<br>
+- brand new capital ship docks (not available for docking)<br>
 - system map actual rendered objects <a href="http://www.youtube.com/watch?v=vitmkDZm4D4">video</a><br>
 - starport services menu redesigned<br>
 - neutron star and white dwarf new graphics<br>
@@ -102,6 +102,7 @@ Everything changes. Introducing an expanded mission system and game-changing loo
 - shipyard selling by remote<br>
 - outfitting module storage<br>
 - hyper jump destination star visible during jump<br>
+- shady contacts in (anarchy/low security?) starports to pay fines or cash in bounty vouchers<br>
 </p>
 
 <p><b>v2.3: The Commanders</b><br>
