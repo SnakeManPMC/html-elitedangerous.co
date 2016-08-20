@@ -103,6 +103,18 @@ Everything changes. Introducing an expanded mission system and game-changing loo
 - outfitting module storage<br>
 - hyper jump destination star visible during jump<br>
 - shady contacts in (anarchy/low security?) starports to pay fines or cash in bounty vouchers<br>
+- david braben interview 3 <a href="https://www.youtube.com/watch?v=d8z4_fezVTA">video</a><br>
+- port services <a href="http://www.youtube.com/watch?v=exB4pRUQG8Y">video</a><br>
+- capital ship dock <a href="http://www.youtube.com/watch?v=oHKDgIOsRV4">video</a><br>
+- hyperspace <a href="http://www.youtube.com/watch?v=hy_LDugvTts">video</a><br>
+- anaconda paint job <a href="http://www.youtube.com/watch?v=v-H_sVbXbg8">video</a><br>
+- asp paint job <a href="http://www.youtube.com/watch?v=2RQZsBjMWBk">video</a><br>
+- fer de lance paint job <a href="http://www.youtube.com/watch?v=Qrqijp3U2cY">video</a><br>
+- python paint job <a href="http://www.youtube.com/watch?v=wt2yDlh0xEs">video</a><br>
+- srv paint job <a href="http://www.youtube.com/watch?v=s-45sSMHmRc">video</a><br>
+- viper mk iii paint job <a href="http://www.youtube.com/watch?v=7-FLxmMZ7c0">video</a><br>
+- ship transfer <a href="http://www.youtube.com/watch?v=Hs7bYwtnp9s">video</a><br>
+- AI crew and switching fighter <a href="http://www.youtube.com/watch?v=6LHSaGmcNUQ">video</a>
 </p>
 
 <p><b>v2.3: The Commanders</b><br>
