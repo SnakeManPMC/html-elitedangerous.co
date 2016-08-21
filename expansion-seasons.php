@@ -114,7 +114,8 @@ Everything changes. Introducing an expanded mission system and game-changing loo
 - srv paint job <a href="http://www.youtube.com/watch?v=s-45sSMHmRc">video</a><br>
 - viper mk iii paint job <a href="http://www.youtube.com/watch?v=7-FLxmMZ7c0">video</a><br>
 - ship transfer <a href="http://www.youtube.com/watch?v=Hs7bYwtnp9s">video</a><br>
-- AI crew and switching fighter <a href="http://www.youtube.com/watch?v=6LHSaGmcNUQ">video</a>
+- AI crew and switching fighter <a href="http://www.youtube.com/watch?v=6LHSaGmcNUQ">video</a><br>
+- david braben interview 4 <a href="https://www.youtube.com/watch?v=UaaGw66Q1B8">video</a>
 </p>
 
 <p><b>v2.3: The Commanders</b><br>
