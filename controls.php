@@ -84,10 +84,18 @@ Put this file in following directory:<br>
 <code>
 C:\Users\%username%\AppData\Local\Frontier Developments\Elite Dangerous\Options\Graphics\
 </code><br>
-Here you can setup custom Field of View (FOV) beyond what the in-game controls graphics slider allows. For example:<br>
-70.000000
-<br>
-Would make it to 70.
+Here you can setup custom heads up display HUD colors.
+</p>
+
+<p><b>Settings.xml</b>
+<br><br>
+FOV value <b>67.672745</b> is perfect for 16:9 screens. It is 100 degrees horizontal.
+</p>
+<p>
+Field of View Settings.xml values are smallest: 54.32, middle (default?): 57.16 and largest: 60.00
+</p>
+<p>
+Settings.xml contents cannot be put in GraphicsConfigurationOverride.xml file.
 </p>
 
 <h2>Install Directory</h2>
