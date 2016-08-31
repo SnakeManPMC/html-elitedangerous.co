@@ -73,6 +73,13 @@
 <p>Lakon Type-7 with three small mining lasers is over the power distributor capacity, you have to wait until it recharges before firing. Next ship is python with medium hardpoints.
 </p>
 
+<p>
+SRV fuel materials from planet surfaces:<br>
+Basic: sulphur and phosphorous.<br>
+Standard: + arsenic and mercury.<br>
+Premium: Sulphur, Arsenic, Mercury and Technetium.
+</p>
+
 </section>
 
 <footer>
