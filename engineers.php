@@ -25,6 +25,7 @@
 <p>
 Almost all the minerals you previously had to gather from planet surfaces, can now be mined from asteroids.
 </p>
+
 <p>
 Felicity Farseer needs 1 meta-alloy, you can purchase this from ?. Elvira Martuuk requires 3 units Soontill Relics, which you can purchase from Ngurii system, Cheranovsky City station.
 </p>
@@ -89,7 +90,7 @@ commodity<br>
 - Magnetic emitter coil
 </p>
 
-</p>
+<p>
 Howto get these:<br>
 Atypical disrupted wake echoes == Frameshift wake scanner<br>
 Arsenic == SRV or regular mining<br>
