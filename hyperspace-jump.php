@@ -41,6 +41,16 @@ However not all jump reachable star systems are listed in the Navigation panel e
 <p>For such slow FSD charge times you can use trick to quickly select star system from left hand side navigation panel and hyper jump there as hyper jump FSD charge time is not limited by nearby ships.
 </p>
 
+<h2>Hyperspace Jump Time</h2>
+
+<p>Hyperspace jump times (ASP, FSD class 5 rating A.)<br>
+FSD charging 15sec<br>
+Countdown 5sec (total 20sec)<br>
+Hyperjump 13-16sec (total 33-36sec) but this depends really how long the server connection takes...<br>
+FSD cooldown start delay 4sec (total 37-40sec)<br>
+FSD cooldown 4sec (<b>total 41-44sec</b>)
+</p>
+
 </section>
 
 <footer>

@@ -298,16 +298,6 @@ Lakon Type-9 532
 7) after 4.7 million credits (full gold cargo load), you can start to purchase other ships or anything you want! yeah!
 </p>
 
-<h2>Hyperjump Time</h2>
-
-<p>Hyperjump times (ASP, FSD class 5 rating A. for elite log hammering)<br>
-FSD charging 15sec<br>
-Countdown 5sec (total 20sec)<br>
-Hyperjump 13-16sec (total 33-36sec) but this depends really how long the server connection takes...<br>
-FSD cooldown start delay 4sec (total 37-40sec)<br>
-FSD cooldown 4sec (<b>total 41-44sec</b>)
-</p>
-
 <h2>Founders World ship prices</h2>
 <p>Viper 128,638<br>
 Cobra 341,747<br>
