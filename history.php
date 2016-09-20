@@ -510,6 +510,10 @@ The Engineers v2.1.05<br>
 The Guardians v2.2 Beta 1<br>
 1213hrs patch notes<br>
 1215hrs Release
+<br><br>
+The Guardians v2.2 Beta 2<br>
+2124hrs patch notes<br>
+2124hrs Release
 </p>
 </section>
 
