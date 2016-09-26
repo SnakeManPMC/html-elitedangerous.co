@@ -84,6 +84,16 @@ ASP A5 thrusters, A6 shields, A4 power distributor, with 6x gimballed pulse lase
 <a href="http://www.edshipyard.com/#/L=70N,5TP5TP3wU,2-6Q7_6Q5K8S6Q5A,7Sk">vulture, combat set 1</a>
 </p>
 
+<h2>Combat in v2.2</h2>
+<p>Shieldless combat is a bad idea, you will get killed. Period. Being it on exploration ASP or trading Type-9, there is just no chance of survival on v2.2 when someone attacks you, especially if they are CMDR (a human player).
+</p>
+
+<p>How to avoid that, well play private group or solo to avoid CMDR's, then is the AI interdictions... which you can try to high wake jump out before the combat even starts, but it is risky, very very risky.
+</p>
+
+<p>Elite is turning into a very difficult in v2.2 that's for sure. I wonder if this is temporary balancing issue or really something that David Braben wanted to create.
+</p>
+
 </section>
 
 <footer>
