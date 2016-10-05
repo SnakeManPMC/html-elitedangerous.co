@@ -528,7 +528,7 @@ The Guardians v2.2 Beta 4<br>
 <br><br>
 The Guardians v2.2 Beta 5<br>
 1147hrs patch notes<br>
-1422hrs Release
+1245hrs Release
 </p>
 </section>
 
