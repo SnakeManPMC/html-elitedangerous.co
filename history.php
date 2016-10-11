@@ -166,7 +166,8 @@ Thursday. Jul 28th, 2016. Horizons - The Engineers v2.1.05<br>
 Tuesday. Sep 20th, 2016. Horizons - The Guardians v2.2 Beta and Beta 2<br>
 Wednesday. Sep 21st, 2016. Horizons - The Guardians v2.2 Beta 3<br>
 Wednesday. Sep 28th, 2016. Horizons - The Guardians v2.2 Beta 4<br>
-Wednesday. Oct 5th, 2016. Horizons - The Guardians v2.2 Beta 5
+Wednesday. Oct 5th, 2016. Horizons - The Guardians v2.2 Beta 5<br>
+Tuesday. Oct 11th, 2016. Horizons - The Guardians v2.2 Beta 6
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -529,6 +530,10 @@ The Guardians v2.2 Beta 4<br>
 The Guardians v2.2 Beta 5<br>
 1147hrs patch notes<br>
 1245hrs Release
+<br><br>
+The Guardians v2.2 Beta 6<br>
+1154hrs patch notes<br>
+1428hrs Release
 </p>
 </section>
 
