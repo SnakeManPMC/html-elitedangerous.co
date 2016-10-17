@@ -130,6 +130,9 @@ PMCTODO https://www.youtube.com/watch?v=O2uYM2ykS1I
 <p><b>Snakes tips:</b>
 </p>
 
+<p>Landing on planets, exploration hazards. You can easily fly low level on planet surface at 0.13 gravity, you will not sink uncontrollable unless you do something really stupid. Nice relaxed flight is possible on this gravity. Note that this number of 0.13 g is just first verfiied in Elite v2.1 that you can safely approach the surface, this number will be updated as more data is gathered. In other words PMCTODO :)
+</p>
+
 <p>When exploring in SRV there are some things to consider.
 </p>
 
