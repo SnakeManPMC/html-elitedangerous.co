@@ -54,12 +54,12 @@ footer
 /* index page h2 header categorys */
 .icat
 {
-	/*background: cyan;*/
+	/* background: cyan; */
 	float: left;
 	padding: 10px;
 	margin: 1px;
 	
 	/* align the category "boxes nicely in our max-width 1200px website */
-	width: 370px;
-	height: 400px;
+	width: 30%; /* 370px; */
+	height: 30%; /* 400px; */
 }

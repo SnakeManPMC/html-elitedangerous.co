@@ -41,13 +41,19 @@
 <h2>December 2014, v1.0</h2>
 <p>Mercenary Edition 49,99<br>
 Pre-Order 40<br>
-Beta 75 british pounds (dunno how that translates to euros a year back...)
+Beta 59,4 (converted from 75 british pounds)
 </p>
 
 <h2>December 2015, v2.0</h2>
 <p>Elite Dangerous 37,49<br>
 Horizons Beta 67,99<br>
 Horizons Pre-Order 49,99
+</p>
+
+<h2>October 2016, v2.2</h2>
+<p>Elite Dangerous 24,99<br>
+Horizons Season Pass 24,99<br>
+CMDR Deluxe Edition (Elite + Horizons Season Pass + some paintjobs) 49,99
 </p>
 
 </section>

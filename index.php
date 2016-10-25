@@ -8,7 +8,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../include/google-analytics.php"); ?>
+<?php include("../include/google-analytics.php"); ?> 
 
 </head>
 <body>
@@ -37,7 +37,7 @@
 <div class="icat">
 <h2>Trading</h2>
 <a href="commodities-market.php">Commodities Market</a><br><br>
-<a href="eddb.php">EDDB</a>, <a href="eddn.php">EDDN</a>, <a href="edsm.php">EDSM</a>, <a href="edmc.php">EDMC</a><br><br>
+<a href="eddb.php">EDDB</a>, <a href="eddn.php">EDDN</a>, <a href="edmc.php">EDMC</a><br><br>
 <a href="eliteocr.php">EliteOCR</a> by seeebek<br><br>
 <a href="tradedangerous.php">TradeDangerous</a> by kfsone<br><br>
 <a href="landing-pad-size-distance-from-star-tutorial.php">Landing pad size and distance from star tutorial</a><br><br>
@@ -54,7 +54,8 @@
 <a href="hyperspace-jump.php">Hyperspace Jump</a><br><br>
 <a href="super-cruise.php">Super Cruise</a><br><br>
 <a href="star-systems.php">Star Systems</a><br><br>
-<a href="planetary-landings-guide.php">Planetary Landings Guide</a>
+<a href="planetary-landings-guide.php">Planetary Landings Guide</a><br><br>
+<a href="edsm.php">EDSM</a>
 </div>
 
 <div class="icat">
@@ -73,13 +74,17 @@
 <a href="controls.php">Controls (keyboard etc)</a><br><br>
 <a href="mining.php">Mining</a><br><br>
 <a href="pristine-reserves-metallic-rings.php">Pristine Reserves Metallic Rings</a><br><br>
+<a href="crime.php">Crime (and punishment)</a><br><br>
+<a href="federation-empire-rank-progression.php">Federation and Empire rank progression</a><br><br>
+<a href="frame-rates-4k-resolution.php">Frame rates 4k resolution</a>
+</div>
+
+<div class="icat">
+<h2>Equipment</h2>
 <a href="ships.php">Ships</a><br><br>
 <a href="space-stations.php">Space Stations</a><br><br>
-<a href="crime.php">Crime (and punishment)</a><br><br>
 <a href="edshipyard.php">edshipyard</a><br><br>
-<a href="frame-rates-4k-resolution.php">Frame rates 4k resolution</a><br><br>
-<a href="engineers.php">The Engineers</a><br><br>
-<a href="federation-empire-rank-progression.php">Federation and Empire rank progression</a>
+<a href="engineers.php">The Engineers</a>
 </div>
 
 <div class="icat">
