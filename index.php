@@ -77,7 +77,8 @@
 <a href="pristine-reserves-metallic-rings.php">Pristine Reserves Metallic Rings</a><br><br>
 <a href="crime.php">Crime (and punishment)</a><br><br>
 <a href="federation-empire-rank-progression.php">Federation and Empire rank progression</a><br><br>
-<a href="frame-rates-4k-resolution.php">Frame rates 4k resolution</a>
+<a href="frame-rates-4k-resolution.php">Frame rates 4k resolution</a><br><br>
+<a href="journal.php">Journal</a>, players journal or commander's log
 </div>
 
 <div class="icat">
