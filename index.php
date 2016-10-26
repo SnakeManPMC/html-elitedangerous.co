@@ -55,7 +55,8 @@
 <a href="super-cruise.php">Super Cruise</a><br><br>
 <a href="star-systems.php">Star Systems</a><br><br>
 <a href="planetary-landings-guide.php">Planetary Landings Guide</a><br><br>
-<a href="edsm.php">EDSM</a>
+<a href="edsm.php">EDSM</a><br><br>
+<a href="captains-log.php">Captain's Log</a> by Genar-Hofoen
 </div>
 
 <div class="icat">
