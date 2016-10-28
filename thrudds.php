@@ -15,7 +15,6 @@
 
 <header>
 <?php include("../include/google-ads.php"); ?>
-<?php include("../include/paypal.php"); ?>
 <h1><b>PMC Elite Dangerous, Thrudds</b></h1>
 <p>elitetradingtool by Thrudds</p>
 </header>
@@ -41,7 +40,6 @@ Thrudds elite trading tool is obsolete website and should not be used. Okay fine
 
 <footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<?php include("../include/paypal.php"); ?>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>

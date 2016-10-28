@@ -15,7 +15,6 @@
 
 <header>
 <?php include("../include/google-ads.php"); ?>
-<?php include("../include/paypal.php"); ?>
 <h1><b>PMC Elite Dangerous, Combat Analysis</b></h1>
 <p>Welcome to combat analysis</p>
 </header>

@@ -15,7 +15,6 @@
 
 <header>
 <?php include("../include/google-ads.php"); ?>
-<?php include("../include/paypal.php"); ?>
 <h1><b>PMC Elite Dangerous Journal</b></h1>
 </header>
 
@@ -32,7 +31,6 @@ Frontier created <a href="https://forums.frontier.co.uk/showthread.php/275151-Co
 
 <footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<?php include("../include/paypal.php"); ?>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>

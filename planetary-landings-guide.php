@@ -15,7 +15,6 @@
 
 <header>
 <?php include("../include/google-ads.php"); ?>
-<?php include("../include/paypal.php"); ?>
 <h1><b>PMC Elite Dangerous, Planetary Landings Guide</b></h1>
 </header>
 
@@ -199,7 +198,6 @@ PMCTODO https://www.youtube.com/watch?v=O2uYM2ykS1I
 
 <footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<?php include("../include/paypal.php"); ?>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>

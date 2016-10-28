@@ -15,7 +15,6 @@
 
 <header>
 <?php include("../include/google-ads.php"); ?>
-<?php include("../include/paypal.php"); ?>
 <h1><b>PMC Elite Dangerous - Bounty Hunting</b></h1>
 </header>
 
@@ -91,7 +90,6 @@ Open galaxy map, select powerplay -> a lavigny-duval -> control (systems). Now y
 
 <footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<?php include("../include/paypal.php"); ?>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>

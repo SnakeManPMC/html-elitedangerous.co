@@ -16,14 +16,8 @@ google analytics here
 </head>
 <body>
 
-<!--
-google ads here
-paypal here
--->
-
 <header>
 <?php include("../include/google-ads.php"); ?>
-<?php include("../include/paypal.php"); ?>
 <h1><b>PMC Elite Dangerous - Crime</b></h1>
 </header>
 
