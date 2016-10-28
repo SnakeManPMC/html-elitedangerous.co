@@ -2,4 +2,4 @@
 
 PMC Elite Dangerous website
 
-[PMC Elite Dangerous](http://tactical.nekromantix.com/elite/index.php)
+[PMC Elite Dangerous](http://www.elitedangerous.net/index.php)
