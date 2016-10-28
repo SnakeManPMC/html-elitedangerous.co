@@ -8,13 +8,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../include/google-analytics.php"); ?>
+<?php include("include/google-analytics.php"); ?>
 
 </head>
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("include/google-ads.php"); ?>
 <h1><b>PMC Elite Dangerous, Thrudds</b></h1>
 <p>elitetradingtool by Thrudds</p>
 </header>
@@ -42,7 +42,7 @@ Thrudds elite trading tool is obsolete website and should not be used. Okay fine
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

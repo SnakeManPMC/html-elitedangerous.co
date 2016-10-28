@@ -11,13 +11,13 @@
 <!--
 google analytics here
 -->
-<?php include("../include/google-analytics.php"); ?>
+<?php include("include/google-analytics.php"); ?>
 
 </head>
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("include/google-ads.php"); ?>
 <h1><b>PMC Elite Dangerous - Crime</b></h1>
 </header>
 
@@ -46,7 +46,7 @@ Fines will now take seven days before they mature into bounties.
 <footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -8,13 +8,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../include/google-analytics.php"); ?>
+<?php include("include/google-analytics.php"); ?>
 
 </head>
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("include/google-ads.php"); ?>
 <h1><b>PMC Elite Dangerous, Combat Analysis</b></h1>
 <p>Welcome to combat analysis</p>
 </header>
@@ -98,7 +98,7 @@ ASP A5 thrusters, A6 shields, A4 power distributor, with 6x gimballed pulse lase
 <footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>
