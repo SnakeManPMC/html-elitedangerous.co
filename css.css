@@ -12,6 +12,11 @@ body
 	margin: 0 auto;
 }
 
+a
+{
+    color: darkorange;
+}
+
 /* no idea what this is */
 .small
 {
