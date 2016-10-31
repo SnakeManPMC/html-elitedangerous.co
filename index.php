@@ -55,7 +55,8 @@
 <a href="star-systems.php">Star Systems</a><br><br>
 <a href="planetary-landings-guide.php">Planetary Landings Guide</a><br><br>
 <a href="edsm.php">EDSM</a><br><br>
-<a href="captains-log.php">Captain's Log</a> by Genar-Hofoen
+<a href="captains-log.php">Captain's Log</a> by Genar-Hofoen<br><br>
+<a href="visited-stars-cache.php">Visited Stars Cache</a>
 </div>
 
 <div class="icat">
