@@ -28,7 +28,7 @@
 - fit your Viper with laser weapons and a Kill Warrant Scanner<br>
 - fly down into the asteroid belt and scan all the ships around you to check if they're wanted
 <br><br>
-Occasionally you will come across a wanted Anaconda. You must always check to see if there are more than four (or maybe even three if you're brave) NPC ships shooting at it. If so, scan him with your Kill-Warrant Scanner to check his bounty (sometimes you get ones with like 300 bounty, which is not worth the trouble). Wait for the NPCs around you to take it down to approximately 50-35% hull. If you wait for any later than this, the Anaconda can sometimes just go from 305 hull to 0% hull in a second, and you lose any chance at killing it. Once it's low, you can just keep at almost the maximum range away and fire at it. It will eventually die, and you will almost certainly get 100,000 to 150,000 credits in bounty.
+Occasionally you will come across a wanted Anaconda. You must always check to see if there are more than four (or maybe even three if you're brave) NPC ships shooting at it. If so, scan him with your Kill-Warrant Scanner to check his bounty (sometimes you get ones with like 300 bounty, which is not worth the trouble). Wait for the NPCs around you to take it down to approximately 50-35% hull. If you wait for any later than this, the Anaconda can sometimes just go from 30% hull to 0% hull in a second, and you lose any chance at killing it. Once it's low, you can just keep at almost the maximum range away and fire at it. It will eventually die, and you will almost certainly get 100,000 to 150,000 credits in bounty.
 <br><br>
 Sidewinder only give 2000-6000 bounty. Cobras always give 13,000 to 20,000 CR in bounty.
 </p>
