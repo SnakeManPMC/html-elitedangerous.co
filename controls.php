@@ -63,10 +63,10 @@ However its just easier to search them at v2.0 release from edlauncher\Products\
 
 <p><b>AppConfigLocal.xml</b>
 <br><br>
-This file is for your AppConfig.xml overrides and should be edited, not the actual AppConfig.xml file.
+This file is for your <b>AppConfig.xml</b> overrides and should be edited, not the actual AppConfig.xml file because every time Frontier releases a new Elite patch/upgrade, your AppConfig.xml file gets overwritten and your edits are lost. If you use <b>AppConfigLocal.xml</b> file then your config tweaks are safe.
 </p>
 
-<p>Please access your AppConfig.xml which can be found in your game directory and open this in proper text editor. You'll see a block near the bottom named "Network". Please insert the following lines somewhere in that block -
+<p>Please access your AppConfigLocal.xml which can be found in your game directory and open this in proper text editor. You'll see a block near the bottom named "Network". Please insert the following lines somewhere in that block -
 <br><br>
 <code>
 ReportSentLetters="1"<br>
@@ -75,6 +75,24 @@ VerboseLogging="1"
 </code>
 <br><br>
 This will produce a more detailed NetLog. Copy your AppConfig.xml to AppConfigLocal.xml file name, add these lines and then restart the game for these edits to take effect.
+</p>
+
+<p><b>Port Forwarding</b><br>
+Find the network tag and there are stuff like:
+<br><br>
+<code>
+Port="0"<br>
+upnpenabled="1"
+</code>
+<br><br>
+Where you need to add your own port and disable UPNP like this:
+<br><br>
+<code>
+Port="1234"<br>
+upnpenabled="0"
+</code>
+<br><br>
+Which would use port 1234 and disable UPNP. Remember; do this on AppConfigLocal.xml file otherwise you lose this edit on next Elite patch/upgrade.
 </p>
 
 <p><b>GraphicsConfigurationOveride.xml</b>
