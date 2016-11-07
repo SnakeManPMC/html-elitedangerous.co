@@ -27,7 +27,7 @@ However not all jump reachable star systems are listed in the Navigation panel e
 
 <p>You need to cut throttle after FSD has charged and the countdown begins because at the destination system your are dropped dangerously close to the system's star. For example in Lakon Type-9 Heavy, unless you cut your throttle and immediately turn away from the star, you'll hit the too close proximity alarm and are forced out of super cruise.</p>
 
-<p>On Beta 3.05 Lakon ASP with 27.2Ly jump range; 306Ly distance with one (slow) fuel scoop stop took 35min (dont remember how many jumps). So you could roughly say that in one hour you can travel about 600Ly distance.</p>
+<p>On Beta 3.05 Lakon Asp with 27.2Ly jump range; 306Ly distance with one (slow) fuel scoop stop took 35min (dont remember how many jumps). So you could roughly say that in one hour you can travel about 600Ly distance.</p>
 
 <h2>Frame Shift Drive Charge Time</h2>
 
@@ -42,12 +42,17 @@ However not all jump reachable star systems are listed in the Navigation panel e
 
 <h2>Hyperspace Jump Time</h2>
 
-<p>Hyperspace jump times (ASP, FSD class 5 rating A.)<br>
+<p>Hyperspace jump times (Asp, FSD class 5 rating A.)<br>
 FSD charging 15sec<br>
 Countdown 5sec (total 20sec)<br>
 Hyperjump 13-16sec (total 33-36sec) but this depends really how long the server connection takes...<br>
 FSD cooldown start delay 4sec (total 37-40sec)<br>
 FSD cooldown 4sec (<b>total 41-44sec</b>)
+</p>
+
+<p><b>Jump timings in same Asp on Elite v2.2</b><br>
+21 jumps 18min 34sec<br>
+20 jumps 18min 27sec
 </p>
 
 </section>
