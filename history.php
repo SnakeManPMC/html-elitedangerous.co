@@ -173,7 +173,8 @@ Thursday. Oct 27th, 2016. v2.2.01<br>
 Tuesday. Nov 15th, 2016. v2.2.02<br>
 Friday. Nov 18th, 2016. v2.2.02 Server side update<br>
 Wednesday. Dec 7th, 2016. v2.2.03 Beta 1<br>
-Tuesday. Dec 13th, 2016. v2.2.03 Beta 2
+Tuesday. Dec 13th, 2016. v2.2.03 Beta 2<br>
+Friday. Dec 16th, 2016. v2.2.03 Beta 3
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -561,13 +562,16 @@ v2.2.02<br>
 1201hrs Release
 <br><br>
 v2.2.02 Server side update<br>
-1542hrs patch notes<br>
+1542hrs patch notes
 <br><br>
 v2.2.03 Beta 1<br>
-1511hrs patch notes<br>
+1511hrs patch notes
 <br><br>
 v2.2.03 Beta 2<br>
-1701hrs patch notes<br>
+1701hrs patch notes
+<br><br>
+v2.2.03 Beta 3<br>
+1244hrs patch notes
 </p>
 </section>
 
