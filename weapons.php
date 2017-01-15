@@ -22,11 +22,17 @@
 <h2>List of all the weapons available. You can equip your ship with weapons and gear from the starport Outfitting menu.</h2>
 
 <h2>Pulse Laser</h2>
-PMCTODO
+<p>These are the weakest laser weapons, but also lasers that use less power and produce less heat.
+</p>
+
 <h2>Beam Laser</h2>
-PMCTODO
+<p>These are most powerful laser weapons, but then again draw most power and produce most heat.
+</p>
+
 <h2>Multi Cannon</h2>
-PMCTODO
+<p>Dont require much power and dont produce any heat. Projectile weapons which are not effective against shields, use these weapons against hull once you have taken the targets shields down with lasers or other means.
+</p>
+
 <p><b>Fixed</b> weapons obviously are the most accurate, they hit where you aim (its up to you to aim for enemy ships heh).</p>
 
 <p><b>Gimbaled</b> weapons means that they turn slightly to follow your target, they are not turrets but they do help with aiming very nicely.</p>
