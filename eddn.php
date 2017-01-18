@@ -21,7 +21,7 @@
 <section>
 <h2>Elite Dangerous Data Network</h2>
 
-<p>It is a relay for market data stream coming from <a href="eliteocr.php">EliteOCR</a>, RegulatedNoise and Maddavo's market share.</p>
+<p>It is a relay for market data stream coming from <a href="edmc.php">EDMC</a>, Maddavo's market share and other EDDN sender clients.</p>
 
 <p>It is following the footsteps of Andreas Market Scraper and EDMN.</p>
 </section>
