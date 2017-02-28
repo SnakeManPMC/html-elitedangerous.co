@@ -118,9 +118,17 @@ Everything changes. Introducing an expanded mission system and game-changing loo
 </p>
 
 <p><b>v2.3: The Commanders</b><br>
-Coming Fall 2016
-<br><br>
-Team up and stand together. Forge your own identity with the new Commander Creator, then share your bridge with Multi-Crew and fly with friends.
+Beta Feb 28th, 2017.
+</p>
+
+<p>- commander creator<br>
+- multi crew<br>
+- ship names<br>
+- dolphin ship<br>
+- camera suite (highly improved debug camera)<br>
+- asteroid base type station (including air traffic controllers)<br>
+- 32 asteroid bases in various deep space locations<br>
+- increased the credit values of exploration data for scans after this release.
 </p>
 
 <p><b>2.4: ????</b><br>

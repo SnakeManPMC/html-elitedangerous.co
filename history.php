@@ -176,7 +176,8 @@ Wednesday. Dec 7th, 2016. v2.2.03 Beta 1<br>
 Tuesday. Dec 13th, 2016. v2.2.03 Beta 2<br>
 Friday. Dec 16th, 2016. v2.2.03 Beta 3<br>
 Tuesday. Dec 20th, 2016. v2.2.03 Beta 4<br>
-Tuesday. Jan 10th, 2017. v2.2.03
+Tuesday. Jan 10th, 2017. v2.2.03<br>
+Tuesday. Feb 28th, 2017. v2.3 Beta
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -580,6 +581,9 @@ v2.2.03 Beta 4<br>
 <br><br>
 v2.2.03<br>
 1156hrs patch notes
+<br><br>
+v2.3 Beta<br>
+1750hrs patch notes
 </p>
 </section>
 
