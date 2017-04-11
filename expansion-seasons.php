@@ -118,12 +118,12 @@ Everything changes. Introducing an expanded mission system and game-changing loo
 </p>
 
 <p><b>v2.3: The Commanders</b><br>
-Beta Feb 28th, 2017.
+Apr 11th, 2017.
 </p>
 
 <p>- commander creator<br>
 - multi crew<br>
-- ship names<br>
+- ship naming<br>
 - dolphin ship<br>
 - camera suite (highly improved debug camera)<br>
 - asteroid base type station (including air traffic controllers)<br>
