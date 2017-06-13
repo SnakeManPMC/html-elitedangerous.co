@@ -188,7 +188,8 @@ Tuesday. Mar 28th, 2017. v2.3 Beta 5<br>
 Tuesday. Apr 25th, 2017. v2.3.01<br>
 Thursday. Apr 27th, 2017. v2.3.02<br>
 Wednesday. May 17th, 2017. v2.3.02 Server side update<br>
-Tuesday. Jun 6th, 2017. v2.3.10
+Tuesday. Jun 6th, 2017. v2.3.10<br>
+Monday. Jun 12th, 2017. v2.3.10 Beta 2
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -628,6 +629,9 @@ v2.3.02 Server side update<br>
 <br><br>
 v2.3.10<br>
 1937hrs patch notes
+<br><br>
+v2.3.10 Beta 2<br>
+1710hrs patch notes
 </p>
 </section>
 
