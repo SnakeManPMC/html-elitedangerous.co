@@ -131,8 +131,8 @@ Apr 11th, 2017.
 - increased the credit values of exploration data for scans after this release.
 </p>
 
-<p><b>2.4: ????</b><br>
-A secret to be revealed in Elite Dangerous: Horizons final expansion!
+<p><b>2.4: The Return</b><br>
+Thargoids are back.
 </p>
 
 <h2>2016, Season 3 - ?</h2>
