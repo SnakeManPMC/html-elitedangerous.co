@@ -132,7 +132,14 @@ Apr 11th, 2017.
 </p>
 
 <p><b>2.4: The Return</b><br>
-Thargoids are back.
+Thargoids are back.<br>
+- galaxy map route plotting increased to 20,000 light years<br>
+- galaxy map route plotting is much faster<br>
+- added new player vs player murder bounties<br>
+- hull / canopy repair limpet controllers<br>
+- there is now an option to make use of neutron star boost when plotting routes<br>
+- an icon is displayed on the route to show the last scoopable star before running out of fuel<br>
+- music system is completely replaced! existing music should behave exactly as before. it is now much more maintainable and enjoyable to use
 </p>
 
 <h2>2016, Season 3 - ?</h2>
