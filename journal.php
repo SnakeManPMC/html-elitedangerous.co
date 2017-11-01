@@ -24,7 +24,7 @@
 Frontier created <a href="https://forums.frontier.co.uk/showthread.php/275151-Commanders-log-manual-and-data-sample">Commanders log manual and data sample</a> topic where they introduce player journal or commander's log file. Elite client writes all kinds of cool data into this JSON file for 3rd party developers to read with their own clients.
 </p>
 
-<p>Elite journal files are located in unfortunate "C:\Users\YOURNAME\AppData\Local\Frontier Developments\Elite Dangerous" directory. File names are Journal.DATE.01.log
+<p>Elite journal files are located in unfortunate "C:\Users\YOURNAME\Saved Games\Frontier Developments\Elite Dangerous\" directory. File names are Journal.DATE.01.log
 </p>
 
 </section>
