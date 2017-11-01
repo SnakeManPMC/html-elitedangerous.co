@@ -21,9 +21,10 @@
 <section>
 <h2>EliteOCR by Seeebek</h2>
 
-<p>
-EliteOCR is the utility to use to grab market data from screenshots and export it to <a href="eddn.php">EDDN</a> to be shared with the community. It also export it to CSV file format which you can keep in your hard drive, however it is preferred that you always export to EDDN.
-<a href="">link</a> <br><br>
+<p><b>This tool has been made obsolete with introduction of <a href="community-api.php">community API</a> using tools like <a href="edmc.php">EDMC</a> and others.</b> EliteOCR page exists for historial reasons.
+</p>
+
+<p>EliteOCR is the utility to use to grab market data from screenshots and export it to <a href="eddn.php">EDDN</a> to be shared with the community. It also export it to CSV file format which you can keep in your hard drive, however it is preferred that you always export to EDDN.
 </p>
 </section>
 
