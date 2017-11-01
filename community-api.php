@@ -24,7 +24,7 @@
 <p>Community API is some leftover iOS mobile API server frontier development had running which community members found and started to (ab)use, this eventually lead to frontier acknowledging and accepting it, today it is perfectly fine to use the community API to collect some info from the game.
 </p>
 
-<p>Difference between <a href="journal.php">player journal</a> and community API is that journal is files locally written by your hard disk by elite client while the API is a server that frontier runs.
+<p>Difference between <a href="journal.php">player journal</a> and community API is that journal is files locally written to your hard disk drive by elite client while the API is a server that frontier runs.
 </p>
 
 <p>Tools like <a href="edmc.php">EDMC</a> query the API for commodity market prices, shipyard info and other data.

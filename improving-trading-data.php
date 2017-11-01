@@ -25,7 +25,7 @@
 <p>How to improve Elite Dangerous trading market prices and other data availability.
 </p>
 
-<p>It is very important that we have good and up to date coverage of trading commodity prices and station landing pad sizes. In the vast elite galaxy (populated space) there are many stations which are still missing station landig pad sizes, commodity market prices and even both.
+<p>It is very important that we have good and up to date coverage of trading commodity prices and station landing pad sizes. In the vast elite galaxy (populated space) there are many stations which are still missing station landing pad sizes, commodity market prices and even both.
 </p>
 
 <p>Most common case though might be that commodity prices have been updated the last time about two years ago, this kind of data age is unacceptable for proper trading.
@@ -44,7 +44,7 @@
 <p>At <i>Nearest stations missing prices</i> part use the drop downs to choose landing pad size L (large) as there is no point of trading with smaller ships, choose Planetary N (no) because it takes forever to land into planetary ports. The <i>MaxLsFromStar</i> Ls (light seconds) should be set to max of 1000ls because anything above it and it will take way too long to reach the station.
 </p>
 
-<p>0Ls tick box includes distance from star data data missing, ie zero, stations.
+<p>0Ls tick box includes distance from star data missing, ie zero, stations.
 </p>
 
 <p>Landing pad size and planetary difference between empty slot and ? question mark. PMCTODO
@@ -56,11 +56,11 @@
 <p>next system? PMCTODO
 </p>
 
-<p>To recap: landing pad size L, planetary N and MaxLsFromStar 1000.
+<p>To recap: landing pad size L, planetary N, MaxLsFromStar 1000 and 0Ls tick box ticked.
 </p>
 
 	<h2>EDDB</h2>
-<p>https://ross.eddb.io/station/snake-man or closest-missing PMCTODO
+<p><a href="https://ross.eddb.io/station/snake-man">eddb snake-man</a> and <a href="https://ross.eddb.io/station/closest-missing">eddb closest-missing</a> pages. PMCTODO
 </p>
 
 <p>snake-man page lists all the stations with distance to star or pad size data missing. There is no order, it just lists them and you cannot search for closest system or anything. Its not totally useless, but very close to it, very difficult to use.
