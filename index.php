@@ -41,7 +41,9 @@
 <a href="tradedangerous.php">TradeDangerous</a> by kfsone<br><br>
 <a href="landing-pad-size-distance-from-star-tutorial.php">Landing pad size and distance from star tutorial</a><br><br>
 <a href="thrudds.php">Thrudds Obsolete elite trading tool</a><br><br>
-<a href="trading.php">Trading Basic Info</a>
+<a href="trading.php">Trading Basic Info</a><br><br>
+<a href="improving-trading-data.php">Improving Trading Data</a><br><br>
+<a href="maddavos-market-share.php">Maddavo's Market Share</a>
 </div>
 
 <div class="icat">
@@ -78,7 +80,10 @@
 <a href="crime.php">Crime (and punishment)</a><br><br>
 <a href="federation-empire-rank-progression.php">Federation and Empire rank progression</a><br><br>
 <a href="frame-rates-4k-resolution.php">Frame rates 4k resolution</a><br><br>
-<a href="journal.php">Journal</a>, players journal or commander's log
+<a href="journal.php">Journal</a>, players journal or commander's log<br><br>
+<a href="community-api.php">Community API</a><br><br>
+<a href="howto-instal-elite-dangerous.php">HOWTO Install Elite Dangerous</a><br><br>
+<a href="multiple-accounts.php">Multiple Accounts</a>
 </div>
 
 <div class="icat">
