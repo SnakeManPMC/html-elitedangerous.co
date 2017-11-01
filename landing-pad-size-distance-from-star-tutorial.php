@@ -35,7 +35,12 @@ Python<br>
 
 <h2>How do I know which pad size a particular station has?</h2>
 
-<p>Check station logo from System Map and compare to this <a href="http://imgur.com/kYMy1BB">ugly station landing pad size legend</a>. Simply to put: outposts have medium (small + medium) size pads and starports have large (small + medium + large) size pads.</p>
+<p>Check station logo from System Map and compare to this.
+</p>
+
+<img src="images/Landing-Pad-Size-Legend.jpg" alt="Elite Dangerous Landing Pad Size Legend">
+
+<p>Simply to put: outposts have medium (small + medium) size pads and starports have large (small + medium + large) size pads.</p>
 
 <h2>What is distance from star?</h2>
 
