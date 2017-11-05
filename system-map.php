@@ -25,13 +25,13 @@
 
 <p><b>High Metal Content Planets, candidates for terraforming</b>. These are more valuable planets than normal high metal content ones.</p>
 
-<img src="images/Candidate_for_Terraforming-001.png" alt="High Metal Content Planet 1" height="130" width="130">
+<img src="images/Candidate_for_Terraforming-001.png" alt="High Metal Content Planet 1" height="104" width="114">
 <img src="images/Candidate_for_Terraforming-002.png" alt="High Metal Content Planet 2" height="130" width="130">
 <img src="images/Candidate_for_Terraforming-003.png" alt="High Metal Content Planet 3" height="130" width="130">
 <img src="images/Candidate_for_Terraforming-004.png" alt="High Metal Content Planet 4" height="130" width="130">
-<img src="images/Candidate_for_Terraforming-005.png" alt="High Metal Content Planet 5" height="130" width="130">
-<img src="images/Candidate_for_Terraforming-006.png" alt="High Metal Content Planet 6" height="130" width="130">
-<img src="images/Candidate_for_Terraforming-007.png" alt="High Metal Content Planet 7" height="130" width="130">
+<img src="images/Candidate_for_Terraforming-005.png" alt="High Metal Content Planet 5" height="140" width="315">
+<img src="images/Candidate_for_Terraforming-006.png" alt="High Metal Content Planet 6" height="100" width="280">
+<img src="images/Candidate_for_Terraforming-007.png" alt="High Metal Content Planet 7" height="124" width="412">
 <img src="images/Candidate_for_Terraforming-008.png" alt="High Metal Content Planet 8" height="130" width="130">
 <img src="images/Candidate_for_Terraforming-009.png" alt="High Metal Content Planet 9" height="130" width="130">
 
@@ -48,7 +48,7 @@
 <p><b>Water Worlds</b>, very odd looking...</p>
 
 <img src="images/Water_World_very_odd_looking-001.png" alt="Water World, very odd looking 1" height="130" width="130">
-<img src="images/Water_World_very_odd_looking-002.png" alt="Water World, very odd looking 2" height="130" width="130">
+<img src="images/Water_World_very_odd_looking-002.png" alt="Water World, very odd looking 2" height="158" width="550">
 <img src="images/Water_World_very_odd_looking-003.png" alt="Water World, very odd looking 3" height="130" width="130">
 
 <p><b>Water Worlds</b>, candidate for terraforming.</p>
