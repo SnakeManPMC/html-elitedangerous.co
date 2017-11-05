@@ -23,25 +23,25 @@
 
 <h2>Coriolis</h2>
 
-<img src="images/system-map-coriolis-station.jpg" alt="System Map Coriolis Station" height="auto" width="auto">
+<img src="images/system-map-coriolis-station.jpg" alt="System Map Coriolis Station" height="402" width="390">
 
 <p>Coriolis is the legendary box with corners cut off space station we know from original Elite. This station has large landing pads (as well as medium and small).</p>
 
 <h2>Orbis</h2>
 
-<img src="images/system-map-orbis-station.jpg" alt="System Map Orbis Station" height="auto" width="auto">
+<img src="images/system-map-orbis-station.jpg" alt="System Map Orbis Station" height="408" width="414">
 
 <p>Orbis is the two ring living habitat space station from Frontier games. It's said to be 8km in diameter. This station has large landing pads (as well as medium and small).</p>
 
 <h2>Ocellus</h2>
 
-<img src="images/system-map-ocellus-station.jpg" alt="System Map Ocellus Station" height="auto" width="auto">
+<img src="images/system-map-ocellus-station.jpg" alt="System Map Ocellus Station" height="408" width="414">
 
 <p>Ocellus is kind of ball looking station almost getting the feeling like its wings cut off as it has no habitat ring. This station has large landing pads (as well as medium and small).</p>
 
 <h2>Outpost</h2>
 
-<img src="images/system-map-outpost-station.jpg" alt="System Map Outpost Station" height="auto" width="auto">
+<img src="images/system-map-outpost-station.jpg" alt="System Map Outpost Station" height="402" width="408">
 
 <p>Outpost is a small station (outpost, doh!) which only handles small and medium landing pad size traffic.</p>
 
@@ -59,7 +59,7 @@
 <footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
-<p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
+<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
 

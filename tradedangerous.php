@@ -31,7 +31,7 @@
 </p>
 
 <h2>Usage</h2>
-<p><pre>
+<pre>
 python3 trade.py import --plug=maddavo --opt=syscsv --opt=stncsv -v
 python3 trade.py run --cr 10000000 --cap 532 --ly 12.02 -vvv --pad l --ls-max 1500 --avoid alioth
 python3 trade.py import import.prices
@@ -41,16 +41,16 @@ python3 trade.py station --update sys/stat --ls 0 --bm y --pad l
 python3 trade.py run --cr 10000000 --cap 532 --ly 12.02 -vvv --pad l --fr ltt377 --via g26847/arch --to ltt377 --hops 3
 python3 trade.py local --ly 27 -v aulin|more
 </pre>
-</p>
 
-<p>Landing --pad-size sml?. Small, Medium, Large and ? is unknown (doh). So for type-9's do "--pad l"<br>
+<p>Landing --pad-size sml?. Small, Medium, Large and ? is unknown (doh). So for type-9's do "--pad l"
+</p>
 <pre>
 python3 trade.py run --from sol --start-jumps 3 --hops 2
 python3 trade.py run --from sol -s3 --hops 2
 </pre>
-</p>
 
 <p>--routes 10. Added a "--ls-max" option to "run" so you can set a hard limit on how far you'll fly. This lets you say "I want to go from somewhere within a couple of jumps of sol to somewhere in the vicinity of lave":
+</p>
 <pre>
 trade.py run ... --from sol --start-jumps 2 --end-jumps 5 ...
 or
@@ -68,7 +68,6 @@ $ trade.py station --add "guiwande/aikin horizons"
 or if you know the ls-from star, the pad size and whether the station has a black market:
 $ trade.py station --add "guiwande/aikin horizons" --ls=3948 --pad=l --bm=y
 </pre>
-</p>
 
 <p>"does it only update it to the SQL .db file like it says, or to Station.csv as well?", only in the local station, you'll need to do a "trade.py export --table Station" when you're done. Or ... add a blank line at the end of the file and then the following code (which is not indented, no spaces or tabs infront of it):
 <br><br>
@@ -86,7 +85,7 @@ print("Rebuilt Station.csv")
 <p>Yep, literally. TD barfs with a -1 distance. Set to -1 to delete. Upload. Wait. Download/import. Continue. I tend to do deletes at the end of a session so I don't have to wait.
 </p>
 
-<p><pre>
+<pre>
 python3 trade.py run --cr 2556705 --cap 532 --ly 12.02 -vvv --pad l --avoid alioth --fr BD024304/Durrance --insurance 3611881
 python3 trade.py run --cr 2934671 --cap 532 --ly 12.02 -vvv --pad l --avoid alioth --fr BD024304/Durrance
 python3 trade.py run --cr 594348 --cap 532 --ly 12.02 -vvv --pad l --avoid alioth --fr BD024304/Bean --insurance 3611881
@@ -96,12 +95,12 @@ python3 trade.py run --cr 5322580 --cap 532 --ly 12.02 -vvv --pad l --ls-max 150
 python3 trade.py run --cr 2837250 --cap 532 --ly 12.02 -vvv --pad l --avoid alioth --fr LOUGUALA/Mcmullen --to BD024304 --hops 1
 python3 trade.py run --cr 2934671 --cap 532 --ly 12.02 -vvv --pad l --avoid alioth --fr BD024304/Durrance --hops 12
 </pre>
-</p>
 
 <p>trade.py uses requests module for CSV downloads but older method for .prices files.
 </p>
 
 <p>Script to leech and rename system/station csv files:
+</p>
 <pre>
 cd tradedangerous/data
 rm System.csv
@@ -112,25 +111,22 @@ mv station.asp Station.csv
 cd ..
 python3.4 trade.py import --plug=maddavo -O usefull
 </pre>
-</p>
 
-<p><pre>
+<pre>
 trade.py import --plug=maddavo -O csvs
 trade.py import --plug=maddavo -O csvs,csvonly
 trade.py import --plug=maddavo -O usefull
 trade.py import --plug=maddavo -O use2d
 trade.py import --plug=maddavo -O use3h
 </pre>
-</p>
 
 <p>- Added "--stock" option to set minimum stock level required. CAVEAT: It will ignore any stations that have "?" as their listed quantity.
 </p>
 
-<p><pre>
+<pre>
 trade.py local Ross209 --ly 20 --stations -vv
 trade.py local Ross209 --ly 20 --stations -vv --pad ?
 </pre>
-</p>
 
 
 <h2>Uploading</h2>
@@ -180,10 +176,10 @@ Any new stations are added IF the System exists in our System.csv. In theory, we
 --shorten</p>
 
 <p>I've just landed 1.8.2 which adds "--loop-int", this lets you specify that you don't want to go back to the same station in less than X hops, e.g.
+</p>
 <pre>
 trade.py run synteini/lager --pad L --hops 6 --sum --ls-max 4000 --stock 10000 --ly=42 -li=2
 </pre>
-</p>
 
 <p>will find routes that requires at least 2 hops between returns to a given station
 </p>
@@ -214,16 +210,17 @@ A-&gt;B-&gt;C-&gt;A &lt;- allowed
 </p>
 
 <p>rebuild database?:
+</p>
 <pre>
 trade.py build -f
 </pre>
-</p>
+
 </section>
 
 <footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
-<p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
+<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
 

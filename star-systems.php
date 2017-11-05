@@ -118,7 +118,7 @@ LHS 2884 - Abnett Platform <- not markedscraped yet
 
 -->
 <p>Q: how do you get exact coordinates for systems? (to be included in community databases)<br>
-A: Use this page to enter new systems <a href="http://robert.astronet.se/Elite/ed-systems/entry.html">Elite New System (Astronet)</a>.
+A: Use <a href="edsm.php">EDSM</a> to enter new systems.
 </p>
 
 </section>
@@ -126,7 +126,7 @@ A: Use this page to enter new systems <a href="http://robert.astronet.se/Elite/e
 <footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
-<p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
+<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
 

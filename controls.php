@@ -126,7 +126,7 @@ Elite v2.0 Horizons installs to edlauncher\Products\elite-dangerous-64\ director
 <footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
-<p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
+<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
 

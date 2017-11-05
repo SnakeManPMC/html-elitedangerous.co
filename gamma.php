@@ -24,18 +24,18 @@
 <p>
 News<br>
 Gamma or pre-release "Preview" build on November 22nd, 2014.<br>
-- Gamma receives updates before final release.
-- There will be a wipe at 3.9 and another at the start of gamma.
+- Gamma receives updates before final release.<br>
+- There will be a wipe at 3.9 and another at the start of gamma.<br>
 - procedurally generated star systems (contents and economies etc) will change again<br>
 - full wipe<br>
-- http://i.imgur.com/ZHQkHKb.jpg<br>
+- <a href="http://i.imgur.com/ZHQkHKb.jpg">i.imgur.com/ZHQkHKb.jpg</a><br>
 </p>
 </section>
 
 <footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
-<p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
+<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
 

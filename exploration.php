@@ -62,7 +62,7 @@ no weapons, class 2 rating D power plant, class 4 rating D thursters, class 5 ra
 
 <p>Best exploration ship is ASP Explorer which can be outfitted to 34.86Ly jump range, with one tank you can jump 7 times fastest route and class 6 rating A fuel scoop scoops 878kg/s. Anaconda can be outfitted to 39.35Ly jump range, it can jump with one tank 4 times and class 7 rating A fuel scoop scoops 1245kg/s. 1000Ly route for ASP is 31 jumps while for anaconda it is 26 jumps. However Anaconda with the needed thrusters is awfully slow to pitch, therefore ASP Explorer is without a doubt the best explorer ship available in v1.2.06</p>
 
-<h1>Exploration Tips</h1>
+<h2>Exploration Tips</h2>
 <p>You sould go away at least 5,000Ly from Sol so you not run constantly into discovered by other player objects. If running into other player discovered objects is no problem to you, then you dont need to go very far to find unknown (to you) systems which you can explore.</p>
 
 <p>Less than 10,000Ly from galactic core the route planner (in v1.2.06) starts to become very sluggish, it takes several minutes to calculate route. It doesnt appear to matter if you plot 2 jump or 30 jump route, its still sluggish. There are so much star systems in the center of the galaxy, that's why its sluggish. The route planning works though, it has never failed yet... its just so terribly slow. Also it really changes how long it takes, sometimes 1000Ly route is under a minute, other times youre lucky if its done under 10min :(</p>
@@ -119,7 +119,7 @@ Basic jumps without surface scans are the clean traveling method but kind of use
 <footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
-<p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
+<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
 

@@ -30,12 +30,15 @@
 
 <p><b>Cmdr John Charger</b> - 2015-04-26T23:24:05Z, Synteini: I was with wing in Majkl who was interdicted in his Lakon Type-9, player killer was in python. I dropped into the same interdiction as I was following Majkl's lead. Player killer destroyed me first very very quickly. Afterwards I heard Majkl managed to get into super cruise, but was interdicted again so he combat logged after seeing what happened to me.</p>
 
+<p><b>Update:</b> on late 2015 it was clear that open is for player killers only and normal player versus environment CMDR's use private groups like Mobius. Since long time I have not flown in open just for this reason. This page is kind of obsolete as nobody is going to claim this "most wanted" bounty I guess you could call it, but decided to leave this page as historical reminder of the Elite's past.
+</p>
+
 </section>
 
 <footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
-<p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
+<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
 

@@ -27,7 +27,10 @@
 Genar_Hofoen made a Frontier Forums <a href="https://forums.frontier.co.uk/showthread.php/155545-Explorer-s-Application-Captain-s-Log?p=4679492&viewfull=1#post4679492">Captain's Log 2 Beta Announcement</a> at the day of Elite v2.2 launch. Check out <a href="http://scarygliders.net/captains-log/">Official Captain's Log Homepage</a>.
 </p>
 
-<p>Uses SQLite3 database to store your travels and notes. Has very nice graphicals percentage circle presentation of scanned planet materials and it also shows icons for J1, J2 and J3 which are Elite explorers slang term for "Jumponium" on basic, standard and premium boost levels.
+<p>Uses SQLite3 database to store your travels and notes. Has very nice graphical percentage circle (pie?) presentation of scanned planet materials and it also shows icons for J1, J2 and J3 which are Elite explorers slang term for "Jumponium" on basic, standard and premium boost levels. Very easy and nice way to see what materials current systems scanned planets provide.
+</p>
+
+<p>Note: <a href="https://captainslog.scarygliders.net/download/captains-log-2x/">Captain's Log v2.1.15</a> is still not working properly in 4k desktop resolutions, some of the text is cut off due some user interface scale issues. You can use Captain's Log in 4k, but its... well annoying issue to say the least.
 </p>
 
 </section>
@@ -35,7 +38,7 @@ Genar_Hofoen made a Frontier Forums <a href="https://forums.frontier.co.uk/showt
 <footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
-<p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
+<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
 

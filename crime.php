@@ -22,6 +22,7 @@ google analytics here
 </header>
 
 <section>
+<h2>Crime and Punishment</h2>
 <p>
 Fines will now take seven days before they mature into bounties.
 </p>
@@ -45,7 +46,7 @@ Fines will now take seven days before they mature into bounties.
 
 <footer>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<p><i>PMC Elite Dangerous 2014 - <?print(date("Y"));?>.</i></p>
+<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
 
