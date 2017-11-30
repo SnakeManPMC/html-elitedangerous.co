@@ -199,7 +199,8 @@ Thursday. Aug 31st, 2017. v2.4 beta 4<br>
 Tuesday. Sep 26th, 2017. v2.4<br>
 Wednesday. Sep 27th, 2017. v2.4.01<br>
 Tuesday. Oct 3rd, 2017. v2.4.02<br>
-Wednesday. Oct 11th, 2017. v2.4.03
+Wednesday. Oct 11th, 2017. v2.4.03<br>
+Thursday. Nov 30th, 2017. v2.4.08
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -672,6 +673,9 @@ v2.4.02<br>
 <br><br>
 v2.4.03<br>
 1232hrs patch notes
+<br><br>
+v2.4.08<br>
+1330hrs patch notes
 </p>
 </section>
 
