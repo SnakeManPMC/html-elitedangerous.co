@@ -99,7 +99,8 @@
 <a href="my-path-to-anaconda.php">My path to Anaconda</a><br><br>
 <a href="pmc-most-wanted.php">PMC Most Wanted</a><br><br>
 <a href="cmdr-snake-man-my-path-to-a-triple-elite.php">My path to a Triple Elite</a><br><br>
-<a href="https://www.youtube.com/user/pmcsince1984">PMC Elite Dangerous Youtube videos</a>
+<a href="https://www.youtube.com/user/pmcsince1984">PMC Elite Dangerous Youtube videos</a><br><br>
+<a href="pmc-galaxy-loop.php">PMC Galaxy Loop</a>
 </div>
 
 </section>
