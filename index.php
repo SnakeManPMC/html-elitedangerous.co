@@ -83,7 +83,8 @@
 <a href="journal.php">Journal</a>, players journal or commander's log<br><br>
 <a href="community-api.php">Community API</a><br><br>
 <a href="howto-install-elite-dangerous.php">HOWTO Install Elite Dangerous</a><br><br>
-<a href="multiple-accounts.php">Multiple Accounts</a>
+<a href="multiple-accounts.php">Multiple Accounts</a><br><br>
+<a href="launcher.php">Launcher</a>
 </div>
 
 <div class="icat">
