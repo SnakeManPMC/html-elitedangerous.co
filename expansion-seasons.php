@@ -142,23 +142,24 @@ Thargoids are back.<br>
 - music system is completely replaced! existing music should behave exactly as before. it is now much more maintainable and enjoyable to use
 </p>
 
-<h2>20??, Season 3 - ?</h2>
-<p><b>v3.1: Quater 1</b><br>
+<h2>2018, Season 3 - Beyond</h2>
+<p><b>v3.0: Chapter One</b><br>
 - engineering - to make sure that every upgrade you craft with engineers will be an improvement on what you currently have<br>
 - crime and punishment - teeth to system authority ships response to better support meaningful consequence for criminal activities<br>
 - trade - improve trade data information to let you make more informed decisions when trying to buy low and sell high<br>
+- materials trader - providing players the ability to hand in materials in exchange for others at set exchange rates based on grade and material type.<br>
 - wings - challenging wing missions you will be able to take on with your friends<br>
-- planetary tech improvements - revisiting the shaders and the graphs that generate our planets. adding detail, contrast and colour for a richer more detailed, more realistic look.<br>
+- planetary tech improvements - overhaul of the surface material system for the rocky, high metal content and metal rich planets.<br>
 - continuing narrative - from update 1 in the beyond series you'll see all of the current story threads continue to develop.<br>
 - galnet audio - a new way to enjoy the narrative threads of elite dangerous. galnet audio will read the news to you as you explore the galaxy in your ship<br>
-- new ship: Krait https://i.imgur.com/pLy61fV.jpg<br>
+- new ship: Krait https://i.imgur.com/pLy61fV.jpg (didnt make it to the v3.0 release)<br>
 - new ship: Chieftain https://i.imgur.com/BjeFNI2.jpg
 </p>
 
-<p><b>v3.?: Quater 2</b>
+<p><b>v3.?: Quarter 2</b>
 - squadrons - players like working together. you'll be able to create your own squadron with tools to manage its hierarchy and membership. squadrons will be able to purchase a fleet carrier, giving members a mobile base of operations where they can restock, refuel and respawn.<br>
 - mining - we want to make the processes of mining more involving and satisfying. it needs to be more than just lasering an asteroid. we want to expand the ways in which you detect and extract resources, give you a tool set, variety and choice in how you mine. importantly, we want invoke the feeling of wild west prospecting: jeopardy from crises and challenges out in the void, and the potential for striking it big finding the mother lode in special asteroids. our goal is to make mining a fully-fledged career, something that you can progress and work on.<br>
-- planetary tech improvements - leading up to the q4 update we'll be making improvements to our lighting model, our scatter rock system, improving ambient effects, planetary phenomena, volumetric effects and vapour. these techniques will combine to create richer environments to explore in our q4 update. these are important steps in our ongoing planetary development. concept art: https://i.imgur.com/21dt3mx.jpg<br>
+- planetary tech improvements - leading up to the q4 update we'll be making improvements to our lighting model, our scatter rock system, improving ambient effects, planetary phenomena, volumetric effects and vapour. these techniques will combine to create richer environments to explore in our q4 update. these are important steps in our ongoing planetary development.<br>
 - exploration - we're going to significantly improve and build on exploration. the exploring flow will be more involved, more efficient and more satisfying. these new mechanics will also improve the experience for anyone searching for something, be that a mission or a particular resource. to support exploration we're adding the codex, an archive that logs your exploration achievements and acts as a repository for game lore. there will also be new phenomena, anomalies and other exciting things to discover.
 </p>
 
