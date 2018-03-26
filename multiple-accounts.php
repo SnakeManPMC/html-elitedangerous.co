@@ -79,6 +79,21 @@
 <p>Same goes for netLog files as to journal files. You could of course 7zip backup or just move the journal and netlog directories everytime you launch different CMDR, but that is very dangerous if you forget and then they are messed up heh.
 </p>
 
+<h2>Visited Stars Cache</h2>
+
+<p>You can run multiple commander accounts without messing up your visited stars cache file because they are located in different directories for each CMDR.
+</p>
+
+<p>Visited Stars Cache directories:
+</p>
+
+<pre>
+C:\Users\YOURNAME\AppData\Local\Frontier Developments\Elite Dangerous\YOUR_CMDR_ID\
+</pre>
+
+<p>This is repeated to each CMDR login account you have.
+</p>
+
 <h2>Two Elites Running</h2>
 
 <p>You could run <b>two elite clients at the same time</b> with this technique. Actually I'm not sure if you must install the game twice, I don't think so, but who knows. You just run the games in window, I think(?) and can swap between each of them.
