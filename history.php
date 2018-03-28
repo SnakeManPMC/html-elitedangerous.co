@@ -208,7 +208,8 @@ Tuesday. Feb 6th, 2018. v3.0 Open Beta Beta 3<br>
 <b>Tuesday. Feb 27th, 2018. v3.0</b><br>
 Tuesday. Mar 6th, 2018. v3.0.2<br>
 Monday. Mar 19th, 2018. v3.0.3<br>
-Monday. Mar 26th, 2018. v3.0.4
+Monday. Mar 26th, 2018. v3.0.4<br>
+Wednesday. Mar 28th, 2018. v3.0.5
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -708,6 +709,9 @@ v3.0.3<br>
 <br><br>
 v3.0.4<br>
 1733hrs patch notes
+<br><br>
+v3.0.5<br>
+1216hrs patch notes
 </p>
 </section>
 
