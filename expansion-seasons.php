@@ -156,6 +156,15 @@ Thargoids are back.<br>
 - new ship: Chieftain https://i.imgur.com/BjeFNI2.jpg
 </p>
 
+<p><b>v3.1: Chapter Two</b><br>
+- new ship: challenger. a modified version of the alliance chieftain, the alliance challenger has been envisaged as a frontline combat vessel.<br>
+- new ship: krait mk ii. the krait mkii is a reimagining of the krait lightspeeder, which was originally manufactured by faulcon delacy in the 3100s.<br>
+- wing mining mission.<br>
+- installation interactions. in a similar fashion to the megaship interactions, which were introduced in chapter one, commanders will now be able to scan and interact with space installations.<br>
+- tech broker. there are now large variants of weapons available at guardian tech brokers and human tech brokers.<br>
+- new thargoid scouts.
+</p>
+
 <p><b>v3.?: Quarter 2</b>
 - squadrons - players like working together. you'll be able to create your own squadron with tools to manage its hierarchy and membership. squadrons will be able to purchase a fleet carrier, giving members a mobile base of operations where they can restock, refuel and respawn.<br>
 - mining - we want to make the processes of mining more involving and satisfying. it needs to be more than just lasering an asteroid. we want to expand the ways in which you detect and extract resources, give you a tool set, variety and choice in how you mine. importantly, we want invoke the feeling of wild west prospecting: jeopardy from crises and challenges out in the void, and the potential for striking it big finding the mother lode in special asteroids. our goal is to make mining a fully-fledged career, something that you can progress and work on.<br>

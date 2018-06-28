@@ -30,6 +30,18 @@
 <p>TD also gives you the ability to search for very large loops, for example we have tested it several times with <b>120 hop loop</b> and it works great.
 </p>
 
+<p>Data is downloaded from Maddavo's Market Share (MMS) web site which has <a href="eddn.php">EDDN listener.</a>.
+</p>
+
+<p>2017-12-11: MMS is unfortunately not working, the EDDN listener haven't been working in a long time. It seems to work for a while then breaks, then its down until maddavo perhaps months later fixes it, then the same loop starts all over again. We cannot unfortunately rely on MMS stability and therefore to TD which is truly a shame. Maddavo last post on FDEV forums was on 2017-11-20 (at the time of updating this page, obviously).
+</p>
+
+<p>2018-04-22: CMDR eyeonus <a href="https://forums.frontier.co.uk/showthread.php/34986-TradeDangerous-power-user-trade-optimizer?p=6641627&viewfull=1#post6641627">posted on TD topic</a> about making new EDDB API file reading plugin, database and EDDN listener for TD because MMS is broken. <a href="https://github.com/eyeonus/EDDBlink">GitHub EDDB Link</a> and <a href="https://github.com/eyeonus/EDDBlink-listener">EDDB Link Listener</a>. Summary <a href="https://forums.frontier.co.uk/showthread.php/34986-TradeDangerous-power-user-trade-optimizer?p=6779500&viewfull=1#post6779500">how to run EDDB Link</a>.
+</p>
+
+<p>2018-06-16: new <a href="https://github.com/eyeonus/Trade-Dangerous">eyeonus GitHub Trade Dangerous repository</a>.
+</p>
+
 <h2>Usage</h2>
 <pre>
 python3 trade.py import --plug=maddavo --opt=syscsv --opt=stncsv -v
