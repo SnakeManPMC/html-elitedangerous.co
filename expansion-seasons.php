@@ -165,6 +165,14 @@ Thargoids are back.<br>
 - new thargoid scouts.
 </p>
 
+<p><b>v3.2: Chapter Three</b><br>
+- new weapons<br>
+- new ship Crusader. Latest member of the Alliance ship group. A medium sized ship based on the Alliance Chieftain, with the additional space to carry a fighter bay.<br>
+- new Guardian sites added<br>
+- engineers in colonia<br>
+- galaxy map, renamed some systems that had duplicated names
+</p>
+
 <p><b>v3.?: Quarter 2</b>
 - squadrons - players like working together. you'll be able to create your own squadron with tools to manage its hierarchy and membership. squadrons will be able to purchase a fleet carrier, giving members a mobile base of operations where they can restock, refuel and respawn.<br>
 - mining - we want to make the processes of mining more involving and satisfying. it needs to be more than just lasering an asteroid. we want to expand the ways in which you detect and extract resources, give you a tool set, variety and choice in how you mine. importantly, we want invoke the feeling of wild west prospecting: jeopardy from crises and challenges out in the void, and the potential for striking it big finding the mother lode in special asteroids. our goal is to make mining a fully-fledged career, something that you can progress and work on.<br>
