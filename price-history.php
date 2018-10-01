@@ -20,7 +20,7 @@
 
 <section>
 <h2>Price history of all game versions</h2>
-<p>History of pricing. Currency is EURO and its not designated otherwise but just numbers to save space etc.
+<p>History of pricing. Currency is EURO and its not designated otherwise but just numbers to save space etc. Prices found from <a href="https://www.frontierstore.net/eur/games/elite-dangerous-cat.html">frontierstore.net</a>.
 </p>
 
 <h2>2013, Alpha</h2>
@@ -56,6 +56,12 @@ CMDR Deluxe Edition (Elite + Horizons Season Pass + some paintjobs) 49,99
 </p>
 
 <h2>October 2017, v2.4</h2>
+<p>Elite Dangerous 24,99<br>
+Horizons Season Pass 24,99<br>
+CMDR Deluxe Edition (Elite + Horizons Season Pass + some paintjobs) 49,99
+</p>
+
+<h2>October 2018, v3.2</h2>
 <p>Elite Dangerous 24,99<br>
 Horizons Season Pass 24,99<br>
 CMDR Deluxe Edition (Elite + Horizons Season Pass + some paintjobs) 49,99
