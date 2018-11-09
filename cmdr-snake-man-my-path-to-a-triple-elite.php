@@ -190,7 +190,7 @@ exploration profits before: 134,301,056 after: 141,859,470</p>
 <br><br>
 Its boring especially because this sector is mere 600Ly away from populated space and actually at the route towards galaxy core, with bonus nebula too... so pretty much all the systems are almost fully explored by CMDR's already (while the game hasn't been out even a year yet, Elite has great community).
 <br><br>
-I thought that its not worth doing something extremely boring and tedious, so I decided to head back to populated space to sell this 5 days worth of explration data. Now I know it is not enough for me to reach Elite ranking but still, why do something which makes your mind go numb and almost gives you stress.</p>
+I thought that its not worth doing something extremely boring and tedious, so I decided to head back to populated space to sell this 5 days worth of exploration data. Now I know it is not enough for me to reach Elite ranking but still, why do something which makes your mind go numb and almost gives you stress.</p>
 
 <p>BTW please note that I'm not blaming elite for this, elite is not boring, the problem is me... I'm just playing it all day every day without breaks even which is way too much over long period of time. Its just not healthy. I dont give damn what game you play, with this much they all burn you out...
 </p>
