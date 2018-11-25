@@ -21,7 +21,7 @@
 <section>
 
 <p>Welcome to PMC Tactical's Elite Dangerous pages. We are the old school PMC Space Monkey's from 1984 :)</p>
-<p>These pages are just <b>Cmdr Snake Man's personal notes</b>, written since start of Premium Beta testing, these are not meant to be mainstream web site stuff. If some of the pages are out of context, odd, incomplete or off color whatever, now you know why.</p>
+<p>These pages are just <b>CMDR Snake Man's personal notes</b>, written since start of Premium Beta testing, these are not meant to be mainstream web site stuff. If some of the pages are out of context, odd, incomplete or off color whatever, now you know why.</p>
 
 <div class="icat">
 <h2>Combat</h2>
@@ -84,7 +84,8 @@
 <a href="community-api.php">Community API</a><br><br>
 <a href="howto-install-elite-dangerous.php">HOWTO Install Elite Dangerous</a><br><br>
 <a href="multiple-accounts.php">Multiple Accounts</a><br><br>
-<a href="launcher.php">Launcher</a>
+<a href="launcher.php">Launcher</a><br><br>
+<a href="guardian-fsd-booster.php">Guardian FSD Booster</a>
 </div>
 
 <div class="icat">
@@ -92,7 +93,7 @@
 <a href="ships.php">Ships</a><br><br>
 <a href="space-stations.php">Space Stations</a><br><br>
 <a href="edshipyard.php">edshipyard</a><br><br>
-<a href="engineers.php">The Engineers</a>
+<a href="engineers.php">Engineers</a>
 </div>
 
 <div class="icat">
@@ -101,7 +102,8 @@
 <a href="pmc-most-wanted.php">PMC Most Wanted</a><br><br>
 <a href="cmdr-snake-man-my-path-to-a-triple-elite.php">My path to a Triple Elite</a><br><br>
 <a href="https://www.youtube.com/user/pmcsince1984">PMC Elite Dangerous Youtube videos</a><br><br>
-<a href="pmc-galaxy-loop.php">PMC Galaxy Loop</a>
+<a href="pmc-galaxy-loop.php">PMC Galaxy Loop</a><br><br>
+<a href="from-scratch-trading.php">From Scratch Trading (in open play)</a>
 </div>
 
 </section>

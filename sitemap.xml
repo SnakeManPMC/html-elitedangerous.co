@@ -1,170 +1,176 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+      xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9
+            https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>http://www.elitedangerous.net/beta-3.php</loc>
+  <loc>https://www.elitedangerous.net/beta-3.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/bounty-hunting.php</loc>
+  <loc>https://www.elitedangerous.net/bounty-hunting.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/cmdr-snake-man-my-path-to-a-triple-elite.php</loc>
+  <loc>https://www.elitedangerous.net/cmdr-snake-man-my-path-to-a-triple-elite.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/captains-log.php</loc>
+  <loc>https://www.elitedangerous.net/captains-log.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/cockpit-holograms.php</loc>
+  <loc>https://www.elitedangerous.net/cockpit-holograms.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/combat-analysis.php</loc>
+  <loc>https://www.elitedangerous.net/combat-analysis.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/commodities-market.php</loc>
+  <loc>https://www.elitedangerous.net/commodities-market.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/community-api.php</loc>
+  <loc>https://www.elitedangerous.net/community-api.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/compromised-navigation-beacons.php</loc>
+  <loc>https://www.elitedangerous.net/compromised-navigation-beacons.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/conflict-zones.php</loc>
+  <loc>https://www.elitedangerous.net/conflict-zones.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/controls.php</loc>
+  <loc>https://www.elitedangerous.net/controls.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/crime.php</loc>
+  <loc>https://www.elitedangerous.net/crime.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/eddb.php</loc>
+  <loc>https://www.elitedangerous.net/eddb.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/eddn.php</loc>
+  <loc>https://www.elitedangerous.net/eddn.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/edmc.php</loc>
+  <loc>https://www.elitedangerous.net/edmc.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/edshipyard.php</loc>
+  <loc>https://www.elitedangerous.net/edshipyard.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/edsm.php</loc>
+  <loc>https://www.elitedangerous.net/edsm.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/eliteocr.php</loc>
+  <loc>https://www.elitedangerous.net/eliteocr.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/engineers.php</loc>
+  <loc>https://www.elitedangerous.net/engineers.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/expansion-seasons.php</loc>
+  <loc>https://www.elitedangerous.net/expansion-seasons.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/exploration.php</loc>
+  <loc>https://www.elitedangerous.net/exploration.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/exploration-special-planets.php</loc>
+  <loc>https://www.elitedangerous.net/exploration-special-planets.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/final-release.php</loc>
+  <loc>https://www.elitedangerous.net/final-release.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/frame-rates-4k-resolution.php</loc>
+  <loc>https://www.elitedangerous.net/frame-rates-4k-resolution.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/federation-empire-rank-progression.php</loc>
+  <loc>https://www.elitedangerous.net/federation-empire-rank-progression.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/gamma.php</loc>
+  <loc>https://www.elitedangerous.net/gamma.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/history.php</loc>
+  <loc>https://www.elitedangerous.net/history.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/howto-install-elite-dangerous.php</loc>
+  <loc>https://www.elitedangerous.net/howto-install-elite-dangerous.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/hyperspace-jump.php</loc>
+  <loc>https://www.elitedangerous.net/hyperspace-jump.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/improving-trading-data.php</loc>
+  <loc>https://www.elitedangerous.net/improving-trading-data.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/index.php</loc>
+  <loc>https://www.elitedangerous.net/index.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/journal.php</loc>
+  <loc>https://www.elitedangerous.net/journal.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/landing-pad-size-distance-from-star-tutorial.php</loc>
+  <loc>https://www.elitedangerous.net/landing-pad-size-distance-from-star-tutorial.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/launcher.php</loc>
+  <loc>https://www.elitedangerous.net/launcher.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/maddavos-market-share.php</loc>
+  <loc>https://www.elitedangerous.net/maddavos-market-share.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/mining.php</loc>
+  <loc>https://www.elitedangerous.net/mining.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/multiple-accounts.php</loc>
+  <loc>https://www.elitedangerous.net/multiple-accounts.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/my-path-to-anaconda.php</loc>
+  <loc>https://www.elitedangerous.net/my-path-to-anaconda.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/news.php</loc>
+  <loc>https://www.elitedangerous.net/news.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/planetary-landings-guide.php</loc>
+  <loc>https://www.elitedangerous.net/planetary-landings-guide.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/pmc-most-wanted.php</loc>
+  <loc>https://www.elitedangerous.net/pmc-most-wanted.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/price-history.php</loc>
+  <loc>https://www.elitedangerous.net/price-history.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/pristine-reserves-metallic-rings.php</loc>
+  <loc>https://www.elitedangerous.net/pristine-reserves-metallic-rings.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/resource-extraction-sites.php</loc>
+  <loc>https://www.elitedangerous.net/resource-extraction-sites.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/ships.php</loc>
+  <loc>https://www.elitedangerous.net/ships.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/space-stations.php</loc>
+  <loc>https://www.elitedangerous.net/space-stations.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/star-systems.php</loc>
+  <loc>https://www.elitedangerous.net/star-systems.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/super-cruise.php</loc>
+  <loc>https://www.elitedangerous.net/super-cruise.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/system-map.php</loc>
+  <loc>https://www.elitedangerous.net/system-map.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/thrudds.php</loc>
+  <loc>https://www.elitedangerous.net/thrudds.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/tradedangerous.php</loc>
+  <loc>https://www.elitedangerous.net/tradedangerous.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/trading.php</loc>
+  <loc>https://www.elitedangerous.net/trading.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/visited-stars-cache.php</loc>
+  <loc>https://www.elitedangerous.net/visited-stars-cache.php</loc>
 </url>
 <url>
-  <loc>http://www.elitedangerous.net/weapons.php</loc>
+  <loc>https://www.elitedangerous.net/weapons.php</loc>
+</url>
+<url>
+  <loc>https://www.elitedangerous.net/guardian-fsd-booster.php</loc>
+</url>
+<url>
+  <loc>https://www.elitedangerous.net/from-scratch-trading.php</loc>
 </url>
 </urlset>
