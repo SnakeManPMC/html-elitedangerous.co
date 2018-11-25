@@ -26,6 +26,10 @@ Almost all the minerals you previously had to gather from planet surfaces, can n
 </p>
 
 <p>
+Felicity Farseer does FSD, power plant, sensors and thrusters.
+</p>
+
+<p>
 Felicity Farseer needs 1 meta-alloy, you can purchase this from ?. Elvira Martuuk requires 3 units Soontill Relics, which you can purchase from Ngurii system, Cheranovsky City station.
 </p>
 
