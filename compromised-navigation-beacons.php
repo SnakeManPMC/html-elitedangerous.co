@@ -69,7 +69,8 @@ V857 Centauri, 2015-11-23T05:39:23Z. security low, no conflicts.<br>
 Vucub Huan, 2015-11-23T05:54:33Z. security low, no conflicts.<br>
 Wolf 1509, 2015-11-23T04:15:35Z. security medium, two factions at state of war.<br>
 Yarram, 2015-11-23T06:25:25Z. security low, two factions at state of civil war.<br>
-Maca
+Maca<br>
+Hyades Sector DR-V c2-23, 2018-11-12T11:28:50Z
 </p>
 
 <p><b>Snake Confirmed NO Beacon:</b>
