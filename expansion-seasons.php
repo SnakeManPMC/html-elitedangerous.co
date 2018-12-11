@@ -173,11 +173,110 @@ Thargoids are back.<br>
 - galaxy map, renamed some systems that had duplicated names
 </p>
 
-<p><b>v3.?: Quarter 2</b>
+<p><b>v3.3: Chapter Four</b><br>
+Dec 11th, 2018.<br>
 - squadrons - players like working together. you'll be able to create your own squadron with tools to manage its hierarchy and membership. squadrons will be able to purchase a fleet carrier, giving members a mobile base of operations where they can restock, refuel and respawn.<br>
 - mining - we want to make the processes of mining more involving and satisfying. it needs to be more than just lasering an asteroid. we want to expand the ways in which you detect and extract resources, give you a tool set, variety and choice in how you mine. importantly, we want invoke the feeling of wild west prospecting: jeopardy from crises and challenges out in the void, and the potential for striking it big finding the mother lode in special asteroids. our goal is to make mining a fully-fledged career, something that you can progress and work on.<br>
 - planetary tech improvements - leading up to the q4 update we'll be making improvements to our lighting model, our scatter rock system, improving ambient effects, planetary phenomena, volumetric effects and vapour. these techniques will combine to create richer environments to explore in our q4 update. these are important steps in our ongoing planetary development.<br>
-- exploration - we're going to significantly improve and build on exploration. the exploring flow will be more involved, more efficient and more satisfying. these new mechanics will also improve the experience for anyone searching for something, be that a mission or a particular resource. to support exploration we're adding the codex, an archive that logs your exploration achievements and acts as a repository for game lore. there will also be new phenomena, anomalies and other exciting things to discover.
+- exploration - we're going to significantly improve and build on exploration. the exploring flow will be more involved, more efficient and more satisfying. these new mechanics will also improve the experience for anyone searching for something, be that a mission or a particular resource. to support exploration we're adding the codex, an archive that logs your exploration achievements and acts as a repository for game lore. there will also be new phenomena, anomalies and other exciting things to discover.<br>
+- Discovery Scanner upgraded to include access to the new Full Spectral System (FSS) scanner mode<br>
+- Players use the FSS Mode to discover stellar bodies, stellar phenomenon, USSs, scenarios, distress calls, mission targets and more<br>
+- There is now only one Discovery Scanner available in game, which is based on the basic variant. Commanders that have purchased either the intermediate or advanced scanners will receive a credit refund<br>
+- Detailed Surface Scanner upgraded to include access to brand new planet probes<br>
+- Players can fire probes at bodies to gather data that can be sold.<br>
+- Players can also use these probes to pinpoint places of interest on landable planets as well as uncover lucrative places in planetary rings to mine (mining tools will be available at a later Beta release)<br>
+- Each body has a "probe efficiency" target; if the player maps 100% of the body using either the same or less than the target, they are awarded a bonus<br>
+- Added "First Mapped By" tag - the first commander to 100% map a stellar body and sell the data at a port will be named for everyone to see<br>
+- Players will be unable to map Sol, Achenar or Alioth as these systems are already fully mapped<br>
+- Revamped look of the bonus popup when selling data<br>
+- A credit bonus will be awarded for players that get either 100% first discovered or 100% first mapped in a system<br>
+- Added new things to find!<br>
+- Orrery view added - players can access the schematic orrery view of systems from the system map<br>
+- Codex added to the ship's internal (right hand) panel<br>
+- Codex Logs important player statistics<br>
+- Codex Session Log records important game events for players review<br>
+- Codex Archive holds all text and audio logs taken from the numerous narratives from across the galaxy<br>
+- Codex Audio logs can be added to the improved Playlist feature<br>
+- Codex Contains either rumored, reported or discovered entries from across the 42 different galactic regions<br>
+- Codex Discoveries are broken down in to 3 categories (Stellar Bodies, Biological and Geological, and Civilisations)<br>
+- Codex Various articles from the rich history and lore of the Elite universe, from the history of the Super Powers, to important characters and corporations<br>
+- Codex Each article is narrated and can be added to the improved Playlist feature<br>
+- Added new megaships and installations<br>
+- Applicable megaships will move location, on a weekly tick<br>
+- Added new scenarios with voice over direction and feedback, and on screen choices and objectives<br>
+- Scenarios come in the form of USSs, Megaship, Installations and Conflict Zones<br>
+- Conflict zones are now round based; players battle to win a round which then feeds into the war state<br>
+- Side objectives can appear, and if the player completes them, they are awarded a points boost<br>
+- Once a round has finished, a new one will begin after a short pause<br>
+- Combat specific ambient chatter added.<br>
+- Ambient chatter now is now in place throughout the entire game and not just around stations.<br>
+- 3000 + lines of NPC dialogue added to support scenario driven gameplay.<br>
+- Added new lighting model, using dynamic exposure<br>
+- Colour grading applied to various situations in the game, improving the look and feel of the game world<br>
+- Added a new 'Night Vision' mode to Ships, Fighters and SRVs, to allow players to navigate dark sides of planets, rings and other areas of the game<br>
+- Combined 'clear filters' option with the 'set filters' option on the Navigation panel<br>
+- Added filters to the Transaction tab<br>
+- Added context sensitive, quick action button to contacts (such as 'Request Docking' when targeting a port)<br>
+- Combined sub-targets and inventory into a new 'Target' tab, with filters<br>
+- Reordered the tabs<br>
+- Added support for combining channels in to one main chat channel, or set them as separate tabs<br>
+- Options added to give the player the ability to combine chat channels in to a tab, or split them out<br>
+- Added the ability to select any Commander in a chat channel to interact with them (incl. invite to wing, invite to crew, voice comms, invite to squadron, block, report, direct comms, and view gamercard where applicable)<br>
+- Added a binding to select a different chat channel in the input field<br>
+- Combined invitations and multicrew tabs together in to a 'Social' tab<br>
+- Multicrew (find crew, join a ship)<br>
+- Friends invites<br>
+- Wing invites<br>
+- Online friends<br>
+- Squadron feed tab added<br>
+- Added a new 'Home' tab that replaces the previous status tab<br>
+- Includes new buttons to launch various features (holo-me, squadrons, codex, powers, Galnet etc)<br>
+- Also include better Playlist feedback<br>
+- Replaced fire groups "1, 2, 3..." with "A, B, C..." to avoid confusion between group and fire buttons<br>
+- Added new contextual 'Ship' tab that replaces the 'Functions' tab and includes sections for 'Ship Preferences', 'Pilot Preferences' and 'Ship Stats'<br>
+- Inventory tab now has icon filters instead of text filters, increasing usable screen space<br>
+- Improved refinery layout that includes the ships cargo capacity<br>
+- Updated 'Status' tab to now include local faction information, Super Power and Powerplay status, a Session Log digest, info on Finances and acquired Permits all in a more legible way<br>
+- New Playlist feature that replaces the GalNet player, allowing players to queue and manage several types of media (GalNet news articles, codex articles, inbox audio logs etc.)<br>
+- New star system wide text chat now available<br>
+- Profanity filter added, with a toggle to turn it off<br>
+- Players can now create a Squadron (for a credit fee), or browse existing ones to join from the right hand cockpit panel<br>
+- Play style tags can be used when creating a Squadron, and as a filter when browsing existing ones<br>
+- Squadrons can be aligned to a Superpower, Power and a Faction<br>
+- Squadron allegiance page allows in depth data on chosen Faction<br>
+- Squadrons can take part in the various leaderboards, and compete for the top spot<br>
+- Squadron feed tab in the Comms panel lists certain events, as well as Public and Internal posts<br>
+- Squadron management tools (applicable to certain ranks):<br>
+- Invite Commanders to join<br>
+- Kick lower ranked members<br>
+- Promote/demote lower ranked members<br>
+- Change lower ranked privilages<br>
+- Create posts<br>
+- Accept applications<br>
+- Set if the Squadron is accepting new members<br>
+- Join in the Leader text chat channel<br>
+- 3 new mining processes added (in addition to the standard mining laser process)<br>
+- Surface Deposits - material deposits that can be found on the surface of asteroids<br>
+- Sub-surface Deposits - material deposits that can be found below the surface of an asteroid<br>
+- Fissures - setting the correct 'Seismic charge' into fissures will split the asteroid apart, allowing the deep core materials to be mined<br>
+- Added new high value materials<br>
+- 4 new mining tools added to outfitting<br>
+- Pulse wave Analyser - a scanner used to pinpoint asteroids that support the new extraction processes<br>
+- Abrasion Blaster - used to break off surface material deposits from asteroids<br>
+- Sub-surface Displacement Missile - Allows recovery of sub-surface material deposits from asteroids<br>
+- Seismic Charge Launcher - Allows recovery of deep core materials by splitting the asteroid apart<br>
+- new ship Krait Phantom (Faulcon DeLacy)<br>
+- new ship Mamba (Zorgon Peterson)<br>
+- Display a notification icon to indicate new bindings are available to the player<br>
+- Starport contacts now displayed as a grid, rather than a flat list<br>
+- Added icon to info panel to show players if their ship or SRV lights are on<br>
+- Audio Options screen:Added “Wavescanner Autoducking” option. Disable this to hear the SRV wavescanner more clearly at high speeds<br>
+- Audio Options screen:Audio Options screen is reorganised for more clarity and ease of use<br>
+- Audio Options screen:Restore defaults button added<br>
+- Audio Options screen:The default position on the Audio volume sliders is now indicated.<br>
+- Audio Options screen:The child volume sliders can now be boosted above the default value.<br>
+- Audio Options screen:Important note: your volume sliders will be reset to default position when you first run 3.3.<br>
+- This update includes well over 2000 fixes for various issues that have been discovered and investigated during the development process.
 </p>
 
 <h2>20??, Season 4 - ?</h2>
