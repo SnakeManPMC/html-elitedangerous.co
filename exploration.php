@@ -21,6 +21,12 @@
 <section>
 <h2>Exploration</h2>
 
+<p>v3.3 Beyond <a href="https://www.youtube.com/watch?v=hXXe7422OYE" target="_blank">Pilot Training Exploration</a> and <a href="https://www.youtube.com/watch?v=zSLqDINgciw" target="_blank">Pilot Training - Mining</a>
+</p>
+
+<p>Old pre v3.3 information below, it might or might not be outdated now...
+</p>
+
 <p>Our <a href="system-map.php">System Map Guide</a> gives you nice overview of interesting astronomical objects. Also check <a href="exploration-special-planets.php">Exploration Special Planets</a> for list of cool planets.
 </p>
 
