@@ -221,7 +221,8 @@ Thursday. Nov 1st, 2018. v3.3 beta 1.01<br>
 Wednesday. Nov 6th, 2018. v3.3 beta 2<br>
 Wednesday. Nov 14th, 2018. v3.3 beta 3<br>
 Wednesday. Nov 21th, 2018. v3.3 beta 4<br>
-<b>Tuesday. Dec 11th, 2018. - Beyond v3.3</b>
+<b>Tuesday. Dec 11th, 2018. - Beyond v3.3</b><br>
+Wednesday. Dec 19th, 2018. v3.3.01
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -760,6 +761,9 @@ v3.3 beta 4<br>
 <br><br>
 v3.3<br>
 1411hrs patch notes
+<br><br>
+v3.3.01<br>
+1212hrs patch notes
 </p>
 </section>
 
