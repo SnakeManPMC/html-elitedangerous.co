@@ -24,6 +24,14 @@
 <p>v3.3 Beyond <a href="https://www.youtube.com/watch?v=hXXe7422OYE" target="_blank">Pilot Training Exploration</a> and <a href="https://www.youtube.com/watch?v=zSLqDINgciw" target="_blank">Pilot Training - Mining</a>
 </p>
 
+<p>
+Surface geology is found using the surface mapping using probes to map a planet. The FSS will tell you if a planet has any sites before you fly out to use probes.
+</p>
+
+<p>
+FSS if you zoom into lets say gas giant with several planets orbiting it and then you cant find one, just zoom back out and in again and then you get the arrows pointing to this body.
+</p>
+
 <p>Old pre v3.3 information below, it might or might not be outdated now...
 </p>
 
@@ -115,6 +123,7 @@ Surface means explore AND if there is interesting objects, you surface scan (thi
 Basic jumps without surface scans are the clean traveling method but kind of useless for explorers.<br>
 1 jump = 41-44 seconds<br>
 1 jump with advanced discovery scanning + system map check (explore) = 45sec<br>
+1 jump with advanced discovery scanning + system map check + fuel scooping by skimming the star a bit = 51 to 54 sec<br>
 500Ly jumps (16) with explore = 14min 24sec<br>
 1000Ly jumps (31) with explore = 29min 43sec</p>
 
