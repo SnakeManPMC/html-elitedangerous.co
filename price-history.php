@@ -67,6 +67,12 @@ Horizons Season Pass 24,99<br>
 CMDR Deluxe Edition (Elite + Horizons Season Pass + some paintjobs) 49,99
 </p>
 
+<p>December 2018, v3.3 had Elite on sale for -76% off<br>
+Elite Dangerous 6<br>
+Horizons Season Pass 6<br>
+CMDR Deluxe Edition (Elite + Horizons Season Pass + some paintjobs) 12
+</p>
+
 </section>
 
 <footer>
