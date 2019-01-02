@@ -21,6 +21,8 @@
 <section>
 <h2>Exploration</h2>
 
+<h3>v3.3</h3>
+
 <p>v3.3 Beyond <a href="https://www.youtube.com/watch?v=hXXe7422OYE" target="_blank">Pilot Training Exploration</a> and <a href="https://www.youtube.com/watch?v=zSLqDINgciw" target="_blank">Pilot Training - Mining</a>
 </p>
 
@@ -31,6 +33,28 @@ Surface geology is found using the surface mapping using probes to map a planet.
 <p>
 FSS if you zoom into lets say gas giant with several planets orbiting it and then you cant find one, just zoom back out and in again and then you get the arrows pointing to this body.
 </p>
+
+<p>
+<b>2018-12-18T00:28:08Z</b> was returning from not beagle point but nearby area, the whole route towards galaxy core and colonia was completely and utterly discovered by other CMDRs, it was totally insane sight to see that system after system was discovered and this was frigging 63,000 or so light years from sol. I have never ever in my Elite life seen something like this. Welcome to 2018 I guess?
+</p>
+
+<p>
+I am going to put 10,000 ly exclusion zone around beagle point and its route because I have ZERO interest of seeing other CMDRs discovered by tag out there when exploring I need nothing but undiscovered never before visited systems.
+</p>
+
+<p>
+I felt a real anxiety when I was returning from The Abyss sector, no matter if I moved to 200 light years below the galaxy plane, still dicovered by other CMDRs, it was just unbelievable.
+</p>
+
+<p>
+But this is what you get when there are those hundreds of CMDRs large expeditions and beagle point has turned into such lame tourist trap.
+</p>
+
+<p>
+Do not ever travel close to beagle point or other tourist traps, you get nothing but pain and suffering for being the sloppy second for some other CMDR's discoveries :(
+</p>
+
+<h3>v3.2 and older</h3>
 
 <p>Old pre v3.3 information below, it might or might not be outdated now...
 </p>
