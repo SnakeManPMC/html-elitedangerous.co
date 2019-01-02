@@ -66,7 +66,8 @@ Largest:<br>
 7,100km, Snake Sector MS-T C3-10 4<br>
 11,010km, Snake Sector CL-Y D67 A 3<br>
 15,233km, Snake Sector FW-W D1-88 11<br>
-15,915km, Snake Sector Fw-w D1-36 A 5, with rings
+15,915km, Snake Sector Fw-w D1-36 A 5, with rings<br>
+18,782km, Eembaitl YJ-R d4-19 10
 </p>
 
 <p><b>Earth like worlds:</b><br>
