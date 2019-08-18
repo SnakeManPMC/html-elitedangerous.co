@@ -227,7 +227,8 @@ Thursday. Jan 17th, 2019. v3.3.02<br>
 Thursday. Jan 24th, 2019. v3.3.03<br>
 Monday. Feb 18th, 2019. v3.3.04<br>
 Tuesday. Feb 19th, 2019. v3.3.05<br>
-Tuesday. Apr 23rd, 2019. v3.? "April Update"?
+Tuesday. Apr 23rd, 2019. v3.? "April Update"?<br>
+Tuesday. May 14th, 2019. v3.? "April Update - Patch 2"???
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -783,6 +784,9 @@ v3.3.05<br>
 1426hrs patch notes
 <br><br>
 v3.? "April Update?"<br>
+?hrs patch notes
+<br><br>
+v3.? "April Update - Patch 2???"<br>
 ?hrs patch notes
 </p>
 </section>

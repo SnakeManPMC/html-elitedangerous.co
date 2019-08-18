@@ -448,7 +448,7 @@ Python test tour was rather quick, I again picked up anaconda and continued on c
 
 <p>We arrived at HIP 72043 system, Kippax Ring station at 17:55:09Z. Mission accomplished! :)</p>
 
-<p>2015-11-11T14:37:09Z: picked up my anaconda and arrived to Komovoy system for some continuing combat rank pgoression. Apparently the conflict zones were gone, only one low intensity left, hoh. Had to move into Solati system.</p>
+<p>2015-11-11T14:37:09Z: picked up my anaconda and arrived to Komovoy system for some continuing combat rank progression. Apparently the conflict zones were gone, only one low intensity left, hoh. Had to move into Solati system.</p>
 
 <p>2015-11-11: End of the day was Dangerous 36% rank.</p>
 
