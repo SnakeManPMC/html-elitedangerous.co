@@ -279,6 +279,143 @@ Dec 11th, 2018.<br>
 - This update includes well over 2000 fixes for various issues that have been discovered and investigated during the development process.
 </p>
 
+<p><b>v3.?: Chapter ?</b><br>
+Apr 23rd, 2019.<br>
+Main Menu<br>
+- Main menu layout updated to make screens and options clearer and to allow room for descriptions<br>
+- Added Commander details to the top right corner<br>
+- Added a news carousel that can display GalNet headlines, store releases and/or community announcements<br>
+- Hints/tips are displayed during the loading screen<br>
+- Players current main ship is displayed as the background on the main menu. Note: this will always be your current 'main' ship; fighters/SRVs will not be shown<br>
+Commander Creation<br>
+- Updated the new commander flow to make the process more informative and engaging<br>
+- Ship selection screens now display more information on the ship, and also includes an image of the ship itself<br>
+- Players can now choose to start in the Dromi system (in a permit-controlled area administered by the Pilots’ Federation) or in the standard package location<br>
+Pilots' Federation District<br>
+- The Pilots' Federation District is a collection of systems designed to offer a regulated area for new Commanders<br>
+- Outfitting in these systems offers a basic level of equipment, and Shipyards offer a range of entry level ships<br>
+- Missions offered in the district are aimed at early stage players<br>
+- These systems are also marked with a special icon in the navigation panel and galaxy map<br>
+- Once players have gained a rank in Combat, Trade or Exploration, they are offered a 'graduation' mission, which directs them out of the district. If they choose to complete this mission, they cannot re-enter any of the district systems. This also means current, experienced players cannot enter any of these systems<br>
+New Modules<br>
+- Advanced Docking Computer - The Advanced Docking Computer provides cutting edge guidance control to the ship’s computer, offering a further launch option alongside the assisted docking function.<br>
+- Supercruise Assist - The Supercruise Assist module allows the ship’s computer to regulate the approach towards a set location within the current system and to disengage the drive at the appropriate time . This module can also be used to enter orbit around a planetary body.<br>
+- - Planet side targets are excluded - instead they will engage the planetary orbit function of the computer, and Commanders will need to manually guide the ship to the ground destination<br>
+- Added a new 'Flight Assistance' section to the Ship tab on the right hand panel. Here players can toggle various options on or off (if fitted with the correct modules):<br>
+- - Flight Assist<br>
+- - Auto Dock<br>
+- - Auto Launch (requires Advanced Docking Computer)<br>
+- - Rotational Correction<br>
+- - Hyperspace Dethrottle (requires the Supercruise assist module. If switched on, throttle will automatically set to zero on entry to a new system)<br>
+Navigation Tab<br>
+- Plotted route information is now displayed along the top of the Navigation tab<br>
+- The popup box for each entry in the Navigation tab now includes extra information (where applicable) and various quick links to other features/areas of the game:<br>
+- - Lists any activities available at the selected location, with links to the relevant pilots handbook article(s)<br>
+- - Links to system or galaxy map where appropriate<br>
+- - Highlights threat levels when the threat is higher than your combat rank (and lists if it is human or xeno)<br>
+- - Displays various data on ports or nearby systems, such as allegiance, economy, has appropriate landing pad for your ship, relationship, state, security level galactic region<br>
+- - Maintains all previous actions such as lock target, and bookmark location<br>
+Pilot's Handbook<br>
+- New section added to the Codex that contains articles detailing activities and features of the game:<br>
+- Mining<br>
+- Exploration<br>
+- Piracy<br>
+- Trade and Smuggling<br>
+- Mercenary Work<br>
+- Bounty Hunting<br>
+- Xeno Hunting<br>
+- Salvage and Rescure<br>
+- Maps<br>
+- Crime and Punishment<br>
+Training Simulation Access<br>
+- Training simulations are now accessible from within any ship cockpit, from anywhere<br>
+- Note: if you attempt to start a simulation whilst in danger, you will be subject to the standard 15 second delay before proceeding<br>
+Commodity Market Interface<br>
+- Separated 'Buy' and 'Sell' screens, to make it clearer to the player what data they are looking at<br>
+- Added filters<br>
+- Added 'Suggested' markets to the comparisons popup, and populated it with nearby data that the player owns<br>
+- - Also added the mission icon to systems that the player has active missions in<br>
+- The 'Help' button takes the player to the relevant Pilots Handbook article<br>
+- Updated the supply and demand icons and added a description of it to the right hand side of the screen, to make it clearer to the player when to buy or sell<br>
+- Highlight mission related and rare goods on the buy screen, with a key to icons along the bottom<br>
+- Clarified what the comparison column is telling the player:<br>
+- - On the buy screen - the profit if selected commodity is sold at selected market/galactic average<br>
+- - On the sell screen - the profit if selected commodity is bought at selected market/galactic average, and sold at current market<br>
+- - By default the column shows the 'Galactic Average' until the player selects a market to compare with<br>
+- Added local market data to the right hand side for quick comparison<br>
+- Buy screen shows Galactic average and price per unit on right hand side and Sell screen also includes profit if sold<br>
+- Buy/Sell popup includes more information and quick links<br>
+- - Local market data for quick comparison<br>
+- - - Selecting a market takes the player to the system on the galaxy map<br>
+- - View commodity on galaxy - takes players to a filtered version of the map<br>
+- Added more detail to the popup box when selecting any commodities in the players inventory, as well as a quick link to the galaxy map with the correct filter applied<br>
+Player Journal Updates<br>
+- FSDJump event – now includes “Body” info about the arrival star<br>
+- Don’t write a spurious “FighterRebuilt” event after docking SLF back in the ship<br>
+- ApproachSettlement” now includes body info<br>
+- The “Loadout” event:<br>
+- - no longer includes spurious ammo stats for energy weapons<br>
+- - now includes UnladenMass and FuelCapacity info<br>
+- - now written when docking SRV back in mothership<br>
+- - now includes CargoCapacity, and MaxJumpRange<br>
+- Module item names are now consistently lowercase<br>
+- Status.json:<br>
+- - include LegalState<br>
+- - includes info on nearby planet, and ‘AltFromAvgRad” flag<br>
+- Scan: include a star’s subclass<br>
+- Location: include DistFromStarLS<br>
+- Add Conflicts data in FSDJump and Location<br>
+- Include Vehicle ID for SLF/SRV (LaunchFighter, LaunchSRV, FighterRebuilt, FighterDestroyed, DockSRV, DockFighter, SRVDestroyed, CrewLaunchFighter)<br>
+- Add info in Scan event to show if the body was previously discovered or mapped
+</p>
+
+<p><b>v3.?: Chapter ?</b><br>
+Sep 18th, 2019.<br>
+New Starter Experience<br>
+- Added a curated experience for new players that will guide them through the basics of ship control, combat, travel and docking<br>
+- The experience has localised voiceover in all supported languages<br>
+- Certain UI elements are highlighted at key points during the flow<br>
+- Players are given a mission once the flow has been completed, that introduces them to the mission board (with voiceover)<br>
+- Added the experience to the 'Training Simulations' list, accessible from the internal cockpit panel<br>
+- Updated the throttle UI to better show the players current direction of travel (the rectangular blocks are now chevrons, and added a subtle pulse animation)<br>
+- Pre-flight checklist is now off by default when starting a new game (it can be turned back on)<br>
+Supercruise<br>
+- Added new option to the Flight Assist tab to allow the Supercruise Assist module to control the throttle automatically<br>
+- Supercruise 'Safe to Disengage' message has been updated to include the binding that will disengage Supercruise<br>
+ARX<br>
+- ARX is the new currency that takes over from Frontier Points and real money transactions across all platforms<br>
+- Players purchase a pack containing a number of ARX that are then used to purchase in-game cosmetic items (Game Extras) for their ship, SRV, fighter or Holo-Me<br>
+- Players can purchase ARX from in-game links that direct either to an external Frontier Store or site<br>
+- Any outstanding Frontier Points will be converted to ARX the first time the player logs into the game after the update<br>
+Rewarding ARX<br>
+- Players can earn ARX through standard gameplay (up to a 400 weekly cap) based on in-game activities within Combat, Trade and Exploration and more!<br>
+- Players are notified of their previous session earnings on the main menu<br>
+Livery Update<br>
+- Refreshed livery layout<br>
+- Icons denote the different categories (general, decals, cockpit decorations, etc.)<br>
+- Updated vessel selection screen<br>
+- Separate UI for ship name and ID<br>
+- Preview mode that reduces the amount of on-screen UI, giving a clearer view of the chosen item<br>
+- Players now purchase items, with ARX, directly from livery, without being redirected to an external store<br>
+- Players can now access livery from the main menu<br>
+Holo-Me<br>
+- Players can now purchase items, with ARX directly from the Holo-Me section, without being redirected to an external store<br>
+New Store<br>
+- Added a new customisation store<br>
+- Players can browse the entire catalog of customisation items for any available ship<br>
+- Preview Mode allows players to see any cosmetic items on a vanilla version of any ship, as well as use camera controls to view it from different angles<br>
+- The store is accessible from either the main menu or major starports in-game<br>
+- Players purchase cosmetic items directly from the store, without being redirected to an external site<br>
+Player Journal<br>
+- New SAASignalsFound event with bio/geo signals on planets and hotspots in rings<br>
+- SAAScanComplete: add SystemAddress<br>
+- Scan: add StarSystem name and SystemAddress<br>
+- FSDTarget: add RemainingJumpsInRoute<br>
+- CodexEntry,Touchdown,Liftoff: add NearestDestination<br>
+- StatusFlags: add flags fsdJump, srvHighBeam<br>
+- ShipTargeted: add powerplay info
+</p>
+
 <h2>20??, Season 4 - ?</h2>
 <p><b>v4.1: ?</b><br>
 </p>
