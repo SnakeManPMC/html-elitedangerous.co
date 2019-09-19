@@ -227,9 +227,10 @@ Thursday. Jan 17th, 2019. v3.3.02<br>
 Thursday. Jan 24th, 2019. v3.3.03<br>
 Monday. Feb 18th, 2019. v3.3.04<br>
 Tuesday. Feb 19th, 2019. v3.3.05<br>
-Tuesday. Apr 23rd, 2019. v3.? "April Update"?<br>
-Tuesday. May 14th, 2019. v3.? "April Update - Patch 2"???<br>
-Wednesday. Sep 18th, 2019. v3.? "September Update"
+Tuesday. Apr 23rd, 2019. v3.4 "April Update"?<br>
+Tuesday. May 14th, 2019. v3.4 "April Update - Patch 2"???<br>
+Wednesday. Sep 18th, 2019. v3.5 "September Update"<br>
+Thursday. Sep 19th, 2019. v3.5 Server Side Update
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -784,14 +785,17 @@ v3.3.04<br>
 v3.3.05<br>
 1426hrs patch notes
 <br><br>
-v3.? "April Update?"<br>
+v3.4 "April Update?"<br>
 ?hrs patch notes
 <br><br>
-v3.? "April Update - Patch 2???"<br>
+v3.4 "April Update - Patch 2???"<br>
 ?hrs patch notes
 <br><br>
-v3.? "September Update?"<br>
+v3.5 "September Update?"<br>
 Patch notes arrived already the previous day
+<br><br>
+v3.5 Server Side Update<br>
+1929hrs patch notes
 </p>
 </section>
 
