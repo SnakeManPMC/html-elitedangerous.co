@@ -232,7 +232,8 @@ Tuesday. May 14th, 2019. v3.4 "April Update - Patch 2"???<br>
 Wednesday. Sep 18th, 2019. v3.5 "September Update"<br>
 Thursday. Sep 19th, 2019. v3.5 Server Side Update<br>
 Monday. Sep 23rd, 2019. v3.5 Patch 1<br>
-Thursday. Oct 3rd, 2019. v3.5 Patch 2
+Thursday. Oct 3rd, 2019. v3.5 Patch 2<br>
+Thursday. Oct 10th, 2019. v3.5 Patch 3
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -803,6 +804,9 @@ v3.5 Patch 1<br>
 1347hrs patch notes
 <br><br>
 v3.5 Patch 2<br>
+Patch notes arrived already the previous day
+<br><br>
+v3.5 Patch 3<br>
 Patch notes arrived already the previous day
 </p>
 </section>

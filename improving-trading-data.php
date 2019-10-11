@@ -16,65 +16,68 @@
 <header>
 <?php include("include/google-ads.php"); ?>
 <h1><b>PMC Elite Dangerous - Improving Trading Data</b></h1>
-<p>Howto Improve Trading Data</p>
+<p>HOWTO Improve Trading Data</p>
 </header>
 
 <section>
 	<h2>Elite Trading Data Quality</h2>
 
+<p><b>2019-10-07 Updated to Elite Dangerous v3.5</b></p>
+
 <p>How to improve Elite Dangerous trading market prices and other data availability.
 </p>
 
-<p>It is very important that we have good and up to date coverage of trading commodity prices and station landing pad sizes. In the vast elite galaxy (populated space) there are many stations which are still missing station landing pad sizes, commodity market prices and even both.
+<p>It is very important that we have good and up to date coverage of trading commodity prices, station distance from star and station landing pad sizes.
 </p>
 
-<p>Most common case though might be that commodity prices have been updated the last time about two years ago, this kind of data age is unacceptable for proper trading.
+<p>Most common case though might be that commodity prices have been updated last time about 1-2 years ago or more, this kind of data age is unacceptable for proper trading. In fast moving commodity markets sometimes even couple of days old data is too old already (but this depends a lot what happens in the markets, there is no simple example to show). Also Frontier Developments have released updates to elite which cause the old market commodities to be with invalid prices, commodities missing etc, old data just is not usable.
 </p>
 
-<p>Use <a href="edmc.php">EDMC</a> to collect market data which is automatically distributed to <a href="eddn.php">EDDN</a>, from where the usual trading sites and tools will get the data.
+<p>Use <a href="edmc.php">EDMC</a> to get market data which is automatically sent to <a href="eddn.php">EDDN</a>, from where the whole community (several trading sites and tools) will get the data.
 </p>
 
-<p>Use these tools to track oldest and missing data: <a href="http://www.davek.com.au/td/editstation.asp">Maddavo's Market Share - Edit Stations</a> and <a href="https://ross.eddb.io/station/closest-missing">EDDB - Closest Missing</a>.
+<p>Use these tools to find oldest data: <a href="https://eddb.io/station">EDDB Stations (use prices update to filter oldest)</a>, <a href="https://www.edsm.net/en/systems/stations">EDSM Oldest Stations</a> and <a href="tradedangerous.php">TradeDangerous olddata</a> command.
 </p>
 
-	<h2>Maddavo's Market Share</h2>
-<p>Edit Station page is where you can list all the data we need. Type in the system name your in, the page then lists the nearest systems with missing data.
-</p>
-
-<p>At <i>Nearest stations missing prices</i> part use the drop downs to choose landing pad size L (large) as there is no point of trading with smaller ships, choose Planetary N (no) because it takes forever to land into planetary ports. The <i>MaxLsFromStar</i> Ls (light seconds) should be set to max of 1000ls because anything above it and it will take way too long to reach the station.
-</p>
-
-<p>0Ls tick box includes distance from star data missing, ie zero, stations.
-</p>
-
-<p>Landing pad size and planetary difference between empty slot and ? question mark. PMCTODO
-</p>
-
-<p>next system missing data? PMCTODO
-</p>
-
-<p>next system? PMCTODO
-</p>
-
-<p>To recap: landing pad size L, planetary N, MaxLsFromStar 1000 and 0Ls tick box ticked.
+<p>I (Snake Man) was clearly the most enthusiastic CMDR with hunting missing data in the early days, cant exactly remember the year but must have been like 2015 when I was already asking themroc to add missing data station page to EDDB and he eventually did it (thanks!). I spent a lot of time hunting missing data and actually back in 2017-10-31 during <a href="pmc-galaxy-loop.php">PMC Galaxy Loop</a> went and purchased second account so I can go hunt missing data to EDDN. So this has been a years long project from which of I personally have taken many breaks, I don't know how many other CMDRs have actually used the two EDDB pages (or Maddavo's Market Share when it was still working). Now in 2019-09-26 CMDR "Lance 'Spacecat' D." posted a <a href="https://forums.frontier.co.uk/threads/bubble-explorers-wanted-data-needs-you.523462/">topic in Frontier forums</a> asking for other CMDRs to join him hunting missing data, I did not actually see this topic until it was announced in EDSM discord that the EDDB closest-missing page is empty. I was just hunting missing data the previous night so I missed the final day of the hunt heh. Greetings for the other CMDRs who took part in this, we did it as community.
 </p>
 
 	<h2>EDDB</h2>
-<p><a href="https://ross.eddb.io/station/snake-man">eddb snake-man</a> and <a href="https://ross.eddb.io/station/closest-missing">eddb closest-missing</a> pages. PMCTODO
+
+<p>Historical info; <a href="https://ross.eddb.io/station/snake-man">EDDB snake-man</a> and <a href="https://ross.eddb.io/station/closest-missing">EDDB Closest Missing</a> pages were used when we had missing data, for <i>old</i> data use station page instead.
 </p>
 
-<p>snake-man page lists all the stations with distance to star or pad size data missing. There is no order, it just lists them and you cannot search for closest system or anything. Its not totally useless, but very close to it, very difficult to use.
+<p>snake-man page lists all the stations with distance to star or pad size data missing. There is no order, it just lists them and you cannot search for closest system or anything.
 </p>
 
-<p>Closest-missing page allows you to search the system your in (or whatever system you are interested in) and it lists all closest stations with missing data. This page sorts them by light years distance.
+<p>Closest-missing page allows you to search the system you are in (or whatever system you are interested in) and it lists all closest stations with missing data. This page sorts them by light years distance. This is the new version of snake-man page.
 </p>
 
-<p>I believe this is the new or public version of snake-man page.
+<p>After all the missing data was added you can use <a href="https://eddb.io/station">EDDB Stations (use prices update to filter oldest)</a> page to find OLD data to update. If new stations are found and added through EDDN without full data-set, they will appear in closest-missing. It might be good idea to check closest-missing page maybe once a week or so, just in case.
 </p>
 
-	<h2>Trade Dangerous?</h2>
-<p>it has some sort of parameter to list oldest prices and I think landing pad sizes, but I cant remember what it was :) PMCTODO
+	<h2>EDSM</h2>
+
+<p>Oldest stations will filter out old data stations nearest to your CMDR location if logged in.
 </p>
+
+	<h2>Trade Dangerous</h2>
+
+<p>TradeDangerous has olddata command to list oldest market prices from stations. With route parameter it actually plots a route for you to follow through the list, this is awesome time saver.
+</p>
+
+<p>List oldest market data non planetary stations with distance less than 2000 light seconds from the star and large landing pad, also limit the return output to 20 stations.
+</p>
+<pre>
+trade.py olddata --no-planet --limit 20 --pad-size l --ls-max 2000
+</pre>
+
+<p>This searches within 100 light years from Shinrarta Dezhra system and returns maximum of 50 non planetary stations which market data age is older than 100 days.
+</p>
+<pre>
+trade.py olddata --no-planet --limit 50 --pad-size l --ls-max 2000 --near shinrarta --route --ly 100 --min-age 100
+</pre>
+
 </section>
 
 <footer>
