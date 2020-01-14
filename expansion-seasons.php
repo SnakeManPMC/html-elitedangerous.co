@@ -416,6 +416,11 @@ Player Journal<br>
 - ShipTargeted: add powerplay info
 </p>
 
+<p><b>v3.?: "January Update"</b><br>
+Jan 14h, 2020.<br>
+- alternative solution to help mitigate the long delay when scanning planets with geological/biological sites
+</p>
+
 <h2>20??, Season 4 - ?</h2>
 <p><b>v4.1: ?</b><br>
 </p>
