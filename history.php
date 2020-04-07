@@ -237,7 +237,7 @@ Thursday. Oct 10th, 2019. v3.5 Patch 3<br>
 Tuesday. Jan 14th, 2020. v3.? "January Update"<br>
 Wednesday. Jan 15th, 2020. v3.? "January Update" Hotfix<br>
 Tuesday. Jan 21st, 2020. v3.? "January Update" Patch 2<br>
-Tuesday. Apr 7th, 2020. v3.7 Fleet Carriers Beta
+Tuesday. Apr 7th, 2020. v3.7 Fleet Carriers Beta 1 (and patch 1)
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -822,8 +822,11 @@ Patch notes arrived already the previous day
 v3.? "January Update" Patch 2<br>
 Patch notes arrived already the previous day
 <br><br>
-v3.7 Fleet Carriers Beta<br>
+v3.7 Fleet Carriers Beta 1<br>
 Patch notes arrived already the previous day
+<br><br>
+v3.7 Fleet Carriers Beta 1 Patch 1<br>
+2202hrs patch notes
 </p>
 </section>
 
