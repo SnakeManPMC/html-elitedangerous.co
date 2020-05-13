@@ -713,7 +713,7 @@ Jumped empty from kaang wa to Comaucate, nothing to trade. I really don't like t
 </p>
 
 <p>
-2019-09-16T01:04:43Z docked at Kaang Wa/Thomas Dock, sold cargo for 070.7k profit, refueled 114cr.
+2019-09-16T01:04:43Z docked at Kaang Wa/Thomas Dock, sold cargo for 970.7k profit, refueled 114cr.
 </p>
 
 <p>
