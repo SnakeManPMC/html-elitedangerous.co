@@ -26,7 +26,7 @@
 <p>After reaching Triple Elite status, switch to a relax mode in elite universe and go to an great long journey exploring around the galaxy. Loop clockwise at the "middle" part of galaxy (25,500ly from core) all the way through to the other side of galaxy (from Sol), then get as far in the edge of galaxy as you can jump with current jump capability. From there its so cool to look back at Sol and see the stupid long distance. When done marveling the galaxy, return to the loop route and return to Sol.
 </p>
 
-<p>Relaxed exploration, no hurry at all. <b>Scan all interesting looking planets</b>, scan all stars, skip useless belts / icy / rock stuff of course... except with Elite v2.0 you can land on icy and rock planets, so they are no again interesting hehe. Try to scan the galaxy area where youre at for interesting stars. Just enjoy the journey and dont be bothered to count how many light years did you jump today etc.
+<p>Relaxed exploration, no hurry at all. <b>Scan all interesting looking planets</b>, scan all stars, skip useless belts / icy / rock stuff of course... except with Elite v2.0 you can land on icy and rock planets, so they are no again interesting hehe. Try to scan the galaxy area where youre at for interesting stars. Just enjoy the journey and don't be bothered to count how many light years did you jump today etc.
 </p>
 
 <p>My path to triple elite showed in exploration part how easy it is to burn out by playing too much. Don't play every day unless huge enthusiasm strikes. It is very important not to burn out playing too much, trying to jump too many systems at one session / day etc. Try to relax, enjoy the galaxy, if you don't feel like playing then <b>don't</b>. Simple.
@@ -295,7 +295,7 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>Decided to call it a day here, even number new record and it has been extremely long and exhausting day hyper space jumping that many times. I was 24,536Ly from Sol.
 </p>
 
-<p>2016-09-20 took several days break after getting the high score hyper jumps in a day, then did couple of days of 20 jumps per day and finished that today. Today we get v2.2 beta which I'm going to play like crazy, lots of cool new stuff and get to fool around in populated space, experiment with stuff as there is no coincequences in beta. Will be good stuff.
+<p>2016-09-20 took several days break after getting the high score hyper jumps in a day, then did couple of days of 20 jumps per day and finished that today. Today we get v2.2 beta which I'm going to play like crazy, lots of cool new stuff and get to fool around in populated space, experiment with stuff as there is no consequences in beta. Will be good stuff.
 </p>
 
 <p>2016-10-25 Elite v2.2 was released. Started to play again in live game as I was earlier playing in the beta.
@@ -393,7 +393,7 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>I practised in training mission navigation for like 5 times in a row to get hyper jumping with FSD into check. Okay I'm not a total dumbass, I do remember to cut throttle and not to collide with stars as after all I'm ranked Elite in exploration hehe, so basic exploration jumping should be fine. Only thing I need to learn again is fuel scooping, but I remember that being easy after you get used to it. Its crazy to think how much your skills are lost with "only" 11 month break...
 </p>
 
-<p>But still I was super scared of getting back into my ASP cockpit so far away from populated space and with so much exploration data. But what can you do, I dont have second account to train exploration or is there any real exploration suitable training missions so its time to jump head first into the deep end :)
+<p>But still I was super scared of getting back into my ASP cockpit so far away from populated space and with so much exploration data. But what can you do, I don't have second account to train exploration or is there any real exploration suitable training missions so its time to jump head first into the deep end :)
 </p>
 
 <p>2017-10-17T04:44:37Z back in my ASP cockpit, finally!
@@ -411,7 +411,7 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>2017-10-18T00:12:35Z arrived at Hachaei WP-W c15-1 system which is PMC Galaxy Loop leg 08.
 </p>
 
-<p>It is amazing that after almost a year off from elite I sort of started to get bored with exploration jumping again as I soon started to use normal fastest route plotting with that 51.66ly jump range. I wasn't in hurry, but still didn't feel like nudging around in economical plotting which is super slow traveling. Also when I made few ammonia / earth like / water world discoveries, I didnt go near them or screenshot them which I usually do. Honestly when you've seen one earth like, you've seen them all. Not complaining, just telling you how it is...
+<p>It is amazing that after almost a year off from elite I sort of started to get bored with exploration jumping again as I soon started to use normal fastest route plotting with that 51.66ly jump range. I wasn't in hurry, but still didn't feel like nudging around in economical plotting which is super slow traveling. Also when I made few ammonia / earth like / water world discoveries, I didn't go near them or screenshot them which I usually do. Honestly when you've seen one earth like, you've seen them all. Not complaining, just telling you how it is...
 </p>
 
 <p>2017-10-27T07:02:58Z took a few days break but now was back in cockpit, plotted 13k ly route to PMC Galaxy Loop leg 09.
@@ -447,7 +447,7 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>2017-10-30T10:37:21Z was back in cockpit and set my sights to route towards PMC Galaxy Loop leg 09.
 </p>
 
-<p>I found several earth likes and water worlds near beagle point but because they were discovered by other CMDR's I didnt go scan them even for the basic money. Biggest payday is the first discovery bonus anyway.
+<p>I found several earth likes and water worlds near beagle point but because they were discovered by other CMDR's I didn't go scan them even for the basic money. Biggest payday is the first discovery bonus anyway.
 </p>
 
 <p>2017-10-30T16:53:56Z for some reason route plotter refused to plot route anywhere near leg 09, so I just went and plotted to leg 10 instead, oh well. I was about 1.4k ly away from leg 09 so it was close enough.
@@ -513,10 +513,10 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>2017-11-08-17T20:40:00Z had to call it quits because my computer desk chair broke down. The back rest cracked and leaned like 10 degrees too much back and there was danger that it would soon fully snap. I could not fly my ASP naturally or do any serious computer stuff like this :(
 </p>
 
-<p>But I tried to play elite, I even brought my tv reclainer chair in front of my Gaming computer but no go, I cannot reach my HOTAS, well throttle full forward when I sit in the reclainer, not to mention getting in and out of it is pure horror. So that was not an option.
+<p>But I tried to play elite, I even brought my tv recliner chair in front of my Gaming computer but no go, I cannot reach my HOTAS, well throttle full forward when I sit in the recliner, not to mention getting in and out of it is pure horror. So that was not an option.
 </p>
 
-<p>Right now I dont have money to buy new computer chair, so if I cant use my computers other than short periods of time without back rest, it means no Elite playing either. Once again PMC Galaxy Loop is on hold :(
+<p>Right now I don't have money to buy new computer chair, so if I cant use my computers other than short periods of time without back rest, it means no Elite playing either. Once again PMC Galaxy Loop is on hold :(
 </p>
 
 <p>Damn man, this exploration journey seem to be riddled with all kinds of mishaps hehe. Wonder if I ever make it back? HEHE
