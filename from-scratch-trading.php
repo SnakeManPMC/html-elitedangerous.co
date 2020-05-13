@@ -645,7 +645,7 @@ Bought 64 x Textiles/Military Grade Fabrics, plotted route to Armo/Stromgren Sur
 </p>
 
 <p>
-God trade rank promotion to Merchant! :)
+Got trade rank promotion to Merchant! :)
 </p>
 
 <p>
