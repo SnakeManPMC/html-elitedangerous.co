@@ -421,6 +421,28 @@ Jan 14h, 2020.<br>
 - alternative solution to help mitigate the long delay when scanning planets with geological/biological sites
 </p>
 
+<p><b>v3.7: Fleet Carriers</b><br>
+Jun 9th, 2020.<br>
+- Fleet Carriers are massive ships used as a mobile base of operations, offering multiple landing pads and various services.<br>
+- Fleet Carriers cost 5 billion credits.<br>
+- Players can purchase a Fleet Carrier from starports with a Fleet Carrier Vendor contact.<br>
+- Fleet Carriers come with 16 landing pads, 8 large, 4 medium and 4 small.<br>
+- Fleet Carrier owners can manage docking permissions to determine who can land on their Fleet Carrier.<br>
+- Fleet Carriers can jump up to 500ly.<br>
+- Fleet Carriers use the new commodity, Tritium, to perform a jump.<br>
+- Owners can install a variety of services on a Fleet Carrier to support their play style.<br>
+- Fleet Carriers have a weekly upkeep cost which must be maintained to keep the Fleet Carrier running.<br>
+- Fleet Carriers have player controlled commodity markets which the owner can use to buy and sell goods.<br>
+- Fleet Carrier owners can also set tariffs on some of the services they offer to help pay their running costs.<br>
+- Fleet Carriers can be customised, similar to regular ships, with items purchased from the Livery.<br>
+- Fleet Carriers take 15 minutes to prepare for a jump, and have a 5 minute cool-down after.<br>
+- Universal Cartographics is an optional service on Fleet Carriers.<br>
+- Fleet Carrier owners can store their ships and modules aboard their Fleet Carrier by default.<br>
+- When decommissioning a carrier you will receive a full refund.<br>
+- Voluntary decommissioning will incur a fee equivalent to 50% of the Debt Threshold.<br>
+- When cancelling the decommissioning of a Fleet Carrier, the owner will receive an inbox message to confirm the cancellation.
+</p>
+
 <h2>20??, Season 4 - ?</h2>
 <p><b>v4.1: ?</b><br>
 </p>
