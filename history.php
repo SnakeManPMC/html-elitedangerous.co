@@ -844,7 +844,7 @@ v3.7 Fleet Carriers Beta 2 Patch 1<br>
 v3.7 Fleet Carriers Release<br>
 1037hrs servers down<br>
 1100hrs patch notes<br>
-?hrs release
+1958hrs release
 </p>
 </section>
 
