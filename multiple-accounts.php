@@ -56,7 +56,7 @@
 
 <h2>Login Account</h2>
 
-<p>First time you run new elauncher exe (or the copied ones), it asks email login/password, insert them and go through the sending activation code to that email hoops, but once its done the login account stays with that launcher exe as long as you dont change it (or mess up your windows or some odd client launcher update comes).
+<p>First time you run new edlaunch exe (or the copied ones), it asks email login/password, insert them and go through the sending activation code to that email hoops, but once its done the login account stays with that launcher exe as long as you dont change it (or mess up your windows or some odd client launcher update comes).
 </p>
 
 <p>You can also skip copying edlaunch.exe and log in and log out using the single launcher, however this is cumbersome as you must type in your email and password on every CMDR account. However here is how you do it: untick remember me box, then use options -> log out, not log out machine because that requires the email verification code to be sent. Use options -> log out to switch CMDR emails.
