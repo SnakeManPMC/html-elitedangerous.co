@@ -19,14 +19,14 @@
 </header>
 
 <section>
-<p>ED Shipyard is a ship builder website. You can design and try out all kinds of outfitting module variations for your ships. You can see jump ranges with laden or unlanden states etc. Don't buy ships or modules without trying out different combinations in ED Shipyard first.
+<p>ED Shipyard is a ship builder website by Taleden. You can design and try out all kinds of outfitting module variations for your ships. You can see jump ranges with laden or unlanden states etc. Don't buy ships or modules without trying out different combinations in ED Shipyard first.
 </p>
 
 <p>When you have chosen your favourite ship and outfitting module configuration, you can search stations that are selling ships and modules from <a href="eddb.php">EDDB</a> very easily, no more flying around galaxy searching for high tech stations.
 </p>
 
 <p>
-<a href="http://www.edshipyard.com/">ED Shipyard Homepage</a> <br><br>
+<a href="https://edsy.org">ED Shipyard Homepage</a> <br><br>
 </p>
 
 </section>

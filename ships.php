@@ -31,7 +31,7 @@
 
 <p>You sell your ship of 90% value. Equipment is sold for 100% value. So when you have a ship filled with class 5 rating A items, you can generally gain a few million by stripping it before buying a new ship.</p>
 
-<p>You can try out different configurations for your ships in <a href="http://www.edshipyard.com/">Elite Shipyard</a> site.</p>
+<p>You can try out different configurations for your ships in <a href="edshipyard.php">Elite Shipyard</a> site.</p>
 
 <h2>Adder</h2>
 

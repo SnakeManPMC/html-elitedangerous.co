@@ -50,7 +50,7 @@
 <p>Even if your cargo hold is full you can still store stuff in the refinery bins, once you are in station and sell your cargo you can move the stuff from refinery bins into cargo.
 </p>
 
-<p><a href="http://www.edshipyard.com/#/L=705,5TP5TP5TPH9WH9W0_g0_g0_g0_g,2-9Y9Y7_6uB6A08I,0AA0AA7Uc5Vk5Vk4_w0aQ05U5uk">Suggested python outfitting</a> in edshipyard.
+<p><a href="https://edsy.org/#/L=705,5TP5TP5TPH9WH9W0_g0_g0_g0_g,2-9Y9Y7_6uB6A08I,0AA0AA7Uc5Vk5Vk4_w0aQ05U5uk">Suggested python outfitting</a> in edshipyard.
 </p>
 
 <p>If you have already picked up tons and someone is coming in for a scan, turn toward them so you are ready to fight when they engage and don't compromise your collectors flight path. As much to shields as you can manage.
@@ -60,13 +60,13 @@
 </p>
 
 <p>Mining ships from smallest to largest:<br>
-<a href="http://www.edshipyard.com/#/L=70W,H7yH7y,2-4s6Q723m5K3m6k,0bg08c0720727Pc5PU5uk">Lakon Type-6</a><br>
-<a href="http://www.edshipyard.com/#/L=70X,H7yH7yH7yH7y0__,2-6Q7_7_6u5K5K8I,0bg0AA08c08c0727RA5PU5uk">Lakon Type-7</a><br>
-<a href="http://www.edshipyard.com/#/L=705,H9WH9WH9WH9WH9W,2-Bk9Y7_6uBaA08I,0AA0AA7UI08c08c0bg05U5Sc5uk">Python</a><br>
-<a href="http://www.edshipyard.com/#/L=70Y,H9WH9WH9WH7yH7y0_g0_g0_g,2-9YB69Y8S7_6u9s,0DI0Bk7UI08c0720bg05U5Sc5uk">Lakon Type-9</a><br>
+<a href="https://edsy.org/#/L=70W,H7yH7y,2-4s6Q723m5K3m6k,0bg08c0720727Pc5PU5uk">Lakon Type-6</a><br>
+<a href="https://edsy.org/#/L=70X,H7yH7yH7yH7y0__,2-6Q7_7_6u5K5K8I,0bg0AA08c08c0727RA5PU5uk">Lakon Type-7</a><br>
+<a href="https://edsy.org/#/L=705,H9WH9WH9WH9WH9W,2-Bk9Y7_6uBaA08I,0AA0AA7UI08c08c0bg05U5Sc5uk">Python</a><br>
+<a href="https://edsy.org/#/L=70Y,H9WH9WH9WH7yH7y0_g0_g0_g,2-9YB69Y8S7_6u9s,0DI0Bk7UI08c0720bg05U5Sc5uk">Lakon Type-9</a><br>
 </p>
 
-<p><a href="http://www.edshipyard.com/#/L=70X,5Aq5AqH7yH7y0__,2-6Q8S7_6u4s5K8I,0AA0AA08c5Vk0bg7RA5PU5uk">Lakon Type-7 I'm using</a>
+<p><a href="https://edsy.org/#/L=70X,5Aq5AqH7yH7y0__,2-6Q8S7_6u4s5K8I,0AA0AA08c5Vk0bg7RA5PU5uk">Lakon Type-7 I'm using</a>
 </p>
 
 <p>Lakon Type-7 with three small mining lasers is over the power distributor capacity, you have to wait until it recharges before firing. Next ship is python with medium hardpoints.

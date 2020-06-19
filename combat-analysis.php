@@ -76,11 +76,11 @@ ASP A5 thrusters, A6 shields, A4 power distributor, with 6x gimballed pulse lase
 
 <h2>Suggested Combat Outfitting</h2>
 
-<p><a href="http://www.edshipyard.com/#/L=70g,3wAmpV5QR5QR5QR5QR5Rr5Rr,2-7_7_7_6u6Q8S8I,7UI">asp, pulse lasers, A rated everything else</a>
+<p><a href="https://edsy.org/#/L=70g,3wAmpV5QR5QR5QR5QR5Rr5Rr,2-7_7_7_6u6Q8S8I,7UI">asp, pulse lasers, A rated everything else</a>
 <br><br>
-<a href="http://www.edshipyard.com/#/L=70g,mpW5QR5QR,2-5A6u7_6u5K8S8I,522mpV7Q4mpT2UI">asp, populated space explorer with minimum shields + weapons</a>
+<a href="https://edsy.org/#/L=70g,mpW5QR5QR,2-5A6u7_6u5K8S8I,522mpV7Q4mpT2UI">asp, populated space explorer with minimum shields + weapons</a>
 <br><br>
-<a href="http://www.edshipyard.com/#/L=70N,5TP5TP3wU,2-6Q7_6Q5K8S6Q5A,7Sk">vulture, combat set 1</a>
+<a href="https://edsy.org/#/L=70N,5TP5TP3wU,2-6Q7_6Q5K8S6Q5A,7Sk">vulture, combat set 1</a>
 </p>
 
 <h2>Combat in v2.2</h2>
