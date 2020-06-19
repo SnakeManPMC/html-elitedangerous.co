@@ -34,7 +34,7 @@
 <p>You need to buy second (or how many you want) account from <a href="https://www.frontierstore.net/eur/games/elite-dangerous-cat.html">Frontier Store</a>.
 </p>
 
-<p>Note that it is not cheap to have multiple accounts. In October 31st 2017 the base game costs 24.99euro (but was in discount 12.50euro) and horizons season pass cost the same 24.99euro (but was in discount 16.74euro) to total of <b>49.98euro</b> (but discounted 29.24euro). In the years to come future, who knows how frontier setups their expansions so the price can and most likely will increase as different expansions are released.
+<p>Note that it is not cheap to have multiple accounts. In October 31st 2017 the base game costs 24.99euro (but was in discount 12.50euro) and horizons season pass cost the same 24.99euro (but was in discount 16.74euro) so total of <b>49.98euro</b> (but discounted 29.24euro). In the years to come future, who knows how frontier setups their expansions so the price can and most likely will increase as different expansions are released.
 </p>
 
 <p>Oddly enough CMDR deluxe edition was discounted 28.99euro which is whopping 0.25euro cheaper and you get few "SKINZ" ;)
