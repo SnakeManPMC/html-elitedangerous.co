@@ -42,7 +42,7 @@
 <p>Hazardous Resource Extraction Sites has only combat rank of Expert and higher, often times being deadly, dangerous or even elite. Very rarely you could see Competent rank ships. Sometimes the wanted ships spawn immediately as you enter the RES, other times you have to wait long time before any ships arrive. Its annoying to wait if you are in adrenaline combat mood (maybe you should go to Conflict Zone instead?) but its great when you lurking and then you get juicy spawn of wanted ships.
 </p>
 
-<p>Sometime you get two or more wings of wanted ships and they start to fight with each other, its awesome sight and fun to watch what happens. You can then lick and choose the loosing ships and strike them when they get low in hull percentage, easy kills for you.
+<p>Sometime you get two or more wings of wanted ships and they start to fight with each other, its awesome sight and fun to watch what happens. You can then pick and choose the loosing ships and strike them when they get low in hull percentage, easy kills for you.
 </p>
 
 <h2>How do I find Resource Extraction Sites (RES)?</h2>
