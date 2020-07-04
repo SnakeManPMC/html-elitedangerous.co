@@ -178,7 +178,7 @@ When you watch the chat you most likely very soon see carrier CMDRs announcing L
 </p>
 
 <p>
-Word of warning; often times the system chat gets trolls or just otherwise players who think they are anonymous and can say any offensive thing that comes to their mind. Try not to get involved in such conversations, just ignore them. Be friendly and positivie in the system chat, lets all try to make it better, more enjoyable place for mining CMDRs.
+Word of warning; often times the system chat gets trolls or just otherwise players who think they are anonymous and can say any offensive thing that comes to their mind. Try not to get involved in such conversations, just ignore them. Be friendly and positive in the system chat, lets all try to make it better, more enjoyable place for mining CMDRs.
 </p>
 
 <p>
@@ -189,14 +189,14 @@ Once you find a carrier buying minerals or departing to the selling system, just
 <b>Payment for a taxi?</b>
 </p>
 
-<p>These taxi rides do not have a technical method of payment, but most CMDRs donate either tritium or LTDs. For carrier CMDRs tritium while it can be used as fuel is far less valuable as LTDs, if you are wondering what to donate then simply donating/selling ONE LTD is just fine, that will cover the costs for fuel it takes to taxi you. Donating assumes carrier CMDR has put really low price on LTD buy order, like carrier is bying LTDs for 2000 credits that clearly means this carrier wants LTD donations as taxi fee.
+<p>These taxi rides do not have a technical method of payment, but most CMDRs donate either tritium or LTDs. For carrier CMDRs tritium while it can be used as fuel is far less valuable as LTDs, if you are wondering what to donate then simply donating/selling a few LTDs is just fine, that will cover the costs for fuel it takes to taxi you. Donating assumes carrier CMDR has put really low price on LTD buy order, like carrier is bying LTDs for 2000 credits that clearly means this carrier wants LTD donations as taxi fee.
 </p>
 
 <p>
 <b>Selling directly to carrier?</b>
 </p>
 
-<p>When carrier taxi ferrys you to a selling station it takes 20 minutes for the countdown assuming you arrived before or just when the countdown starts, then you go to sell however long this might take, then you return to a carrier and travel back to the LTD3 rings which takes another 20 minutes. This is overall 40 minutes of time used. If you mine and sell minerals directly to carrier it will take far less time, you dock, sell and jump / super cruise right back to the rings to mine some more. How much can you mine in 40 minutes as that's long a carrier ride would take. Selling directly to carriers is good for mining CMDR and the carrier CMDR as well.
+<p>When carrier taxi ferrys you to a selling station it takes 20 minutes for the countdown assuming you arrived before or just when the countdown starts, then you go to sell however long this might take, then you return to a carrier and travel back to the LTD3 rings which takes another 20 minutes. This is overall 40 minutes of time used. If you mine and sell minerals directly to carrier it will take far less time, you dock, sell and jump / super cruise right back to the rings to mine some more. How much can you mine in 40 minutes as that's long a carrier ride would take. Selling directly to carriers is good for mining CMDRs and the carrier CMDRs as well.
 </p>
 
 <p>
@@ -207,7 +207,15 @@ Carriers buying directly from miners have various price ranges, you should know 
 <b>What is the "sell bug"?</b>
 </p>
 
-<p>In v3.7 fleet carriers patch 2 there is a bug that prevents CMDRs to sell into a carrier if the buy order is maxed out against carriers credit balance. What happens is that CMDR tries to sell, chooses sell amount (usually full cargo) and clicks "Sell" button... but nothing happens, the selling dialog just closes. Sometimes this can be avoided by selling a very low amounts, 10, 5 or even 1 ton at once which obviously is terrible experience if you have to sell hundreds of tons. Often times there are carriers which buy orders simply do not work at all, even if you try to sell 1 ton at a time it doesn't work, in these cases just move on to a next carrier. Note: this most likely will be fixed in the next patch, well we can hope, can we.
+<p>In v3.7 fleet carriers patch 2 there is a bug that prevents CMDRs to sell into a carrier if the buy order is maxed out against carriers credit balance. What happens is that CMDR tries to sell, chooses sell amount (usually full cargo) and clicks "Sell" button... but nothing happens, the selling dialog just closes. Sometimes this can be avoided by selling a very low amounts, 10, 5 or even 1 ton at once which obviously is terrible experience if you have to sell hundreds of tons.
+</p>
+
+<p>
+Often times there are carriers which buy orders simply do not work at all, even if you try to sell 1 ton at a time it doesn't work, in these cases just move on to a next carrier and announce the non-working carrier market in the system chat.
+</p>
+
+<p>
+Note: this "sell bug" most likely will be fixed in the next Elite patch, well we can hope, can we.
 </p>
 
 	<h2>Selling Minerals</h2>
