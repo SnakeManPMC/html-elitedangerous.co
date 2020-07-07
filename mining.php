@@ -20,7 +20,7 @@
 
 <section>
 <p>
-<b>2020-07-04</b> last update.
+<b>2020-07-07</b> last update.
 </p>
 
 	<h2>Mining</h2>
@@ -87,12 +87,13 @@ After detailed surface scanning check visually the orange/yellow hotspots in the
 </p>
 
 <p>
-Double overlapping hotspots are very nice and triple overlapping hotspots are like you really struck gold now. At the moment of writing this page there are only three known locations discovered by CMDRs for LTD triple overlapping hotspots :)
+Double overlapping hotspots are very nice and triple overlapping hotspots are like you really struck gold now. At the moment of writing this page there are only four systems discovered by CMDRs for LTD triple overlapping hotspots :)
 </p>
 
 <p>
 <a href="https://www.edsm.net/en/system/id/3165155/name/Col+285+Sector+CC-K+a38-2">Col 285 Sector CC-K a38-2 1</a><br>
 <a href="https://www.edsm.net/en/system/id/7531161/name/Corona+Austr.+Dark+Region+OX-U+b2-3">Corona Austr. Dark Region OX-U b2-3 6</a><br>
+<a href="https://www.edsm.net/en/system/id/25541146/name/HIP+4351">HIP 4351 10</a><br>
 <a href="https://www.edsm.net/en/system/id/53445988/name/Swoilz+PK-R+b20-0">Swoilz PK-R b20-0 1</a>
 </p>
 
@@ -212,6 +213,10 @@ Carriers buying directly from miners have various price ranges, you should know 
 
 <p>
 Often times there are carriers which buy orders simply do not work at all, even if you try to sell 1 ton at a time it doesn't work, in these cases just move on to a next carrier and announce the non-working carrier market in the system chat.
+</p>
+
+<p>
+Carrier owners tip how to avoid this bug: create buy order, max out your credit balance (assuming you're short on credits), then reduce units by 790, this is the amount of biggest cargo ship in-game (lakon type-9, shieldless) and now when game checks against your carrier credit balance does not exceed the value and selling by CMDR's should work fine.
 </p>
 
 <p>
