@@ -20,7 +20,7 @@
 
 <section>
 <p>
-<b>2020-07-07</b> last update.
+<b>2020-07-11</b> last update.
 </p>
 
 	<h2>Mining</h2>
@@ -272,19 +272,19 @@ If you can find bulletin board missions which buy minerals they pay great deal f
 	<h2>Bulk Tax</h2>
 
 <p>
-When you go selling minerals (any cargo really), some guides say first pick a sell station before you even go to mine because you need to have market demand for ten (10) times of the cargo space of your ship otherwise you get "bulk tax" into the market price.
+When you go selling minerals (any cargo really), you need to find market demand for four (4) times of the cargo space of your ship otherwise you get "bulk tax" into the market price.
 </p>
 
 <p>
-For example if you do not have any LTD's in your cargo market price would be 1.7 million per ton, but once you have 640t of them and demand is less than 640*10 == 6400, then you'll be paid only reduced price, sometimes as down as 500-900k per ton. Its been speculated that the bulk tax is 25%.
+For example if you do not have any LTD's in your cargo market price would be 1.7 million per ton, but once you have 640t of them and demand is 1450 then you get much less. We can calculate 25% by demand/4 so 1450/4 == 362.5, then you'll be paid only reduced price, sometimes as down as 500-900k per ton.
 </p>
 
 <p>
-Often times high demand stations pay much less, perhaps like 900k - 1.1 million and the stations with low demand like few hundreds of low thousands then pays the crazy high prices like 1.7 million of LTD's per ton.
+Often times high demand stations pay much less, perhaps like 900k - 1.1 million and the stations with low demand like few hundreds of low thousands then pays the crazy high prices like 1.7 million of LTD's per ton. Always check demand vs your cargo capacity (amount of minerals).
 </p>
 
 <p>
-If you own a carrier you can park it nearby the low demand high paying station, then just do several LTD hauling trips with your ship selling only specific amount of tons to get the maximum price. Its a bit more work, but definitely worth is if you want to get the highest amount of credits.
+If you own a carrier you can park it nearby the low demand high paying station, then just do several LTD hauling trips with your ship selling only specific amount of tons to get the maximum price, right? WRONG, trust me on this on 2020-07-09 we sold 14,300t of LTDs in station that only accepted 360t per trip to avoid bulk tax... and we spend ALL DAY hauling diamonds. There were no other CMDR's present to help us out as everyone was on another system with high demand. It is just not worth it, go to a station with enough demand so you can sell large cargo ship load at once.
 </p>
 
 </section>
