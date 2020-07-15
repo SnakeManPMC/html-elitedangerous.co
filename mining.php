@@ -20,7 +20,7 @@
 
 <section>
 <p>
-<b>2020-07-11</b> last update.
+<b>2020-07-15</b> last update.
 </p>
 
 	<h2>Mining</h2>
@@ -87,7 +87,7 @@ After detailed surface scanning check visually the orange/yellow hotspots in the
 </p>
 
 <p>
-Double overlapping hotspots are very nice and triple overlapping hotspots are like you really struck gold now. At the moment of writing this page there are only four systems discovered by CMDRs for LTD triple overlapping hotspots :)
+<i>Note: 2020-07-15 fleet carriers patch 3 totally ruined overlapping hotspots, for example Col 285 Sector Cc-k a38-2 triple hotspot has basically no LTD in it. Remains to be seen what happens with this.</i> Double overlapping hotspots are very nice and triple overlapping hotspots are like you really struck gold now. At the moment of writing this page there are only four systems discovered by CMDRs for LTD triple overlapping hotspots :)
 </p>
 
 <p>
@@ -157,10 +157,14 @@ Overlapping hotspots does not matter when it comes to void opals.
 </p>
 
 <p>
-LTDs overlapping hotspots mining is still the best in a large ship with many collector limpets.
+<i>See notes above about patch 3</i>. LTDs overlapping hotspots mining is still the best in a large ship with many collector limpets.
 </p>
 
 	<h2>Fleet Carriers</h2>
+
+<p>
+<i>See notes above about patch 3</i>. 
+</p>
 
 <p>
 In the bubble Col 285 "mines" ie Kirre's Icebox, there are probably more than hundred fleet carriers at any given time. These carriers either buy directly from the miner in the (nearby) system, or they will taxi miners to a highest paying / selling station hundreds of light years away.
@@ -208,7 +212,12 @@ Carriers buying directly from miners have various price ranges, you should know 
 <b>What is the "sell bug"?</b>
 </p>
 
-<p>In v3.7 fleet carriers patch 2 there is a bug that prevents CMDRs to sell into a carrier if the buy order is maxed out against carriers credit balance. What happens is that CMDR tries to sell, chooses sell amount (usually full cargo) and clicks "Sell" button... but nothing happens, the selling dialog just closes. Sometimes this can be avoided by selling a very low amounts, 10, 5 or even 1 ton at once which obviously is terrible experience if you have to sell hundreds of tons.
+<p>
+<i>See notes above about patch 3</i>. We are currently 2020-07-15T12:27:00Z unsure how sell bug has been fixed, looks like FDEV made it worse by fixing the bug... by not allowing more than 2 billion buy orders. We need more data/experience and see if FDEV will issue hotfix for this. Not sure if the below paragraphs still work or not.
+</p>
+
+<p>
+In v3.7 fleet carriers patch 2 there is a bug that prevents CMDRs to sell into a carrier if the buy order is maxed out against carriers credit balance. What happens is that CMDR tries to sell, chooses sell amount (usually full cargo) and clicks "Sell" button... but nothing happens, the selling dialog just closes. Sometimes this can be avoided by selling a very low amounts, 10, 5 or even 1 ton at once which obviously is terrible experience if you have to sell hundreds of tons.
 </p>
 
 <p>
@@ -219,9 +228,6 @@ Often times there are carriers which buy orders simply do not work at all, even 
 Carrier owners tip how to avoid this bug: create buy order, max out your credit balance (assuming you're short on credits), then reduce units by 790, this is the amount of biggest cargo ship in-game (lakon type-9, shieldless) and now when game checks against your carrier credit balance does not exceed the value and selling by CMDR's should work fine.
 </p>
 
-<p>
-Note: this "sell bug" most likely will be fixed in the next Elite patch, well we can hope, can we.
-</p>
 
 	<h2>Selling Minerals</h2>
 
