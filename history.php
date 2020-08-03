@@ -245,7 +245,8 @@ Wednesday. May 20th, 2020. v3.7 Fleet Carriers Beta 2 Patch 1<br>
 Wednesday. Jun 10th, 2020. v3.7 Fleet Carriers Release hotfix<br>
 Wednesday. Jun 17th, 2020. v3.7 Fleet Carriers Release Patch 1<br>
 Tuesday. Jun 30th, 2020. v3.7 Fleet Carriers Release Patch 2<br>
-Wednesday. Jul 15th, 2020. v3.7 Fleet Carriers Release Patch 3
+Wednesday. Jul 15th, 2020. v3.7 Fleet Carriers Release Patch 3<br>
+Monday. Aug 3rd, 2020. v3.7 Fleet Carriers Release Patch 4
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -863,6 +864,10 @@ v3.7 Fleet Carriers Release Patch 2<br>
 1300hrs servers down
 <br><br>
 v3.7 Fleet Carriers Release Patch 3<br>
+Patch notes arrived already the previous day<br>
+1300hrs servers down
+<br><br>
+v3.7 Fleet Carriers Release Patch 4<br>
 Patch notes arrived already the previous day<br>
 1300hrs servers down
 </p>
