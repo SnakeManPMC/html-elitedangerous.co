@@ -79,6 +79,11 @@ Horizons Season Pass 24,99<br>
 CMDR Deluxe Edition (Elite + Horizons Season Pass + 8820 x Arx) 49,99
 </p>
 
+<h2>October 2020, v3.7</h2>
+<p>Elite Dangerous 24,99<br>
+Horizons Season Pass 24,99 (note: horizons becomes free 2020-10-27)<br>
+CMDR Deluxe Edition (Elite + Horizons Season pass) 49,99
+</p>
 </section>
 
 <footer>
