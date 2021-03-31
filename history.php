@@ -248,7 +248,10 @@ Tuesday. Jun 30th, 2020. v3.7 Fleet Carriers Release Patch 2<br>
 Wednesday. Jul 15th, 2020. v3.7 Fleet Carriers Release Patch 3<br>
 Monday. Aug 3rd, 2020. v3.7 Fleet Carriers Release Patch 4<br>
 Tuesday. Sep 8th, 2020. v3.7 some odd "3.7.05" patch<br>
-Thursday. Jan 21st, 2021. v3.7 some odd "3.7.10" patch (no downtime required)
+Thursday. Jan 21st, 2021. v3.7 some odd "3.7.10" patch (no downtime required)<br>
+Monday. Mar 29th, 2021. Odyssey Alpha v1.0<br>
+Monday. Mar 29th, 2021. Odyssey Alpha v1.0 Day 1 Hotfix<br>
+Tuesday. Mar 30th, 2021. Odyssey Alpha v1.0 Day 2 Hotfix
 </p>
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
 <p>
@@ -879,6 +882,15 @@ Patch notes arrived already the previous day<br>
 <br><br>
 v3.7 some odd "3.7.10" patch<br>
 ?hrs patch available
+<br><br>
+Odyssey Alpha v1.0<br>
+1300hrs patch available
+<br><br>
+Odyssey Alpha v1.0 Day 1 Hotfix<br>
+2223hrs patch available
+<br><br>
+Odyssey Alpha v1.0 Day 2 Hotfix<br>
+2030hrs patch available
 </p>
 </section>
 
