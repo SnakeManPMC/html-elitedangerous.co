@@ -253,8 +253,11 @@ Monday. Mar 29th, 2021. Odyssey Alpha v1.0<br>
 Monday. Mar 29th, 2021. Odyssey Alpha v1.0 Day 1 Hotfix<br>
 Tuesday. Mar 30th, 2021. Odyssey Alpha v1.0 Day 2 Hotfix<br>
 Wednesday. Mar 31st, 2021. Odyssey Alpha v1.0 Server Side Fix<br>
+Thursday. Apr 8th, 2021. Odyssey Alpha v1.0 Phase 2
 </p>
+
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
+
 <p>
 Beta 3<br>
 2100hrs In-game message for server shutdown in 30 minutes.<br>
@@ -895,6 +898,9 @@ Odyssey Alpha v1.0 Day 2 Hotfix<br>
 <br><br>
 Odyssey Alpha v1.0 Server Side Fix<br>
 1700hrs patch available
+<br><br>
+Odyssey Alpha v1.0 Phase 2<br>
+1300hrs patch available
 </p>
 </section>
 
