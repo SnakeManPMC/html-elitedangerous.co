@@ -24,7 +24,7 @@
 <p>Comprehensive history of Elite Dangerous seasons of expansions. Year, versions, names etc, its all here. You can review detailed release dates and times from <a href="history.php">history</a> page.
 </p>
 
-<h2>2014, Season 1 Elite Dangerous v1.0</h2>
+<h2>2014, Season 1 - Elite Dangerous v1.0</h2>
 <p><b>v1.1: Community Goal's</b><br>
 </p>
 
@@ -290,7 +290,7 @@ Main Menu<br>
 Commander Creation<br>
 - Updated the new commander flow to make the process more informative and engaging<br>
 - Ship selection screens now display more information on the ship, and also includes an image of the ship itself<br>
-- Players can now choose to start in the Dromi system (in a permit-controlled area administered by the Pilots’ Federation) or in the standard package location<br>
+- Players can now choose to start in the Dromi system (in a permit-controlled area administered by the Pilots' Federation) or in the standard package location<br>
 Pilots' Federation District<br>
 - The Pilots' Federation District is a collection of systems designed to offer a regulated area for new Commanders<br>
 - Outfitting in these systems offers a basic level of equipment, and Shipyards offer a range of entry level ships<br>
@@ -298,8 +298,8 @@ Pilots' Federation District<br>
 - These systems are also marked with a special icon in the navigation panel and galaxy map<br>
 - Once players have gained a rank in Combat, Trade or Exploration, they are offered a 'graduation' mission, which directs them out of the district. If they choose to complete this mission, they cannot re-enter any of the district systems. This also means current, experienced players cannot enter any of these systems<br>
 New Modules<br>
-- Advanced Docking Computer - The Advanced Docking Computer provides cutting edge guidance control to the ship’s computer, offering a further launch option alongside the assisted docking function.<br>
-- Supercruise Assist - The Supercruise Assist module allows the ship’s computer to regulate the approach towards a set location within the current system and to disengage the drive at the appropriate time . This module can also be used to enter orbit around a planetary body.<br>
+- Advanced Docking Computer - The Advanced Docking Computer provides cutting edge guidance control to the ship's computer, offering a further launch option alongside the assisted docking function.<br>
+- Supercruise Assist - The Supercruise Assist module allows the ship's computer to regulate the approach towards a set location within the current system and to disengage the drive at the appropriate time . This module can also be used to enter orbit around a planetary body.<br>
 - - Planet side targets are excluded - instead they will engage the planetary orbit function of the computer, and Commanders will need to manually guide the ship to the ground destination<br>
 - Added a new 'Flight Assistance' section to the Ship tab on the right hand panel. Here players can toggle various options on or off (if fitted with the correct modules):<br>
 - - Flight Assist<br>
@@ -351,7 +351,7 @@ Commodity Market Interface<br>
 - Added more detail to the popup box when selecting any commodities in the players inventory, as well as a quick link to the galaxy map with the correct filter applied<br>
 Player Journal Updates<br>
 - FSDJump event – now includes “Body” info about the arrival star<br>
-- Don’t write a spurious “FighterRebuilt” event after docking SLF back in the ship<br>
+- Don't write a spurious “FighterRebuilt” event after docking SLF back in the ship<br>
 - ApproachSettlement” now includes body info<br>
 - The “Loadout” event:<br>
 - - no longer includes spurious ammo stats for energy weapons<br>
@@ -361,8 +361,8 @@ Player Journal Updates<br>
 - Module item names are now consistently lowercase<br>
 - Status.json:<br>
 - - include LegalState<br>
-- - includes info on nearby planet, and ‘AltFromAvgRad” flag<br>
-- Scan: include a star’s subclass<br>
+- - includes info on nearby planet, and 'AltFromAvgRad” flag<br>
+- Scan: include a star's subclass<br>
 - Location: include DistFromStarLS<br>
 - Add Conflicts data in FSDJump and Location<br>
 - Include Vehicle ID for SLF/SRV (LaunchFighter, LaunchSRV, FighterRebuilt, FighterDestroyed, DockSRV, DockFighter, SRVDestroyed, CrewLaunchFighter)<br>
@@ -443,8 +443,837 @@ Jun 9th, 2020.<br>
 - When cancelling the decommissioning of a Fleet Carrier, the owner will receive an inbox message to confirm the cancellation.
 </p>
 
-<h2>20??, Season 4 - ?</h2>
-<p><b>v4.1: ?</b><br>
+<h2>2021, Season 4 - Odyssey</h2>
+<p><b>v4.0.0.100: Odyssey Official Release!</b><br>
+May 19th, 2021.<br>
+Galaxy:<br>
+- Added 400,000+ settlements<br>
+- Added 8,000+ planet ports<br>
+- Updated memorials<br>
+Engineers:<br>
+- 9 new Engineers added to the Bubble<br>
+- Added cost by manufacturer to weapon and suit mods<br>
+Settlements (new for odyssey)<br>
+- Increased unique Settlement count from 10 in the Alpha to 28. Themes include Agricultural, Extraction, Industrial, Military, Research and Tourism across a variety of sizes<br>
+- Added new plants at Agriculture Settlements<br>
+- Added new rotating 'growlab' prop at Agriculture Settlements<br>
+- Added pipes under floor grilles<br>
+- Added a dirt and scratch overlay pass to the explosive canisters<br>
+- Added two new variants of the shower and toilet in Habitat buildings<br>
+- Added new Agricultural Settlement clutter assets<br>
+- Additional detail added to interior hanging lights<br>
+Weapons<br>
+- Added Manticore plasma weapons to game: Tormentor, Intimidator, Oppressor, Executioner<br>
+Social spaces<br>
+- Added Detention Center<br>
+- Added some distortion to the glassware seen in bars to improve and help visibility<br>
+- Added pipes under floor grilles<br>
+Menus<br>
+- Added suit and weapon customisation<br>
+- Added log notifications when other players board or disembark the vessel you are in<br>
+- Added better tracking of the cause of death and hostility reasons across the whole game, but specifically for on-foot deaths, in order to display better info on the death report screen<br>
+- Added a fines panel to Interstellar factors<br>
+- Added title to low oxygen warning notification. Also fixed the missing icon for out of oxygen alert<br>
+- Added new icons for pilot's handbook sections<br>
+- Add clear stolen authority option in item wheel<br>
+- Added new icons for vessel and humanoid store on the main menu<br>
+- Added a new icon for generic news<br>
+- Added the new controls icons to the separate controls menu<br>
+- Added a walk toggle button binding<br>
+AI<br>
+- Added criminality chances to some dead AIs - this allows certain corpses to be flagged as criminals, displaying the criminal symbol on their nameplate<br>
+- Added addition personal space warning lines for physical contact<br>
+- Added additional blocked warning line for a final warning<br>
+- Added special personal space warnings for interrupting conversations<br>
+Missions<br>
+- Added the 'requirements' panel to mission details screen<br>
+- Added reward digest to mission listings for depot and completion<br>
+- Added calls to action for completed missions and progress to the depot<br>
+- Added a partial complete button to partially completed missions<br>
+- Added a new 'Professional' assassination mission which tasks the player with taking down harder-than-normal targets<br>
+- Added a new 'Clean' assassination mission which tasks the player with taking down targets without causing any collateral damage<br>
+Characters<br>
+- Added in a new walking animation for NPCs in social spaces<br>
+- Added sway to weapons hip fire, ADS, and in/outs of transitions<br>
+- Added in more variety to NPC faces/heads<br>
+- Added rank progression decals and skins<br>
+Conflict zones<br>
+- Added victory animations for the winning team<br>
+- Added 'cheer bark' to conflict zone celebration behaviour<br>
+- Added alternative greetings and global cool-down for conflict zones<br>
+Cosmetics<br>
+- Added livery module slots to every suit item<br>
+- Added the new shoulder decal model items to the relevant models<br>
+Interactions<br>
+- Added the ability for players to free-look whilst using the terminal. Players can also look away from the terminal to break interaction<br>
+Codex<br>
+- Organics added with details and reporting structure<br>
+Fixes / changes / improvements<br>
+Arx<br>
+- Converted the Shop Hangar materials to be PBR compliant<br>
+- Re-enabled ARX purchasing<br>
+Audio<br>
+Mix<br>
+- Fixed the mix (particularly weapons) sometimes going muffled unexpectedly, particularly in conflict zones<br>
+- Fixed a low drone in the galaxy map and other mix improvements<br>
+- Fixed the excessive landing pad touchdown ‘clunk’ in social spaces<br>
+- Fix for reverb being too audible during vessel transitions<br>
+- Fixed some engineer and bar area ambience issues (too many high frequencies)<br>
+- Improvements to planetary and settlement ambiences<br>
+- Improvements to the mix when engaged in a conversation with a vendor or NPC<br>
+- Mix improvements on lockers<br>
+- Various mix improvements on ambiences<br>
+- Improvements to landing area announcers<br>
+- Improvements to landing area reverbs<br>
+- Improvements to turrets<br>
+- Improvements to skimmers – should be less static and persistent and should be softer when stationery<br>
+- Helmet deploy and stow sounds and mix changes (mix goes muffled for a moment on deploy and goes bright for a moment on stow)<br>
+- Improvements to the mix inside your helmet<br>
+- Mix improvements on jump assist<br>
+- Various mix improvements on NPC speech and conversations<br>
+- Mix improvements when interacting with a console at social spaces<br>
+- Improved the ship rumble when inside a building, as it could be overpowering sometimes<br>
+- Tweaks to panels and glass rattles when ships fly over buildings/social spaces<br>
+- Improvements to settlement mining drills<br>
+- Improvements to reverbs generally<br>
+- Improvements to vessel transitions<br>
+- Improved interplay between planet, settlement, and external building ambiences<br>
+- Improvements to suit ventilator audio behaviour<br>
+- Boosted volume of many Odyssey sounds to be more in-line with the existing ED mix<br>
+- Numerous social space mix tweaks<br>
+- Mix improvements to organics<br>
+- Weapon Improvements<br>
+- Fixed overpowering LFE on supressed weapons at distance<br>
+- Fixed various issues with broken audibility on rocket explosions<br>
+- Numerous weapon, explosion and ‘whizz-by’ mix improvements<br>
+- Plasma crackle ‘sweetener’ added to plasma weapons<br>
+- Improved audibility of long range weapons at distance<br>
+- Made weapon reloads less ‘thumpy’ to other players and NPCs<br>
+- Fix for social space consoles triggering a persistent ‘hum’ in the cockpit panel<br>
+- Fixed various issues where some weapon sounds would retrigger on entering vanity cam<br>
+- Fixed numerous issues with the audio options, volume sliders and mute buttons<br>
+- Fixed various issues with reverbs not working correctly in surround sound speaker configurations<br>
+- Fixed the mix often being broken in smaller ships, caused by the changes made to the cargo bay for the conflict zone deploy sequence<br>
+- Fixed various mix and audio on the various types of player death and asphyxiation that can occur<br>
+- Fixes for various issues with external building spot sounds<br>
+- Various audio fixes and improvements on the vendor interactions and dialogue flow<br>
+- Reverbs should remain audible for the sounds you can hear, rather than being faded out with sound effects slider<br>
+- Turrets have movement audio<br>
+- Improvements to social space announcer implementation<br>
+- Improvements to pipe ambient sounds<br>
+- Improvements to capture point audio<br>
+- Fixed broken audio on agricultural grow wheel in settlements<br>
+- Improvements to oxygen replenishment gasps<br>
+- Improvements to reactor sequence<br>
+- Some fixes to adverts to ensure that they sync properly, rather than playing different ads at once<br>
+- Laser weapons now produce ‘whizz-bys’<br>
+- Added continuous Apex and Frontline ads at their booths/banners<br>
+- Settlement terminals now have unique ident audio per faction<br>
+- Audio added for big broken fan<br>
+- Audio added for cargo canister rack interactions<br>
+- DTS headphoneX feature (in audio options) should now work with some on-foot sounds<br>
+- Improvements to internal and external building alarms sounds & behaviours<br>
+Voice<br>
+- NPCs ‘call for backup’ voice lines now audible at distance over radio comms<br>
+- Improvements to radio comms voice treatment to be more effected and feel less dry<br>
+- Improvements to settlement voice<br>
+- Removed some repetitive social space crowd sounds<br>
+- Improvements to combat crowd, when small numbers of combatants present<br>
+- Replaced various lines on the legacy 3.x COVAS Russian and Spanish localised voices, as flagged by the community<br>
+Music<br>
+- Fixed some stealth music with incorrect intensity<br>
+- Fixed the conflict zone victory music sting always playing twice in succession<br>
+- Fix for the social space music sometimes wobbling in rotating starports<br>
+- Music score audio replaced with ‘final mix’ for on-foot music suite<br>
+- Improved various music transitions in the on-foot music suite<br>
+- Set up in-world music at settlements (bars at tourist settlements, and the music tablets at various settlements)<br>
+- Set up music interaction and mix behaviours so the non-diegetic music score does not clash with in-world music emitters in settlements<br>
+- Turbo lift music is less full range and should not hard-pan as much on headphones<br>
+- Turbo lift music should random seek, so we no longer always hear the start of the music tracks<br>
+- Improved the way the music fades during important dialogue<br>
+- Should now get tension music if observing (but not participating in) a combat scene<br>
+Character<br>
+Animation<br>
+- Fixed issues with jump animations<br>
+- Fixed issue in third person where players would pop between crouching and standing<br>
+- Fixed issues with all weapon animations<br>
+- Fixed issues with all tool animations<br>
+- Improved stair climbing animation<br>
+- Improved conserving momentum when airborne, so that releasing the sprint input or relaxing the directional inputs does not slow the player mid-air<br>
+- Updated head look on NPCs<br>
+- Updated eye look on NPCs<br>
+- Shortened shield break animations<br>
+- Updated certain facial expressions<br>
+- Shortened NPC dodge times<br>
+Character<br>
+- Balanced eye textures<br>
+- Updated all engineer clothing<br>
+- Codex Discoveries<br>
+- New Organic life has been added to worlds with tenuous atmospheres<br>
+- Players can report and confirm new organic lifeforms using the Composition Scanner just as they could in Horizons<br>
+- Improved Organic Placement for v3 planets<br>
+- Organic Colour Variants introduced and will be driven by the environment they are found in<br>
+Conflict zones<br>
+- Fixed issue where AI would remain aggressive at the end of a Conflict Zone<br>
+- Improved AI control point awareness<br>
+- Improved AI prioritisation of targets in capture zones<br>
+- Disabled watch behaviour for AI, post conflict zone<br>
+- AI will no longer leave their team at the end of a Conflict Zone<br>
+- Increased control point capture credit reward bonus to 3,000cr<br>
+- Reduced kill and control point capture reinforcement damage to 5 and 50 points, respectively<br>
+- Idle vessels no longer count to the team count in on-foot conflict zones, and only humanoids count during the final phase of the conflict<br>
+- When in the shuttle booking planetary map, selecting conflict zones should now give a more descriptive reason for why the ‘book’ button is greyed out<br>
+- Prevented melee attacks from dealing any damage against Ships, SRVs, and anything that is not a humanoid<br>
+- Restricted personal space warning to physical contact, post conflict zone<br>
+Cosmetics<br>
+- Fixed issues with items remaining previewed in store/livery<br>
+- Fixed an issue with the flight suit for its default black look<br>
+- Fixed vendor suit images<br>
+- Fixed incorrect avatar settings on the flight suits<br>
+- Fixed incorrect materials that were in engineer avatar settings<br>
+- Rebalanced emissive values on cosmetics to fit with new shaders and lighting<br>
+- Bobbleheads adjusted so they are brighter<br>
+- Cosmetics are now available for suits and weapons<br>
+- Suit livery changed to go through the object refresh rather than the cosmetic<br>
+- Previewed items are now added and removed as expected in the suit livery/store<br>
+- Updated the customisation visualisation system to be able to deal with being used in both the livery and loadout browser<br>
+- Removed the lighting rig from being attached to the camera in the vessel store<br>
+- Store packs are now initially sorted alphabetically<br>
+- Removed shoulder pads from the base exploration suit<br>
+- Removed resetting the camera when in main menu and exiting the store<br>
+- SRVs can now spawn and be viewed in the game store<br>
+Combat<br>
+AI<br>
+- Fixed an issue where, while reloading a weapon, the AI would get stuck<br>
+- Fixed an issue where collisions would reapply their damage for every frame they were colliding (resulting in instant death if two ships rammed each other)<br>
+- Fixed an issue where dying humanoids would be treated as environment objects and deal huge amounts of damage to colliding SRVs<br>
+- Fixed an issue where certain NPCs detectable by humanoid sensors did not show their nameplates<br>
+- Fixed an issue where AI would not perform their ‘death bark’ when being tazed<br>
+- Fix for a rare Kinematic crash<br>
+- Fixed some situations where AI would incorrectly think they had weapon line of sight when close to nearby obstacles<br>
+- Fixed an issue where Humanoid corpses and certain NPCs did not have their nameplate attached to their head<br>
+- Fixed erratic weapon aiming when AI were very close to their target<br>
+- AI will now engage vehicles at a longer range<br>
+- Improved AI behaviour when their combat target is a long distance from a settlement<br>
+- Improved AI behaviour when their combat target is in an unreachable location<br>
+- Various improvements to ship AI<br>
+- Various further improvements to combat AI<br>
+- When seeking cover, AI will no longer hide behind their ‘friends’<br>
+- AI vision cones are now correctly tied to the third person model<br>
+- A rework of the AI's ability to utilise grenades and the frequency thereof<br>
+- Improved AI grenade throwing so that they will now flush targets from rooftops<br>
+- Non-physical contact personal space warnings are remembered in the area around them, preventing multiple AI talking over each other<br>
+- Personal space vocalisation cool-downs are now remembered between behaviours<br>
+- Reworked the cool-downs for personal space warnings<br>
+Stability: fixes changes / improvements<br>
+- Fixed a crash when the cargo bay is not available when attempting to enter the cargo depot<br>
+- Fixed an issue where player ships bounced when landed<br>
+- Fixed an issue where if you book a shuttle and then cancel the booking before the shuttle goes live, the pending shuttle object would remain<br>
+- Fixed a crash whenever a player died while participating in CQC<br>
+- Fixed a crash when another player in your session disembarks from their vessel<br>
+- Fixed a crash in the on-foot tutorial when opening the system map (also disabled access to the system and galaxy maps from the navigation panel)<br>
+- Fixed a crash caused by adding suit modules to the loadout<br>
+- Fixed a crash in visualising a new loadout<br>
+- Fixed failures seen in the carrier fuel contact<br>
+- Fixed a crash when the UI is not being shown<br>
+- Fixed a crash if the player gets a fleet carrier update while on the main menu<br>
+- Fixed a crash when upgrading laser ship weapons at an engineer<br>
+- Fixed a crash caused by getting shot by a Guardian sentinel<br>
+- Fixed a potential crash when trying to turn suit shields off when entering a social space<br>
+- Fixed a crash when loading in at a particular planet<br>
+- Fix for error when setting 3D mode to Anaglyph in VR<br>
+- Fix for error when changing 3D mode from "Off" to "Anaglyph", "Side-by-Side" or "HMD" in VR<br>
+- Fix for an error often seen when accessing the System Map<br>
+- Fix for an error seen when filtering by ship type in Inter Astra<br>
+- Fix for an error occasionally seen when entering supercruise<br>
+- Fix for an assert seen when fading planetary rings, based on whether they're seen through atmospheres<br>
+- Fix for a crash often seen when in a Dropship<br>
+- Fix for an error seen when exiting the livery<br>
+- Fix for crash seen when changing resolution<br>
+- Fix for crash occasionally seen on load up<br>
+- Fix for crash sometimes seen when using terminal<br>
+- Fix for a crash seen on occasion in social spaces<br>
+- Fix for a crash seen when closing the game via the "incident report screen"<br>
+- Fix for a crash occasionally seen on start-up<br>
+- Various data port fixes - now ensures the game closes without crashing<br>
+- Put a safety check around the commander data when declining applications to prevent a crash<br>
+- Improvements to how corpses handle their physics skeletons<br>
+- Avoiding crash for old or non-existent resources sent to us by server when someone's inventory is very out of date<br>
+- Stopping data transfer on death to avoid upload crash<br>
+Engineers<br>
+- Fixed floating rocks outside of the Long Sight Engineer Base<br>
+- Fixes and polish to the engineers donation flow, and some adjustments to how on-foot engineers are displayed in the Known Engineers UI<br>
+- Fixed an issue where Engineers would animate in the wrong place<br>
+- Fixed an issue where Engineer progression was not being set correctly<br>
+- Improved height map for Felicity Farseer Engineer Base<br>
+- Balanced Engineer pad holograms to use the same brightness settings as the other landing pads<br>
+- New engineers focus on applying modifications to suits and handheld weapons<br>
+- Each new engineer will specialise in certain types of modifications<br>
+- A requirement must be met before commanders are invited to dock at a new Engineer’s base (just like existing Engineers)<br>
+- When invited to dock at a new Engineer’s base, commanders will be able to engineer with them right away<br>
+- Completing a certain task for a new Engineer will have them refer you to another Engineer that focuses on different types of modifications<br>
+- Existing Engineer Bases updated to allow commanders to disembark and meet them in person<br>
+- Increased Resistances Suit mod should now immediately come into effect when applied<br>
+- Applying mods now consumes credits<br>
+- Prevented players from disembarking at Engineer bases they do not have access to<br>
+- Prevented players from interacting with the Engineer if they do not have access<br>
+Exploration<br>
+Detailed Surface Scanner<br>
+- Fix for organics sometimes appearing incorrectly in highlighted areas of the Heatmap overlay<br>
+- The DSS Heatmap no longer displays with "hot" or "cold" areas, but with an overlay where organics/geologicals highlighted should appear<br>
+- Emissive properties of DSS Heatmap rescales based on light/dark side of the planet to retain visual fidelity in all light conditions<br>
+- The 'All Filter' for the DSS Heatmap has been removed<br>
+- Sampling Organics<br>
+- Genetic Sampling will no longer require the player to complete a timing-based interaction - sampling will be an automated process<br>
+- Sampling an organism now adds a marker to the Commander's compass<br>
+- Different types of life will require the commander to sample subsequent specimens at a different distances from a previous specimen<br>
+- Commanders can view the typical range of an organic colony in the codex - this is how far Commanders may need to travel to find a specimen, genetically diverse from what they have sampled<br>
+- Rewards for logging organics with Vista Genomics greatly increased<br>
+- ‘First Logged’ bonus for being the first to log an organism with Vista Genomics greatly increased<br>
+System and galaxy map<br>
+- Fix for System Map acquiring a grey overlay on planets<br>
+- Visual improvements and removal of visual artefacts in the System and Galaxy Map<br>
+- Changed name of Eskimo Nebula to NGC 2392 in alignment with NASA's official change<br>
+- Planet icons have been updated in the ship radar so that they are now much more visible<br>
+- Sol planets updated to more accurately reflect real-world data<br>
+Economy<br>
+- Adjusted sale prices of some Goods, Data and Assets to the Bartender<br>
+- Adjusted recipes for Upgrades, Suit and Handheld Weapon Engineering<br>
+- Improved negotiation balance and feedback in the UI<br>
+Fleet carriers<br>
+- Fix for the skybox becoming increasingly over-exposed with every Carrier jump<br>
+- Fleet Carrier colour schemes work with new shaders<br>
+Interactions<br>
+- Fixed an issue which sometimes resulted in AI spawning in spawn cupboards at abandoned settlements<br>
+- Fixed an issue where locked lockers would display an ‘interact’ prompt when they could not be interacted with<br>
+- Fixed a number of settlement assets that were not visually powering down at Offline and Offline Damaged Settlements<br>
+- Implemented a number of changes to ensure ‘cuttable’ panels fall outwards more consistently when cut<br>
+Lighting and vfx<br>
+- Fix for Shuttle Cockpits appearing overly dark<br>
+- Fix for broken suit thruster lens flare<br>
+- Fix for the player flashlight<br>
+- Fix to prevent overly orange-tinted social spaces and removal of "cone" effect seen above area<br>
+- Fix for incorrect placement of Apex projection light<br>
+- Fix to balance the organic scan VFX as well as the motherlode asteroid scan VFX<br>
+- Fixes and improvements to reflection probe placement in Settlement rooms<br>
+- Fix for the Life Support asset not turning light off when powered down<br>
+- Fixes for lighting seams observed in some rooms<br>
+- Fix and visual improvement of framing for weapons and humanoids in livery<br>
+- Fix for light leaking outside of specific room<br>
+- Fix for lighting of specific room not turning off when the Settlement if offline<br>
+- Fix for station exterior lighting changing as the player approached<br>
+- Fix for visual artefact caused by over-bright fire VFX<br>
+- Fix for an effect caused by Thargoid probes<br>
+- Fix for visual artefact caused by over-bright grenade explosion VFX<br>
+- Fix for steam VFX clipping through box in specific Settlement room<br>
+- Visual improvement to the chimney VFX<br>
+- Visual Improvements to lighting at all Station Lobby Types, including Engineers<br>
+- Visual Improvements to lighting at Legacy Engineer Bases<br>
+- Visual Improvements to lighting at Odyssey Engineer Bases<br>
+- Visual improvement to lens flare that can be seen when navigating down to a Settlement<br>
+- Visual improvements to the appearance of other ships whilst in supercruise<br>
+- Visual improvements to lighting in Engineer Bases<br>
+- Visual improvements to lighting in all turbolifts<br>
+- Visual Improvements to lighting for all "Under Repair" hangars<br>
+- Visual improvements to lighting for Damaged Stations<br>
+- Visual Improvements to lighting for all inner docks and hangars<br>
+- Visual improvements to Ship Exterior lighting<br>
+- Visual improvements to lighting of full body commander portraits<br>
+- Visual improvements to lighting in selected buildings and Settlements<br>
+- Visual improvements to livery lighting<br>
+- Visual improvements to exterior lighting of all Megaships<br>
+- Visual improvements to all ship lens flares and emissives (VFX)<br>
+- Visual Improvement to the VFX of hyperspace sequence<br>
+- Visual improvements and further balancing of all human weapon bullet impact decals<br>
+- Visual improvements and additional balancing of all ship weapon and skimmer weapon bullet impact decals<br>
+- Re-balancing of the Thargoid Portal VFX for the new lighting scheme<br>
+- Atmospheric VFX (steam) added back into hangars<br>
+- Updated lighting for Thargoid structures<br>
+- Weapons thumbnails updated to frame correctly in Outfitting view<br>
+- Canopies at Settlements now have working lights<br>
+- Dim light mode setup for use in the livery as the "Lights off" mode<br>
+- Reduce flashing on exterior of damaged stations<br>
+- Improvement to ship shield material and VFX when hit with a humanoid weapon<br>
+- Trails of DSS Probes have been re-balanced for new lighting and will now rescale to various lighting conditions, so they are always visible to the player when probing a planet<br>
+- Fires now cast more light in rooms<br>
+Localisation and text<br>
+- Fixed government type not being localised properly on the conflict zone vendor panel<br>
+- Updated localised string on the on-foot CZ death screen from "Killed by" to "Defeated by"<br>
+- Replace hard coded "RANK" with the correct rank string for ‘wingmates’ when on foot<br>
+Memory and optimisation<br>
+- Fix for memory stomp when generating planetary nebula information<br>
+- Fixes and stability improvements to the portalling system<br>
+- Correction of the video memory streaming budget to prevent Out of Memory crashes<br>
+- Multiple improvements and fixes to reduce memory spikes<br>
+- Replace excessively large and wide spotlights with something more visually fitting, and which is more performant<br>
+- Additions to the portalling system (Kinematics) that further increases performance<br>
+- Optimisation for shadows as directional shadows now included in the portalling system<br>
+Misc<br>
+- New Ident created<br>
+Menus<br>
+- Split up the control binding menu into 4 parts: general, ship, SRV and on-foot - each part can be set to its own preset.<br>
+Mining<br>
+- Fix for ice asteroids changing colouration when being detonated<br>
+Missions<br>
+- Fixed a softlock in the mission board<br>
+- Fixed the conversation camera snapping abruptly at the end of conversations<br>
+- Adjusted how modified micro-resources are added/removed to/from the locker or backpack by missions to prevent errors<br>
+- Updated mission-giver mission counts on the mission board, depending on the number of missions available, removed text that could become incorrect due to this value changing<br>
+- Made illegal missions display purple in mission-giver details panel (to match narrative panel)<br>
+- Disabled mission help button on mission board, except in specific panels (the mission details panels)<br>
+Odyssey<br>
+- Odyssey missions no longer always fail if the player is critically injured<br>
+- Missions that do not have specified locations no longer fail on critical injury<br>
+- If the player is at the location where the mission takes place then being critically injured will cause the mission to fail<br>
+- If the player is heading towards the mission location, or has successfully completed the objective and then left the mission location, a critical injury will not cause the mission to fail<br>
+Mission payout balance changes<br>
+- Missions will now correctly appear in the incident report when relevant<br>
+- Missions now apply fines if an item they entrusted to you for the purpose of that mission is not then used to complete the mission<br>
+- Harder missions have had their pay-outs increased - this mostly affects missions that require the player to perform illegal actions or adhere to a strict condition<br>
+- When a mission rewards an item, the value of the items or quantity offered should now more closely scale with the value of the mission's credit reward<br>
+Negotiation balance changes<br>
+- Mission negotiation is now slightly easier when requesting the smallest option<br>
+- Negotiating on a mission that rewards an item should now more consistently result in higher quantities of that item<br>
+- Very successful negotiations can now result in up to twice as many items being offered as a reward<br>
+- Resolved some networking issues that would cause a mission from one player to update or block progress on another player's mission when they were both performing similar missions in the same instance<br>
+- Poor negotiation attempts will now cause more of an impact on your reputation with that faction<br>
+Text changes and fixes<br>
+- Fixed various items of text failing to translate or translating incorrectly<br>
+- Improved some wording on HUD objectives<br>
+- Improved the feedback and clarity of several missions' transaction panels<br>
+Other fixes<br>
+- Fixed depot-related missions in Dromi, Matet, and Otegine not opening the depot immediately<br>
+- Fixed some instances where a mission could be abandoned to either dodge or increase influence unfairly<br>
+- Fixed some passenger missions at damaged starports being inaccessible<br>
+- Donation missions no longer display high threat levels<br>
+Multicrew<br>
+- Fixed physical multicrew role icons not displaying correctly for players not in instance<br>
+- Changed players in physical multicrew passenger roles (idle or gunner) to use the multicrew icons<br>
+- Restored behaviour where outfitting and livery are only disabled in ships when you have people aboard your ship: not the whole time you have a crew<br>
+Networking<br>
+- Fixed several instances where transferring cargo between your ship and your SRV could cause the client's inventory to become out of sync with the server<br>
+- Killing humanoids in multiplayer sessions should no longer leave apparently living humanoids in the ragdoll state for some clients<br>
+New player tutorial<br>
+- Fixed the "Disembark" button not working at planet port at the end of the on foot tutorial<br>
+- Fixed the starter package details location display to show the correct location instead of just Matet<br>
+- Change icons for tutorial start flow buttons<br>
+Organics / geologicals and scatter<br>
+- Fix for rocks snapping into position on terrain as the Player travels towards it<br>
+- Fix for bullet decals not displaying correctly on some organic types<br>
+- Fix for ‘Legacy Organics’ canning incorrectly<br>
+- Fix for mineable objects not appearing on some Organics<br>
+- Hitcheck fixes and improvements for all organics and geologicals<br>
+- Geologicals frequency of firing update to be able to change based on planetary conditions (e.g. volcanic conditions)<br>
+- Update and improvements to how organics and geological receive colouration, based on in-game planet and star parameters<br>
+- Multiple Visual improvements to the organics billboards seen at distance<br>
+- Large amount of improvements & additions to the organic and geological shaders for new assets<br>
+- Large amount of improvements & additions to the ‘Legacy Organics’ and Geological shaders, including Thargoid Barnacles<br>
+- Large amount of visual improvements to organics and geologicals - including texture changes, model tweaks, LOD improvements and colouration improvements<br>
+- Visual improvements to Thargoid Barnacles<br>
+- Improvement to the weapon decals able to spawn on scatter rocks<br>
+- Efficiency improvement to the organic billboards seen at distance<br>
+- Geologicals and organics all updated and balanced to respond to all wind strengths<br>
+- Organics no longer clip into scatter rocks<br>
+- Scaling changes for some organic types<br>
+- New Fumerolas updated to have spouting VFX<br>
+Outfitting<br>
+- Modules browser: Replaced Filter button with sort dropdown<br>
+Point of Interests<br>
+- Fixed some hitcheck issues on the Crashed Type 9 POI<br>
+- Wrecked Sidewinder model updated so the doors at the back are closed<br>
+- Wrecked SRV model updated so there is no longer a hole behind the large salvage panel<br>
+- Player collision fixed for the wrecked Federation Fighter POI, to prevent players getting stuck<br>
+Ranks<br>
+- Adjusted milestones for on-foot Mercenary and Exobiology ranks<br>
+- Added 5 new ranks (Elite Stars) for all ship and on-foot ranks<br>
+- Removed the zeroing out of Rank Progression points for Combat and Mercenary Rank when killing an enemy a given number of ranks below you<br>
+- Players will always contribute to their combat and mercenary ranks when killing enemies<br>
+Rendering<br>
+- Fixed the lighting when the turbolift finishes its journey<br>
+- Fixed an issue where the wrong grenade would render in the hand<br>
+- Fixed for the ‘cut’ section of the cutting panel appearing when the player first interacts with it using the cutting tool<br>
+- Fixed artefacts appearing in the visor when the player was in close proximity to an asset<br>
+- Fixed star lens flares occasionally changing shape and appearance<br>
+- Fixed artefacts that would appear onscreen when using Vive<br>
+- Fixed surfaces so that they can receive bullet impacts<br>
+- Fixed wind on atmospheric planets to sync with player movement; additional fixes and improvements for the wind<br>
+- Fixed compression artefacts occasionally seen with lens flares<br>
+- Fixes for multiple fog types displaying incorrectly, both exterior and interior<br>
+- Fixed weapon reticule rendering over the top of the player character<br>
+- Fixed cursors being cut off in the Galaxy and System Map at certain ultra-wide aspect ratios<br>
+- Fixed UI elements in the FSS Scanner becoming over-bright<br>
+- Fix for chairs being visible in VR and non-VR when in FSS Mode<br>
+- Fixed over-exposed humanoid thumbnail images in various UI locations<br>
+- Fixed bright light that would appear after exiting outfitting view<br>
+- Fixed visual artefacts that could appear in the glass shader<br>
+- Fixed VR changing resolution when disembarking or boarding a ship<br>
+- Fixed shoulder decals not applying correctly to player shoulders<br>
+- Fixed players and AI receiving decals<br>
+- Fixed Player/AI eyes appearing dark under spotlights<br>
+- Multiple fixes and visual improvements for the player visor, including fixes to the light calculation and condensation<br>
+- Multiple fixes for the scatter system<br>
+- Improvements to culling efficiency when looking between buildings<br>
+- Improved the logic that determines whether the player can see outside<br>
+- Removed old occlusion manager<br>
+- Humanoid weapons now scale when impacting with ship shields – for example, small bullets will not cause disproportionate VFX on the shields<br>
+- Emissive properties of multiple assets updated to work with new lighting<br>
+- Visual improvement to lighting and transition of hyperspace sequence<br>
+- Tweaks to shield effect during tutorial to optimize player flow<br>
+- Various fixes for card-specific NaN visual artefacts<br>
+- Various fixes and visual improvements for player and AI hair rendering<br>
+- Multiple changes to balance the cockpit UI and brightness levels to prevent over-exposure at different times of day, and in different levels of lighting<br>
+- Additional improvements to the calculated lighting values between day and night to reduce any over-blown lights or lens flares at different times of day<br>
+- Improvement to avatar skin rendering (and fix for them occasionally spawning in without normal maps applied)<br>
+- Players who stand in extremely close proximity to another will now "dither fade" - this will prevent players being able to see inside other players, and prevents players from griefing those trying to use a terminal in a social space<br>
+- Multiple improvements to the shadow priority system - this should improve stability and visual fidelity<br>
+- Inner dock lighting now generates correctly when the player is outside the station<br>
+- Modes added for different quality settings (low/medium/high) for optimal setup<br>
+- New material for use in Settlement windows that will now fade based on player distance<br>
+- Update for Thargoid and Guardian shaders to use the new PBR versions<br>
+Settlements (new for odyssey)<br>
+- Fixed Agricultural dome building occlusion<br>
+- Fixed the sort order of all the holograms used in Settlements<br>
+- Fixed misaligned floor and ceiling tiles for a small Agriculture themed room<br>
+- Fixed Reactor building/room floor panel occlusion<br>
+- Fixed missing polys on flood lights at large landing pads<br>
+- Fixed missing 'Hold Open Lobby Door' state<br>
+- Fixed one of the curved windows using the incorrect glass material, making it turn opaque at a distance<br>
+- Fixed an offset external window, and other window alignment and window shutter issues<br>
+- Fixed a missing material on a small part of a Lab cupboard prop<br>
+- Fixed modelling issue with the toilet<br>
+- Fixed instances where some settlement staff would go missing from the staff list if they were related to a mission<br>
+- Fixed issue where the inside of the reactor would be culled incorrectly<br>
+- Fixed an issue where in certain cases you could look through and out of a building into another building<br>
+- Fix for small lights attached to walls<br>
+- Various art tweaks to the 10 Alpha Settlements for the immediate surrounding terrain and better blending into the planet, avoiding rocks and plants appearing within the Settlements<br>
+- At the smaller Agricultural Settlement: floating box prop removed<br>
+- Displays on decorative screens updated. Improved screens on medical props and lab props with new animated ones, which also turn off when the power goes down<br>
+- Updated the trespass zone hologram<br>
+- Terminals updated to indicate to other players when a terminal is currently in use<br>
+- Occlusion improved, floor tiles and walls now render when they should<br>
+- New material added for Military and Research flooring<br>
+- Adjusted roughness maps to make floors shinier. Floors in environments should be more reflective<br>
+- Panel lining added to floorplates to split the metal and plastic areas<br>
+- Landing Pad markings material updated to make them look weathered<br>
+- Adjoining building to the Landing Pad made more interesting<br>
+- Updated the props to use a darker soil material and new condensation shader effect on the large vivarium pieces at Agriculture Settlements<br>
+- Windows should fade to an emissive opaque material at distance so that they don't appear dark. At night, the windows glow slightly<br>
+- Settlement windows (emissive at a distance) no longer glow when a settlement is powered down<br>
+- Tweaked position of the terminals attached to desks as they were slightly offset<br>
+- Material used for bedding improved with a more comfortable fabric<br>
+- Capture Point asset at Conflict Zone improved (emissive parts of the top of the pole)<br>
+- Hitcheck on small light props optimised<br>
+- Exterior walkways (duckboards) updated to make it easier to step on to them, even if they happen to be placed slightly offset<br>
+- Collision improved on exterior Settlement entrance archways<br>
+- Plastic coverings for poly-tunnels at Agriculture Settlements are now less saturated, and a little darker<br>
+- Dirt/edgewear added to remaining exterior wall décor pieces<br>
+- Stopped 2 trolley assets from spawning on top of each other in the same location<br>
+- Comms room updated to stop players from getting their head inside the ceiling<br>
+- Removed some exterior rooftop railings where the player could get stuck<br>
+- Stacked crates layout adjusted to help with issues where the player could get stuck between them<br>
+- LOD adjustments for stacked crates so they look better from a distance<br>
+- Various roof décor improvements for lower LOD models used at a distance<br>
+- Exterior turret base LOD improvement to lessen popping at a distance<br>
+- Standard interior door LODs improved to prevent disappearing and reappearing at a distance<br>
+- Stopped recharge ports from appearing to be offline when they were not<br>
+- Additional error checking around building geometry<br>
+- Buildings connected via other buildings are now classed as connected<br>
+- Visual and stability improvements to the mask around Settlement terrain stamps<br>
+- Setup mask so that small scatter rocks will now appear in Settlements<br>
+Settlements (horizons)<br>
+- Fix for Planet Port landing pad position - medium hangars no longer have a dark poly running through them<br>
+- Fixed floating black cube at Fortune's Loss<br>
+- Hitcheck updated at planetary port main building<br>
+- Updated an area with misaligned pipes at a Planet Port where players could get stuck<br>
+- Added player collision hitcheck to large heat vents at some Planet Ports, so players cannot walk through it<br>
+- Fixed the large hitbox issue at the main building at a legacy Extraction settlement<br>
+- Collision issues fixed at a legacy tiny abandoned Settlement<br>
+- Tyre track decals updated to use new shaders<br>
+- Additional error checking around building geometry<br>
+- Refining and ‘rebaking’ Legacy Settlements for new planetary tech<br>
+Ships<br>
+- Fixed retreat dropship bookings failing due to hostile environment checks<br>
+- Disable disembarking/deploying from a ship if silent running is active<br>
+- Blocked hyperspace travel to systems if another player is aboard the ship who does not have the right permits to enter the system<br>
+- After the conflict has ended, shuttles/ships can now be booked/recalled, but the shuttle/ship will land outside the zone instead of docking<br>
+- Correct player ship description in shipyard when players swap ships<br>
+- Ship disembarking/boarding reworked for multicrew ships<br>
+- All ships have had their landing gears and shipkits updated with hitcheck<br>
+- Viper, Cobra III and Cobra IV landing volume issues fixed improving ability to land on a planet surface<br>
+- Medium sized thrusters now mapped correctly and PBR valid<br>
+- Ambient AI ships can now dock at settlements<br>
+Adder<br>
+- Fixed floor in cockpit<br>
+- Heat sinks are now grey with emissive elements, not black<br>
+- Added hitcheck to landing gear doors<br>
+- Shipkit parts will now show scratches and wear<br>
+Anaconda<br>
+- Fixed mirrored 'KEEP CLEAR' decal<br>
+- Panel texture issues fixed<br>
+Asp Scout<br>
+- Hardpoint panel texture fix<br>
+Beluga<br>
+- Hitcheck fixes<br>
+Chieftain<br>
+- Fixed hitcheck for the nacelles - hitcheck will now rotate as the landing gear is raised and lowered<br>
+- Added hitcheck for landing gear doors<br>
+- Small sized thrusters are now mapped correctly and are PBR valid<br>
+Clipper<br>
+- Fixed z-fighting on tail decal<br>
+Cobra Mk III<br>
+- Hitcheck issues fixed<br>
+- Bumper now looks correct when it is worn and scratched<br>
+Cobra Mk IV<br>
+- Added Tutorial-specific Cobra Mk IV shuttle<br>
+Cutter<br>
+- Fixed hitcheck on steps<br>
+Eagle<br>
+- Fixed missing Nameplate<br>
+Federal Assault Ship<br>
+- Fixed a number of hitcheck issues<br>
+Federal Corvette<br>
+- Hitcheck issues fixed<br>
+- Federal Corvette texture fix<br>
+Federal Dropship<br>
+- Fixed a number of hitcheck issues<br>
+Federal Gunship<br>
+- Fixed hangar cameras<br>
+- Fixed Shipkits<br>
+- Fixed a number of hitcheck issues<br>
+Fer-de-Lance<br>
+- Fixed a number of hitcheck issues<br>
+- Improved connectivity with shipkit parts<br>
+Hauler<br>
+- Fixed a number of hitcheck issues<br>
+Keelback<br>
+- Fixed a number of hitcheck issues<br>
+Krait MKII<br>
+- Added extra hitcheck to cover the fighter bay hatch<br>
+Krait Phantom<br>
+- Hitcheck issues and landing gear volumes fixed<br>
+Mamba<br>
+- Fixed a number of hitcheck issues<br>
+Python<br>
+- Fixed paintjob issues observed at a distance<br>
+Sidewinder<br>
+- Hitcheck improvements, and landing gear leg re-centred<br>
+Type 6<br>
+- Fixed a number of hitcheck issues<br>
+Type 7 Transporter<br>
+- Fixed a number of hitcheck issues<br>
+Type 9 Heavy<br>
+- Fixed a number of hitcheck issues <br>
+- Wing hitchecks now animate<br>
+Type 10 Defender<br>
+- Improved landing position to help with deploying/recalling the SRV<br>
+Viper Mk IV<br>
+- Fixed the hitcheck groove so that the player does not get stuck<br>
+- Fixed some small holes in the hull geometry<br>
+Concourse spaces<br>
+- Fixed the vertical portrait style adverts in the hangars not sorting correctly<br>
+- Fixed issue with mannequin hand intersecting the hip bag at Pioneer shop<br>
+- Fixed LOD issue with sign in the Pioneer shop<br>
+- Fix to stop players getting stuck near some seating at Outposts<br>
+- Fixed LOD issue with clock on station sign<br>
+- Fixed a misaligned hangar ‘greeble’ intersecting through the wall of the lobby<br>
+- Fixed geometry that could appear clipping through the social space when you look at the bar area<br>
+- Fixed the triangular shaped emissive polys in the social area bar windows which were causing odd reflections.<br>
+- Fixed intersecting pipe bracket in hangar lobby<br>
+- Fixed Z-fighting issue outside of the Apex lifts in the social spaces<br>
+- Fixed some z-fighting between the floor and walls at the Planet Port Hub<br>
+- Fixed AI not spawning at planet ports<br>
+- Fixed AI sometimes not spawning in detention centers<br>
+- Stopped access to 'Under Repair' station Social Spaces<br>
+- Longer station names now fit on hanging signs in the social areas<br>
+- Minor hitcheck adjustment near the central stairs to ensure the player cannot fall through any gaps<br>
+- Improved textures for turbolifts<br>
+- PinkDrink/Suvo signs improved<br>
+- Added hitcheck to plants to help reduce the player from clipping through them<br>
+- Adjusted hitcheck along the Apex vendor counter to avoid climbing on the counter<br>
+- Added platforms under Pioneer Vendors so they don't float<br>
+- Social area LOD improvements<br>
+- Hitcheck improved to stop players getting stuck on furniture in Social Spaces<br>
+- Player names are now visible at all times in concourses<br>
+- Display different icon for mission givers in character info / character marker, if the player has missions in progress for them<br>
+- Players will now ‘teleport’ out of the turbolift if they re-enter as the doors close<br>
+- Enabled patrol movement for AI in social spaces<br>
+Space stations<br>
+- Fixed some missing back-faces on the Coriolis<br>
+- Fixed space station interior inner-dock textures when seen from a distance so that you can see inside of the station from a greater distance again<br>
+- Fixed the port not being visible when flying in from supercruise<br>
+- Asteroid Station improved - will no longer appear ‘overly glossy’<br>
+Stars<br>
+- Large changes and visual improvements to the starlight values. These changes also prevent the over-saturation of colour onto planet surfaces and has been calculated per star class<br>
+- Update to star tint to fix over-saturation of colour<br>
+- Fixes and visual improvements to star surfaces not appearing "hot"<br>
+Terrain (and planets)<br>
+- Fixed worlds receiving ice caps when they should not have<br>
+- Fix to ensure all atmosphere types are picked<br>
+- Fix for Settlement items that would form a visual ‘square’ when blending with terrain<br>
+- Fix for the aliasing effect seen on planets at a distance<br>
+- Fix for high metal content planets receiving ice planet effects<br>
+- Re-lodded some Horizons-era rocks to reduce a popping issue<br>
+- Visual improvements to planet terrain appearance from mid-far distance, reducing tiled appearance on some planets<br>
+- Visual improvements to planet UVs and terrain<br>
+- Visual improvements to planet surfaces & AO<br>
+- Visual improvements to planet surface at the mid-distance, and reduction of blocky artefacts<br>
+- Visual improvement to the ‘splat-like’ artefacts seen when travelling closer to the planet surface<br>
+- Visual improvements to planet ground materials<br>
+- Override Pomeche 2 C to have more canyons<br>
+- Changed how it is decided if a player is stood on flat ground, in order to prevent the player becoming trapped in a narrow crevice<br>
+- Large update to planetary tech, including reworked systems, terrain types, blending, craters and colouration - this also includes the reworking of some terrain materials to be flatter, for better SRV navigation<br>
+- Improve blending and improved appearance of planet ice caps<br>
+- New atmosphere colours added and balanced based on their composition<br>
+- Stability and visual improvements to planet colouration, both from a far distance and when close up<br>
+- Various fixes for tenuous atmospheres, including tint calculation, visual artefacts, to prevent them popping into view when loading into game<br>
+- Fixed differences in terrain height seen by AMD and Nvidia users<br>
+- New planet map for the ‘Europa’ class ice planet<br>
+- Full balance on scatter system placement and balance on planet surfaces<br>
+- Improvements to the positioning of Engineer Bases and how they embed with the new planet terrain<br>
+UI<br>
+Art<br>
+- Replaced the on-foot loading screen spinning logo with a new space-suited model<br>
+- Character customisation background updated for HoloMe, Suit loadout, Suit purchasing, Shipyard etc.<br>
+Apex<br>
+- Fixed Russian font corruption<br>
+- Opening the powerplay screens from the Shuttle Booking maps then backing out will now put the player back into the Shuttle Booking maps on exit<br>
+- Opening the powerplay screens from the Shuttle Booking maps while talking to a Shuttle Vendor will now not cancel the conversation<br>
+- Opening the system map or galaxy map while in a taxi will now not open the map into Shuttle Booking mode<br>
+Bartender<br>
+- Added empty states for when the player has nothing to offer<br>
+Bindings Menu<br>
+- Split up the control binding menu into 4 parts: General, Ship, SRV and On-Foot, supporting different types of input and presets individually, setting up controls should still work the same however.<br>
+- Added the new controls icons to the separate controls menu<br>
+CMDR Panel<br>
+- Fixed the layout so it no longer has the tools cut off<br>
+CMDR Creation Flow<br>
+- Fix to allow you to exit when in the commander creation screen.<br>
+Codex<br>
+- Pilot's Handbook: Added 4 new categories (Settlements, Engineers, The Concourse, Suits and Equipment) with associated icons<br>
+Comms Panel<br>
+- Improved on-foot social tab layout<br>
+- Disabled mouse input on background tabs and prevented tabbing left and right while sidepanel is open<br>
+- Fixed inbox filtering<br>
+Conflict Zones<br>
+- Added a new string to display the conflict zones rationale in CZ Respawn UI<br>
+Contacts Panel<br>
+- Modified the contacts panel so that the scroll bar does not overlap the actual contacts list<br>
+- Fixed scope radius value (no longer displays "0mt")<br>
+- Removing line of sight requirement for humanoids in the contacts panel<br>
+Conversation<br>
+- Fixed conversations ending prematurely when closing certain UI menus<br>
+Embarking Panel<br>
+- If managing inventory is not available (i.e. hangars), we will no longer show the button or the storage information<br>
+- Fixed truncation in the header<br>
+Fleet Carriers<br>
+- Fixed an issue where carrier vanity names would be displaced with extra characters in some places<br>
+GalNet<br>
+- Added a new icon for generic news<br>
+Holo-me<br>
+- Fixed a bug where panels would retain their state when changing tab<br>
+HUD<br>
+- Weapon AR: Grenade icon now has a colour accent for the grenade type<br>
+- Replaced AR marker to be a pin instead of a target, to match the compass marker<br>
+- UI marker to humanoid NPCs that are radioing for reinforcements<br>
+- InSight HUB Wheel: Several localisation issues fixed<br>
+- Compass: Allow compass to represent targets that are off screen and behind the player<br>
+- Compass: There's a regulator icon next to the cold or hot icons to indicate power drain<br>
+- Item Wheel: Added a functionality to clear user's stolen authority profile in the item wheel<br>
+- Item Wheel: Fixed localisation issues<br>
+- Radar: Warning indicators tweaks for better dark and light backgrounds contrast<br>
+- Current clearance level is now always visible, even at level 0<br>
+- Hide quick comms messages while item wheel is open<br>
+- Made the footfall info display the planet/moon name on two lines when needed<br>
+- SRV Turret: Fixed an issue where some weapon states would display 'Bugged'<br>
+HUD Notifications<br>
+- Scenario objectives should appear as expected on the top right of the HUD<br>
+- Visual improvements and indentation for secondary objectives for better readability<br>
+- Clearance level icon and number are now the "illegal" purple<br>
+- Added wing member icon for more precise feedback<br>
+- Added log notifications when other players board or disembark the vessel you're in.<br>
+- Add title to low oxygen warning notification. Also fixed the missing icon for out of oxygen alert<br>
+- Cockpit: Clarified the message when trying to engage the FSD with either hardpoints, landing gear or cargo scoop deployed. Previously this was a generic message.<br>
+Loadout Browser<br>
+- There is now a Customise option for suits and weapons, to browse and apply cosmetic items<br>
+- Loadout browser and Edit Loadout screen titles can now be longer, to accommodate long loadout names and localised strings<br>
+- Warning that backpack contents will be cleared if different loadout is equipped is now displayed<br>
+- Weapon slots are now disabled if the player doesn't own any of that type of weapon<br>
+- Minor layout changes to accommodate flight suit not showing any mod slots (due to not being upgradable)<br>
+Maps<br>
+- Improved feedback for locations interaction states (focused, selected, current location)<br>
+- Improved feedback for permit locked locations<br>
+- Added wing mission icons to the galaxy map and system map mission list<br>
+- Added a new plot route button to the bookmark management panel<br>
+- Added the owning faction to the system info panel<br>
+- Opening the galaxy map from the commodities market will now bring up the relevant commodity data<br>
+Mission Board<br>
+- Expanded the quote area for the mission faction information<br>
+- Fixed localisation issues in the mission giver UI<br>
+- When using the mouse in the mission board, pressing back will now correctly take you back to the last focused mission<br>
+Focus / Navigation fixes<br>
+- Added a wing mission marker to the mission board listing<br>
+- Updated passenger trait icons<br>
+- Showing on foot resource rewards<br>
+- Fixed a bug where the influence/reputation were not correctly set<br>
+- Added button artwork to board selection screen<br>
+- Mission Board UI can no longer be controlled after using the headlook<br>
+Mission Provider<br>
+- Fixed Russian formatting in the aftermath panel<br>
+- Long mission titles will now get ellipses<br>
+- Fixed cut off text in help screen and general structure polish<br>
+- Negotiation screen updates including clearer icon for failed negotiations<br>
+- Fixed mission details card truncation (especially on Russian language)<br>
+Navigation Panel<br>
+- Implement buttons for location popup in on foot navigation panel<br>
+Outfitting<br>
+- Modules browser: Replaced Filter button with Sort dropdown<br>
+- Changes to reduce the amount of flickering elements when navigating<br>
+- Updated home button art style<br>
+- Fixed focus and navigation issues<br>
+Pioneer Supplies<br>
+- Updated stats layout to make room for additional stats<br>
+- Suit damage resistance is now displayed individually per damage type<br>
+- Suit backpack capacities are now displayed visually<br>
+- Replaced micro-resource grade in upgrade material list with the resource category icon<br>
+- Fixed issue for Russian font getting cut off in the header<br>
+- Only allow purchase of consumables that the player can afford<br>
+- Fixed incorrect grade for weapon being displayed when weapon slot is focused<br>
+- Allowed more space for manufacturer description when using filter menus<br>
+- Fixed mod slots being focusable when suit or weapon options are displayed<br>
+- Fixed an issue where the players balance was not being updated when the player purchases a consumable<br>
+- Improved unmanned ships marker visuals<br>
+- Made the filters/grades buttons show their details when hovered<br>
+- Rebuy/Redeploy UI<br>
+- Fixed an issue with cut off text<br>
+- Improved UI focus visual states<br>
+- Default focus is now on the continue button instead of the back button<br>
+- Added better tracking of the cause of death and hostility reasons across the whole game, but specifically for on foot deaths, in order to display better info on the death report screen<br>
+Shipyard<br>
+- Added the selected ship indicator to disabled ships<br>
+- Fixed ship information now to update to the correct data when a filter is selected<br>
+- Starport Services<br>
+- Fixed Avatar image profiles<br>
+- Search & Rescue Contact: Fixed icons and visual states<br>
+- Added a fines panel to Interstellar factors<br>
+Store<br>
+- The menu for buying cosmetic items from the Frontier Store is now split in two: Vehicle Extras and Suit Extras<br>
+- Hooked up new icons for vessel and humanoid store on the main menu.<br>
+- Fixed the pack contents not appearing in the purchase pop up of suit items<br>
+Terminals<br>
+- Fixed focus issue when closing popups<br>
+- Rounded off the influence values<br>
+Transaction Panels<br>
+- Added support for Community Goals<br>
+- Added passenger profile pop-up<br>
+Transfer panel<br>
+- Visual changes to improve the feedback for the player (on-foot & cockpit)<br>
+- Fixed wrong markers in tabs, now only tabs with items set for transfer will display the marker<br>
+Tutorial<br>
+- There is now a Suit Operative Tutorial option in the Training menu to let the player learn the new suit mechanics<br>
+Vista Genomics<br>
+- Fixed Russian localisation issues<br>
+Wing Panel<br>
+- Added vessel icon for each wing member<br>
 </p>
 
 <h2>20??, Season 5 - ?</h2>
