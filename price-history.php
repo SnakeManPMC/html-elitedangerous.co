@@ -84,6 +84,14 @@ CMDR Deluxe Edition (Elite + Horizons Season Pass + 8820 x Arx) 49,99
 Horizons Season Pass 24,99 (note: horizons becomes free 2020-10-27)<br>
 CMDR Deluxe Edition (Elite + Horizons Season pass) 49,99
 </p>
+
+<h2>May 2021, v4.0</h2>
+<p>Elite Dangerous 24,99<br>
+Horizons Season Pass discontinued, horizons became free 2020-10-27.<br>
+Odyssey 34,99<br>
+Odyssey Deluxe Edition (includes official soundtrack) 39,99<br>
+Elite Dangerous: Commander Premium Edition (elite + odyssey + soundtrack) 54,99
+</p>
 </section>
 
 <footer>
