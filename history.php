@@ -263,7 +263,8 @@ Tuesday. Apr 20th, 2021. Odyssey (version number / title missing)<br>
 Wednesday. Apr 28th, 2021. Odyssey v4.0.0.30 (Alpha Phase 4)<br>
 Thursday. Apr 29th, 2021. Odyssey v4.0.0.31 (Alpha Phase 4 Hotfix 8)<br>
 Friday. Apr 30th, 2021. Odyssey v4.0.0.32 (Alpha Phase 4 Hotfix 9)<br>
-<b>Wednesday. May 19th, 2021. Odyssey v4.0.0.100 Official Release!</b>
+<b>Wednesday. May 19th, 2021. Odyssey v4.0.0.100 Official Release!</b><br>
+Thursday. May 20th, 2021. Odyssey v4.0.0.101 (Hotfix 1)
 </p>
 
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
@@ -945,6 +946,10 @@ Odyssey v4.0.0.32 (Alpha Phase 4 Hotfix 9)<br>
 Odyssey v4.0.0.100 Official Release!<br>
 1749hrs patch available<br>
 1752hrs patch notes
+<br><br>
+Odyssey v4.0.0.101 (Hotfix 1)<br>
+2030hrs servers down for upgrade<br>
+2111 patch notes
 </p>
 </section>
 
