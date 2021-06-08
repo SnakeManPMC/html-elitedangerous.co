@@ -269,7 +269,8 @@ Friday. May 21st, 2021. Odyssey v4.0.0.102 (Hotfix 2)<br>
 Tuesday. May 25th, 2021. Odyssey v4.0.0.103 (Hotfix 3)<br>
 Thursday. May 27th, 2021. Odyssey v4.0.0.?<br>
 Thursday. May 27th, 2021. Odyssey v4.0.0.200 (Update 1)<br>
-Thursday. Jun 3rd, 2021. Odyssey v4.0.0.300 (Update 2)
+Thursday. Jun 3rd, 2021. Odyssey v4.0.0.300 (Update 2)<br>
+Thursday. Jun 3rd, 2021. Odyssey v4.0.0.301 (?)<br>
 </p>
 
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
@@ -975,6 +976,9 @@ Odyssey v4.0.0.200 (Update 1)<br>
 Odyssey v4.0.0.300 (Update 2)<br>
 0800 upgrade available<br>
 0825 patch notes
+<br><br>
+Odyssey v4.0.0.301 (?)<br>
+? upgrade available<br>
 </p>
 </section>
 
