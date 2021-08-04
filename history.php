@@ -276,7 +276,8 @@ Friday. Jun 11th, 2021. Odyssey v4.0.0.401 (Update "3.01")<br>
 Thursday. June 17th, 2021. Odyssey v4.0.0.500 (Update 4)<br>
 Thursday. July 1st, 2021. Odyssey v4.0.0.600 (Update 5)<br>
 Tuesday. July 6th, 2021. Odyssey v4.0.0.600 (Update 5) Server side update<br>
-Thursday. July 29th, 2021. Odyssey v4.0.0.700 (Update 6)
+Thursday. July 29th, 2021. Odyssey v4.0.0.700 (Update 6)<br>
+Tuesday. August 4th, 2021. Odyssey v4.0.0.? (Update 6.01?)
 </p>
 
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
@@ -1007,6 +1008,10 @@ Odyssey v4.0.0.600 (Update 5) Server side update<br>
 <br><br>
 Odyssey v4.0.0.700 (Update 6)<br>
 1320hrs patch notes
+<br><br>
+Odyssey v4.0.0.? (Update 6.01?)<br>
+1430hrs upgrade available<br>
+1443hrs patch notes
 </p>
 </section>
 
