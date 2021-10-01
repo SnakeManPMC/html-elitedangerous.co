@@ -92,6 +92,13 @@ Odyssey 34,99<br>
 Odyssey Deluxe Edition (includes official soundtrack) 39,99<br>
 Elite Dangerous: Commander Premium Edition (elite + odyssey + soundtrack) 54,99
 </p>
+
+<h2>October 2021, v4.0</h2>
+<p>Elite Dangerous 24,99<br>
+Odyssey 34,99<br>
+Odyssey Deluxe Edition (includes official soundtrack) 39,99<br>
+Elite Dangerous: Commander Premium Edition (elite + odyssey + soundtrack) 54,99
+</p>
 </section>
 
 <footer>
