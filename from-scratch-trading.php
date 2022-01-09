@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>PMC Elite Dangerous - From Scratch Trading (in open play)</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
@@ -37,11 +37,11 @@ This was made with my second CMDR account "Snake Man PMC", this is just for fun,
 	<h2>CMDR's Log</h2>
 
 <p>
-<b>2018-11-13T14:34:57Z</b> cleared save for CMDR "Snake Man PMC" account ;)
+<b>2018-11-13T14:34:57Z</b> cleared save for CMDR "Snake Man PMC" account <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-2018-11-13T16:17:02Z realized I can sell pulse lasers and equip more cargo racks heh, took a few trade runs to remember that as havent played since march heh :)
+2018-11-13T16:17:02Z realized I can sell pulse lasers and equip more cargo racks heh, took a few trade runs to remember that as havent played since march heh <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -49,11 +49,11 @@ This was made with my second CMDR account "Snake Man PMC", this is just for fun,
 </p>
 
 <p>
-2018-11-13T18:54:37Z traded several runs using eddb but as I have know all along it is not a real trading tool. Then I installed tradedangerous this new version by the new guys and WHOAH! my first run got me like 32,000cr in profit, oh my I am back in business! :-)
+2018-11-13T18:54:37Z traded several runs using eddb but as I have know all along it is not a real trading tool. Then I installed tradedangerous this new version by the new guys and WHOAH! my first run got me like 32,000cr in profit, oh my I am back in business! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
-Man do I love TradeDangerous! :)
+Man do I love TradeDangerous! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -105,11 +105,11 @@ On my first trade run with cobra mk3 I made 212,784cr profit on the first hop, p
 </p>
 
 <p>
-2018-11-14T11:01:04Z broke 1 million in my budget, its now 1.193m cr :)
+2018-11-14T11:01:04Z broke 1 million in my budget, its now 1.193m cr <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-2018-11-14T11:52:25Z budget now 1.771m cr. time to go buy a new trading ship, even though I hate to let cobra mk3 go :)
+2018-11-14T11:52:25Z budget now 1.771m cr. time to go buy a new trading ship, even though I hate to let cobra mk3 go <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -213,7 +213,7 @@ I don't know why but I feel like my progress been slow today, like I have spent 
 </p>
 
 <p>
-2018-11-15T01:39:55Z arrived at Barnard's Star system and was super tired so had to call it a night. Not a bad day about 15hrs of trading :)
+2018-11-15T01:39:55Z arrived at Barnard's Star system and was super tired so had to call it a night. Not a bad day about 15hrs of trading <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -229,7 +229,7 @@ Took me a while to get started (actually two damn hours by looking at it) as I w
 </p>
 
 <p>
-2018-11-15T13:23:33Z arrived at CD-65 76 system in Alex's Rest station, completed trade route and broke 10 million credit barrier! Whohoo ;)
+2018-11-15T13:23:33Z arrived at CD-65 76 system in Alex's Rest station, completed trade route and broke 10 million credit barrier! Whohoo <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -273,7 +273,7 @@ This got me thinking that... I want to test this out and bring my real CMDR acco
 </p>
 
 <p>
-I took a mission to bring basic medicines to marshburn dock station where I was going anyways and to bring basic medicines. Now this is a little bit fishy thing as whole purpose of this CMDR save clear is to trade traditionally, not do bounty hunting, not accept the 10k cr charity etc, so by doing missions... I'm not... well exactly trading. I mean mission to buy and bring goods into another station... that is trading, heh, cooky? :)
+I took a mission to bring basic medicines to marshburn dock station where I was going anyways and to bring basic medicines. Now this is a little bit fishy thing as whole purpose of this CMDR save clear is to trade traditionally, not do bounty hunting, not accept the 10k cr charity etc, so by doing missions... I'm not... well exactly trading. I mean mission to buy and bring goods into another station... that is trading, heh, cooky? <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -289,7 +289,7 @@ I took a mission to bring basic medicines to marshburn dock station where I was 
 </p>
 
 <p>
-2018-11-15T18:50:38Z was on mission to bring some basic medicines, got interdicted and cops showed up and helped. I was just charging my FSD on high wake jump out when the cops showed so I stayed and enjoyed them killing that bastard pirate :)
+2018-11-15T18:50:38Z was on mission to bring some basic medicines, got interdicted and cops showed up and helped. I was just charging my FSD on high wake jump out when the cops showed so I stayed and enjoyed them killing that bastard pirate <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -317,7 +317,7 @@ And I think the outbreak or something finished because suddenly the basic medici
 </p>
 
 <p>
-2018-11-15T20:35:53Z alright I have enough credits and because I'd also have to move to better market areas, I'm off to upgrade the ship now :)
+2018-11-15T20:35:53Z alright I have enough credits and because I'd also have to move to better market areas, I'm off to upgrade the ship now <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -333,7 +333,7 @@ And I think the outbreak or something finished because suddenly the basic medici
 </p>
 
 <p>
-The goal was to start from scratch and trade only until I get to lakon type-9, well this type-7 was much more short term goal for a while and I started to think about what I said earlier to try out trading with my real account. So that is what I'm going to do now, switch elite to my real account, fly PMC Explorer back to populated space and break out PMC Trader, the good old lakon type-9 workhorse ;)
+The goal was to start from scratch and trade only until I get to lakon type-9, well this type-7 was much more short term goal for a while and I started to think about what I said earlier to try out trading with my real account. So that is what I'm going to do now, switch elite to my real account, fly PMC Explorer back to populated space and break out PMC Trader, the good old lakon type-9 workhorse <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 	<h2>Summary</h2>
@@ -373,7 +373,7 @@ Bought 2 x Chemicals/Water, plotted route to Eranin/Bordage Works which is one j
 </p>
 
 <p>
-2019-09-14T22:09:36Z docked at Eranin/Bordage Works and sold cargo for 1220cr profit, my first profit whee! ;)
+2019-09-14T22:09:36Z docked at Eranin/Bordage Works and sold cargo for 1220cr profit, my first profit whee! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -381,7 +381,7 @@ On landing here I got some damage, I landed nicely but guess the front left corn
 </p>
 
 <p>
-2019-09-14T22:19:14Z docked at Dahan/Nelson Works and sold cargo for 10,006cr and recived trading Mostly Penniless rank :)
+2019-09-14T22:19:14Z docked at Dahan/Nelson Works and sold cargo for 10,006cr and recived trading Mostly Penniless rank <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -405,7 +405,7 @@ Refueled 14cr gotta always top off without fuel scoop. Balance 12,191cr. Bought 
 </p>
 
 <p>
-But now have to take a food cooking & eating break :)
+But now have to take a food cooking & eating break <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -421,7 +421,7 @@ Bought 16 x Machinery/Mineral Extractors and plotted route to LHS 3006/Leonard N
 </p>
 
 <p>
-2019-09-15T00:55:24Z docked at Aulin/Kuo City, sold cargo for 67.3k profit, refueled 33cr. Upon sale got trade rank promotion to Peddler ;)
+2019-09-15T00:55:24Z docked at Aulin/Kuo City, sold cargo for 67.3k profit, refueled 33cr. Upon sale got trade rank promotion to Peddler <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -481,7 +481,7 @@ On destination got pirate threats on the radio comms, or at least I think they w
 </p>
 
 <p>
-2019-09-15T16:16:19Z docked at Dahan/Nelson Works, sold cargo for 79.9k profit, refueled 53cr. This concludes the current tradedangerous route I plotted, balance 553.4k wow pretty nice with only a pesky sidewinder :)
+2019-09-15T16:16:19Z docked at Dahan/Nelson Works, sold cargo for 79.9k profit, refueled 53cr. This concludes the current tradedangerous route I plotted, balance 553.4k wow pretty nice with only a pesky sidewinder <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -501,7 +501,7 @@ Bought 16 x Consumer Items/Survival Equipment, plotted route to Eranin/Bordage W
 </p>
 
 <p>
-2019-09-15T17:00:27Z docked at Dahan Gateway, sold all modules from sidewinder, then bought my first new ship, Adder :)
+2019-09-15T17:00:27Z docked at Dahan Gateway, sold all modules from sidewinder, then bought my first new ship, Adder <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -521,7 +521,7 @@ Bought 30 x Machinery/Microbial Furnaces, plotted route to Dahan/Dahan Gateway, 
 </p>
 
 <p>
-Got trade rank promotion to Dealer, balance 343.7k :)
+Got trade rank promotion to Dealer, balance 343.7k <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -593,7 +593,7 @@ Bought 30 x Textiles/Military Grade Fabrics, plotted route to Ross 41/Ham Dock, 
 </p>
 
 <p>
-2019-09-15T20:57:57Z docked at Rasmussen/Fort Forgie Starport, sold cargo for 218.7k profit, refueled 36cr. Balance 2.064 million, enough to buy cobra mk3 :)
+2019-09-15T20:57:57Z docked at Rasmussen/Fort Forgie Starport, sold cargo for 218.7k profit, refueled 36cr. Balance 2.064 million, enough to buy cobra mk3 <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -617,7 +617,7 @@ Bought 64 x Textiles/Military Grade Fabrics, plotted route to Zhi/Metcalf Hub, w
 </p>
 
 <p>
-Time to update tradedangerous, calculate new 10 hop route and have a lunch break :)
+Time to update tradedangerous, calculate new 10 hop route and have a lunch break <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -645,7 +645,7 @@ Bought 64 x Textiles/Military Grade Fabrics, plotted route to Armo/Stromgren Sur
 </p>
 
 <p>
-Got trade rank promotion to Merchant! :)
+Got trade rank promotion to Merchant! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -737,7 +737,7 @@ Also going to take another short break, kind of difficult to concentrate playing
 </p>
 
 <p>
-2019-09-16T03:51:00Z after several more trade runs balance 13.931 million credits. Still more than 10 million to go for next ship upgrade heh. Trading is hard work ;)
+2019-09-16T03:51:00Z after several more trade runs balance 13.931 million credits. Still more than 10 million to go for next ship upgrade heh. Trading is hard work <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -749,7 +749,7 @@ Decided to call it a night here, basically take yet another break but when that 
 </p>
 
 <p>
-2019-09-16T17:32:05Z new elite day has started, back in Lakon Type-6 cockpit ready to continue trading :)
+2019-09-16T17:32:05Z new elite day has started, back in Lakon Type-6 cockpit ready to continue trading <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -789,7 +789,7 @@ Balance 766.8k credits.
 </p>
 
 <p>
-"python3 trade.py run +../pmc-type7.txt --cr 766k" says "trade.py: ERROR: Insurance leaves no margin for trade", oops ;)
+"python3 trade.py run +../pmc-type7.txt --cr 766k" says "trade.py: ERROR: Insurance leaves no margin for trade", oops <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -797,7 +797,7 @@ It was fairly interesting that I didn't even think of insurance, hmm. Oh well no
 </p>
 
 <p>
-New trade route calculated because now we need large pad only, new era of trading has begin! :)
+New trade route calculated because now we need large pad only, new era of trading has begin! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -809,7 +809,7 @@ We are going to Limapa/Kovalyonok Port which is 3 jumps away.
 </p>
 
 <p>
-So took my first load of cargo 310 x Textiles/Military Grade Fabrics which got me 2.5 million credit profit, wow nice, welcome to large scale trading indeed :)
+So took my first load of cargo 310 x Textiles/Military Grade Fabrics which got me 2.5 million credit profit, wow nice, welcome to large scale trading indeed <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -821,7 +821,7 @@ This feels like a bug or some mission related "griefer" AI scripted fake interdi
 </p>
 
 <p>
-After couple of trade runs with 310t cargo capacity, balance 5.973m :)
+After couple of trade runs with 310t cargo capacity, balance 5.973m <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -841,7 +841,7 @@ Got 3.5k worth of repairs.
 </p>
 
 <p>
-2019-09-16T22:18:10Z sold the cargo, balance 11.284m and received trade rank promotion to Broker :)
+2019-09-16T22:18:10Z sold the cargo, balance 11.284m and received trade rank promotion to Broker <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -857,7 +857,7 @@ Hopefully now I don't need to make another start from scratch in elite for years
 </p>
 
 <p>
-With that CMDR "Snake Man PMC" signs off and continues his real elite life hehe :-)
+With that CMDR "Snake Man PMC" signs off and continues his real elite life hehe <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 </section>
