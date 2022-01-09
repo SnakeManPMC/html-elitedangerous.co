@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>PMC Elite Dangerous, PMC Galaxy Loop</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
@@ -32,7 +32,7 @@
 <p>My path to triple elite showed in exploration part how easy it is to burn out by playing too much. Don't play every day unless huge enthusiasm strikes. It is very important not to burn out playing too much, trying to jump too many systems at one session / day etc. Try to relax, enjoy the galaxy, if you don't feel like playing then <b>don't</b>. Simple.
 </p>
 
-<p>In-game chat Athanasius said that its roughly 2 * 25500 * 3.14 == 160,140Ly journey ;)
+<p>In-game chat Athanasius said that its roughly 2 * 25500 * 3.14 == 160,140Ly journey <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>If we calculate some useless statistics: 160,140Ly / 2000 (60min of jumping is two thousand Ly) == 80.07 hours. 80.07 / 24 == 3.33 days.
@@ -67,7 +67,7 @@ When detailed surface scanner start to scan, cut throttle and wait. When its don
 
 <p><b>The 65k Ly from Sol Club</b>
 <br><br>
-Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, this is also my goal to get into 65k Ly Club :)
+Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, this is also my goal to get into 65k Ly Club <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>Waypoints in my route:
@@ -109,7 +109,7 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>I was using keyboard + mouse because earlier this year sold both my HOTAS systems (X55 and Warthog), keyboard + mouse was quite pain but I got used to it (it will take me few months before I can purchase HOTAS again).
 </p>
 
-<p>Then... I saw that Elite runs nice and I want to play some more but populated space don't appeal to me so why not start PMC Galaxy Loop right now. The decision was made :)
+<p>Then... I saw that Elite runs nice and I want to play some more but populated space don't appeal to me so why not start PMC Galaxy Loop right now. The decision was made <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>2016-08-06T07:41:22Z departed towards "west" about 1000Ly. Idea was to just take it easy, pure enjoyable exploration mode without any rush. If I want to stop into interesting systems and do some SRV driving or if I get a rush and want to jump 5000Ly in one session, that's fine too. I really try to take relaxed attitude with PMC Galaxy Loop, its all about enjoying Elite and not trying to rush it.
@@ -136,10 +136,10 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>2016-08-15T15:45:52Z had to skip above the T tauri and L/Y dwarf star layer. I already encountered this earlier but managed to avoid it, now had to quickly jump above it so I can continue using economical route plotting towards my next goal star system.
 </p>
 
-<p>2016-08-16T13:51:47Z I landed on large icy body planet on Pru Eurk LX-L d7-54 system, it was 13k kilometers radius, quite large. Took an SRV out and... got pretty much stuck in edge on one massive crater. I started to run low on fuel and hull integrity so I recalled my ship fully aware that AI might damage it by its brainless landing methods... and it did, my ASP on 100% hull was banged down to 85% ! :(
+<p>2016-08-16T13:51:47Z I landed on large icy body planet on Pru Eurk LX-L d7-54 system, it was 13k kilometers radius, quite large. Took an SRV out and... got pretty much stuck in edge on one massive crater. I started to run low on fuel and hull integrity so I recalled my ship fully aware that AI might damage it by its brainless landing methods... and it did, my ASP on 100% hull was banged down to 85% ! <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
-<p>I was 3541Ly from Sol and as I'm a man of princible... I plotted course back to closest space station for repairs. I will not explore, fly a ship that is below 100% hull integrity like some fucking newbie :(
+<p>I was 3541Ly from Sol and as I'm a man of princible... I plotted course back to closest space station for repairs. I will not explore, fly a ship that is below 100% hull integrity like some fucking newbie <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>Yes it was 7000Ly round trip just to fix minor hull damage, but hey what can you do.
@@ -148,7 +148,7 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>Lesson learned, I will never ever play around in SRV on such large planet or at least not recall ship if there is no flat surfaces to land on.
 </p>
 
-<p>Fuck this sucks :(
+<p>Fuck this sucks <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>New Yembo system was 3198Ly away, so I plotted course there.
@@ -163,10 +163,10 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>2016-08-16T20:52:58Z arrived back to Pru Eurk LX-L d7-54 where the damage was done. Damn what a detour.
 </p>
 
-<p>The next day I jumped few new systems towards "west" as before the damage, then I decided to land on nice high metal content world. Well it was 1.3G world and this time it was totally my newbie mistake... I slammed into the surface causing 62% hull integrity damages. I did the good old clishe rage quit :)
+<p>The next day I jumped few new systems towards "west" as before the damage, then I decided to land on nice high metal content world. Well it was 1.3G world and this time it was totally my newbie mistake... I slammed into the surface causing 62% hull integrity damages. I did the good old clishe rage quit <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
-<p>Well not really rage quit but I just watched the monitor with blank look in my face, then just ESC and exit to desktop... I was done. Even though I just started to play elite... heh I need a few days break as the above happening isn't very nice gameplay experience ;)
+<p>Well not really rage quit but I just watched the monitor with blank look in my face, then just ESC and exit to desktop... I was done. Even though I just started to play elite... heh I need a few days break as the above happening isn't very nice gameplay experience <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>2016-08-18T16:44:49Z at Pru Eurk LX-L d7-105 back in the cockpit and departing towards New Yembo, AGAIN. Hehe crazy shit man, crazy ass shit.
@@ -184,10 +184,10 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>Last discovered by CMDR name I saw was in: Pru Eurk YU-X c14-18 (3501Ly from Sol). Roughly (very roughly) after that point the CMDR discovered names were rare. So a good tip at August 2016 galaxy exploration state is to move 3500Ly away from the bubble before starting to explore, to avoid running into discovered by CMDR names all the time.
 </p>
 
-<p>2016-08-22T19:53:23Z Been keeping casual relaxed pace when exploring, usually do only small like 20 or so systems per day. Like said, very relaxed enjoyable exploring. This is also because I have other things to do daily at the moment, I'm sure once I get more time and v2.2 comes out... we do 200 systems per day! :)
+<p>2016-08-22T19:53:23Z Been keeping casual relaxed pace when exploring, usually do only small like 20 or so systems per day. Like said, very relaxed enjoyable exploring. This is also because I have other things to do daily at the moment, I'm sure once I get more time and v2.2 comes out... we do 200 systems per day! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
-<p>2016-08-23T17:07:58Z decided to flip flop completely :)
+<p>2016-08-23T17:07:58Z decided to flip flop completely <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>Okay so the Horizons v2.1 The Engineers came out which included possibility to increase FSD jump range, well I watched few youtube videos and talked with other CMDR's on IRC and decided to give it a try, I want to increase my explorer ASP's jump range so navigating near Beagle Point and "outer rim" is easier.
@@ -199,7 +199,7 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>2016-08-23T20:31:26Z arrived to Deciat system, player killer CMDR RedLineUK destroyed my ship. I lost exploration data from 1148 systems since 2016-08-06. BRITISH BLOODY BLIMEY CUNT.
 </p>
 
-<p>After this I took a day or so break, then started to work on the engineers FSD upgrade. I wont bore you with the details in this exploration page, but when I was finished my ASP had 51.66Ly jump range, whoah pretty nice huh! :)
+<p>After this I took a day or so break, then started to work on the engineers FSD upgrade. I wont bore you with the details in this exploration page, but when I was finished my ASP had 51.66Ly jump range, whoah pretty nice huh! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>2016-08-27T21:11:12Z started PMC Galaxy Loop all over again. Did preliminary route to EDSM but without coordinates so it is pretty empty shell.
@@ -208,13 +208,13 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>2016-08-27T21:27:33Z departed from Jameson Memorial.
 </p>
 
-<p>At this time in my EliteLog tool I had hyper jumped 15,088 times. It will be really interesting to see how many jumps I'm going to do in this journey before I return to Jameson Memorial again :)
+<p>At this time in my EliteLog tool I had hyper jumped 15,088 times. It will be really interesting to see how many jumps I'm going to do in this journey before I return to Jameson Memorial again <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
-<p>2016-08-27T21:31:25Z plotted course and jumped to Ipmil system, PMC Galaxy Loop has BEGUN! :-)
+<p>2016-08-27T21:31:25Z plotted course and jumped to Ipmil system, PMC Galaxy Loop has BEGUN! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
-<p>Plan was now to jump using 51.66Ly range to reach the 4000Ly mark where I turned around the... third? time haha, and then continue using economical route from there. Only 21 jumps for 1000Ly hop, gotta love the new jump range ;)
+<p>Plan was now to jump using 51.66Ly range to reach the 4000Ly mark where I turned around the... third? time haha, and then continue using economical route from there. Only 21 jumps for 1000Ly hop, gotta love the new jump range <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>2016-08-27T21:52:46Z arrived to Stock 1 Sector KH-V d2-32 so first 1000Ly leg done, man do I love this 51.66Ly jump range hehe.
@@ -223,13 +223,13 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>2016-08-27T21:58:37Z arrived to Stock 1 Sector JS-T d3-49 which is the first route waypoint (or "leg") in PMC Galaxy Loop. Waypoint I mean just a average random place in the galaxy where I want my journey to proceed, nothing special in this system.
 </p>
 
-<p>2016-08-28T00:24:44Z arrived to Sifou NK-L b36-1 system which is 4079Ly from Sol, another thousand light year hop done. This basically marks the spot where I left off earlier. Time to switch back on to economical route plotting and relaxed exploration mood ;)
+<p>2016-08-28T00:24:44Z arrived to Sifou NK-L b36-1 system which is 4079Ly from Sol, another thousand light year hop done. This basically marks the spot where I left off earlier. Time to switch back on to economical route plotting and relaxed exploration mood <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>2016-08-28T02:23:10Z arrived to Chraufao SC-V d2-18 where I took a first break, good progress for first session.
 </p>
 
-<p>2016-08-29T02:51:04Z arrived to Crescent Sector DL-Y d29 which is the crescend nebula. All explored by CMDR's already. Nebulas are for CMDR's like shit is to flies it seems. I won't be visiting many nebulas because of this, I have no desire to explore someone's leftovers, I need virgin exploration material :)
+<p>2016-08-29T02:51:04Z arrived to Crescent Sector DL-Y d29 which is the crescend nebula. All explored by CMDR's already. Nebulas are for CMDR's like shit is to flies it seems. I won't be visiting many nebulas because of this, I have no desire to explore someone's leftovers, I need virgin exploration material <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>Most likely the CMDR explored nebulas reduce once we get beyond 20,000Ly... dunno, I might be wrong, those things do attract people so much, even me... but like I said, I have no desire of going to some tourist hot spot as exploration for me is to discover the never before seen unknowns of the galaxy.
@@ -244,16 +244,16 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>2016-09-05T18:08:45Z arrived to Pro Eurk KX-L d7-16, then decided to land on a planet, didn't check its gravity which was 1.3G, not too bad but definitely something to be careful with. I listened to twitch elite stream on the background and on top of that started to take screenshots in external view when approaching planet from 35KM altitude (glide failed due to high angle).
 </p>
 
-<p>Well you see where this is going... hehe, yes indeed CMDR ;)
+<p>Well you see where this is going... hehe, yes indeed CMDR <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
-<p>I leveled my ship still several kilometers above the planet surface, but it was too late, my ASP kept on sinking like a rock and BOOM! I got destroyed on the surface of this ringed planed. Fucking hell! whos the newbie now? :(
+<p>I leveled my ship still several kilometers above the planet surface, but it was too late, my ASP kept on sinking like a rock and BOOM! I got destroyed on the surface of this ringed planed. Fucking hell! whos the newbie now? <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>I'm actually not angry, I've been here too many times to know better, there is nobody else to blame but me... if you don't learn, you die. Simple.
 </p>
 
-<p>But needless to say, I'll probably take "a few" days off from exploration now as this PMC Galaxy Loop starts to become bit too sad story hehe ;)
+<p>But needless to say, I'll probably take "a few" days off from exploration now as this PMC Galaxy Loop starts to become bit too sad story hehe <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>So decided to head back out, actually I was eager to beat my EliteLog v1.0.4 record of 567 jumps in one session (basically in a day). So I looked my notes about found ammonia / earth like / water worlds before I crashed (which data were lost) and plotted bookmarked course for them.
@@ -265,10 +265,10 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>2016-09-06T01:32:54Z departed from Jameson Memorial.
 </p>
 
-<p>At this time in my EliteLog tool I had hyper jumped 15,609 times. It will be really interesting to see how many jumps I'm going to do in this journey before I return to Jameson Memorial again :)
+<p>At this time in my EliteLog tool I had hyper jumped 15,609 times. It will be really interesting to see how many jumps I'm going to do in this journey before I return to Jameson Memorial again <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
-<p>2016-09-06T01:34:00Z plotted course and jumped to Ipmil system, PMC Galaxy Loop has BEGUN!, AGAIN! HAHA :-)
+<p>2016-09-06T01:34:00Z plotted course and jumped to Ipmil system, PMC Galaxy Loop has BEGUN!, AGAIN! HAHA <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>2016-09-06T09:58:36Z arrived to Pro Eurk KX-L d7-16, which was the system where I got my ship destroyed.
@@ -286,10 +286,10 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>It was quite exhausting task to break that record. As you can see I started UTC 0132hrs, but I took a small (hour+?) nap sometime in the morning time, was just somehow so tired, but after that I pressed on all day and to the night.
 </p>
 
-<p>I believe the record I'm making now is quite tough to break, sure you can do it when you really focus and motivate yourself, get very good like 8hrs sleep and then go crazy right from the morning until you crash to bed again. It can be done heh, but it will be very tough :)
+<p>I believe the record I'm making now is quite tough to break, sure you can do it when you really focus and motivate yourself, get very good like 8hrs sleep and then go crazy right from the morning until you crash to bed again. It can be done heh, but it will be very tough <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
-<p>2016-09-06T22:51:25Z arrived to Ellorps PI-M a62-0 system, this was todays 600th jump! New record! :-)
+<p>2016-09-06T22:51:25Z arrived to Ellorps PI-M a62-0 system, this was todays 600th jump! New record! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>Decided to call it a day here, even number new record and it has been extremely long and exhausting day hyper space jumping that many times. I was 24,536Ly from Sol.
@@ -319,7 +319,7 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>2016-10-28T00:02:28Z arrived at Eolls Priae BQ-V d3-27, which is PMC Galaxy Loop leg 05.
 </p>
 
-<p>2016-10-31T00:00:09Z heh wow almost 0000 UTC heh. Decided that I'm doing the detour to Colonia. Eraktor is unknown status at this time but I still want to visit Colonia, so off we go. Nice 32,000Ly detour :)
+<p>2016-10-31T00:00:09Z heh wow almost 0000 UTC heh. Decided that I'm doing the detour to Colonia. Eraktor is unknown status at this time but I still want to visit Colonia, so off we go. Nice 32,000Ly detour <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>So its one way 16,380Ly to be precise. I'm planning on returning from this detour back where I am now.
@@ -328,13 +328,13 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>2016-11-01T23:34:27Z okay so 2016-10-31 I tested out some neutron star jetcone boosts, it was bit scary as I already have not huge but a lot of exploration data with me so getting ship destroyed by some foolishness like neutron star boosting would not be a great idea.
 </p>
 
-<p>I managed quite easily in fact to boost I believe three times. When I jumped into fourth neutron star system I got disconnected from Elite servers, well okay I thought and logged back in... uh oh! entering the game / server my ship was on the neutron star jetcone and taking damage! :o
+<p>I managed quite easily in fact to boost I believe three times. When I jumped into fourth neutron star system I got disconnected from Elite servers, well okay I thought and logged back in... uh oh! entering the game / server my ship was on the neutron star jetcone and taking damage! <img src="../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>I knew beforehand that this is a no win situation, CMDR Eraktor had his ship destroyed by the exact same thing, so I immediately logged off and submitted support ticket about this issue.
 </p>
 
-<p>Well today support answered and they had repaired my ship and moved it to nearby non neutron star system, yes! Thank you Frontier Support! :)
+<p>Well today support answered and they had repaired my ship and moved it to nearby non neutron star system, yes! Thank you Frontier Support! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>I was in Eorgh Pre GA-J a36-1 system and get back on my travel towards Colonia.
@@ -343,7 +343,7 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>2016-11-04T04:08:06Z arrived to Colonia system, 2016-11-04T04:15:53Z docked to Jaques Station.
 </p>
 
-<p>It was quite relief (after the neutron star scare) to be safely docked in station with my exploration data ;)
+<p>It was quite relief (after the neutron star scare) to be safely docked in station with my exploration data <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>Purchased sidewinder and visited couple of populated nearby systems, but then returned to Jaques and got my Asp Explorer out again.
@@ -358,10 +358,10 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>This Colonia detour was mostly done jumping max range, ie speed jumping. I'm hoping to return back to using economical route plotting and getting back to relaxed exploration where I have no hurry to get anywhere.
 </p>
 
-<p>Now we continue in our journey, we head towards "north" in which is the furthest out we have ever been. This is exciting! :)
+<p>Now we continue in our journey, we head towards "north" in which is the furthest out we have ever been. This is exciting! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
-<p>2016-11-14T14:22:48Z reached Dryua Priae CA-C c2-2 system, switched to use economical route plotting with plan on surface scanning all stars now and really taking a relaxed attitude to exploration once again. No more speed jumping 20 FSD jumps in 18min and 30secs :)
+<p>2016-11-14T14:22:48Z reached Dryua Priae CA-C c2-2 system, switched to use economical route plotting with plan on surface scanning all stars now and really taking a relaxed attitude to exploration once again. No more speed jumping 20 FSD jumps in 18min and 30secs <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>Went on like this for I think two thousand light years (two route plots), then had to do some EliteLog testing with longer jump ranges and got stuck there not really speed jumping but with fastest route plotting.
@@ -393,7 +393,7 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>I practised in training mission navigation for like 5 times in a row to get hyper jumping with FSD into check. Okay I'm not a total dumbass, I do remember to cut throttle and not to collide with stars as after all I'm ranked Elite in exploration hehe, so basic exploration jumping should be fine. Only thing I need to learn again is fuel scooping, but I remember that being easy after you get used to it. Its crazy to think how much your skills are lost with "only" 11 month break...
 </p>
 
-<p>But still I was super scared of getting back into my ASP cockpit so far away from populated space and with so much exploration data. But what can you do, I don't have second account to train exploration or is there any real exploration suitable training missions so its time to jump head first into the deep end :)
+<p>But still I was super scared of getting back into my ASP cockpit so far away from populated space and with so much exploration data. But what can you do, I don't have second account to train exploration or is there any real exploration suitable training missions so its time to jump head first into the deep end <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>2017-10-17T04:44:37Z back in my ASP cockpit, finally!
@@ -402,7 +402,7 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>Took me a dozens of jumps before I started to get my muscle memory back, I thought it was totally gone but nah it was there. After couple of hours of flying it started to feel very natural again. Only thing that my brand new X-56 Rhino HOTAS throttle was damn stiff heh. Edit: it still is after almost two months of playing, I guess its by design then.
 </p>
 
-<p>2017-10-17T09:34:15Z finished for the first day back in Elite :)
+<p>2017-10-17T09:34:15Z finished for the first day back in Elite <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>Managed to get muscle memory back and basic HOTAS control setup done. FSD jumped to 110 systems towards leg 08. Its all good, CMDR.
@@ -432,13 +432,13 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>At 6100ly from Beagle Point I started to find a lot of stars discovered by other CMDR's.
 </p>
 
-<p>2017-10-29T14:43:10Z arrived at Beagle Point :-)
+<p>2017-10-29T14:43:10Z arrived at Beagle Point <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>Jumped two systems further away, but that was as far as my ASP 51.67 light year jump range allowed (no I'm not interested with FSD material boost things). Arrived at Ceeckia FZ-D d13-0 system in 2017-10-29T15:18:33Z.
 </p>
 
-<p>I must admit, arriving to beagle point was totally "blah" lackluster experience to me, I got there and literally was like "yawn.. umm okay, so what now", heh. Now don't get me wrong, I took my time to drop my ASP out of supercruise, stopped and just watched silently the whole galaxy in front of my eyes... it was definitely sight worth traveling 65,000 light years :)
+<p>I must admit, arriving to beagle point was totally "blah" lackluster experience to me, I got there and literally was like "yawn.. umm okay, so what now", heh. Now don't get me wrong, I took my time to drop my ASP out of supercruise, stopped and just watched silently the whole galaxy in front of my eyes... it was definitely sight worth traveling 65,000 light years <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>It was quite demanding to travel the last leg of that trip all in one go so when getting there I thought it will take few days before I start to head back... but it was already the next day when I was eager to get going towards the populated space.
@@ -462,7 +462,7 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>2017-11-04T01:00:00Z finished sending market prices, kind of achieved everything in populated space with the second account what I planned to do (for now). Have no special desire to get back into exploration jumping frenzy either heh.
 </p>
 
-<p>2017-11-07T21:03:21Z back in cockpit and heading towards PMC Galaxy Loop leg 11 ;)
+<p>2017-11-07T21:03:21Z back in cockpit and heading towards PMC Galaxy Loop leg 11 <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>I spent few days working on those populated space stations but now I'm back exploring and motivated getting back quickly to populated space (see pattern here?), I'm not going to do any economical route plotting but just blast off max jump ranges and as quickly as possible. Not that I'm "bored" of exploring, but I am definitely not in a mood for some economical months taking routes now.
@@ -474,13 +474,13 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>I tried quickly to exit that motherfucking stupid ass holo-me stupidity, but no, it ain't gonna happen.. dropped out of super cruise when hitting the star boundary zone and well yeah, there we go 99% hull integrity.
 </p>
 
-<p>Could get back to super cruise without more damage but yeah now my exploration ASP is 99% hull, fuck that pisses me off as it was purely elite glitching with that cocksucking holo-me fucker :(
+<p>Could get back to super cruise without more damage but yeah now my exploration ASP is 99% hull, fuck that pisses me off as it was purely elite glitching with that cocksucking holo-me fucker <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>I have only once started up that stupidity in beta when it was first released, laughed how lame it is and exited right out of it. So now I had no idea how to close it when I had literally few seconds time to spare before my ship gets damaged. For the love of everything that is awesome... why such retarded GUI option is added into the cockpit menus, WHY.
 </p>
 
-<p>Every video I put on youtube recorded after this make people believe I'm some newbie retard who cant approach stars and fuel scoop properly, SIGH :(
+<p>Every video I put on youtube recorded after this make people believe I'm some newbie retard who cant approach stars and fuel scoop properly, SIGH <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>Was thinking of making support ticket because this was caused by holo-me editor opening, but was like... why bother...
@@ -501,7 +501,7 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>I dunno man... I just wanted to get back there as fast as possible and besides if you just jump + honk + check system map, in endless loop without even scanning the stars to leave your exploration "piss trail", then whats the point going the long route? I mean I'm not here to enjoy some nice views, nebulas or other shit these blue eyed CMDR's seem to be doing.
 </p>
 
-<p>I was in Lyaisu AR-L b21-0 system with 38,287ly to Jameson Memorial. Now begins the longest quick jumping return to the populated space! hehe :)
+<p>I was in Lyaisu AR-L b21-0 system with 38,287ly to Jameson Memorial. Now begins the longest quick jumping return to the populated space! hehe <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>2017-11-08T18:24:09Z arrived at Pha Free SY-S e3-6 system which is PMC Galaxy Loop leg 12.
@@ -510,19 +510,19 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>Distance to Jameson Memorial 32,112ly
 </p>
 
-<p>2017-11-08-17T20:40:00Z had to call it quits because my computer desk chair broke down. The back rest cracked and leaned like 10 degrees too much back and there was danger that it would soon fully snap. I could not fly my ASP naturally or do any serious computer stuff like this :(
+<p>2017-11-08-17T20:40:00Z had to call it quits because my computer desk chair broke down. The back rest cracked and leaned like 10 degrees too much back and there was danger that it would soon fully snap. I could not fly my ASP naturally or do any serious computer stuff like this <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>But I tried to play elite, I even brought my tv recliner chair in front of my Gaming computer but no go, I cannot reach my HOTAS, well throttle full forward when I sit in the recliner, not to mention getting in and out of it is pure horror. So that was not an option.
 </p>
 
-<p>Right now I don't have money to buy new computer chair, so if I cant use my computers other than short periods of time without back rest, it means no Elite playing either. Once again PMC Galaxy Loop is on hold :(
+<p>Right now I don't have money to buy new computer chair, so if I cant use my computers other than short periods of time without back rest, it means no Elite playing either. Once again PMC Galaxy Loop is on hold <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>Damn man, this exploration journey seem to be riddled with all kinds of mishaps hehe. Wonder if I ever make it back? HEHE
 </p>
 
-<p>2017-12-04T14:28:23Z got my new computer chair whohoo! Back in cockpit, next leg 10,000ly away, off we go! :)
+<p>2017-12-04T14:28:23Z got my new computer chair whohoo! Back in cockpit, next leg 10,000ly away, off we go! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>2017-12-04T18:23:03Z arrived at Floadou VR-H d11-113 system which is PMC Galaxy Loop leg 13.
@@ -531,16 +531,16 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>2017-12-05T02:57:45Z arrived at Bleia Dryoae AG-W c18-35 system which is PMC Galaxy Loop leg 14.
 </p>
 
-<p>2017-12-05T04:31:01Z arrived at Pro Eur WJ-Y c14-3 system which is PMC Galaxy Loop leg 15, the last leg before hop to home :)
+<p>2017-12-05T04:31:01Z arrived at Pro Eur WJ-Y c14-3 system which is PMC Galaxy Loop leg 15, the last leg before hop to home <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>I was amazed to find undiscovered earth like world 2750ly from Sol. Saw first unindentified signal source 2200ly from Sol. At 1500ly from Sol started to see steady stream of discovered stars / systems by other CMDR's (but this was the case already a year ago).
 </p>
 
-<p>2017-12-05T12:15:36Z arrived at Shinrarta Dezhra system which is the LAST PMC Galaxy Loop Leg! :)
+<p>2017-12-05T12:15:36Z arrived at Shinrarta Dezhra system which is the LAST PMC Galaxy Loop Leg! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
-<p><b>2017-12-05T12:19:00Z docked at Jameson Memorial. PMC Galaxy Loop is over! :-)</b>
+<p><b>2017-12-05T12:19:00Z docked at Jameson Memorial. PMC Galaxy Loop is over! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy"></b>
 </p>
 
 <p>2017-12-05T12:24:00Z started to sell exploration data ... 2017-12-05T13:45:00Z completed heh. Total credits gained 204,768,812.
@@ -563,7 +563,7 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>In that sense this exploration journey while I did complete it as planned, was not really done in the manner I had... well, planned. I'm not disappointed or anything, whats done is done, I accomplished this loop around milky way galaxy what I said I would do and that's all that matters. As result I'll most likely avoid making such long term exploration plans in the future as it feels silly to set into such a long journey with specific mindset only to return with completely other heh.
 </p>
 
-<p>Was this fun? memorable experience? Yes it was. Do I plan another this scale exploration journey soon? Hell no! :)
+<p>Was this fun? memorable experience? Yes it was. Do I plan another this scale exploration journey soon? Hell no! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>Links: <a href="https://www.edsm.net/en/galactic-routes/show/id/210/name/PMC+Galaxy+Loop">EDSM - PMC Galaxy Loop</a> and this trips video "diary" from <a href="https://www.youtube.com/user/pmcsince1984/search?query=pmc+galaxy+loop+part">PMC youtube channel</a>.
