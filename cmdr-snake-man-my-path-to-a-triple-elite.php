@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>PMC Elite Dangerous - CMDR Snake Man, my path to a Triple Elite</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
@@ -38,9 +38,9 @@ Exploring<br>
 
 <p>Combat Elite ranking is 8750 kills. <i>Outdated/incorrect info</i></p>
 
-<p>Trading Elite ranking is 1013 million traded. I have 451,1 so need 561,9 million. I can trade 10 million a day which is 56.1 days! :(</p>
+<p>Trading Elite ranking is 1013 million traded. I have 451,1 so need 561,9 million. I can trade 10 million a day which is 56.1 days! <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"></p>
 
-<p>Okay so I have to trade at least 20 million per day which is 28 days, heh a month of straigh up trading then? ehhh, the horror... the horror ;)</p>
+<p>Okay so I have to trade at least 20 million per day which is 28 days, heh a month of straigh up trading then? ehhh, the horror... the horror <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"></p>
 
 <p>Exploration Elite ranking is 119,9 million. I have 12,3 million so I need 107.6 million. Impossible to say how many millions you can make in a day as exploration usually is several days straight out in wild.</p>
 
@@ -48,9 +48,9 @@ Exploring<br>
 
 <p>Time it takes to triple Elite<br>
 1) exploration 7 days???<br>
-2) trading 28 days :(<br>
+2) trading 28 days <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"><br>
 3) combat 14 days<br>
-total 49 days, ETA May 22nd, maybe ;)</p>
+total 49 days, ETA May 22nd, maybe <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"></p>
 
 <p>Really rough date estimates. Apr 10th exploration elite. May 8th, trading elite. May 22nd, combat elite.</p>
 
@@ -65,17 +65,17 @@ total 49 days, ETA May 22nd, maybe ;)</p>
 
 <p>2015-04-03: continuing towards sagittarius a* galactic center. Sagittarius A* at 2015-04-03T23:44:48Z</p>
 
-<p>2015-04-04: 1955hrs decided to come back to populated space so could sell the exploration data. 25,586Ly traveling ahead of me ;)</p>
+<p>2015-04-04: 1955hrs decided to come back to populated space so could sell the exploration data. 25,586Ly traveling ahead of me <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"></p>
 
 <p>2015-04-05T16:43:23Z: journey continues from 15,533Ly point towards populated space. Traveling at 1,000Ly up in galaxy plane.</p>
 
-<p>2015-04-06T03:52:17Z: at Droju sector had to (first time?) re-plot my route as there were so many unscoopable dwarf stars :(</p>
+<p>2015-04-06T03:52:17Z: at Droju sector had to (first time?) re-plot my route as there were so many unscoopable dwarf stars <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"></p>
 
-<p>2015-04-06T06:50:16Z: arrived at Snake Sector YV-M b7-5 :)</p>
+<p>2015-04-06T06:50:16Z: arrived at Snake Sector YV-M b7-5 <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
-<p>2015-04-06T07:23:38Z: arrived at Tsu and docked to Ziemkiewicz Ring. Journey is over, time to sell exploration data :)</p>
+<p>2015-04-06T07:23:38Z: arrived at Tsu and docked to Ziemkiewicz Ring. Journey is over, time to sell exploration data <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
-<p>Credits before selling exploration data: 27,303,155 and after 64,599,494 so made total of 37,296,339 credits. Spend time selling this cartography data 1h 21min hehe. I was really disappointed that it was THIS LOW amount, I already said if its under 50 million I will be disappointed and I secretly wished I rank up to Elite with over 100 million profit with one go... boy, was I wrong or what, huh! :(</p>
+<p>Credits before selling exploration data: 27,303,155 and after 64,599,494 so made total of 37,296,339 credits. Spend time selling this cartography data 1h 21min hehe. I was really disappointed that it was THIS LOW amount, I already said if its under 50 million I will be disappointed and I secretly wished I rank up to Elite with over 100 million profit with one go... boy, was I wrong or what, huh! <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"></p>
 
 <p>2015-04-06 status:<br>
 Exploring<br>
@@ -90,7 +90,7 @@ Exploring<br>
 Exploring<br>
 53,0 million</p>
 
-<p>2015-04-07T10:51:34Z: arrived to Shinrarta Dezhra to outfit exploring Anaconda for 39.35Ly jump range, then went to 2000Ly test drive ;)</p>
+<p>2015-04-07T10:51:34Z: arrived to Shinrarta Dezhra to outfit exploring Anaconda for 39.35Ly jump range, then went to 2000Ly test drive <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"></p>
 
 <p>2015-04-07T12:51:10Z: arrived to Shinrarta Dezhra. Test drive was ok but ASP is still the best exploring ship, no doubt.</p>
 
@@ -112,7 +112,7 @@ Exploring<br>
 Exploring<br>
 56,4 million</p>
 
-<p>2015-04-08T09:54:32Z: left Tsu to go explore neutron star fields 10-12,000Ly from Sol, for approx week I guess ;)</p>
+<p>2015-04-08T09:54:32Z: left Tsu to go explore neutron star fields 10-12,000Ly from Sol, for approx week I guess <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"></p>
 
 <p>2015-04-08T22:53:57Z: after sleep travel continues, not yet even close to the neutron star fields.</p>
 
@@ -124,23 +124,23 @@ Exploring<br>
 
 <p>2015-04-09T05:49:38Z: stopped for feeding break and to handle that HOTAS business. Had to ship HOTAS into repairs, tried to play using keyboard + mouse some training missions but it felt so weird heh, todays exploring momentum came to a halt.</p>
 
-<p>2015-04-09T23:15:00Z: tried playing with Thrustmaster Warthog HOTAS but holy smokes it was stiff stick, my muscles were sore after playing for 3 minutes! Not to mention I barely could destroy training basic combat sidewinder, ouch :) I want my Saitek X55 back! :(</p>
+<p>2015-04-09T23:15:00Z: tried playing with Thrustmaster Warthog HOTAS but holy smokes it was stiff stick, my muscles were sore after playing for 3 minutes! Not to mention I barely could destroy training basic combat sidewinder, ouch <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"> I want my Saitek X55 back! <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"></p>
 
 <p>2015-04-10T04:21:01Z: did final check with Thrustmaster Warthog but its so stiff and cant get the buttons to configure like in X55 so I decided to continue playing with keyboard and mouse until X55 comes back from repairs.</p>
 
 <p>2015-04-10T04:47:52Z: call it quits for now, I just cant get the feeling and touch back by using keyboard. I'm constantly struggling to control my ship and scared shitless that slightest mistake causes my ship to get destroyed.</p>
 
-<p>2015-04-14T10:21:50Z: Had a weekend off as my Saitek X55 was under warranty repair, today I got brand new in un-opened box delivered to me! :)</p>
+<p>2015-04-14T10:21:50Z: Had a weekend off as my Saitek X55 was under warranty repair, today I got brand new in un-opened box delivered to me! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
 <p>I cant tell you how happy I was when I get to play elite again with proper HOTAS. I continued my journey from Byua Euq EW-E c14-0 system.</p>
 
-<p>2015-04-16T07:28:15Z: arrived at Bleae Aescs TS-A d1-140 system which is located in nice dense neutron star field. Now starts one week of surface scanning neutron stars and water/earth like worlds :)</p>
+<p>2015-04-16T07:28:15Z: arrived at Bleae Aescs TS-A d1-140 system which is located in nice dense neutron star field. Now starts one week of surface scanning neutron stars and water/earth like worlds <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
 <p>2015-04-17T15:50:01Z: decided to head one or two thousand light years further towards the core as I felt like running light on neutron stars at my current location. Deeper into galaxy we go!</p>
 
-<p>2015-04-23: Thursday; youre done with neutron stars, head back to populated space! :-)</p>
+<p>2015-04-23: Thursday; youre done with neutron stars, head back to populated space! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy"></p>
 
-<p>2015-04-23T14:43:23Z: my voyage to home started. I was 15,942Ly away from Sol. Decided to travel by doing hop 1000Ly and then to stop to surface scan 5 systems, then continue with next 1000Ly hop looping like this until reach populated space. It was a good decision because on first hop (stop?) I found two water worlds and one earth like world :)<br>
+<p>2015-04-23T14:43:23Z: my voyage to home started. I was 15,942Ly away from Sol. Decided to travel by doing hop 1000Ly and then to stop to surface scan 5 systems, then continue with next 1000Ly hop looping like this until reach populated space. It was a good decision because on first hop (stop?) I found two water worlds and one earth like world <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 Looking at this exploration diary, just realized I was out two weeks to explore, wow nice.</p>
 
 <p>2015-04-24T04:35:14Z: arrived to Snake Sector NN-T c3-13</p>
@@ -153,7 +153,7 @@ Looking at this exploration diary, just realized I was out two weeks to explore,
 Exploring<br>
 131,7 million</p>
 
-<p>When selling the exploration data I got 75 million, which was not enough for exploration Elite status, I was super devastated. I felt like I just absolutely cannot explore anytime soon after this exhaustive set I did now... and it wasnt fucking enough :(</p>
+<p>When selling the exploration data I got 75 million, which was not enough for exploration Elite status, I was super devastated. I felt like I just absolutely cannot explore anytime soon after this exhaustive set I did now... and it wasnt fucking enough <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"></p>
 
 <p>As conclusion for this April 8th - 24th exploration journey, I must say it was really exhaustive, scanning those neutron stars was tedious as was the traveling of 1000Ly hops, the constant jumping and advanced discovery scan pinging. I played on most days all day with just eating breaks. It gets to your head, into your mental health when you hammer this kind of hardcore playing.</p>
 
@@ -171,13 +171,13 @@ Exploring<br>
 Exploring<br>
 134,3 million</p>
 
-<p>Shinrarta Dezhra, 2015-04-27T06:14:15Z: picked up ASP and headed towards Snake Sector, time to explore this fully :)</p>
+<p>Shinrarta Dezhra, 2015-04-27T06:14:15Z: picked up ASP and headed towards Snake Sector, time to explore this fully <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
 <p>2015-04-27T07:00:38Z: arrived to Snake Sector FB-X c1-22. I explored few days but then just absolutely burnt out. Took several days break, just doing other stuff. I just could not play Elite...</p>
 
 <p>2015-05-08T18:47:56Z: Back in Elite, exploration continues, not sure how actively though...</p>
 
-<p>2015-05-21T01:40:14Z: was bored out of my mind so decided to head to populated space for some trading, yes I know, I'm a fucking sell out... but what can you do, I'll slit my wrists rather than being exploring snake sector anymore :(</p>
+<p>2015-05-21T01:40:14Z: was bored out of my mind so decided to head to populated space for some trading, yes I know, I'm a fucking sell out... but what can you do, I'll slit my wrists rather than being exploring snake sector anymore <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"></p>
 
 <p>credits before selling: 18,315,731 after selling: 25,874,145 so made total of: 7,558,414 credits.<br>
 exploration profits before: 134,301,056 after: 141,859,470</p>
@@ -212,15 +212,15 @@ exploration profits before: 142,135,626 after: 152,883,744</p>
 
 <p>2015-09-12T18:24:05Z: with jump to Snake Sector JS-K b8-0 my statistics reached <b>Systems Visited: 10,000</b> yeah!</p>
 
-<img src="images/exploration-10k-systems-visited.jpg" alt="CMDR Snake Man Exploration 10,000 Systems Visited">
+<img src="images/exploration-10k-systems-visited.jpg" alt="CMDR Snake Man Exploration 10,000 Systems Visited" loading="lazy">
 
 <p>2015-09-12T18:38:03Z: decided to jump the gun to celebrate 10k visited systems and head back to sell the exploration data even though I dont think I have enough for Elite yet...</p>
 
 <p>2015-09-12T19:03:57Z: arrived to Shinrarta Dezhra and started to sell exploration data.</p>
 
-<p>2015-09-12T19:30:04Z: I finally reached exloration rank: <b>Elite</b> Whohuu! :)</p>
+<p>2015-09-12T19:30:04Z: I finally reached exloration rank: <b>Elite</b> Whohuu! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
-<img src="images/exploration-elite.jpg" alt="CMDR Snake Man Exploration Elite Rank">
+<img src="images/exploration-elite.jpg" alt="CMDR Snake Man Exploration Elite Rank" loading="lazy">
 
 <p>credits before selling: 34,963,742 after selling: 40,344,085 so made total of: 5,380,343 credits.<br>
 exploration profits before: 152,883,744 after: 158,264,087</p>
@@ -231,7 +231,7 @@ exploration profits before: 152,883,744 after: 158,264,087</p>
 
 <h2>Trading Elite</h2>
 
-<p>2015-09-12T20:05:05Z: Updated TradeDangerous and break out my Lakon Type-9, its time to trade myself a Elite rank! :)</p>
+<p>2015-09-12T20:05:05Z: Updated TradeDangerous and break out my Lakon Type-9, its time to trade myself a Elite rank! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
 <p>2015-09-12T20:23:21Z: arrived to BD-02 4304 where my Lakon Type-9 was stored, ahh its good to see my old friend again, together we have traded so many millions and we will continue to do so.
 <br><br>
@@ -246,7 +246,7 @@ Highest Single Transaction: 4,598,416 cr</p>
 
 <p>2015-09-14T08:43:07Z: docked at HR 1064 and sold cargo, then purchased Hauler with plan to head to my python which was 69.52Ly away. Stopped for refuel at Palekereg Haldeman Terminal. Then arrived to Niflhel system, docked at Biruni Port at 2015-09-14T09:18:48Z. Fly my Python to Shinrarta Dezhra, Jameson Memorial station and arrived there 2015-09-14T09:38:25Z.</p>
 
-<p>Now its time to purchase ship that can travel great distances quickly but also defend itself, I'm going to track down those stations that have very old data in trading tool databases, ie EDDN based like TradeDangerous (Maddavo's Market Share). Going to visit them and use ED Market Connector to send market commodity data to EDDN. Its going to be fun :)</p>
+<p>Now its time to purchase ship that can travel great distances quickly but also defend itself, I'm going to track down those stations that have very old data in trading tool databases, ie EDDN based like TradeDangerous (Maddavo's Market Share). Going to visit them and use ED Market Connector to send market commodity data to EDDN. Its going to be fun <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
 <p>So purchased ASP and outfitted it with 33Ly jump range, best fuel scoop, basic shields and gimballed pulse lasers. This way I can travel great distances quickly but also defend off any AI interdictions. Then I left and started to explore TradeDangerous olddata systems. Soon after I chatted with Maddavo and he told me about his sites editstation page which is great for tracking down Large landing pad stations without commodity market prices, so I started to visit those.</p>
 
@@ -262,7 +262,7 @@ Highest Single Transaction: 4,598,416 cr</p>
 KOMOVOY/Silves Dock; Gold, 3 jumps, profit: 1217cr<br>
 LTT 4961/Conway City; Land Enrichment Systems, 4 jumps, profit: 1150cr<br>
 SKOGULUMARI/Matheson Gateway; Tobacco, 3 jumps, profit: 1144cr<br>
-SAN ZAIHE/Ackerman Orbital; Marine Equipment, 4 jumps, profit: 0cr as tobacco was prohibited, had to detour to Arevakimos/Hampson Dock to sell :(<br>
+SAN ZAIHE/Ackerman Orbital; Marine Equipment, 4 jumps, profit: 0cr as tobacco was prohibited, had to detour to Arevakimos/Hampson Dock to sell <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"><br>
 HR 7221/Veron City (1800ls?); Imperial Slaves, n/a, n/a<br>
 MEHIME/Bode Vision; Palladium, 4 jumps, profit: 123cr<br>
 CD-62 1454/Baille City; Resonating Separators, 4 jumps, profit: 1124cr<br>
@@ -331,13 +331,13 @@ Hyper jumped 246 times during this 60 hop trading route (not sure how many actua
 
 <p>2015-09-22T11:46:01Z: at Shinrarta Dezhra, Jameson Memorial. Outfitted my Anaconda with trading setup as so many CMDR's out there think it is the best trading ship, hah. Now I've got it on 468t cargo capacity which means no shields. Also I didn't add any weapons as the point of using anaconda... is the longer jump range. At least that's what I think the fools are after, dunno.</p>
 
-<p>2015-09-22T13:28:54Z: returned to Shinrarta Dezhra, Jameson Memorial. Sold cargo racks from anaconda, it is not better trading ship than Lakon Type-9. Those idiots who trade with anaconda thinking its better... haha, its so sad. BTW you might think this is bit harsh so let me clear something up; I dont hate anaconda and I dont hate CMDR's who trade with anaconda... I do hate the idiots who boast against common sense that its best trade ship. You can trade with eagle for all I care :)</p>
+<p>2015-09-22T13:28:54Z: returned to Shinrarta Dezhra, Jameson Memorial. Sold cargo racks from anaconda, it is not better trading ship than Lakon Type-9. Those idiots who trade with anaconda thinking its better... haha, its so sad. BTW you might think this is bit harsh so let me clear something up; I dont hate anaconda and I dont hate CMDR's who trade with anaconda... I do hate the idiots who boast against common sense that its best trade ship. You can trade with eagle for all I care <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
 <p>Picked up my station exploration ASP and went back to get market price data for those large pad stations within 1000ls that do not have it.</p>
 
 <p><b>120 Hop Mega Route</b></p>
 
-<p>2015-10-01T02:55:25Z: docked at Marrallang/Alfven Hub after picking up my Lakon Type-9 trade ship from Urvane, its time for some trading again! :)</p>
+<p>2015-10-01T02:55:25Z: docked at Marrallang/Alfven Hub after picking up my Lakon Type-9 trade ship from Urvane, its time for some trading again! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
 <p>I updated TradeDangerous and calculated 120 hop mega trade route, its time to see how well such huge ordeal goes. I'm estimating that this will take three to four days depending on how much I get to play each day.
 <br><br>
@@ -345,15 +345,15 @@ My current stats are total of 111,848,238 credits with trading profit of 538,825
 <br><br>
 My trade rank is Tycoon with 24 percentage.</p>
 
-<p>2015-10-01T04:29:39Z: at ICZ FW-V b2-7 system was interdicted by mostly mostly harmless anaconda, I thought that maybe my 5x beam lasers can take him... but I was wrong. Oh well, there went insurance money plus 532x palladium load of 7 million credits, easy come easy go hehe! :)</p>
+<p>2015-10-01T04:29:39Z: at ICZ FW-V b2-7 system was interdicted by mostly mostly harmless anaconda, I thought that maybe my 5x beam lasers can take him... but I was wrong. Oh well, there went insurance money plus 532x palladium load of 7 million credits, easy come easy go hehe! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
-<p>2015-10-01T08:52:45Z: was interdicted by a Python, I was timing how long it takes to jump 4 times so didn't even plan on fighting and started to boost and escape by engaging FSD. Well for some really odd reason I couldn't make it and was destroyed... damn, what kind of fucking super AI ships are there flying tonight? Killed twice in few hours now? :(</p>
+<p>2015-10-01T08:52:45Z: was interdicted by a Python, I was timing how long it takes to jump 4 times so didn't even plan on fighting and started to boost and escape by engaging FSD. Well for some really odd reason I couldn't make it and was destroyed... damn, what kind of fucking super AI ships are there flying tonight? Killed twice in few hours now? <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"></p>
 
 <p>2015-10-03T23:29:07Z: docked and sold my last load of cargo! 120 hop mega trade route has been completed! Yeah baby yeah!</p>
 
 <p>At end of 120 hop mega route my stats are total of 185,524,357 credits with trading profit of 630,560,380 credits. So I made 91,734,802 credits with this route. Trade rank vent up to 38%. <i>Note: but what about the insurance ship rebuy and the palladium load costs? Are those deducted from your current balance? Hmm.</i></p>
 
-<p>2015-10-07T00:37:05Z: arrived to Delkar after outfitting Lakon Type-7 for mining setup in Jameson Memorial. Its time to test mining in brand new v1.4 release. At first attempt of mining I was attacked by AI pirates and I escaped, on second attempt I was destroyed heh. Mining is tough job huh :)</p>
+<p>2015-10-07T00:37:05Z: arrived to Delkar after outfitting Lakon Type-7 for mining setup in Jameson Memorial. Its time to test mining in brand new v1.4 release. At first attempt of mining I was attacked by AI pirates and I escaped, on second attempt I was destroyed heh. Mining is tough job huh <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
 <p>Mining felt slow with two pulse lasers and two collector controllers, dunno. Yeah it was somewhat good credits when you returned to sell the stuff, but it took hours to mine the stuff so there is just no comparison for trading. Trading is the king.</p>
 
@@ -361,7 +361,7 @@ My trade rank is Tycoon with 24 percentage.</p>
 
 <p>Then flew around in populated space exploration ASP gathering market price data using EDMC and typing in distances from star into Maddavo's editstation page. Did also some trading but only little bit.</p>
 
-<p>2015-10-16T16:31:41Z: earlier today we got official v1.5 ships list and Panther Clipper was not there, I'm very sad :(</p>
+<p>2015-10-16T16:31:41Z: earlier today we got official v1.5 ships list and Panther Clipper was not there, I'm very sad <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"></p>
 
 <p>For this reason I decided that okay now I'm going to concentrate on pure trading trying to reach Elite rank as quick as possible.</p>
 
@@ -371,13 +371,13 @@ My trade rank is Tycoon with 24 percentage.</p>
 
 <p>First trip out made 48 million. Trading ranking status went up to 79%.</p>
 
-<p>On second trip I returned to Robigo system, was really surprised that I get my cargo hold filled with ONE SINGLE open/private relogin as there was so many very valuable missions available. Heh I should have got Python for the cargo space :)</p>
+<p>On second trip I returned to Robigo system, was really surprised that I get my cargo hold filled with ONE SINGLE open/private relogin as there was so many very valuable missions available. Heh I should have got Python for the cargo space <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
 <p>I then went to Shinrarta Dezhra and purchased Python just for this smuggling business. Python is quite nice smugling ship, except slow fuel scoop (3A) and very short jump range. But it can boost away from interdictions very nicely, not to mention it can carry weapons, a lot of guns.</p>
 
-<p><b>2015-10-18T02:50:57Z: just reached Trading Elite rank! Wohuuu! :-)</b></p>
+<p><b>2015-10-18T02:50:57Z: just reached Trading Elite rank! Wohuuu! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy"></b></p>
 
-<img src="images/trade-elite.jpg" alt="CMDR Snake Man Trade Elite Rank">
+<img src="images/trade-elite.jpg" alt="CMDR Snake Man Trade Elite Rank" loading="lazy">
 
 <p>You can watch <a href="https://www.youtube.com/watch?v=SE97Sa3v2EM">My path to a Trading Elite</a> video on youtube.
 </p>
@@ -410,7 +410,7 @@ total today: 302,9 million</p>
 
 <p>2015-10-23: End of the day was Expert 87% rank.</p>
 
-<p>2015-10-24T22:13:36Z: reached combat rank of Master! :)</p>
+<p>2015-10-24T22:13:36Z: reached combat rank of Master! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
 <p>2015-10-25T09:08:24Z: End of the day was Master 10% rank.</p>
 
@@ -446,7 +446,7 @@ Python test tour was rather quick, I again picked up anaconda and continued on c
 
 <p>2015-11-08T13:45:32Z: themroc (EDDB author) was returning from exploration journey to galactic core, I went out to Snake Sector to meet him and to escort him back.</p>
 
-<p>We arrived at HIP 72043 system, Kippax Ring station at 17:55:09Z. Mission accomplished! :)</p>
+<p>We arrived at HIP 72043 system, Kippax Ring station at 17:55:09Z. Mission accomplished! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
 <p>2015-11-11T14:37:09Z: picked up my anaconda and arrived to Komovoy system for some continuing combat rank progression. Apparently the conflict zones were gone, only one low intensity left, hoh. Had to move into Solati system.</p>
 
@@ -473,9 +473,9 @@ Python test tour was rather quick, I again picked up anaconda and continued on c
 <p>Sometime during this time I received my highest bounty from Anaconda 405,020 credits. Now that is some juicy bounty!
 </p>
 
-<img src="images/bounty-405020-credits.jpg" alt="CMDR Snake Man Highest Bounty">
+<img src="images/bounty-405020-credits.jpg" alt="CMDR Snake Man Highest Bounty" loading="lazy">
 
-<p>2015-11-15T23:53:20Z: reached combat rank Deadly finally! :)</p>
+<p>2015-11-15T23:53:20Z: reached combat rank Deadly finally! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
 <p>2015-11-16T00:25:51Z: End of the day was Deadly 0% rank.</p>
 
@@ -487,7 +487,7 @@ Python test tour was rather quick, I again picked up anaconda and continued on c
 
 <p>Yeah I know lot of effort for small accident, although perhaps the MURDERED clean ship CMDR doesnt think so, heh. But I just want to benefit for the free haz-res activity in this community goal as its almost three days worth of bounty hunting.</p>
 
-<p>Did all that, went through the systems that I had open bounty claim vouchers, cashed them in, then returned to Neville Horizons and stripped last remaining modules from the taxi hauler. Went outside, let police scan me after which they attacked and killed me. Bounty cleared, I'm good to go :)</p>
+<p>Did all that, went through the systems that I had open bounty claim vouchers, cashed them in, then returned to Neville Horizons and stripped last remaining modules from the taxi hauler. Went outside, let police scan me after which they attacked and killed me. Bounty cleared, I'm good to go <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
 <p>2015-11-17T09:01:59Z: End of the day was Deadly 2% rank.</p>
 
@@ -529,11 +529,11 @@ It really pays off to select a star system to jump into at the first thing you d
 <br><br>
 So I purchased taxi Hauler and headed to Jameson Memorial to pickup my populated space ASP Explorer.</p>
 
-<p>2015-11-23T06:37:16Z: completed tour of those compromised navigation beacons with my ASP. They look very juicy, lot of elite ships there :)
+<p>2015-11-23T06:37:16Z: completed tour of those compromised navigation beacons with my ASP. They look very juicy, lot of elite ships there <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 <br><br>
 Too bad I didn't yet find any such beacons in A Lavigny-Duval control systems where the 20% bounty passive bonus is applied.</p>
 
-<p>2015-11-23T10:42:12Z: last stop at LTT 2667, where I finished my compromised navigation beacon a lavigny-duval control systems search, there is none :(</p>
+<p>2015-11-23T10:42:12Z: last stop at LTT 2667, where I finished my compromised navigation beacon a lavigny-duval control systems search, there is none <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"></p>
 
 <p>2015-11-23T10:46:53Z: returned my ASP to Shinrarta Dezhra, Jameson Memorial. Today no combat ranking unfortunately, all day was spent basically on futile attempt of finding compromised navigation beacon in ALD space. Although I got good data collected, none actually worked as I planned. Oh well, gotta do some compromised navigation beacon bounty hunting without the 20% passive bonus.</p>
 
@@ -543,7 +543,7 @@ Too bad I didn't yet find any such beacons in A Lavigny-Duval control systems wh
 
 <p>2015-11-24T15:36:00Z: End of the day was Deadly 40% rank.</p>
 
-<p>Purchased taxi Hauler and went to cash in bounty vouchers on couple of systems as they were already millions. Went to cash in Rhibonii system at Komarov Base outpost which was 125,000Ls from the star, ugh! :)</p>
+<p>Purchased taxi Hauler and went to cash in bounty vouchers on couple of systems as they were already millions. Went to cash in Rhibonii system at Komarov Base outpost which was 125,000Ls from the star, ugh! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
 <p>Found pretty decent system at Hecate, its large pad station is 525Ls away from the star, quick and easy to go rearm, repair and as well cash in bounty vouchers there.</p>
 
@@ -559,7 +559,7 @@ Too bad I didn't yet find any such beacons in A Lavigny-Duval control systems wh
 
 <p>Was thinking oh well now I'm not going to bother to go clean this bounty off unless I start to get attacked constantly by clean ships in this beacon... Well I did, I assume thats how the fights start in hazardous RES and these beacons in the first place. So I jumped away as it leads to nothing if I have to destroy clean ships. Did the usual suicide by cop in sidewinder cheapo ship. Then back to combat rank progression.</p>
 
-<p>Feeling very good for todays progress, I actually made a personal three day goal so that I'll reach on first day 70, second 85 and third finally 100% which is Elite rank by sunday 29th, night before Elite Horizons beta release :)</p>
+<p>Feeling very good for todays progress, I actually made a personal three day goal so that I'll reach on first day 70, second 85 and third finally 100% which is Elite rank by sunday 29th, night before Elite Horizons beta release <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></p>
 
 <p>2015-11-28T20:40:34Z: End of the day was Deadly 85% rank.</p>
 
@@ -571,11 +571,11 @@ Too bad I didn't yet find any such beacons in A Lavigny-Duval control systems wh
 
 <p>2015-11-29T17:53:10Z: reached combat rank of Elite!</p>
 
-<img src="images/combat-elite.jpg" alt="CMDR Snake Man Combat Elite Rank">
+<img src="images/combat-elite.jpg" alt="CMDR Snake Man Combat Elite Rank" loading="lazy">
 
 <p>Now I'm finally <b>Triple Elite</b>! Wohuu!</p>
 
-<img src="images/cmdr-snake-man-triple-elite-nov-29th-3301.jpg" alt="CMDR Snake Man Triple Elite! Nov 29th, 3301">
+<img src="images/cmdr-snake-man-triple-elite-nov-29th-3301.jpg" alt="CMDR Snake Man Triple Elite! Nov 29th, 3301" loading="lazy">
 
 <p>You can watch <a href="https://www.youtube.com/watch?v=2M3hd7njFqE">My path to a Combat Elite</a> video on youtube.
 </p>
@@ -588,21 +588,25 @@ Too bad I didn't yet find any such beacons in A Lavigny-Duval control systems wh
 <p>When I'm focusing on some aspect like editing or this triple elite goal, I'm doing nothing else than it. My usual triple elite journey day consisted of nothing but playing elite, only breaks were to get something to eat, rest was pure elite without interruptions like family etc that those normal people have.
 </p>
 
-<p>Don't get me wrong I'm not thinking of being somekind of special person here, there are "many" triple elite CMDR's out there so this is absolutely nothing new or unique, anyone can reach this goal as long as they are motivated and dedicated... and many have already! :)
+<p>Don't get me wrong I'm not thinking of being somekind of special person here, there are "many" triple elite CMDR's out there so this is absolutely nothing new or unique, anyone can reach this goal as long as they are motivated and dedicated... and many have already! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>When reaching triple elite I felt incredible relief like now my elite retirement days start and I can do what I want, when I want as much or little as I want. Almost like, only NOW can I fully enjoy elite... difficult to explain what I mean here heh. Somehow elite just feels so much more relaxed to me now. For example exploration is not about "farming neutron stars" for credits anymore, not about jumping 1000Ly in an hour... no, its about enjoying what galaxy has to offer, fully taking in the breath taking sights.
 </p>
 
-<p>For new commanders I would give recommendation which I completely dismissed myself before reaching this goal; Do not rush Triple Elite. Just enjoy the game, the ranks come eventually... no point of burning yourself out going after them like crazy person. Just, absolutely just enjoy Elite :)
+<p>For new commanders I would give recommendation which I completely dismissed myself before reaching this goal; Do not rush Triple Elite. Just enjoy the game, the ranks come eventually... no point of burning yourself out going after them like crazy person. Just, absolutely just enjoy Elite <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
-<p>Also dunno how to explain this, but I played original Elite with Commodore 64 back in probably 1985 or so, then Frontier Elite with Amiga 500 in the 90's where I never reached any specific rank even though I played original like crazy. This time Elite Dangerous is not just a game, its piece of gaming history and bigger than life... reaching the most sought after rank of Triple Elite was definitely more meaningful that just a simple "status", like said difficult to explain but hopefully you understand.
+<p>Also dunno how to explain this, but I played original Elite with Commodore 64 back in 1986 or so, then Frontier Elite with Amiga 500 in the 90's where I never reached any specific rank even though I played original like crazy. This time Elite Dangerous is not just a game, its piece of gaming history and bigger than life... reaching the most sought after rank of Triple Elite was definitely more meaningful that just a simple "status", like said difficult to explain but hopefully you understand.
 
 <p>For example when I reached the last rank part (combat) and was traveling back to the nearest station as Triple Elite, I was so emotional that almost had to stop my ship in super cruise and just take a moment to collect myself as I couldnt believe that I've finally reached this goal. I was actually sitting at the stations hangar for few minutes just taking it all in...
 </p>
 
-<p>I am extremely happy that reached this goal, Triple Elite truly is something else :)
+<p>I am extremely happy that reached this goal, Triple Elite truly is something else <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2022-01-09T10:15:00Z Special note: I accomplished this back in 2015, since then exploration and mining has had a complete overhaul, if you buy the game in 2022 or later and start to grind triple elite ranking, its not as hard as it was back in 2015. Not to take anything out of newbie commanders efforts in modern era, just stating the facts. One perfect example was the 2020 july low temperature diamonds mining craze, with my second account I went from clear save to Elite Trade rank within HOURS. Just think about that for a moment... things surely have changed a lot in Elite universe.
 </p>
 
 </section>
