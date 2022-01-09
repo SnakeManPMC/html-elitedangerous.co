@@ -21,7 +21,7 @@
 <section>
 
 <p>
-Welcome to PMC Tactical's Elite Dangerous pages. We are the old school PMC Space Monkey's from 1984 <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Welcome to PMC Tactical's Elite Dangerous pages. We are the old school PMC Space Monkey's from 1984 <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
