@@ -115,6 +115,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <p><a href="https://www.youtube.com/playlist?list=PLKt0kt4BAefkf_dCsdlj3nSrvgwA0KssM" target="_blank">PMC Elite Dangerous Youtube videos</a></p>
 <p><a href="pmc-galaxy-loop.php">PMC Galaxy Loop</a></p>
 <p><a href="from-scratch-trading.php">From Scratch Trading (in open play)</a></p>
+<p><a href="exploration-pmc-earth-like-world-tour.php">Exploration PMC Earth Like World Tour</a></p>
 </div>
 
 </section>
