@@ -116,6 +116,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <p><a href="pmc-galaxy-loop.php">PMC Galaxy Loop</a></p>
 <p><a href="from-scratch-trading.php">From Scratch Trading (in open play)</a></p>
 <p><a href="exploration-pmc-earth-like-world-tour.php">Exploration PMC Earth Like World Tour</a></p>
+<p><a href="exploration-mining-trading-2019.php">Exploration, Mining, Trading 2019</a></p>
 </div>
 
 </section>
