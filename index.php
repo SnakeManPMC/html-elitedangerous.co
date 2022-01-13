@@ -4,7 +4,7 @@
 <title>PMC Elite Dangerous</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite Dangerous">
-<META name="keywords" content="PMC, Elite Dangerous">
+<META name="keywords" content="PMC, Elite, Dangerous">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -118,6 +118,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <p><a href="my-path-to-anaconda.php">My path to Anaconda</a></p>
 <p><a href="pmc-galaxy-loop.php">PMC Galaxy Loop</a></p>
 <p><a href="pmc-wanderer-voyage-home.php">PMC Wanderer Voyage Home</a></p>
+<p><a href="second-cmdr-clear-save-mining.php">Second CMDR Clear Save Mining (2020 LTD era)</a></p>
 <p><a href="second-cmdr-mining-low-temperature-diamonds.php">Second CMDR Mining Low Temperature Diamonds</a></p>
 </div>
 
