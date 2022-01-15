@@ -517,8 +517,154 @@ Hmm not sure if I could take out CMDR Snake Man PMC and PMC PapaBear to see what
 Shut down elite even though EDMC is still sending data, 750 messages to go so I wait before starting second account CMDR Snake Man PMC.
 </p>
 
+	<h2>Second CMDR Mining 2021</h2>
+
 <p>
-Switched to CMDR Snake Man PMC account for mining operations, this CMDR log story is being released on 2022-01-15...
+2021-03-23T16:22:25Z Switched netlogs and journals, backupped etc etc, then started CMDR Snake Man PMC account for mining operations in the bubble.
+</p>
+
+<p>
+CMDR Snake Man PMC personal account has 100k credits, PMC PapaBear carrier balance 9.651 billion, tritium fuel depot full.
+</p>
+
+<p>
+PMC PapaBear modules/ships: 6719 units, markets: 1883 units, installed services: 2680 units, free space: 13718 units.
+</p>
+
+<p>
+My ships are starter sidewinder, mining cobra, lakon type-9 miner, python for sub-surface deposit and laser mining outfit.
+</p>
+
+	<h2>2021-03-23 CMDR Snake Man PMC Mining</h2>
+
+<p>
+2021-03-23T17:05:22Z Docked at Col 285 Sector UZ-P d5-90/V4F-G4G. PMC PapaBear is now on system for painite overlap hotspot ring, got this from victic's miner tool. 
+</p>
+
+<p>
+Plan is to go mine some painite, just to see how it feels, then try to sell it, probably wont do even a one load for testing purposes. I have my doubts about selling stations working at all, I mean for anykind of proper good profit selling.
+</p>
+
+<p>
+This system was in the bubble, there was maybe two dozen carriers or so, didn't count. I sent greetings cmdr's into system chat and nobody replied.
+</p>
+
+<p>
+2021-03-23T17:16:09Z Dropped to Body: Col 285 Sector UZ-P d5-90 A 6 A Ring, started mining.
+</p>
+
+<p>
+Oddly enough this is supposed to be barely painite overlap, but all I found was platinum heh.
+</p>
+
+<p>
+2021-03-23T18:23:15Z This didn't feel like overlapping location, got 13t platinum, 107t painite and 16t palladium.
+</p>
+
+<p>
+2021-03-23T18:28:07Z Docked at Col 285 Sector UZ-P d5-90/V4F-G4G. Offloaded minerals to carriers cargo, its contents now as above plus 1883t tritium and 51 limpets.
+</p>
+
+<p>
+I really don't like this place as its in the bubble and spawns fake AI pirates to scan you. I'd like to hop outside bubble, but that would be tomorrows thing as its getting very late for me.
+</p>
+
+<p>
+2021-03-23T18:31:40Z Shut down elite for CMDR Snake Man PMC, time to call it a night. Probably continue tomorrow to conclude this painite/platinum/etc high price mineral mining.
+</p>
+
+	<h2>2021-03-24 Mining Platinum Triple Overlapping Hotspot</h2>
+
+<p>
+2021-03-24T05:12:34Z New elite day has started, elite up with CMDR Snake Man PMC second account selected. Now what are we going to do today...
+</p>
+
+<p>
+Decided to move PMC PapaBear into the platinum triple overlapping hotspot system, hopefully there are better mining opportunities. This will be 40min task with all the jump timers and cooldowns, the joys of owning a carrier.
+</p>
+
+<p>
+2021-03-24T05:32:21Z Docked at Corona Austr. Dark Region AM-L b8-4/V4F-G4G. PMC PapaBear first jump towards triple platinum overlap hotspot system.
+</p>
+
+<p>
+2021-03-24T05:53:19Z Docked at Parrot's Head Sector EL-Y d83/V4F-G4G. PMC PapaBear arrived to mining system, lets see what we can find from here.
+</p>
+
+<p>
+2021-03-24T06:01:24Z Dropped into platinum triple overlapping hotspot, lets mine some.
+</p>
+
+<p>
+First asteroid prospected 53% platinum content, nice. Looks like we can mine some good tonnage here.
+</p>
+
+<p>
+2021-03-24T06:54:00Z Cargo hold and refinery hoppers full. Cargo 205t platinum, 5t painite and 14t palladium.
+</p>
+
+<p>
+2021-03-24T06:59:58Z Docked at Parrot's Head Sector EL-Y d83/V4F-G4G. PMC PapaBear transferred cargo to carrier, then from refinery bins 6t more platinum and 2t palladium. Carrier now 224t platinum, 112t painite, 32t palladium, 1883t tritium and 51 limpets.
+</p>
+
+<p>
+Then went back to mining right away.
+</p>
+
+<p>
+2021-03-24T08:01:19Z Cargo and refinery hoppers full, RTB. 205t platinum and 19t palladium, plus whatever comes out of the refinery hoppers.
+</p>
+
+<p>
+2021-03-24T08:06:41Z Docked at Parrot's Head Sector EL-Y d83/V4F-G4G. PMC PapaBear transferred cargo to carrier, etc. Carrier now 437t platinum, 51t palladium, difference since previous listing.
+</p>
+
+<p>
+And now I was bored, I really didn't want to go back out to mine some more. Not sure what else to do either though.
+</p>
+
+<p>
+After short break it was time to continue playing, I still don't know what to do that mining doesn't interest me much because even second account has 9.6 billion credits so where do I need any more heh. But decided to go do one more mining trip while I plan what do I do next.
+</p>
+
+<p>
+2021-03-24T09:04:08Z Had to shut down elite for restart because detailed surface scanner did not show hotspots, I could lock onto them but the visual graphics circle was not shown so it was impossible to tell what was the triple overlapping navigation panel item.
+</p>
+
+<p>
+2021-03-24T09:09:14Z Dropped to ring and lasers hit the first platinum asteroid.
+</p>
+
+<p>
+2021-03-24T09:59:06Z Cargo and refinery hoppers full, we are RTB.
+</p>
+
+<p>
+2021-03-24T10:04:19Z Docked at Parrot's Head Sector EL-Y d83/V4F-G4G. PMC PapaBear offloaded all cargo, carrier stats now 645t platinum, 112t painite and 75t palladium.
+</p>
+
+<p>
+Alright now I'm done with mining, sorry but I'm just bored with it now as it wont change a damn thing with 9.6 billion not to mention if I did this with real account which has 48 billion. I just don't need the credits and my time is better spent doing something else.
+</p>
+
+<p>
+Taking a short break to stretch my legs and check out how my apartment building repairs are progressing (no further details on that, sorry).
+</p>
+
+<p>
+Decided to not continue mining. Started to research how much platinum buy order I could create for PMC PapaBear and leave it to this system. The system chat was completely dead so I highly doubt nobody would sell here, but hey the buy order wont cost me a thing so why not.
+</p>
+
+<p>
+One carrier in this system was buying for 250k/ton and he had over 5.8k demand.
+</p>
+
+<p>
+So I created platinum buy order for 7998 tons paying 250,047 credits per ton.
+</p>
+
+<p>
+2021-03-24T10:27:30Z Shut down elite for CMDR Snake Man PMC. Guess I need to continue using real account but still need to decide what can I do or want to do.
 </p>
 
 <p>
