@@ -117,6 +117,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <p><a href="https://www.youtube.com/playlist?list=PLKt0kt4BAefkf_dCsdlj3nSrvgwA0KssM" target="_blank">PMC Elite Dangerous Youtube videos</a></p>
 <p><a href="my-path-to-anaconda.php">My path to Anaconda</a></p>
 <p><a href="pmc-galaxy-loop.php">PMC Galaxy Loop</a></p>
+<p><a href="pmc-wanderer-exploration-2021.php">PMC Wanderer Exploration 2021</a></p>
 <p><a href="pmc-wanderer-voyage-home.php">PMC Wanderer Voyage Home</a></p>
 <p><a href="searching-tritium-hotspots-2021.php">Searching Tritium Hotspots 2021</a></p>
 <p><a href="second-cmdr-clear-save-mining.php">Second CMDR Clear Save Mining (2020 LTD era)</a></p>
