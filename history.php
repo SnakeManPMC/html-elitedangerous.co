@@ -282,7 +282,8 @@ Wednesday. September 22nd, 2021. Odyssey v4.0.0.800 (Update 7)<br>
 Wednesday. October 27th, 2021. Odyssey v4.0.0.900 (Update 8)<br>
 Friday. October 29th, 2021. Odyssey v4.0.0.902 (Update 8.1)<br>
 Thursday. December 9th, 2021. Odyssey v? (Update 9)<br>
-Monday. December 13th, 2021. Odyssey v? (Update 9.01)
+Monday. December 13th, 2021. Odyssey v? (Update 9.01)<br>
+Tuesday. January 25th, 2022. Odyssey v? (Update 10)
 </p>
 
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
@@ -1036,6 +1037,10 @@ Odyssey v? (Update 9)<br>
 Odyssey v? (Update 9.01)<br>
 ?hrs patch notes<br>
 1615hrs upgrade available
+<br><br>
+Odyssey v? (Update 10)<br>
+1000hrs patch notes<br>
+?hrs upgrade available
 </p>
 </section>
 
