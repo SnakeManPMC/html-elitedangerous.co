@@ -20,6 +20,11 @@
 
 <section>
 <h2>The Visited Stars Cache</h2>
+
+<p>
+2022-04-28T20:00:00Z Below text contains possibly outdated information, please do not contact Frontier Support about "its not working". See the forums.frontier.co.uk topic link for details.
+</p>
+
 <p>On v2.2 we got visited stars cache feature which lists all the visited star systems from your CMDR locally in your Elite client. See details from <a href="https://forums.frontier.co.uk/showthread.php/291643-The-Visited-Stars-cache">Frontier Forums The Visited Stars cache</a> topic.
 </p>
 
