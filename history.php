@@ -4,7 +4,6 @@
 <title>PMC Elite Dangerous - History of Releases</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC Elite Dangerous, History of Releases">
-<META name="keywords" content="PMC, Elite Dangerous, History, Releases">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -286,7 +285,8 @@ Monday. Dec 13th, 2021. Odyssey v? (Update 9.01)<br>
 Tuesday. Jan 25th, 2022. Odyssey v? (Update 10)<br>
 Thursday. Feb 3rd, 2022. Odyssey v? (Update 10.02)<br>
 Monday. Feb 14th, 2022. Odyssey v? (Update 10.03)<br>
-Tuesday. Mar 15th, 2022. Odyssey v? (Update 11)
+Tuesday. Mar 15th, 2022. Odyssey v? (Update 11)<br>
+Wednesday. Jun 8th, 2022. Odyssey v? (Update 12)
 </p>
 
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
@@ -1056,6 +1056,10 @@ Odyssey v? (Update 10.03)<br>
 Odyssey v? (Update 11)<br>
 1001hrs patch notes<br>
 ?hrs upgrade available
+<br><br>
+Odyssey v? (Update 12)<br>
+Previous day patch notes<br>
+1201hrs upgrade available
 </p>
 </section>
 
