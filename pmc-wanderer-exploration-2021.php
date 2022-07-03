@@ -4,7 +4,6 @@
 <title>PMC Wanderer Exploration 2021 - PMC Elite Dangerous</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC Wanderer Exploration 2021 - PMC Elite Dangerous">
-<META name="keywords" content="PMC, Wanderer, Exploration, Mining, Tritium, Fleet, Carrier, Elite, Dangerous">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -831,7 +830,7 @@ Switched to PMC Miner 3 which is sub-surface deposit and laser mining python.
 </p>
 
 <p>
-2021-03-31T22:17:06Z After mining few astroids... I unfortunately have to say I'm not impressed. I found so far no sub-surface deposits worth to mine (found one) and general percentages have been max 15% but I found one 29% with material content high. So dunno.
+2021-03-31T22:17:06Z After mining few asteroids... I unfortunately have to say I'm not impressed. I found so far no sub-surface deposits worth to mine (found one) and general percentages have been max 15% but I found one 29% with material content high. So dunno.
 </p>
 
 <p>
@@ -936,17 +935,19 @@ The End.
 
 <p>
 If you enjoyed this CMDR's log story, check out our others like:
-<a href="cmdr-snake-man-my-path-to-a-triple-elite.php">CMDR Snake Man My Path To A Triple Elite</a>,
-<a href="exploration-mining-trading-2019.php">Exploration, mining, trading 2019</a>,
-<a href="exploration-pmc-earth-like-world-tour.php">Exploration PMC Earth Like World Tour</a>,
-<a href="from-scratch-trading.php">From Scratch Trading (in open)</a>,
-<a href="my-path-to-anaconda.php">My Path To Anaconda</a>,
-<a href="pmc-galaxy-loop.php">PMC Galaxy Loop</a>,
-<a href="pmc-wanderer-voyage-home.php">PMC Wanderer Voyage Home</a>,
-<a href="searching-tritium-hotspots-2021.php">Searching Tritium Hotspots 2021</a>,
-<a href="second-cmdr-clear-save-mining.php">Second CMDR Clear Save Mining (2020 LTD era)</a>,
-<a href="second-cmdr-mining-low-temperature-diamonds.php">Second CMDR Mining Low Temperature Diamonds</a>.
 </p>
+<ul>
+<li><a href="cmdr-snake-man-my-path-to-a-triple-elite.php">CMDR Snake Man My Path To A Triple Elite</a></li>
+<li><a href="exploration-mining-trading-2019.php">Exploration, mining, trading 2019</a></li>
+<li><a href="exploration-pmc-earth-like-world-tour.php">Exploration PMC Earth Like World Tour</a></li>
+<li><a href="from-scratch-trading.php">From Scratch Trading (in open)</a></li>
+<li><a href="my-path-to-anaconda.php">My Path To Anaconda</a></li>
+<li><a href="pmc-galaxy-loop.php">PMC Galaxy Loop</a></li>
+<li><a href="pmc-wanderer-voyage-home.php">PMC Wanderer Voyage Home</a></li>
+<li><a href="searching-tritium-hotspots-2021.php">Searching Tritium Hotspots 2021</a></li>
+<li><a href="second-cmdr-clear-save-mining.php">Second CMDR Clear Save Mining (2020 LTD era)</a></li>
+<li><a href="second-cmdr-mining-low-temperature-diamonds.php">Second CMDR Mining Low Temperature Diamonds</a></li>
+</ul>
 
 </section>
 
