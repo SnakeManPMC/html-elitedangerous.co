@@ -4,7 +4,6 @@
 <title>PMC Elite Dangerous, Price History</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC Elite Dangerous Price history of various releases">
-<META name="keywords" content="PMC, Elite Dangerous, Price, History">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -99,6 +98,11 @@ Odyssey 34,99<br>
 Odyssey Deluxe Edition (includes official soundtrack) 39,99<br>
 Elite Dangerous: Commander Premium Edition (elite + odyssey + soundtrack) 54,99
 </p>
+
+<h2>October 2022, v4.0</h2>
+<p>No changes to oct 2021.
+</p>
+
 </section>
 
 <footer>
