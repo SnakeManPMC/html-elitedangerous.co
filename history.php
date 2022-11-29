@@ -1069,7 +1069,7 @@ Previous day patch notes<br>
 <br><br>
 Odyssey (Update 14)<br>
 0700hrs game servers down.<br>
-1500hrs servers back up
+1843hrs servers back up
 </p>
 </section>
 
