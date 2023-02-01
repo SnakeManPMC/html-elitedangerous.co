@@ -290,6 +290,7 @@ Wednesday. Jun 8th, 2022. Odyssey v? (Update 12)<br>
 Thursday. Sep 15th, 2022. v4.0 (horizon + odyssey or something)<br>
 Tuesday. Nov 29th, 2022. Odyssey (Update 14)<br>
 Wednesday. Dec 7th, 2022. Odyssey (Update 14.01)<br>
+Tuesday. Jan 31st, 2023. Odyssey (Update 14.02)<br>
 </p>
 
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
@@ -1073,6 +1074,10 @@ Odyssey (Update 14)<br>
 1843hrs servers back up
 <br><br>
 Odyssey (Update 14.01)<br>
+1500hrs game servers down.<br>
+?hrs servers back up
+<br><br>
+Odyssey (Update 14.02)<br>
 1500hrs game servers down.<br>
 ?hrs servers back up
 </p>
