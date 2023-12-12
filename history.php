@@ -297,6 +297,7 @@ Monday. Jun 5th, 2023. Odyssey (Update 15.02)<br>
 Tuesday. Aug 1st, 2023. Odyssey (Update 16)<br>
 Tuesday. Aug 29th, 2023. Odyssey (Update 16.01)<br>
 Monday. Oct 16th, 2023. Odyssey (Update 17)<br>
+Tuesday. Dec 12th, 2023. Odyssey (Update 17.01)<br>
 </p>
 
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
@@ -1110,6 +1111,10 @@ Odyssey (Update 16.01)<br>
 Odyssey (Update 17)<br>
 0700hrs game servers down.<br>
 1400hrs servers back up
+<br><br>
+Odyssey (Update 17.01)<br>
+0800hrs game servers down.<br>
+1201hrs servers back up
 </p>
 </section>
 
