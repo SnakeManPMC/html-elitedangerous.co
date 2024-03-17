@@ -4,7 +4,6 @@
 <title>PMC Elite Dangerous - Mining</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite Dangerous, Mining">
-<META name="keywords" content="PMC, Elite Dangerous, Mining">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,13 +13,12 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous - Mining</b></h1>
+<h1>PMC Elite Dangerous - Mining</h1>
 </header>
 
 <section>
 <p>
-<b>2020-07-15</b> last update.
+<b>2020-07-15</b> last update (typo alike fixes in 2024-03-16T23:50:24Z).
 </p>
 
 	<h2>Mining</h2>
@@ -159,6 +157,11 @@ Overlapping hotspots does not matter when it comes to void opals.
 <p>
 <i>See notes above about patch 3</i>. LTDs overlapping hotspots mining is still the best in a large ship with many collector limpets.
 </p>
+
+<p>
+Summer of 2020 had a crazy LTD mining frenzy going on in Col 285 system, most lucrative and controversial mining method was "Farming The Egg". Read more about <a href="egg.php">What Is The Egg?</a>
+</p>
+
 
 	<h2>Fleet Carriers</h2>
 

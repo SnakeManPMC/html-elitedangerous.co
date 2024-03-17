@@ -4,7 +4,6 @@
 <title>PMC Elite Dangerous</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite Dangerous">
-<META name="keywords" content="PMC, Elite, Dangerous">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,8 +13,7 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous</b></h1>
+<h1>PMC Elite Dangerous</h1>
 </header>
 
 <section>
@@ -86,6 +84,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 
 <p><a href="controls.php">Controls (keyboard etc)</a></p>
 <p><a href="mining.php">Mining</a></p>
+<p><a href="egg.php">The Egg</a></p>
 <p><a href="pristine-reserves-metallic-rings.php">Pristine Reserves Metallic Rings</a></p>
 <p><a href="crime.php">Crime (and punishment)</a></p>
 <p><a href="federation-empire-rank-progression.php">Federation and Empire rank progression</a></p>

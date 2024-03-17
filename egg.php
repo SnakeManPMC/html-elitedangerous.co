@@ -4,7 +4,6 @@
 <title>Mining The Egg - PMC Elite Dangerous</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="Mining The Egg, PMC Elite Dangerous">
-<META name="keywords" content="Mining, Egg, PMC, Elite, Dangerous">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,18 +13,21 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-	<h1><b>PMC Elite Dangerous Mining - The EGG</b></h1>
+<h1>PMC Elite Dangerous Mining - The EGG</h1>
 <p>What is the egg?</p>
 </header>
 
 <section>
 
 <p>
-<b>2020-07-15</b> last update. Too long didn't read; FDEV killed the egg with fleet carriers patch 3, what you can read below is basiscally history now, sorry ;)
+<b>2020-07-15</b> last update. Too long didn't read; FDEV killed the egg with fleet carriers patch 3, what you can read below is basiscally history now, sorry <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 	<h2>What is The Egg?</h2>
+
+<p>
+It is <a href="mining.php">mining</a> related.
+</p>
 
 <p>
 You are in <b>Col 285 Sector Cc-k a38-2</b> body 1 mining low temperature diamonds (LTD) and in system chat commanders (CMDR) keep talking about "egg", what is it?
@@ -69,7 +71,7 @@ Now turn your ship nose to point into the planet, its relative but assuming you 
 </p>
 
 <p>
-Now fly ahead, boost if you got it. Around 15km or so (cant actually remember) you see a puff of white smoke/thing on the left side, it seems to be always there I have never seen it not to be. Soon after you see same thing in front / below of you. Around 22km or so stop boosting, ie be prepared to stop. When distance to hotspot reaches 24.5km cut throttle and pitch nose down, hit pulse wave analyzer and the bright orange/yellow asteroid in front of you is the EGG ;)
+Now fly ahead, boost if you got it. Around 15km or so (cant actually remember) you see a puff of white smoke/thing on the left side, it seems to be always there I have never seen it not to be. Soon after you see same thing in front / below of you. Around 22km or so stop boosting, ie be prepared to stop. When distance to hotspot reaches 24.5km cut throttle and pitch nose down, hit pulse wave analyzer and the bright orange/yellow asteroid in front of you is the EGG <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -98,7 +100,7 @@ Fly to the asteroid, mine it fully until its depleted. Turn of your ships thrust
 </p>
 
 <p>
-Turn on your ship thrusters and mine the asteroid, once done... just repeat the above until your cargo hold is full of diamonds or you run out of sub surface deposit missiles :)
+Turn on your ship thrusters and mine the asteroid, once done... just repeat the above until your cargo hold is full of diamonds or you run out of sub surface deposit missiles <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -140,7 +142,7 @@ It is up to each CMDR to decide for themselves if they want to conduct such beha
 </p>
 
 <p>
-PMC mines because we love mining, and sure yes the credits ain't bad either ;-)
+PMC mines because we love mining, and sure yes the credits ain't bad either <img src="../images/smileys/icon_twisted.gif" alt="Smiley :twisted:" loading="lazy">
 </p>
 
 <p>
