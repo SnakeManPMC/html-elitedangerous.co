@@ -14,12 +14,17 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous, Star Map (EDSM)</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous, Star Map (EDSM)</b></h1>
+
 <p>By AnthorNet</p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
+
 <p>
 Elite Dangerous Star Map (EDSM) is a community effort to store and calculate systems coordinates around the Elite Dangerous Galaxy.
 </p>
@@ -30,17 +35,20 @@ Elite Dangerous Star Map (EDSM) is a community effort to store and calculate sys
 <p>Please note that elite star coordinator (edstarcoordinator.com) or EDSC is obsolete website and should not be used anymore, all your star system information should be stored to EDSM instead.
 </p>
 
-<a href="http://www.edsm.net/">EDSM Homepage</a>
-<br><br>
+<p><a href="http://www.edsm.net/">EDSM Homepage</a>
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

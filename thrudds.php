@@ -14,13 +14,19 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous, Thrudds</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous, Thrudds</b></h1>
+
 <p>elitetradingtool by Thrudds</p>
+
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>Thrudds elite trading tool</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>Thrudds elite trading tool</h2>
+
 <p>
 Thrudds elite trading tool is obsolete website and should not be used. Okay fine, so why are you preaching about it dude? Well because we see people still recommending and referring to this website on daily basis, either they are stupid and refuse to use proper sites/tools or they are just ignorant and honestly do not know.
 </p>
@@ -39,13 +45,17 @@ Thrudds elite trading tool is obsolete website and should not be used. Okay fine
 <p><b>Update 10-31-17</b>: thrudd took his website down on october 24th 2017 apparently. Rest in piece thrudd.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

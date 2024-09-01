@@ -14,12 +14,15 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous, Resource Extraction Sites (RES)</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous, Resource Extraction Sites (RES)</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>Resource Extraction Sites</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>Resource Extraction Sites</h2>
 
 <p>Resource Extraction Sites or simply RES, are locations in planetary rings where miners go extract resources, pirates go pirate the miners, bounty hunters go hunt the pirates as well as sometimes police to protect the miners. All in one big happy harmony :)</p>
 
@@ -92,13 +95,17 @@ Wolf 1241
 <p>This passive bonus works so that once you scan wanted ship, check contacts panel and then destroy this ship you see the value in the contacts and upper right side of the cockpit HUD, however in transactions you have received the credits with 20% bonus.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

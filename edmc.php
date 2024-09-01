@@ -14,13 +14,18 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous, Market Connector (EDMC)</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous, Market Connector (EDMC)</b></h1>
+
 <p>By Otis B.</p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>Elite Dangerous Market Connector</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>Elite Dangerous Market Connector</h2>
+
 <p>Uses Frontier Developments official iOS API (aka <a href="community-api.php">Community API</a>) to connect and download commodity market prices, shipyard ship sales and outfitting modules information. It then sends this data automatically to <a href="eddn.php">EDDN</a> with single click of a button, or a keyboard hotkey or even automatically if so configured in settings.
 </p>
 
@@ -41,13 +46,17 @@ When sending scan data and you close EDMC no data gets lost as next time when yo
 <p><a href="https://github.com/Marginal/EDMarketConnector">EDMC Homepage</a> in github
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

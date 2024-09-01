@@ -13,10 +13,14 @@
 <body>
 
 <header>
-<h1>PMC Elite Dangerous</h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1>PMC Elite Dangerous</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 
 <p>
 Welcome to PMC Tactical's Elite Dangerous pages. We are the old school PMC Space Monkey's from 1984 <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
@@ -123,11 +127,15 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <p><a href="second-cmdr-mining-low-temperature-diamonds.php">Second CMDR Mining Low Temperature Diamonds</a></p>
 </div>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

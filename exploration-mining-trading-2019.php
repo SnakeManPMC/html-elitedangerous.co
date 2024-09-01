@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>Hunting Missing Data, Exploration, Mining, TradeDangerous Trading, Bounty Hunting 2019 PMC Elite Dangerous</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>Hunting Missing Data, Exploration, Mining, TradeDangerous Trading, Bounty Hunting 2019 PMC Elite Dangerous</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Overview</h2>
 
 <p>
@@ -1623,13 +1626,17 @@ Alright todays plan is... the same as yesterday, continue visiting stations in e
 If you enjoyed this CMDR's log story, check out our others like: <a href="cmdr-snake-man-my-path-to-a-triple-elite.php">CMDR Snake Man My Path To A Triple Elite</a>, <a href="exploration-pmc-earth-like-world-tour.php">Exploration PMC Earth Like World Tour</a>, <a href="from-scratch-trading.php">From Scratch Trading (in open)</a>, <a href="my-path-to-anaconda.php">My Path To Anaconda</a> and <a href="pmc-galaxy-loop.php">PMC Galaxy Loop</a>.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y"));?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

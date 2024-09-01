@@ -14,12 +14,15 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous, CMDR Snake Man my path to a Triple Elite</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous, CMDR Snake Man my path to a Triple Elite</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>This is my story of how I reached Triple Elite status</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>This is my story of how I reached Triple Elite status</h2>
 
 <p>Beginning statistics as reference. Also rough estimate how long time it takes to reach this goal, however as you can read below this estimate went so belly up its not even funny. This below status and estimate was written in 2015-04-03 and while I could have easily deleted whole thing I really wanted to leave it here as reminder of what my expectactions were when starting this. Also hopefully this helps anyone who thinks about same kind of plan to reach this goal.
 </p>
@@ -609,13 +612,17 @@ Too bad I didn't yet find any such beacons in A Lavigny-Duval control systems wh
 2022-01-09T10:15:00Z Special note: I accomplished this back in 2015, since then exploration and mining has had a complete overhaul, if you buy the game in 2022 or later and start to grind triple elite ranking, its not as hard as it was back in 2015. Not to take anything out of newbie commanders efforts in modern era, just stating the facts. One perfect example was the 2020 july low temperature diamonds mining craze, with my second account I went from clear save to Elite Trade rank within HOURS. Just think about that for a moment... things surely have changed a lot in Elite universe.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

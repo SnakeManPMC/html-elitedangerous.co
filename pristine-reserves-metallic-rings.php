@@ -14,12 +14,16 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous, Pristine Reserves Metallic Rings</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous, Pristine Reserves Metallic Rings</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>Pristine Reserves Metallic Rings Systems (for mining and bounty hunting)</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>Pristine Reserves Metallic Rings Systems (for mining and bounty hunting)</h2>
+
 <p>These are the best valued rings for mining sources, as well as bounty hunting. You should not mine in ring systems which are depleted, low, common or even major reserves, always go for pristine reserves as that gives you the best minerals.
 </p>
 
@@ -116,13 +120,17 @@ FEHU<br>
 Bhaga 7 A ring
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

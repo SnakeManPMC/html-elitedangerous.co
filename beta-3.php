@@ -14,12 +14,15 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous - Beta 3</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1>PMC Elite Dangerous - Beta 3</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>Beta 3 information portal</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>Beta 3 information portal</h2>
 
 <p>
 Beta 3 on October 28th, 2014.<br>
@@ -63,13 +66,18 @@ Beta 3.9 News:<br>
 - Ship outfitting and Galaxy map have both had major overhauls<br>
 - open-mic voice communications between up to 6 players in a group has been added
 </p>
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

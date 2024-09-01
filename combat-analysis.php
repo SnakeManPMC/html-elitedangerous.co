@@ -14,12 +14,17 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous, Combat Analysis</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous, Combat Analysis</b></h1>
+
 <p>Welcome to combat analysis</p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
+
 <p>
 v1.1 ??? in general<br>
 Gimballed or turret weapons cannot hit shit, useless.
@@ -93,12 +98,16 @@ ASP A5 thrusters, A6 shields, A4 power distributor, with 6x gimballed pulse lase
 <p>Elite is turning into a very difficult in v2.2 that's for sure. I wonder if this is temporary balancing issue or really something that David Braben wanted to create.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -14,12 +14,15 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous - My path to Anaconda</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous - My path to Anaconda</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>Story of how did I save up to Anaconda purchase.</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>Story of how did I save up to Anaconda purchase.</h2>
 
 <p>My path to Anaconda Mar 2015</p>
 
@@ -45,13 +48,18 @@ Insurance (lakon type-9) 3.9 million<br>
 03-23-15 2036hrs 137.9</p>
 
 <p>As summary the lowest earning day was ? and highest ? million credis earned. Its kind of difficult to state those as my gaming time was too irregular.</p>
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

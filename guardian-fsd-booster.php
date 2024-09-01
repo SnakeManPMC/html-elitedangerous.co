@@ -14,12 +14,16 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous, Guardian FSD Booster</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous, Guardian FSD Booster</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>Guardian FSD Booster</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>Guardian FSD Booster</h2>
+
 <p>
 This module gives your ship 10.5 light year jump range Booster.
 </p>
@@ -110,13 +114,17 @@ Next go to guardian technology broker to unlock the FSD Booster module. Find nea
 Once you arrive to the station go to starport services -> contacts -> technology broker -> guardian fsd booster
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y"));?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

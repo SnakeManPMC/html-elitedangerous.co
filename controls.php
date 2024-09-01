@@ -14,12 +14,15 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous - Controls</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous - Controls</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>Info about Controls like Keyboard of Joystick HOTAS etc.</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>Info about Controls like Keyboard of Joystick HOTAS etc.</h2>
 
 <h2>Keyboard Layouts</h2>
 
@@ -121,13 +124,17 @@ Settings.xml contents cannot be put in GraphicsConfigurationOverride.xml file.
 Elite v2.0 Horizons installs to edlauncher\Products\elite-dangerous-64\ directory. It obviously depends where you have installed Elite Launcher in the first place. For Steam version you need to check your steam library directories for Elite dir.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

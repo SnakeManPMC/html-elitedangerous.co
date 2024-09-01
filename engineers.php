@@ -14,13 +14,18 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous - The Engieers</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous - The Engieers</b></h1>
+
 <p>Basic The Engineers info</p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>FSD Upgrades</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>FSD Upgrades</h2>
+
 <p>
 Almost all the minerals you previously had to gather from planet surfaces, can now be mined from asteroids.
 </p>
@@ -111,13 +116,17 @@ Praseodymium == Mining<br>
 Strange wake solutions == Frameshift wake scanner
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

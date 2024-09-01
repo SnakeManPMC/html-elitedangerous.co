@@ -14,13 +14,19 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous - HOWTO Install</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous - HOWTO Install</b></h1>
+
 <p>Install Instructions</p>
+
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>HOWTO Install Elite Dangerous</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>HOWTO Install Elite Dangerous</h2>
+
 <p>First you must purchase the game by registering account into <a href="https://www.frontierstore.net/">frontier store</a>, you'll find <a href="https://www.frontierstore.net/games/elite-dangerous-cat.html">Elite Dangerous</a> category in there.
 </p>
 
@@ -42,13 +48,17 @@
 <p>You can read more about using Elite Dangerous launcher in <a href="multiple-accounts.php">multiple accounts</a> page.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y"));?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

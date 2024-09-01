@@ -13,12 +13,16 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous, Price History</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous, Price History</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>Price history of all game versions</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>Price history of all game versions</h2>
+
 <p>History of pricing. Currency is EURO and its not designated otherwise but just numbers to save space etc. Prices found from <a href="https://www.frontierstore.net/eur/games/elite-dangerous-cat.html">frontierstore.net</a>.
 </p>
 
@@ -103,13 +107,17 @@ Elite Dangerous: Commander Premium Edition (elite + odyssey + soundtrack) 54,99
 <p>No changes to oct 2021.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

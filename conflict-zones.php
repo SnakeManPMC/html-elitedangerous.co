@@ -14,12 +14,15 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous, Conflict Zones</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous, Conflict Zones</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>Conflict Zones</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>Conflict Zones</h2>
 
 <p>These are the locations where factions are at war. Here you can find capital ships and intense combat with many ships in the fight (but this only appears on big war conflicts, not on smaller civil war conflicts). Combat Bonds (bounties sort of) are not that high as in <a href="resource-extraction-sites.php">Resource Extraction Sites</a> but conflict zones have little bit more action for sure.</p>
 
@@ -52,13 +55,17 @@ Also, bounties and combat bonds are given a slight passive boost in systems cont
 <p>The bad thing about conflict zones are that if you have very bad luck and get those 4+ ships attacking you at once, its basically game over. Even on anaconda with class 7 A rated shield generator with 5 shield boosters, your shields are toast quicker than your shield cell bank (one) can work to restore them and once your shields are down, the hull goes to 50% or less during the time you are engaging FSD to jump into nearby star system. Very very annoying and you never see this on hazardous RES (unless you provoke the situation yourself by attacking 3+ wings at once).
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

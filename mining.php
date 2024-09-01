@@ -13,10 +13,15 @@
 <body>
 
 <header>
-<h1>PMC Elite Dangerous - Mining</h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1>PMC Elite Dangerous - Mining</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
+
 <p>
 <b>2020-07-15</b> last update (typo alike fixes in 2024-03-16T23:50:24Z).
 </p>
@@ -296,13 +301,17 @@ Often times high demand stations pay much less, perhaps like 900k - 1.1 million 
 If you own a carrier you can park it nearby the low demand high paying station, then just do several LTD hauling trips with your ship selling only specific amount of tons to get the maximum price, right? WRONG, trust me on this on 2020-07-09 we sold 14,300t of LTDs in station that only accepted 360t per trip to avoid bulk tax... and we spend ALL DAY hauling diamonds. There were no other CMDR's present to help us out as everyone was on another system with high demand. It is just not worth it, go to a station with enough demand so you can sell large cargo ship load at once.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

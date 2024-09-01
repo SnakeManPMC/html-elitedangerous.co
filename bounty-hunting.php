@@ -14,12 +14,15 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous - Bounty Hunting</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous - Bounty Hunting</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>How To Bounty Hunt</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>How To Bounty Hunt</h2>
 
 <p>Bounty hunting tips:
 <br><br>
@@ -86,13 +89,17 @@ Open galaxy map, select powerplay -> a lavigny-duval -> control (systems). Now y
 <p>A Lavigny-Duval system pristine reserves, did not detail scan yet so dont know what types, medium pads only: Tiburnat
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -14,12 +14,15 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous The Visited Stars Cache</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous The Visited Stars Cache</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>The Visited Stars Cache</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>The Visited Stars Cache</h2>
 
 <p>
 2022-04-28T20:00:00Z Below text contains possibly outdated information, please do not contact Frontier Support about "its not working". See the forums.frontier.co.uk topic link for details.
@@ -47,13 +50,17 @@ C:\Users\YOURNAME\AppData\Local\Frontier Developments\Elite Dangerous\NUMBERS-HE
 <p>There will be an error message about unrecognised star names in the network log (netLog): you won't need to turn on any options for it.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

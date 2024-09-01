@@ -14,12 +14,15 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous - Ships</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous - Ships</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>All the ships available.</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>All the ships available.</h2>
 
 <p>You can purchase most ships from High Tech and Industrial systems with high population.</p>
 
@@ -345,13 +348,18 @@ Shield generator, Class 4, rating A, 1.4 million<br><br>
 <b>Lakon Type-9:</b><br>
 Cannon turreted, Class 2, rating E, 3.6 million<br>
 Multicannon turreted, Class 2, rating F, 1.1 million</p>
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

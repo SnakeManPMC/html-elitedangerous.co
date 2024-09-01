@@ -14,23 +14,31 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous, Elite Dangerous Data Network (EDDN)</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous, Elite Dangerous Data Network (EDDN)</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>Elite Dangerous Data Network</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>Elite Dangerous Data Network</h2>
 
 <p>It is a relay for market data stream coming from <a href="edmc.php">EDMC</a>, Maddavo's market share and other EDDN sender clients.</p>
 
 <p>It is following the footsteps of Andreas Market Scraper and EDMN.</p>
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -14,12 +14,15 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous - Commodities Market</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous - Commodities Market</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>List of all the items available in Commodities Market.</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>List of all the items available in Commodities Market.</h2>
 
 <h2>Trading Tips</h2>
 
@@ -325,13 +328,18 @@ Conclusion: earned 77.8 million, expenses 10.3 million, total balance 88.7 milli
 <br><br>
 Conclusion: it wen well except on day 5 when I took ASP and went to look for better trading routes, that took way way too long time, almost all day. I did trade few runs but then went to the gym and after that was too tired to play. Day 6 wasn't that great either, but with the previous days earnings (which I didn't document hehe) it came to planned ten million. Day 7 was purely bad because got bored and tired so I went to relax mode and watched some tv rest of the night. Day 8 was nice then with great enthusiasm as I found new trade route, but didn't really do that much trading for example if compared to first day. Overall nice trading week, perhaps bit too long (extra day btw so over week) so boredom is real factor, but nice experiment as well. Now at least I have nice budget to buy Python :)
 </p>
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous, PMC Galaxy Loop</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous, PMC Galaxy Loop</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Epic journey of exploration around the milky way galaxy!</h2>
 
 <p><b>PMC Exploration Galaxy Loop</b></p>
@@ -569,13 +572,17 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>Links: <a href="https://www.edsm.net/en/galactic-routes/show/id/210/name/PMC+Galaxy+Loop">EDSM - PMC Galaxy Loop</a> and this trips video "diary" from <a href="https://www.youtube.com/user/pmcsince1984/search?query=pmc+galaxy+loop+part">PMC youtube channel</a>.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

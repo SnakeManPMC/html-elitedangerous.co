@@ -14,12 +14,17 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous - Improving Trading Data</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous - Improving Trading Data</b></h1>
+
 <p>HOWTO Improve Trading Data</p>
+
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Elite Trading Data Quality</h2>
 
 <p><b>2019-10-07 Updated to Elite Dangerous v3.5</b></p>
@@ -78,13 +83,17 @@ trade.py olddata --no-planet --limit 20 --pad-size l --ls-max 2000
 trade.py olddata --no-planet --limit 50 --pad-size l --ls-max 2000 --near shinrarta --route --ly 100 --min-age 100
 </pre>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y"));?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

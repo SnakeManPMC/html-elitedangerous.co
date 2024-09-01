@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous - TradeDangerous</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous - TradeDangerous</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Overview</h2>
 
 <p>TradeDangerous (TD) by Kfsone is the greatest trading tool for Elite Dangerous simply because it has the ability to <b>return the BEST trading profit collected from ALL stations!</b> which no other tool does (others ask you from which system you want to search best profits or they pre-calculate the stations etc).
@@ -43,7 +46,7 @@ Grab the git repository or ZIP from <a href="https://github.com/eyeonus/Trade-Da
 	<h2>Update Database</h2>
 
 <p>
-Update database from EDDN through EDDB through <a href="http://elite.ripz.org/">Tromador's Trading Dangerously (elite.ripz.org)</a> by using eddblink plugin. elite.ripz.org database (Live Prices listings-live.csv) seems to be updating every 5 minutes.
+Update database from EDDN through EDDB through <a href="http://elite.tromador.com/">Tromador's Trading Dangerously</a> by using eddblink plugin. elite.ripz.org database (Live Prices listings-live.csv) seems to be updating every 5 minutes.
 </p>
 
 <pre>
@@ -424,23 +427,17 @@ It seems to work for a while then breaks, then its down until maddavo perhaps mo
 <b>2018-06-16</b>: new <a href="https://github.com/eyeonus/Trade-Dangerous">eyeonus GitHub Trade Dangerous repository</a> and created <a href="https://forums.frontier.co.uk/showthread.php/441509-Trade-Dangerous-(Est-2015)-Power-user-s-highly-configurable-trade-optimizer">FDEV forum Trade-Dangerous-(Est-2015)-Power-user-s-highly-configurable-trade-optimizer topic</a>.
 </p>
 
-<!--
-	<h2></h2>
-
-<p>
-</p>
-
-<pre>
-</pre>
--->
-
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

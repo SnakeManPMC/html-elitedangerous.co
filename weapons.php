@@ -14,12 +14,15 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous - Weapons</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous - Weapons</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>List of all the weapons available. You can equip your ship with weapons and gear from the starport Outfitting menu.</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>List of all the weapons available. You can equip your ship with weapons and gear from the starport Outfitting menu.</h2>
 
 <h2>Pulse Laser</h2>
 <p>These are the weakest laser weapons, but also lasers that use less power and produce less heat.
@@ -42,13 +45,18 @@
 <p>Not all hardpoints support all weapons.</p>
 
 <p>I Bootis system, Chango Dock is the place where you find advanced weaponry to your ship. If you dont find what you are looking for, like for example the turreted weapons for Anaconda, then you must go out of the outfitting menu (possibly even exit whole game!) and come back, as the weapon availability is randomized every time.</p>
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

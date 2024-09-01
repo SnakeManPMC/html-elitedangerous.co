@@ -14,12 +14,15 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous - Landing pad size and distance from star tutorial</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous - Landing pad size and distance from star tutorial</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>What is landing pad size?</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>What is landing pad size?</h2>
 
 <p>It means that large ships cannot land on Small or Medium sized pads, they only land / dock on Large landing pads.</p>
 
@@ -61,13 +64,18 @@ Python<br>
 <h2>Why is distance from star important?</h2>
 
 <p>If you want to be efficient in trading you need to filter out stations that are much further than 1000Ls from the star. I mean would you like to run trade route where you travel to Hutton Orbital 1,200,000 light seconds away spending 1h 30min in supercruise? Yep I thought you wouldn't :)</p>
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

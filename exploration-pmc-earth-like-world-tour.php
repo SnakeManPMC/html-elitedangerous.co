@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous Exploration PMC Earth Like World Tour</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous Exploration PMC Earth Like World Tour</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Overview</h2>
 
 <p>
@@ -1307,13 +1310,17 @@ Elite Log session systems visited (FSD jumps): 701, special planets ammonia: 8, 
 I was dead tired and wanted to go to sleep but of course EDMC was uploading still over 7,000 EDDN messages when I was done selling the exploration data. But had to wait until EDMC was done, it was 100 messages to left to send when I heard from the author that yes you can close the program and it will continue nicely on next time you start it. Oh well, got everything uploaded and basically crashed to bed for some well earned rest... <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y"));?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

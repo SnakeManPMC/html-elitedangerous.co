@@ -13,14 +13,19 @@
 <body>
 
 <header>
-<h1>PMC Elite Dangerous Mining - The EGG</h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1>PMC Elite Dangerous Mining - The EGG</h1>
+
 <p>What is the egg?</p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 
 <p>
-<b>2020-07-15</b> last update. Too long didn't read; FDEV killed the egg with fleet carriers patch 3, what you can read below is basiscally history now, sorry <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+<b>2020-07-15</b> last update. Too long didn't read; FDEV killed the egg with fleet carriers patch 3, what you can read below is basically history now, sorry <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 	<h2>What is The Egg?</h2>
@@ -149,13 +154,17 @@ PMC mines because we love mining, and sure yes the credits ain't bad either <img
 See also <a href="mining.php">PMC Elite Dangerous: Mining</a>.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y"));?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

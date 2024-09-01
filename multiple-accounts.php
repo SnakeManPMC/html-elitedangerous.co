@@ -14,13 +14,18 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous - Multiple Accounts</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous - Multiple Accounts</b></h1>
+
 <p>Second Commander?</p>
+
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>Multiple Accounts</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>Multiple Accounts</h2>
 
 <ul>
 <li>You do not need to install game multiple times
@@ -108,13 +113,17 @@ C:\Users\YOURNAME\AppData\Local\Frontier Developments\Elite Dangerous\YOUR_CMDR_
 <p>Some info at <a href="https://forums.frontier.co.uk/showthread.php/386995-Elite-Dangerous-Multiple-accounts-on-the-same-Windows-user-account">Frontier Forums topic</a>.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y"));?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

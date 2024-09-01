@@ -14,13 +14,18 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous, Trading Basic Info</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous, Trading Basic Info</b></h1>
+
 <p>Welcome to Elite Trading</p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>Elite Trading Basic Info</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>Elite Trading Basic Info</h2>
+
 <p>Commodities market is where you buy goods, travel to different system and sell those goods there for profit.
 </p>
 
@@ -81,13 +86,17 @@ Station depart normal: 55sec, 2 x 58sec, 2 x 1min 1sec
 <p>Buy imperial slaves at a discount in Torvals Space. Take them about 2 or 3 jumps into Delaines space where black markets have a buff and sell them. Easily 3900 - 4100 credit per ton profit.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

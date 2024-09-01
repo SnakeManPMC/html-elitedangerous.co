@@ -14,12 +14,15 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC Elite Dangerous, Cockpit Holograms</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1><b>PMC Elite Dangerous, Cockpit Holograms</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>Cockpit Hologram Images and Descriptions</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>Cockpit Hologram Images and Descriptions</h2>
 
 <p>These are the cockpit hologram images you get when you select planet etc as target. This is related to exploration of new astronomical objects and you should check <a href="system-map.php">System Map Guide</a> as well.</p>
 
@@ -63,13 +66,17 @@
 
 <img src="images/Cockpit-Hologram-10.png" alt="Cockpit Hologram 10, Black Holes">
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Elite Dangerous root page</a></p>
 <br><br>
 <p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>
