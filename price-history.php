@@ -107,6 +107,21 @@ Elite Dangerous: Commander Premium Edition (elite + odyssey + soundtrack) 54,99
 <p>No changes to oct 2021.
 </p>
 
+<h2>October 2023, v4.0</h2>
+<p>Oops, missed this year, my bad heh, but yeah I assume prices were mostly the same(?).
+</p>
+
+<h2>October 2024, v4.0</h2>
+<p>Elite Dangerous 19,99<br>
+Odyssey 14,99<br>
+Odyssey Deluxe Edition (includes official soundtrack) 24,99<br>
+Elite Dangerous: Commander Premium Edition (elite + odyssey + soundtrack) discontinued.
+</p>
+
+<p>
+I have not paid attention to Elite Dangerous news and community, could this perhaps be some special 2024 october autumn sale, or are these lowered prices (for example Odyssey is ridiculously cheap) permanent, no idea. There is this from 2023 <a href="https://www.elitedangerous.com/news/elite-dangerous-seasonal-sales" target="_blank">Elite Dangerous Seasonal Sales</a> but nothing for 2024.
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
