@@ -312,6 +312,7 @@ Wednesday. Aug 7th, 2024. Odyssey (Update 18.08)<br>
 Thursday. Sep 19th, 2024. Odyssey (Update 18.09)<br>
 Thursday. Oct 31th, 2024. Odyssey "Ascendancy"<br>
 Thursday. Nov 21st, 2024. Odyssey "Ascendancy" Update 1<br>
+Thursday. Nov 28th, 2024. Odyssey Update 19.02<br>
 </p>
 
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
@@ -1173,6 +1174,10 @@ Odyssey "Ascendancy"<br>
 Odyssey "Ascendancy" Update 1<br>
 0700hrs game servers down.<br>
 1100hrs servers back up
+<br><br>
+Odyssey Update 19.02<br>
+0700hrs game servers down.<br>
+1030hrs servers back up
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
