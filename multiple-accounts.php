@@ -99,6 +99,10 @@ C:\Users\YOURNAME\AppData\Local\Frontier Developments\Elite Dangerous\YOUR_CMDR_
 <p>This is repeated to each CMDR login account you have.
 </p>
 
+<p>
+See also <a href="visited-stars-cache.php">Visited Stars Cache</a> page for further details.
+</p>
+
 <h2>Two Elites Running</h2>
 
 <p>You could run <b>two elite clients at the same time</b> with this technique. Actually I'm not sure if you must install the game twice, I don't think so, but who knows. You just run the games in window, I think(?) and can swap between each of them.
@@ -117,13 +121,7 @@ C:\Users\YOURNAME\AppData\Local\Frontier Developments\Elite Dangerous\YOUR_CMDR_
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y"));?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>

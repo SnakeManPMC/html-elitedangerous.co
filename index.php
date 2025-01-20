@@ -133,10 +133,13 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 
 <footer>
 <?php include("/var/www/include/footer-start.php"); ?>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
+<p>
+<i>PMC Elite Dangerous 2014 - <?php print(date("Y"));?>.</i>
+</p>
 <?php include("/var/www/include/footer-end.php"); ?>
 <?php include("/var/www/include/support.php"); ?>
 <?php include("/var/www/include/w3-validator-logo.php"); ?>
+
 </footer>
 
 </body>
