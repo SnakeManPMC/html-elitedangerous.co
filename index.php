@@ -125,6 +125,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <p><a href="searching-tritium-hotspots-2021.php">Searching Tritium Hotspots 2021</a></p>
 <p><a href="second-cmdr-clear-save-mining.php">Second CMDR Clear Save Mining (2020 LTD era)</a></p>
 <p><a href="second-cmdr-mining-low-temperature-diamonds.php">Second CMDR Mining Low Temperature Diamonds</a></p>
+<p><a href="trading-week-2015-01-13.php">Elite Trading Week 2015-01-13</a></p>
 </div>
 
 <?php include("/var/www/include/section-end.php"); ?>
