@@ -90,7 +90,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <p><a href="mining.php">Mining</a></p>
 <p><a href="egg.php">The Egg</a></p>
 <p><a href="pristine-reserves-metallic-rings.php">Pristine Reserves Metallic Rings</a></p>
-<p><a href="crime.php">Crime (and punishment)</a></p>
+<p><a href="crime-and-punishment.php">Crime and Punishment</a></p>
 <p><a href="federation-empire-rank-progression.php">Federation and Empire rank progression</a></p>
 <p><a href="frame-rates-4k-resolution.php">Frame rates 4k resolution</a></p>
 <p><a href="journal.php">Journal</a>, players journal or commander's log</p>
