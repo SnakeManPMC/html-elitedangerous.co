@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>PMC Elite Dangerous, PMC Galaxy Loop</title>
+<title>PMC Elite Dangerous PMC Galaxy Loop</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC, Elite Dangerous, PMC Galaxy Loop">
-<META name="keywords" content="PMC, Elite Dangerous, Galaxy, Loop, Exploration">
+<META name="description" content="PMC Elite Dangerous PMC Galaxy Loop">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,13 +15,17 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Elite Dangerous, PMC Galaxy Loop</b></h1>
+	<h1>PMC Elite Dangerous PMC Galaxy Loop</h1>
+
+<p>
+PMC Galaxy Loop is CMDR Snake Man (me) traveling around Milky Way galaxy.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
-	<h2>Epic journey of exploration around the milky way galaxy!</h2>
+	<h2>Epic Journey Of Exploration Around The Milky Way Galaxy</h2>
 
 <p><b>PMC Exploration Galaxy Loop</b></p>
 
@@ -94,7 +97,7 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 16 bleia dryoae ag-w c18-35
 17 pro eur wj-y c14-3
 </pre>
-<p>However you should check <a href="https://www.edsm.net/galactic-routes/show/id/210/name/PMC+Galaxy+Loop">EDSM PMC Galaxy Loop Route</a> for more specifics, especially as the journey progresses.
+<p>However you should check <a href="https://www.edsm.net/galactic-routes/show/id/210/name/PMC+Galaxy+Loop" target="_blank">EDSM PMC Galaxy Loop Route</a> for more specifics, especially as the journey progresses.
 </p>
 
 <p>Update 2017-12-06: the above was the initial plan, below you can read what actually happened...
@@ -569,20 +572,14 @@ Finwen and Akira Masakari reached maximum distance from Sol of 65,279.35 Ly, thi
 <p>Was this fun? memorable experience? Yes it was. Do I plan another this scale exploration journey soon? Hell no! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
-<p>Links: <a href="https://www.edsm.net/en/galactic-routes/show/id/210/name/PMC+Galaxy+Loop">EDSM - PMC Galaxy Loop</a> and this trips video "diary" from <a href="https://www.youtube.com/user/pmcsince1984/search?query=pmc+galaxy+loop+part">PMC youtube channel</a>.
+<p>Links: <a href="https://www.edsm.net/en/galactic-routes/show/id/210/name/PMC+Galaxy+Loop" target="_blank">EDSM - PMC Galaxy Loop</a> and this trips video "diary" from <a href="https://www.youtube.com/user/pmcsince1984/search?query=pmc+galaxy+loop+part" target="_blank">PMC youtube channel</a>.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
