@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>PMC Elite Dangerous, EDDN</title>
+<title>PMC Elite Dangerous Data Network</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC, Elite Dangerous, Elite Dangerous Data Network">
-<META name="keywords" content="PMC, Elite Dangerous, EDDN, Data Network">
+<META name="description" content="PMC Elite Dangerous Data Network (EDDN)">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,7 +15,11 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Elite Dangerous, Elite Dangerous Data Network (EDDN)</b></h1>
+	<h1>PMC Elite Dangerous Data Network</h1>
+
+<p>
+Elite Dangerous Data Network (EDDN) is a live data stream for system, outfitting, market etc data sent by all community CMDR's who choose to contribute to the common good by using EDDN sending client of their choice.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
