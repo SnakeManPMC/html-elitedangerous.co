@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>PMC Elite Dangerous - News</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC, Elite, Dangerous, News">
-<META name="keywords" content="PMC, Elite, Dangerous, News">
+<META name="description" content="PMC Elite Dangerous News">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,15 +15,17 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Elite Dangerous - News</b></h1>
+	<h1>PMC Elite Dangerous - News</h1>
+
+<p>
+Miscellaneous Elite Dangerous news, not updated past 2015, sorry about that.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
-	<h2>Misc news, unsorted, raw, etc</h2>
-
-<h2>Misc news snippets</h2>
+	<h2>Misc Elite News</h2>
 
 <p>The first planned significant update will be 1.1 and will enter beta in the first week of February. We?ll be talking next week about how 1.1 will introduce a new way to collaborate with other players in the galaxy in preparation for 1.2?s major Wings update. We have some some good news for planners of long journeys - V1.1 will also have a significant increase in the maximum distance for the route planner. We?re currently looking at extending this to 1,000 light years!
 <br><br>
@@ -45,13 +46,7 @@ The lights are orientation lights so you can align your ship to the station in a
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
