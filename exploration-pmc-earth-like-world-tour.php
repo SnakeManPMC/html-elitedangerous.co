@@ -4,7 +4,6 @@
 <title>PMC Elite Dangerous - Exploration PMC Earth Like World Tour</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC Elite Dangerous Exploration PMC Earth Like World Tour">
-<META name="keywords" content="Exploration, Earth, World, Tour, Water, Planet, PMC, Elite, Dangerous">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,7 +15,11 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Elite Dangerous Exploration PMC Earth Like World Tour</b></h1>
+	<h1>PMC Elite Dangerous Exploration PMC Earth Like World Tour</h1>
+
+<p>
+Space exploration story about touring all CMDR Snake Man (me) discovered earth-like worlds, also including some ammonia and water worlds or other interesting objects.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
@@ -1314,13 +1317,7 @@ I was dead tired and wanted to go to sleep but of course EDMC was uploading stil
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y"));?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
