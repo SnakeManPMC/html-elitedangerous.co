@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>PMC Elite Dangerous - Combat Analysis</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC, Elite Dangerous, Combat Analysis">
-<META name="keywords" content="PMC, Elite Dangerous, Combat">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,9 +15,11 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Elite Dangerous, Combat Analysis</b></h1>
+	<h1>PMC Elite Dangerous Combat Analysis</h1>
 
-<p>Welcome to combat analysis</p>
+<p>
+Welcome to Elite Dangerous space ship combat analysis.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
@@ -102,12 +103,7 @@ ASP A5 thrusters, A6 shields, A4 power distributor, with 6x gimballed pulse lase
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
