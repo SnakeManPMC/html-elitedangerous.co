@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>PMC Elite Dangerous</title>
+<title>PMC Elite Dangerous Website</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC, Elite Dangerous">
+<META name="description" content="PMC Elite Dangerous Website">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,6 +16,10 @@
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
 	<h1>PMC Elite Dangerous</h1>
+
+<p>
+This is Elite Dangerous fan website created by Snake Man, PMC.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
