@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>PMC Elite Dangerous - Improving Trading Data</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC, Elite Dangerous, Improving Trading Data">
-<META name="keywords" content="PMC, Elite Dangerous, Trading, Data">
+<META name="description" content="PMC Elite Dangerous Improving Trading Data">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,9 +15,11 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Elite Dangerous - Improving Trading Data</b></h1>
+	<h1>PMC Elite Dangerous - Improving Trading Data</h1>
 
-<p>HOWTO Improve Trading Data</p>
+<p>
+HOWTO improve commodity market trading data in Elite Dangerous to make more money. Please note that in 2025-01-21T10:58:42Z the core concept of this page is still valid, but it was initially written years ago in 2019 and since then for example we (commadners in the community) finally managed to visit all space stations in the bubble to get market and distance from star data for them.
+</p>
 
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
@@ -41,15 +42,15 @@
 <p>Use <a href="edmc.php">EDMC</a> to get market data which is automatically sent to <a href="eddn.php">EDDN</a>, from where the whole community (several trading sites and tools) will get the data.
 </p>
 
-<p>Use these tools to find oldest data: <a href="https://eddb.io/station">EDDB Stations (use prices update to filter oldest)</a>, <a href="https://www.edsm.net/en/systems/stations">EDSM Oldest Stations</a> and <a href="tradedangerous.php">TradeDangerous olddata</a> command.
+<p>Use these tools to find oldest data: <a href="https://eddb.io/station" target="_blank">EDDB Stations (use prices update to filter oldest)</a>, <a href="https://www.edsm.net/en/systems/stations" target="_blank">EDSM Oldest Stations</a> and <a href="tradedangerous.php">TradeDangerous olddata</a> command.
 </p>
 
-<p>I (Snake Man) was clearly the most enthusiastic CMDR with hunting missing data in the early days, cant exactly remember the year but must have been like 2015 when I was already asking themroc to add missing data station page to EDDB and he eventually did it (thanks!). I spent a lot of time hunting missing data and actually back in 2017-10-31 during <a href="pmc-galaxy-loop.php">PMC Galaxy Loop</a> went and purchased second account so I can go hunt missing data to EDDN. So this has been a years long project from which of I personally have taken many breaks, I don't know how many other CMDRs have actually used the two EDDB pages (or Maddavo's Market Share when it was still working). Now in 2019-09-26 CMDR "Lance 'Spacecat' D." posted a <a href="https://forums.frontier.co.uk/threads/bubble-explorers-wanted-data-needs-you.523462/">topic in Frontier forums</a> asking for other CMDRs to join him hunting missing data, I did not actually see this topic until it was announced in EDSM discord that the EDDB closest-missing page is empty. I was just hunting missing data the previous night so I missed the final day of the hunt heh. Greetings for the other CMDRs who took part in this, we did it as community.
+<p>I (Snake Man) was clearly the most enthusiastic CMDR with hunting missing data in the early days, cant exactly remember the year but must have been like 2015 when I was already asking themroc to add missing data station page to EDDB and he eventually did it (thanks!). I spent a lot of time hunting missing data and actually back in 2017-10-31 during <a href="pmc-galaxy-loop.php">PMC Galaxy Loop</a> went and purchased second account so I can go hunt missing data to EDDN. So this has been a years long project from which of I personally have taken many breaks, I don't know how many other CMDRs have actually used the two EDDB pages (or Maddavo's Market Share when it was still working). Now in 2019-09-26 CMDR "Lance 'Spacecat' D." posted a <a href="https://forums.frontier.co.uk/threads/bubble-explorers-wanted-data-needs-you.523462/" target="_blank">topic in Frontier forums</a> asking for other CMDRs to join him hunting missing data, I did not actually see this topic until it was announced in EDSM discord that the EDDB closest-missing page is empty. I was just hunting missing data the previous night so I missed the final day of the hunt heh. Greetings for the other CMDRs who took part in this, we did it as community.
 </p>
 
 	<h2>EDDB</h2>
 
-<p>Historical info; <a href="https://ross.eddb.io/station/snake-man">EDDB snake-man</a> and <a href="https://ross.eddb.io/station/closest-missing">EDDB Closest Missing</a> pages were used when we had missing data, for <i>old</i> data use station page instead.
+<p>Historical info; <a href="https://ross.eddb.io/station/snake-man" target="_blank">EDDB snake-man</a> and <a href="https://ross.eddb.io/station/closest-missing" target="_blank">EDDB Closest Missing</a> pages were used when we had missing data, for <i>old</i> data use station page instead.
 </p>
 
 <p>snake-man page lists all the stations with distance to star or pad size data missing. There is no order, it just lists them and you cannot search for closest system or anything.
@@ -58,7 +59,7 @@
 <p>Closest-missing page allows you to search the system you are in (or whatever system you are interested in) and it lists all closest stations with missing data. This page sorts them by light years distance. This is the new version of snake-man page.
 </p>
 
-<p>After all the missing data was added you can use <a href="https://eddb.io/station">EDDB Stations (use prices update to filter oldest)</a> page to find OLD data to update. If new stations are found and added through EDDN without full data-set, they will appear in closest-missing. It might be good idea to check closest-missing page maybe once a week or so, just in case.
+<p>After all the missing data was added you can use <a href="https://eddb.io/station" target="_blank">EDDB Stations (use prices update to filter oldest)</a> page to find OLD data to update. If new stations are found and added through EDDN without full data-set, they will appear in closest-missing. It might be good idea to check closest-missing page maybe once a week or so, just in case.
 </p>
 
 	<h2>EDSM</h2>
@@ -87,13 +88,7 @@ trade.py olddata --no-planet --limit 50 --pad-size l --ls-max 2000 --near shinra
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y"));?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
