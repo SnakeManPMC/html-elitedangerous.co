@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>PMC Elite Dangerous - Exploration</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC, Elite Dangerous, Exploration">
-<META name="keywords" content="PMC, Elite Dangerous, Exploration">
+<META name="description" content="PMC Elite Dangerous Exploration of Space">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,7 +15,11 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Elite Dangerous - Exploration</b></h1>
+	<h1>PMC Elite Dangerous - Exploration</h1>
+
+<p>
+To boldy go where no man has gone before. Elite Dangerous exploration of space, visit many different star systems far far away in Milky Way galaxy, what could be better heh.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
@@ -160,13 +163,7 @@ Basic jumps without surface scans are the clean traveling method but kind of use
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
