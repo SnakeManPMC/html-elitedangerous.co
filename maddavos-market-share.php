@@ -39,20 +39,14 @@
 <p>Delete station by adding -1 as its distance from star and upload the .csv (or use editstation.asp page)
 </p>
 
-<p><a href="http://www.davek.com.au/td/">Maddavo's Market Share (MMS)</a> homepage.
+<p>Maddavo's Market Share (MMS) homepage. Edit: 2025-01-21T08:14:27Z, link removed as the website was dead and domain got bought by some scammers, as usually happens to dead sites.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y"));?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
