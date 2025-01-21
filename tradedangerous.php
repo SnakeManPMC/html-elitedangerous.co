@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>PMC Elite Dangerous - TradeDangerous</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC, Elite, Dangerous, TradeDangerous">
-<META name="keywords" content="PMC, Elite, Dangerous, TradeDangerous">
+<META name="description" content="PMC Elite Dangerous TradeDangerous">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,7 +15,11 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Elite Dangerous - TradeDangerous</b></h1>
+	<h1>PMC Elite Dangerous - TradeDangerous</h1>
+
+<p>
+TradeDangerous is the best trading tool available for Elite Dangerous.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
@@ -39,14 +42,14 @@
 	<h2>Download</h2>
 
 <p>
-Grab the git repository or ZIP from <a href="https://github.com/eyeonus/Trade-Dangerous">eyeonus TD github</a>.
+Grab the git repository or ZIP from <a href="https://github.com/eyeonus/Trade-Dangerous" target="_blank">eyeonus TD github</a>.
 </p>
 
 
 	<h2>Update Database</h2>
 
 <p>
-Update database from EDDN through EDDB through <a href="http://elite.tromador.com/">Tromador's Trading Dangerously</a> by using eddblink plugin. elite.ripz.org database (Live Prices listings-live.csv) seems to be updating every 5 minutes.
+Update database from EDDN through EDDB through <a href="http://elite.tromador.com/" target="_blank">Tromador's Trading Dangerously</a> by using eddblink plugin. elite.ripz.org database (Live Prices listings-live.csv) seems to be updating every 5 minutes.
 </p>
 
 <pre>
@@ -404,7 +407,7 @@ trade.py build -f
 	<h2>History</h2>
 
 <p>
-<b>2014-08-14</b>: Kfsone created <a href="https://forums.frontier.co.uk/showthread.php/34986-TradeDangerous-power-user-trade-optimizer">FDEV forum TradeDangerous-power-user-trade-optimizer topic</a>. TD was one of the first trading tools back in the day when there was no journal, community api, eddb, edmc, edsm etc etc. Original links: <a href="https://bitbucket.org/kfsone/tradedangerous">bitbucket.org/kfsone/tradedangerous</a>.
+<b>2014-08-14</b>: Kfsone created <a href="https://forums.frontier.co.uk/showthread.php/34986-TradeDangerous-power-user-trade-optimizer" target="_blank">FDEV forum TradeDangerous-power-user-trade-optimizer topic</a>. TD was one of the first trading tools back in the day when there was no journal, community api, eddb, edmc, edsm etc etc. Original links: <a href="https://bitbucket.org/kfsone/tradedangerous" target="_blank">bitbucket.org/kfsone/tradedangerous</a>.
 </p>
 
 <p>
@@ -420,24 +423,18 @@ It seems to work for a while then breaks, then its down until maddavo perhaps mo
 </p>
 
 <p>
-<b>2018-04-22</b>: CMDR eyeonus <a href="https://forums.frontier.co.uk/showthread.php/34986-TradeDangerous-power-user-trade-optimizer?p=6641627&viewfull=1#post6641627">posted on TD topic</a> about making new EDDB API file reading plugin, database and EDDN listener for TD because MMS is broken. <a href="https://github.com/eyeonus/EDDBlink">GitHub EDDB Link</a> and <a href="https://github.com/eyeonus/EDDBlink-listener">EDDB Link Listener</a>. Summary <a href="https://forums.frontier.co.uk/showthread.php/34986-TradeDangerous-power-user-trade-optimizer?p=6779500&viewfull=1#post6779500">how to run EDDB Link</a>.
+<b>2018-04-22</b>: CMDR eyeonus <a href="https://forums.frontier.co.uk/showthread.php/34986-TradeDangerous-power-user-trade-optimizer?p=6641627&viewfull=1#post6641627" target="_blank">posted on TD topic</a> about making new EDDB API file reading plugin, database and EDDN listener for TD because MMS is broken. <a href="https://github.com/eyeonus/EDDBlink" target="_blank">GitHub EDDB Link</a> and <a href="https://github.com/eyeonus/EDDBlink-listener" target="_blank">EDDB Link Listener</a>. Summary <a href="https://forums.frontier.co.uk/showthread.php/34986-TradeDangerous-power-user-trade-optimizer?p=6779500&viewfull=1#post6779500" target="_blank">how to run EDDB Link</a>.
 </p>
 
 <p>
-<b>2018-06-16</b>: new <a href="https://github.com/eyeonus/Trade-Dangerous">eyeonus GitHub Trade Dangerous repository</a> and created <a href="https://forums.frontier.co.uk/showthread.php/441509-Trade-Dangerous-(Est-2015)-Power-user-s-highly-configurable-trade-optimizer">FDEV forum Trade-Dangerous-(Est-2015)-Power-user-s-highly-configurable-trade-optimizer topic</a>.
+<b>2018-06-16</b>: new <a href="https://github.com/eyeonus/Trade-Dangerous" target="_blank">eyeonus GitHub Trade Dangerous repository</a> and created <a href="https://forums.frontier.co.uk/showthread.php/441509-Trade-Dangerous-(Est-2015)-Power-user-s-highly-configurable-trade-optimizer" target="_blank">FDEV forum Trade-Dangerous-(Est-2015)-Power-user-s-highly-configurable-trade-optimizer topic</a>.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
