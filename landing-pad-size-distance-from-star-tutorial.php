@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>PMC Elite Dangerous - Landing Pad Size and Distance From Star Tutorial</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC, Elite Dangerous - Landing pad size and distance from star tutorial">
-<META name="keywords" content="PMC, Elite Dangerous, lading, pad, size, distance, star">
+<META name="description" content="PMC Elite Dangerous - Landing Pad Size And Distance From Star Tutorial">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,7 +15,11 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Elite Dangerous - Landing pad size and distance from star tutorial</b></h1>
+	<h1>PMC Elite Dangerous - Landing Pad Size Tutorial</h1>
+
+<p>
+Everything you need to know about space stations, meaning of their location and landing on them to trade commodities.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
@@ -69,13 +72,7 @@ Python<br>
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
