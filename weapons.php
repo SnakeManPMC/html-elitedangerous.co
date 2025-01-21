@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>PMC Elite Dangerous - Weapons</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC, Elite, Dangerous, Weapons">
-<META name="keywords" content="PMC, Elite, Dangerous, Weapons">
+<META name="description" content="PMC Elite Dangerous Weapons">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,13 +15,21 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Elite Dangerous - Weapons</b></h1>
+	<h1>PMC Elite Dangerous - Weapons</h1>
+
+<p>
+Space ship weapons, how to make pirates and other things go boom.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
-	<h2>List of all the weapons available. You can equip your ship with weapons and gear from the starport Outfitting menu.</h2>
+	<h2>List Of Elite Dangerous Weapons</h2>
+
+<p>
+List of all the weapons available. You can equip your ship with weapons and gear from the starport Outfitting menu.
+</p>
 
 <h2>Pulse Laser</h2>
 <p>These are the weakest laser weapons, but also lasers that use less power and produce less heat.
@@ -50,13 +57,7 @@
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
