@@ -15,7 +15,11 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Wanderer Exploration 2021 - PMC Elite Dangerous</b></h1>
+	<h1>PMC Wanderer Exploration 2021 - PMC Elite Dangerous</h1>
+
+<p>
+Space exploration story about fleet carrier called PMC Wanderer and its wonderful journeys around the Milky Way galaxy.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
@@ -956,13 +960,7 @@ If you enjoyed this CMDR's log story, check out our others like:
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y"));?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
