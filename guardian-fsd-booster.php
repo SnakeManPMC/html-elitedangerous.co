@@ -18,7 +18,7 @@
 	<h1>PMC Elite Dangerous Guardian FSD Booster</h1>
 
 <p>
-HOWTO grind your way into Guarding Frame Shift Drive (FSD) Booster to increase ships hyper space jump range.
+HOWTO grind your way into Guardian Frame Shift Drive (FSD) Booster to increase ships hyper space jump range.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
