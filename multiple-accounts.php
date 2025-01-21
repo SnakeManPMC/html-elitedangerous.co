@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>PMC Elite Dangerous - Multiple Accounts</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC, Elite Dangerous, Multiple Accounts">
-<META name="keywords" content="PMC, Elite Dangerous, Multiple, Accounts">
+<META name="description" content="PMC Elite Dangerous Multiple Accounts">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,10 +15,11 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Elite Dangerous - Multiple Accounts</b></h1>
+	<h1>PMC Elite Dangerous - Multiple Accounts</h1>
 
-<p>Second Commander?</p>
-
+<p>
+Second Commander?
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
@@ -36,7 +36,7 @@
 
 <h2>Purchase Elite's</h2>
 
-<p>You need to buy second (or how many you want) account from <a href="https://www.frontierstore.net/eur/games/elite-dangerous-cat.html">Frontier Store</a>.
+<p>You need to buy second (or how many you want) account from <a href="https://www.frontierstore.net/eur/games/elite-dangerous-cat.html" target="_blank">Frontier Store</a>.
 </p>
 
 <p>Note that it is not cheap to have multiple accounts. In October 31st 2017 the base game costs 24.99euro (but was in discount 12.50euro) and horizons season pass cost the same 24.99euro (but was in discount 16.74euro) so total of <b>49.98euro</b> (but discounted 29.24euro). In the years to come future, who knows how frontier setups their expansions so the price can and most likely will increase as different expansions are released.
@@ -112,9 +112,6 @@ See also <a href="visited-stars-cache.php">Visited Stars Cache</a> page for furt
 </p>
 
 <p>But hey, its nice to know technically it can be done.
-</p>
-
-<p>Some info at <a href="https://forums.frontier.co.uk/showthread.php/386995-Elite-Dangerous-Multiple-accounts-on-the-same-Windows-user-account">Frontier Forums topic</a>.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
