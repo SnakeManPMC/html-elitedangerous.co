@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>PMC Elite Dangerous - Star Systems</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC, Elite, Dangerous, Star Systems">
-<META name="keywords" content="PMC, Elite, Dangerous, Star Systems">
+<META name="description" content="PMC Elite Dangerous Star Systems">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,7 +15,11 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Elite Dangerous - Star Systems</b></h1>
+	<h1>PMC Elite Dangerous - Star Systems</h1>
+
+<p>
+Star systems include a star where you can hyper jump to, then no objects or possibly over hundred objects like planets, moons, asteroid fields, gas giants, other stars, oh my.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
@@ -128,13 +131,7 @@ A: Use <a href="edsm.php">EDSM</a> to enter new systems.
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
