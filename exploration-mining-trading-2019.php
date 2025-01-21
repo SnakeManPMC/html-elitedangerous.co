@@ -4,7 +4,6 @@
 <title>Hunting Missing Data, Exploration, Mining, TradeDangerous Trading, Bounty Hunting 2019 - PMC Elite Dangerous</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="Hunting Missing Data, Exploration, Mining, TradeDangerous Trading, Bounty Hunting 2019 - PMC Elite Dangerous">
-<META name="keywords" content="Missing, Data, Exploration, Planet, Mining, Painite, Trading, TradeDangerous, Bounty, Hunting, PMC, Elite, Dangerous">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,7 +15,11 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>Hunting Missing Data, Exploration, Mining, TradeDangerous Trading, Bounty Hunting 2019 PMC Elite Dangerous</b></h1>
+	<h1>Exploration Story 2019 PMC Elite Dangerous</h1>
+
+<p>
+Space story about hunting missing data, exploration, mining, tradedangerous trading and bounty hunting in 2019.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
@@ -1630,13 +1633,7 @@ If you enjoyed this CMDR's log story, check out our others like: <a href="cmdr-s
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y"));?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
