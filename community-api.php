@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>PMC Elite Dangerous - Community API</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC, Elite Dangerous, Community API">
-<META name="keywords" content="PMC, Elite Dangerous, Community, API">
+<META name="description" content="PMC Elite Dangerous Community API">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -18,7 +17,9 @@
 <?php include("/var/www/include/header-start.php"); ?>
 	<h1><b>PMC Elite Dangerous - Community API</b></h1>
 
-<p>Community API</p>
+<p>
+Elite Dangerous Community Advanced Programming Interface (API).
+</p>
 
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
@@ -40,13 +41,7 @@
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y"));?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
