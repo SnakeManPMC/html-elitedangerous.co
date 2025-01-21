@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>PMC Elite Dangerous, Price History</title>
+<title>PMC Elite Dangerous Price History</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC Elite Dangerous Price history of various releases">
+<META name="description" content="PMC Elite Dangerous Price History Of Various Releases">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,13 +15,17 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Elite Dangerous, Price History</b></h1>
+	<h1>PMC Elite Dangerous Price History</h1>
+
+<p>
+Historical list of Elite Dangerous game prices across the years.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
-	<h2>Price history of all game versions</h2>
+	<h2>Price History Of All Game Versions</h2>
 
 <p>History of pricing. Currency is EURO and its not designated otherwise but just numbers to save space etc. Prices found from <a href="https://www.frontierstore.net/eur/games/elite-dangerous-cat.html">frontierstore.net</a>.
 </p>
@@ -126,13 +130,7 @@ I have not paid attention to Elite Dangerous news and community, could this perh
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
