@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>PMC Elite Dangerous, Thrudds</title>
+<title>PMC Elite Dangerous Thrudds</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC, Elite Dangerous, Thrudds">
-<META name="keywords" content="PMC, Elite Dangerous, Thrudds">
+<META name="description" content="PMC Elite Dangerous Thrudds">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,16 +15,18 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Elite Dangerous, Thrudds</b></h1>
+	<h1>PMC Elite Dangerous Thrudds</h1>
 
-<p>elitetradingtool by Thrudds</p>
+<p>
+Elitetradingtool by Thrudds.
+</p>
 
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
-	<h2>Thrudds elite trading tool</h2>
+	<h2>Thrudds Elite Trading Tool</h2>
 
 <p>
 Thrudds elite trading tool is obsolete website and should not be used. Okay fine, so why are you preaching about it dude? Well because we see people still recommending and referring to this website on daily basis, either they are stupid and refuse to use proper sites/tools or they are just ignorant and honestly do not know.
@@ -39,7 +40,7 @@ Thrudds elite trading tool is obsolete website and should not be used. Okay fine
 <b>The best Elite Dangerous trading tool is without question <a href="tradedangerous.php">TradeDangerous</a></b>, if you cannot run Python in your computer then second best is web solution which is <a href="eddb.php">EDDB</a>.
 </p>
 
-<p><b>Update 12-26-15</b>: thrudd has finally, after a full YEAR, added EDDN to his web site. I wonder what changed his mind after all this time, I mean it makes no sense... he didnt like EDDN for a year and now all of the sudden he added that. Crazy. Either stick with your principles or lose any credibility you might ever had. Anyways, now his site has EDDN feed so he will have the same data as other proper trading tools. It remains to be seen if he still is not interested of displaying highest profit trades there.
+<p><b>Update 12-26-15</b>: thrudd has finally, after a full YEAR, added EDDN to his web site. I wonder what changed his mind after all this time, I mean it makes no sense... he didn't like EDDN for a year and now all of the sudden he added that. Crazy. Either stick with your principles or lose any credibility you might ever had. Anyways, now his site has EDDN feed so he will have the same data as other proper trading tools. It remains to be seen if he still is not interested of displaying highest profit trades there.
 </p>
 
 <p><b>Update 10-31-17</b>: thrudd took his website down on october 24th 2017 apparently. Rest in piece thrudd.
@@ -49,13 +50,7 @@ Thrudds elite trading tool is obsolete website and should not be used. Okay fine
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
