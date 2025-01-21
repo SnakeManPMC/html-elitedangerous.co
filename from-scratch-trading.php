@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>PMC Elite Dangerous - From Scratch Trading (in open play)</title>
+<title>PMC Elite Dangerous - From Scratch Trading In Open Play</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC Elite Dangerous From Scratch Trading (in open play)">
-<META name="keywords" content="PMC, Elite Dangerous, Trading">
+<META name="description" content="PMC Elite Dangerous From Scratch Trading In Open Play">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,7 +15,11 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Elite Dangerous From Scratch Trading</b></h1>
+	<h1>PMC Elite Dangerous From Scratch Trading</h1>
+
+<p>
+Space story about commodity market trading, making money in game mode open-play (with other commanders).
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
@@ -867,13 +870,7 @@ With that CMDR "Snake Man PMC" signs off and continues his real elite life hehe 
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y"));?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
