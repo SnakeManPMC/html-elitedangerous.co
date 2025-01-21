@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>PMC Elite Dangerous Launcher</title>
+<title>PMC Elite Dangerous Game Launcher</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC, Elite Dangerous, Launcher">
-<META name="keywords" content="PMC, Elite Dangerous, Launcher, Install">
+<META name="description" content="PMC Elite Dangerous Game Launcher">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,9 +15,11 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Elite Dangerous</b></h1>
+	<h1>PMC Elite Dangerous Game Launcher</h1>
 
-<p>Launcher, how to install and upgrade Elite Dangerous</p>
+<p>
+Launcher program, HOWTO install and upgrade Elite Dangerous game.
+</p>
 
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
@@ -27,7 +28,9 @@
 <?php include("/var/www/include/section-start.php"); ?>
 	<h2>Launcher</h2>
 
-Download official <a href="http://hosting.zaonce.net/elite/Client-Installer.exe" target="_blank">Client-Installer.exe</a> from frontiers homepage.
+<p>
+Download official <a href="https://hosting.zaonce.net/elite/Client-Installer.exe" target="_blank">Client-Installer.exe</a> from frontiers homepage.
+</p>
 
 <p>
 When you start the launcher it will ask to upgrade itself if newer version is found. Click Yes and it open browser pointing into hosting.zaonce.net/elite/Client-Installer.exe link. Download and install this "Client-Installer.exe" to proceed.
@@ -67,13 +70,7 @@ Launcher offers different game version options to install, assuming you have acc
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y"));?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
