@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>PMC Elite Dangerous - Pristine Reserves Metallic Rings</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC, Elite Dangerous, Pristine Reserves Metallic Rings">
-<META name="keywords" content="PMC, Elite Dangerous, Pristine, Reserves, Metallic, Rings">
+<META name="description" content="PMC Elite Dangerous Pristine Reserves Metallic Rings">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,13 +15,17 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1><b>PMC Elite Dangerous, Pristine Reserves Metallic Rings</b></h1>
+	<h1>PMC Elite Dangerous Pristine Reserves Metallic Rings</h1>
+
+<p>
+Mining astroids from pristine metallic rings and bounty hunting.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
-	<h2>Pristine Reserves Metallic Rings Systems (for mining and bounty hunting)</h2>
+	<h2>Pristine Reserves Metallic Rings Systems</h2>
 
 <p>These are the best valued rings for mining sources, as well as bounty hunting. You should not mine in ring systems which are depleted, low, common or even major reserves, always go for pristine reserves as that gives you the best minerals.
 </p>
@@ -124,13 +127,7 @@ Bhaga 7 A ring
 </section>
 
 <footer>
-<?php include("/var/www/include/footer-start.php"); ?>
-<p>Back to <a href="index.php">Elite Dangerous root page</a></p>
-<br><br>
-<p><i>PMC Elite Dangerous 2014 - <?php print(date("Y")); ?>.</i></p>
-<?php include("/var/www/include/footer-end.php"); ?>
-<?php include("/var/www/include/support.php"); ?>
-<?php include("/var/www/include/w3-validator-logo.php"); ?>
+<?php include("include/footer.php"); ?>
 </footer>
 
 </body>
