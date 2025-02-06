@@ -1,5 +1,4 @@
 
-/* every page? */
 body
 {
 	background: black;
@@ -15,19 +14,6 @@ body
 a
 {
     color: darkorange;
-}
-
-/* no idea what this is */
-.small
-{
-	/* 75% of the baseline */
-	font-size: 12px;
-}
-
-.large
-{
-	/* 125% of the baseline */
-	font-size: 20px;
 }
 
 h1
@@ -67,4 +53,60 @@ footer
 	/* align the category "boxes nicely in our max-width 1200px website */
 	width: 30%; /* 370px; */
 	height: 30%; /* 400px; */
+}
+
+.description_elite
+{
+	background: rgb(5, 5, 5);
+	font-size: 12px;
+	width: 90%;
+}
+
+.description_colonization
+{
+	background: rgb(10, 10, 10);
+	font-size: 12px;
+	width: 90%;
+}
+
+.description_combat
+{
+	background: rgb(10, 10, 10);
+	font-size: 12px;
+	width: 90%;
+}
+
+.description_exploration
+{
+	background: rgb(10, 10, 10);
+	font-size: 12px;
+	width: 90%;
+}
+
+.description_fleet_carrier
+{
+	background: rgb(10, 10, 10);
+	font-size: 12px;
+	width: 90%;
+}
+
+.description_mining
+{
+	background: rgb(10, 10, 10);
+	font-size: 12px;
+	width: 90%;
+}
+
+.description_stories
+{
+	background: rgb(10, 10, 10);
+	font-size: 12px;
+	width: 90%;
+}
+
+.description_trading
+{
+	background: rgb(10, 10, 10);
+	font-size: 12px;
+	width: 90%;
 }
