@@ -30,7 +30,7 @@ Space Stories for Elite Dangerous written by Snake Man, PMC. These stories are s
 
 <p><a href="stories-cmdr-snake-man-my-path-to-a-triple-elite.php">My path to a Triple Elite</a></p>
 <p><a href="stories-exploration-mining-trading-2019.php">Exploration, Mining, Trading 2019</a></p>
-<p><a href="exploration-pmc-earth-like-world-tour.php">Exploration PMC Earth Like World Tour</a></p>
+<p><a href="stories-exploration-pmc-earth-like-world-tour.php">Exploration PMC Earth Like World Tour</a></p>
 <p><a href="from-scratch-trading.php">From Scratch Trading (in open play)</a></p>
 <p><a href="https://www.youtube.com/playlist?list=PLKt0kt4BAefkf_dCsdlj3nSrvgwA0KssM" target="_blank">PMC Elite Dangerous Youtube videos</a></p>
 <p><a href="my-path-to-anaconda.php">My path to Anaconda</a></p>
