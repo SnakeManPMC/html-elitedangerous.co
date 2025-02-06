@@ -90,19 +90,20 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <div class="icat">
 	<h2>Miscellaneous</h2>
 
+<p><a href="community-api.php">Community API</a></p>
 <p><a href="controls.php">Controls (keyboard etc)</a></p>
-<p><a href="mining.php">Mining</a></p>
-<p><a href="egg.php">The Egg</a></p>
-<p><a href="pristine-reserves-metallic-rings.php">Pristine Reserves Metallic Rings</a></p>
 <p><a href="crime-and-punishment.php">Crime and Punishment</a></p>
+<p><a href="egg.php">The Egg</a></p>
 <p><a href="federation-empire-rank-progression.php">Federation and Empire rank progression</a></p>
 <p><a href="frame-rates-4k-resolution.php">Frame rates 4k resolution</a></p>
-<p><a href="journal.php">Journal</a>, players journal or commander's log</p>
-<p><a href="community-api.php">Community API</a></p>
-<p><a href="howto-install-elite-dangerous.php">HOWTO Install Elite Dangerous</a></p>
-<p><a href="multiple-accounts.php">Multiple Accounts</a></p>
-<p><a href="launcher.php">Launcher</a></p>
 <p><a href="guardian-fsd-booster.php">Guardian FSD Booster</a></p>
+<p><a href="howto-install-elite-dangerous.php">HOWTO Install Elite Dangerous</a></p>
+<p><a href="journal.php">Journal</a>, players journal or commander's log</p>
+<p><a href="launcher.php">Launcher</a></p>
+<p><a href="mining.php">Mining</a></p>
+<p><a href="multiple-accounts.php">Multiple Accounts</a></p>
+<p><a href="pristine-reserves-metallic-rings.php">Pristine Reserves Metallic Rings</a></p>
+<p><a href="stories.php">Stories</a></p>
 </div>
 
 <div class="icat">
@@ -112,24 +113,6 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <p><a href="space-stations.php">Space Stations</a></p>
 <p><a href="edshipyard.php">edshipyard</a></p>
 <p><a href="engineers.php">Engineers</a></p>
-</div>
-
-<div class="icat">
-	<h2>PMC CMDR's Log</h2>
-
-<p><a href="cmdr-snake-man-my-path-to-a-triple-elite.php">My path to a Triple Elite</a></p>
-<p><a href="exploration-mining-trading-2019.php">Exploration, Mining, Trading 2019</a></p>
-<p><a href="exploration-pmc-earth-like-world-tour.php">Exploration PMC Earth Like World Tour</a></p>
-<p><a href="from-scratch-trading.php">From Scratch Trading (in open play)</a></p>
-<p><a href="https://www.youtube.com/playlist?list=PLKt0kt4BAefkf_dCsdlj3nSrvgwA0KssM" target="_blank">PMC Elite Dangerous Youtube videos</a></p>
-<p><a href="my-path-to-anaconda.php">My path to Anaconda</a></p>
-<p><a href="pmc-galaxy-loop.php">PMC Galaxy Loop</a></p>
-<p><a href="pmc-wanderer-exploration-2021.php">PMC Wanderer Exploration 2021</a></p>
-<p><a href="pmc-wanderer-voyage-home.php">PMC Wanderer Voyage Home</a></p>
-<p><a href="searching-tritium-hotspots-2021.php">Searching Tritium Hotspots 2021</a></p>
-<p><a href="second-cmdr-clear-save-mining.php">Second CMDR Clear Save Mining (2020 LTD era)</a></p>
-<p><a href="second-cmdr-mining-low-temperature-diamonds.php">Second CMDR Mining Low Temperature Diamonds</a></p>
-<p><a href="trading-week-2015-01-13.php">Elite Trading Week 2015-01-13</a></p>
 </div>
 
 <?php include("/var/www/include/section-end.php"); ?>
