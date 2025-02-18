@@ -54,7 +54,7 @@ Space Stories for Elite Dangerous written by Snake Man, PMC. These stories are s
 <p>
 <b>2020</b>
 </p>
-<p><a href="second-cmdr-mining-low-temperature-diamonds.php">2020-06-14 Second CMDR Mining Low Temperature Diamonds</a></p>
+<p><a href="stories-second-cmdr-mining-low-temperature-diamonds.php">2020-06-14 Second CMDR Mining Low Temperature Diamonds</a></p>
 <p><a href="pmc-wanderer-voyage-home.php">2020-06-19 PMC Wanderer Voyage Home</a></p>
 <p><a href="second-cmdr-clear-save-mining.php">2020-06-29 Second CMDR Clear Save Mining (2020 LTD era)</a></p>
 
