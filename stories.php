@@ -31,7 +31,7 @@ Space Stories for Elite Dangerous written by Snake Man, PMC. These stories are s
 <p>
 <b>2015</b>
 </p>
-<p><a href="trading-week-2015-01-13.php">2015-01-13 Elite Trading Week</a></p>
+<p><a href="stories-trading-week-2015-01-13.php">2015-01-13 Elite Trading Week</a></p>
 <p><a href="stories-my-path-to-anaconda.php">2015-03-17 My path to Anaconda</a></p>
 <p><a href="stories-cmdr-snake-man-my-path-to-a-triple-elite.php">2015-03-27 My path to a Triple Elite</a></p>
 
