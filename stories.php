@@ -61,7 +61,7 @@ Space Stories for Elite Dangerous written by Snake Man, PMC. These stories are s
 <p>
 <b>2021</b>
 </p>
-<p><a href="searching-tritium-hotspots-2021.php">2021-03-21 Searching Tritium Hotspots 2021</a></p>
+<p><a href="stories-searching-tritium-hotspots-2021.php">2021-03-21 Searching Tritium Hotspots 2021</a></p>
 <p><a href="pmc-wanderer-exploration-2021.php">2021-03-29 PMC Wanderer Exploration 2021</a></p>
 
 <p>
