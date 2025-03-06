@@ -320,6 +320,7 @@ Thursday. Nov 28th, 2024. Odyssey Update 19.02<br>
 Thursday. Dec 5th, 2024. Odyssey Server Maintenance<br>
 Thursday. Dec 12th, 2024. Odyssey Update 19.03<br>
 Wednesday. Feb 26th, 2025. Odyssey v4.1 Trailblazers/Colonization<br>
+Thursday. Mar 6th, 2025. Odyssey v4.1 Trailblazers/Colonization Update 1<br>
 </p>
 
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
@@ -1197,6 +1198,10 @@ Odyssey Update 19.03<br>
 Odyssey v4.1 Trailblazers/Colonization<br>
 0700hrs game servers down.<br>
 1530hrs servers back up (about this time)
+<br><br>
+Odyssey v4.1 Trailblazers/Colonization Update 1<br>
+0700hrs game servers down.<br>
+1216hrs servers back up 
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
