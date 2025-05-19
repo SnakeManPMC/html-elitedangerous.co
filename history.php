@@ -323,6 +323,9 @@ Wednesday. Feb 26th, 2025. Odyssey v4.1 Trailblazers/Colonization<br>
 Thursday. Mar 6th, 2025. Odyssey v4.1 Trailblazers/Colonization Update 1<br>
 Wednesday. Mar 19th, 2025. Odyssey v4.1.0.2 Trailblazers/Colonization Update 2<br>
 Tuesday. Apr 8th, 2025. Odyssey v4.1.0.3 Trailblazers/Colonization Update 3<br>
+Tuesday. Apr 29th, 2025. Odyssey v4.1.2 Trailblazers/Colonization<br>
+Wednesday. May 7th, 2025. Odyssey v4.1.2.100 Trailblazers/Colonization (server side)<br>
+Friday. May 16th, 2025. Odyssey v4.1.2.101 Trailblazers/Colonization (server side)<br>
 </p>
 
 <h2>Detailed major release times (UTC + 2hrs or 3hrs daylight lameness time):</h2>
@@ -1212,6 +1215,14 @@ Odyssey v4.1.0.2 Trailblazers/Colonization Update 2<br>
 Odyssey v4.1.0.3 Trailblazers/Colonization Update 3<br>
 1000hrs game servers down.<br>
 1400hrs servers back up
+<br><br>
+Odyssey v4.1.2 Trailblazers/Colonization<br>
+?hrs game servers down.<br>
+?hrs servers back up
+<br><br>
+Odyssey v4.1.2.100 Trailblazers/Colonization (server side)<br>
+<br><br>
+Odyssey v4.1.2.101 Trailblazers/Colonization (server side)<br>
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
