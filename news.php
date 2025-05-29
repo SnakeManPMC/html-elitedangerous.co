@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>PMC Elite Dangerous - News</title>
+<title>PMC Elite Dangerous News</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC Elite Dangerous News">
 <meta charset="UTF-8">
@@ -15,31 +15,89 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1>PMC Elite Dangerous - News</h1>
+	<h1>PMC Elite Dangerous News</h1>
 
 <p>
-Miscellaneous Elite Dangerous news, not updated past 2015, sorry about that.
+Elite Dangerous news, mostly focused on PMC website, for example if you are looking for Elite Dangerous Update News you will find those from <a href="history.php">history page</a> instead. Some Elite Dangerous game related news will be included here as well.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
-	<h2>Misc Elite News</h2>
+	<h2>2025</h2>
 
-<p>The first planned significant update will be 1.1 and will enter beta in the first week of February. We?ll be talking next week about how 1.1 will introduce a new way to collaborate with other players in the galaxy in preparation for 1.2?s major Wings update. We have some some good news for planners of long journeys - V1.1 will also have a significant increase in the maximum distance for the route planner. We?re currently looking at extending this to 1,000 light years!
-<br><br>
-Looking further ahead there will be a 1.2 update which is planned to enter beta testing in the first week of March. The focus for this update will be Wings and other multiplayer goodness. I?ll provide more detail in future updates.
-<br><br>
-The lights are orientation lights so you can align your ship to the station in a consistent way. If you enter a station with the green on your right and red on your left you will find that the docking pad numbers are arranged front to back, clockwise, starting from below you. For legacy reasons, Pad numbers 1 and 13 were reversed. This is now fixed and will be included in a future update. All other pads follow a consistent numbering convention. There is no "traffic light" system in operation.
-<br><br>
-01-23-15; Players have discovered 615,475 previously uncharted systems. community have charted just 0.00015 percent of our galaxy.
-<br><br>
-<i>Development will continue past the December release. Currently the plan is to continue indefinitely - a game like this is never 'finished' - there is always something we can add or improve, but this date is a reasonable measure of what we think will be a great game.</i> -David Braben
+<p>
+2025-05-29T00:22:16Z This news web page has been running since beginning of this website, but right now I finished splitting up <a href="news-2015.php">news from 2015 page</a> and write bunch of relevant info to this page you're reading now. It will be my goal just like in <a href="https://www.farming-simulator.org/news.php" target="_blank">Farming Simulator news</a> page to write up on all website and other big updates into this page. So if you ever wanted to be fully up to date on latest news on elitedangerous.net website and what I'm doing, always check <a href="https://www.pmctactical.org/forum/" target="_blank">PMC Tactical Forum</a> and this news web page.
 </p>
 
-<h2>Elite Dangerous v2.0 Horizons Release Date Announced</h2>
-<p>On Wednesday. Dec 9th, 2015. David Braben announced the Tuesday Dec 15th release date for v2.0 which will be considered as "early access".
+<p>
+2025-04-30 Frontier announces Panther Clipper MKII will be coming to Elite Dangerous and released sometime 2025.
+</p>
+
+<p>
+2025-02-27 Just returned to Elite Dangerous after a long 5 year break since 2020 july Elite v3.7 patch 3 update which broke Low Temperature Diamonds (LTD) mining and tritium for fleet carrier fuel usage. I had to come back (even though I knew about terrible odyssey GUI) when I learned about trailblazers update which brings system colonization to Elite. Man I gotta tell ya, I was like fish out of the water when starting to play elite today after five (5) year break, as even five months break would be a quite while, not to mention YEARS <img src="../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+</p>
+
+<p>
+2025-02-26 Elite Dangerous v4.1 Trailblazers update was released! This is the system colonization update.
+</p>
+
+
+	<h2>2021</h2>
+
+<p>
+2021-03-21 Tried to play some Elite as its been relaxed goal of mine to steadily play at least a little bit every year (I think year 2017 might have been one exception, at least I have no documentation from that year), however this had to be done in Elite Dangerous Horizons game version because odyssey has the hideous unusable galaxy map and system map GUI. In the end I couldn't play more than few days, you can see details from <a href="stories.php">stories</a> page.
+</p>
+
+<p>
+2021-05-18 Elite Dangerous Odyssey is released. Frontier Developments reworked galaxy map and system map graphical user interface (GUI), it is now horrible, what were these people thinking. I could not play Elite anymore with this piece of trash GUI <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+
+	<h2>2020</h2>
+
+<p>
+Summer of 2020 had the crazy Low Temperature Diamonds (LTD) mining craze and Elite Dangerous Fleet Carriers got released.
+</p>
+
+<p>
+2020-06-09 Elite Dangerous v3.7 <a href="https://forums.frontier.co.uk/threads/fleet-carriers-update-patch-notes.546958/" target="_blank">Update Notes</a>, this is the Fleet Carriers release version. Not to be confused with "elite v3.7 patch 3" which destroyed LTD mining and tritium for carrier fuel.
+</p>
+
+	<h2>2016</h2>
+
+<p>
+2016-10-28T12:16:11Z elitedangerous.net domain registered by PMC. Honestly I have like no recollection from this domain registration, I thought it was done earlier on 2015 because I do remember writing notes about Elite when C++ programming EliteLog tool for example, but perhaps those were just for my local notes which then got transferred to this website you are reading now.
+</p>
+
+
+	<h2>2015</h2>
+
+<p>
+Please head over to specific <a href="news-2015.php">News 2015 page</a> to read news bits from the year 2015.
+</p>
+
+
+	<h2>2014</h2>
+
+<p>
+2014-12-16 Elite Dangerous is officially released! <a href="gamma.php">gamma phase</a> is over, no more elite galaxy wipes, this is it, Elite Dangerous has finally reached the 2010's era of computer video gaming! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+2014-11-22 Gamma or pre-release "Preview" build released.
+</p>
+
+<p>
+It was very early 2014 (or perhaps late 2013) when I learned about David Braben's kickstarter campaign to fund development of a new Elite game. I was so excited, the 1984 nostalgia mood started to come back.
+</p>
+
+
+	<h2>2012</h2>
+
+<p>
+November 2012 Frontier Developments started kickstarter campaign to fund Elite Dangerous developing.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

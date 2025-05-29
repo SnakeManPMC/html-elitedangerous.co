@@ -82,7 +82,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <p><a href="final-release.php">Final Release</a></p>
 <p><a href="gamma.php">Gamma (Release Candidate)</a></p>
 <p><a href="history.php">History</a></p>
-<p><a href="news.php">News or some snippets</a></p>
+<p><a href="news.php">News</a></p>
 <p><a href="price-history.php">Price history</a></p>
 <p><a href="expansion-seasons.php">Expansion Seasons</a></p>
 </div>
