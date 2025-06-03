@@ -28,6 +28,18 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-03T06:00:44Z Finally after dragging my feet FOR MONTHS, it was time to get my act together and release all the new mainly stories page updates for my Elite Dangerous website. Sorry for it taking so long, even today I spent well over an hour just thinking about it before pushing the big red button.
+</p>
+
+<p>
+<a href="stories.php">Elite Dangerous Stories</a> index page created, all previous stories have been split into more shorter easier to read "day pages", all new stories I've already written but not yet released will appear in that stories page.
+</p>
+
+<p>
+Enjoy.
+</p>
+
+<p>
 2025-05-29T00:22:16Z This news web page has been running since beginning of this website, but right now I finished splitting up <a href="news-2015.php">news from 2015 page</a> and write bunch of relevant info to this page you're reading now. It will be my goal just like in <a href="https://www.farming-simulator.org/news.php" target="_blank">Farming Simulator news</a> page to write up on all website and other big updates into this page. So if you ever wanted to be fully up to date on latest news on elitedangerous.net website and what I'm doing, always check <a href="https://www.pmctactical.org/forum/" target="_blank">PMC Tactical Forum</a> and this news web page.
 </p>
 
