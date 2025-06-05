@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-05T09:22:17Z Created new <a href="signal-sources.php">Signal Sources</a> page, work in progress, hoh.
+</p>
+
+<p>
 2025-06-05T08:59:56Z What are <a href="community-goals.php">Community Goals</a>, read and find out.
 </p>
 

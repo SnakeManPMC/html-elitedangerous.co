@@ -115,6 +115,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <p><a href="mining.php">Mining</a></p>
 <p><a href="multiple-accounts.php">Multiple Accounts</a></p>
 <p><a href="pristine-reserves-metallic-rings.php">Pristine Reserves Metallic Rings</a></p>
+<p><a href="signal-sources.php">Signal Sources</a></p>
 <p><a href="stories.php">Stories</a></p>
 </div>
 
