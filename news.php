@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-05T10:01:24Z For explorers there is a new <a href="eddn-exploration.php">EDDN Exploration</a> page up describing EDDN sending software use.
+</p>
+
+<p>
 2025-06-05T09:22:17Z Created new <a href="signal-sources.php">Signal Sources</a> page, work in progress, hoh.
 </p>
 
