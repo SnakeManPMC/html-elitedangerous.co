@@ -73,8 +73,9 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 	<h2>Exploration</h2>
 
 <p><a href="exploration.php">Exploration</a></p>
-<p><a href="eddn-exploration.php">EDDN Exploration</a></p>
 <p><a href="exploration-special-planets.php">Special Planets</a></p>
+<p><a href="exobiology.php">Exobiology</a></p>
+<p><a href="eddn-exploration.php">EDDN Exploration</a></p>
 <p><a href="system-map.php">System Map Guide</a></p>
 <p><a href="cockpit-holograms.php">Cockpit Holograms</a></p>
 <p><a href="hyperspace-jump.php">Hyperspace Jump</a></p>

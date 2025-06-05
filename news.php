@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-05T11:10:39Z Extension to exploration, <a href="exobiology.php">Exobiology</a>. Its like exploration with boots on the ground in planet surfaces.
+</p>
+
+<p>
 2025-06-05T10:01:24Z For explorers there is a new <a href="eddn-exploration.php">EDDN Exploration</a> page up describing EDDN sending software use.
 </p>
 
