@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-05T06:56:34Z Created new <a href="colonization-constructing-outpost.php">Colonization Constructing Outpost</a> page which guides why you should choose outpost as primary port.
+</p>
+
+<p>
 2025-06-05T06:24:25Z New <a href="colonization.php">colonization</a> page released. This is the basic core info about Elite Dangerous System Colonization.
 </p>
 

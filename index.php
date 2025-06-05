@@ -38,6 +38,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 	<h2>Colonization</h2>
 
 <p><a href="colonization.php">Colonization</a></p>
+<p><a href="colonization-constructing-outpost.php">Colonization Constructing Outpost</a></p>
 </div>
 
 <div class="icat">
