@@ -100,6 +100,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <div class="icat">
 	<h2>Miscellaneous</h2>
 
+<p><a href="apex-interstellar-transport.php">Apex Interstellar Transport</a></p>
 <p><a href="community-api.php">Community API</a></p>
 <p><a href="controls.php">Controls (keyboard etc)</a></p>
 <p><a href="crime-and-punishment.php">Crime and Punishment</a></p>
