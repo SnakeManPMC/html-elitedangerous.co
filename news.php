@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-05T07:46:16Z See <a href="colonization-outpost-loading-system.php">Colonization Outpost Loading System</a> page for important supply information.
+</p>
+
+<p>
 2025-06-05T07:22:23Z More valuable guides for system colonization efforts, new <a href="colonization-loading-system-distance.php">Colonization Loading System Distance</a> page has been released, its about star system where you load colonization required commodities to a fleet carrier.
 </p>
 

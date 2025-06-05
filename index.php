@@ -39,6 +39,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 
 <p><a href="colonization-constructing-outpost.php">Colonization Constructing Outpost</a></p>
 <p><a href="colonization-loading-system-distance.php">Colonization Loading System Distance</a></p>
+<p><a href="colonization-outpost-loading-system.php">Colonization Outpost Loading System</a></p>
 <p><a href="colonization.php">Colonization</a></p>
 </div>
 
