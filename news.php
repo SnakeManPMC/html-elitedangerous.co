@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-05T06:24:25Z New <a href="colonization.php">colonization</a> page released. This is the basic core info about Elite Dangerous System Colonization.
+</p>
+
+<p>
 2025-06-03T06:00:44Z Finally after dragging my feet FOR MONTHS, it was time to get my act together and release all the new mainly stories page updates for my Elite Dangerous website. Sorry for it taking so long, even today I spent well over an hour just thinking about it before pushing the big red button.
 </p>
 

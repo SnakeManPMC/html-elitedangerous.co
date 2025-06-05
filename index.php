@@ -35,6 +35,12 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 </p>
 
 <div class="icat">
+	<h2>Colonization</h2>
+
+<p><a href="colonization.php">Colonization</a></p>
+</div>
+
+<div class="icat">
 	<h2>Combat</h2>
 
 <p><a href="bounty-hunting.php">Bounty Hunting</a></p>
