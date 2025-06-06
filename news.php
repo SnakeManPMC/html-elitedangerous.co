@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-06T16:01:22Z First hand experience with fleet carrier trading which leads to <a href="stop-chasing-profits.php">Stop chasing profits</a> problem, learn from my mistakes, trade smart.
+</p>
+
+<p>
 2025-06-06T15:26:41Z Usage guide for <a href="spansh-howto-find-rings-platinum-hotspots.php">Spansh HOWTO Find Rings with Platinum Hotspots</a> is very nice when you need to go mining for credits.
 </p>
 
