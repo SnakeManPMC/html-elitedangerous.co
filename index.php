@@ -133,6 +133,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <p><a href="space-stations.php">Space Stations</a></p>
 <p><a href="edshipyard.php">edshipyard</a></p>
 <p><a href="engineers.php">Engineers</a></p>
+<p><a href="outfitting-modules-stored.php">Outfitting Modules Stored</a></p>
 </div>
 
 <div class="icat">

@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-06T14:59:24Z Generic info on <a href="outfitting-modules-stored.php">Outfitting Modules Stored</a>.
+</p>
+
+<p>
 2025-06-06T13:16:18Z Wrote about my experiences with <a href="galaxy-map-bookmarks.php">Galaxy Map Bookmarks</a>, after I went wild with them.
 </p>
 
