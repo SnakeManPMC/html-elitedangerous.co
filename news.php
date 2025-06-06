@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-06T09:52:20Z What is <a href="fleet-carrier-flying-away-bug.php">Fleet Carrier Flying Away Bug</a> and how to try avoiding it, read this guide to find out.
+</p>
+
+<p>
 2025-06-06T09:39:09Z Simple <a href="fleet-carrier-docking-access.php">Fleet Carrier Docking Access</a> guide page has been released.
 </p>
 
