@@ -135,6 +135,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <div class="icat">
 	<h2>Fleet Carrier</h2>
 
+<p><a href="fleet-carrier-buy-location.php">Fleet Carrier Buy Locations (carrier buys from cargo haulers)</a></p>
 <p><a href="fleet-carrier-buying.php">Fleet Carrier Buying</a></p>
 </div>
 

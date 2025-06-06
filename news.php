@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-06T09:11:16Z Loading system for fleet carriers where cargo haulers are making good profits trading cargo between stationa and fleet carrier, see <a href="fleet-carrier-buy-location.php">Fleet Carrier Buy Locations (carrier buys from cargo haulers)</a> carrier owner guide page for details.
+</p>
+
+<p>
 2025-06-06T08:58:09Z For those CMDR's who plan on <a href="fleet-carrier-buying.php">Fleet Carrier Buying</a>, I created that page to guide you through the process.
 </p>
 
