@@ -85,6 +85,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <p><a href="super-cruise.php">Super Cruise</a></p>
 <p><a href="star-systems.php">Star Systems</a></p>
 <p><a href="planetary-landings-guide.php">Planetary Landings Guide</a></p>
+<p><a href="planet-atmosphere-non-landable.php">Planet with atmosphere, non land-able</a></p>
 <p><a href="edsm.php">EDSM</a></p>
 <p><a href="captains-log.php">Captain's Log</a> by Genar-Hofoen</p>
 <p><a href="visited-stars-cache.php">Visited Stars Cache</a></p>

@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-06T15:12:32Z Work in progress <a href="planet-atmosphere-non-landable.php">Planet with atmosphere, non land-able</a> page, need to finish that up and add the missing image.
+</p>
+
+<p>
 2025-06-06T14:59:24Z Generic info on <a href="outfitting-modules-stored.php">Outfitting Modules Stored</a>.
 </p>
 
