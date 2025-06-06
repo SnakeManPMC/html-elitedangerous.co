@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-06T16:20:08Z Some of my command line parameters for <a href="tradedangerous-commodity-find-closest-station.php">Tradedangerous Commodity Find Closest Station</a>, very handy for system colonization required commodities search for example.
+</p>
+
+<p>
 2025-06-06T16:01:22Z First hand experience with fleet carrier trading which leads to <a href="stop-chasing-profits.php">Stop chasing profits</a> problem, learn from my mistakes, trade smart.
 </p>
 

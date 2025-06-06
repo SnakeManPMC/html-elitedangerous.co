@@ -70,6 +70,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <p><a href="from-zero-to-millions.php">From Zero To Millions</a></p>
 <p><a href="spansh-howto-find-rings-platinum-hotspots.php">Spansh HOWTO Find Rings with Platinum Hotspots</a></p>
 <p><a href="stop-chasing-profits.php">Stop chasing profits</a></p>
+<p><a href="tradedangerous-commodity-find-closest-station.php">Tradedangerous Commodity Find Closest Station</a></p>
 </div>
 
 <div class="icat">
