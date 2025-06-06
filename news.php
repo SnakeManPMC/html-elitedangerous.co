@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-06T08:21:44Z Another day, another new web page created, chipping away slowly to the massive amount of data I have accumulated for Elite Dangerous since feb 27th 2025. Today's opening comes with <a href="exobiology-stratum-tectonicas-search.php">Exobiology Stratum Tectonicas Search</a> guide which helps you to find Exobiology Stratum Tectonicas easily.
+</p>
+
+<p>
 2025-06-05T11:10:39Z Extension to exploration, <a href="exobiology.php">Exobiology</a>. Its like exploration with boots on the ground in planet surfaces.
 </p>
 
