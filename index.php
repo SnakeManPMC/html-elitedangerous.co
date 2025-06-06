@@ -149,6 +149,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <p><a href="fleet-carrier-flying-away-bug.php">Fleet Carrier Flying Away Bug</a></p>
 <p><a href="fleet-carrier-parking-primary-star.php">Fleet Carrier Parking By The Primary Star</a></p>
 <p><a href="fleet-carrier-weekly-upkeep.php">Fleet Carrier Weekly Upkeep</a></p>
+<p><a href="trailblazer-megaship-parking-spots.php">Trailblazer Megaship Parking Spots</a></p>
 </div>
 
 <?php include("/var/www/include/section-end.php"); ?>

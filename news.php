@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-06T16:48:59Z My bad experiences with <a href="trailblazer-megaship-parking-spots.php">Trailblazer Megaship Parking Spots</a>, its a cautionary tale.
+</p>
+
+<p>
 2025-06-06T16:20:08Z Some of my command line parameters for <a href="tradedangerous-commodity-find-closest-station.php">Tradedangerous Commodity Find Closest Station</a>, very handy for system colonization required commodities search for example.
 </p>
 
