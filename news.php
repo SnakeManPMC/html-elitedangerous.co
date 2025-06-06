@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-06T10:23:26Z How does <a href="fleet-carrier-weekly-upkeep.php">Fleet Carrier Weekly Upkeep</a> work, this guide page explains it.
+</p>
+
+<p>
 2025-06-06T10:06:05Z Things to consider while <a href="fleet-carrier-parking-primary-star.php">Fleet Carrier Parking By The Primary Star</a>.
 </p>
 
