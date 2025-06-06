@@ -139,6 +139,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <p><a href="fleet-carrier-buying.php">Fleet Carrier Buying</a></p>
 <p><a href="fleet-carrier-docking-access.php">Fleet Carrier Docking Access</a></p>
 <p><a href="fleet-carrier-flying-away-bug.php">Fleet Carrier Flying Away Bug</a></p>
+<p><a href="fleet-carrier-parking-primary-star.php">Fleet Carrier Parking By The Primary Star</a></p>
 </div>
 
 <?php include("/var/www/include/section-end.php"); ?>

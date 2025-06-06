@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-06T10:06:05Z Things to consider while <a href="fleet-carrier-parking-primary-star.php">Fleet Carrier Parking By The Primary Star</a>.
+</p>
+
+<p>
 2025-06-06T09:52:20Z What is <a href="fleet-carrier-flying-away-bug.php">Fleet Carrier Flying Away Bug</a> and how to try avoiding it, read this guide to find out.
 </p>
 
