@@ -132,6 +132,12 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <p><a href="engineers.php">Engineers</a></p>
 </div>
 
+<div class="icat">
+	<h2>Fleet Carrier</h2>
+
+<p><a href="fleet-carrier-buying.php">Fleet Carrier Buying</a></p>
+</div>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 

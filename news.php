@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-06T08:58:09Z For those CMDR's who plan on <a href="fleet-carrier-buying.php">Fleet Carrier Buying</a>, I created that page to guide you through the process.
+</p>
+
+<p>
 2025-06-06T08:43:27Z Created new <a href="exploration-system-map-empty.php">Exploration System Map Empty</a> page which explains how new undiscovered star system looks like in system map.
 </p>
 
