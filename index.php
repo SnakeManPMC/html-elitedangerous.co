@@ -89,6 +89,7 @@ These pages are just <b>CMDR Snake Man's personal notes</b>, written since start
 <p><a href="captains-log.php">Captain's Log</a> by Genar-Hofoen</p>
 <p><a href="visited-stars-cache.php">Visited Stars Cache</a></p>
 <p><a href="from-zero-to-billions-doing-exobiology.php">From Zero To Billions Doing Exobiology</a></p>
+<p><a href="galaxy-map-bookmarks.php">Galaxy Map Bookmarks</a></p>
 </div>
 
 <div class="icat">

@@ -28,6 +28,10 @@ Elite Dangerous news, mostly focused on PMC website, for example if you are look
 	<h2>2025</h2>
 
 <p>
+2025-06-06T13:16:18Z Wrote about my experiences with <a href="galaxy-map-bookmarks.php">Galaxy Map Bookmarks</a>, after I went wild with them.
+</p>
+
+<p>
 2025-06-06T11:58:19Z My own experiences <a href="from-zero-to-millions.php">From Zero To Millions</a> with trading, this is a guide but extremely overview style one, there are ship outfitting builds included.
 </p>
 
